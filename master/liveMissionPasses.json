@@ -1,0 +1,326 @@
+[
+    {
+        "id": 3,
+        "liveMissionPeriodId": 3,
+        "costumeName": "서브컬처 보이 스타일",
+        "character3dId1": 32,
+        "character3dId2": 33,
+        "maleAssetbundleName": "cos0011_body",
+        "femaleAssetbundleName": "cos0012_body"
+    },
+    {
+        "id": 5,
+        "liveMissionPeriodId": 5,
+        "costumeName": "메이드 \/ 버틀러",
+        "character3dId1": 68,
+        "character3dId2": 69,
+        "maleAssetbundleName": "cos0048_body",
+        "femaleAssetbundleName": "cos0049_body"
+    },
+    {
+        "id": 7,
+        "liveMissionPeriodId": 7,
+        "costumeName": "'디저트' 의상",
+        "character3dId1": 144,
+        "character3dId2": 145,
+        "maleAssetbundleName": "cos0068_body",
+        "femaleAssetbundleName": "cos0069_body"
+    },
+    {
+        "id": 8,
+        "liveMissionPeriodId": 8,
+        "costumeName": "'근미래' 의상",
+        "character3dId1": 167,
+        "character3dId2": 168,
+        "maleAssetbundleName": "cos0076_body",
+        "femaleAssetbundleName": "cos0077_body"
+    },
+    {
+        "id": 18,
+        "liveMissionPeriodId": 18,
+        "costumeName": "'우주' 의상",
+        "character3dId1": 469,
+        "character3dId2": 470,
+        "maleAssetbundleName": "cos0189_body",
+        "femaleAssetbundleName": "cos0188_body"
+    },
+    {
+        "id": 20,
+        "liveMissionPeriodId": 20,
+        "costumeName": "'판타지' 의상",
+        "character3dId1": 528,
+        "character3dId2": 529,
+        "maleAssetbundleName": "cos0217_body",
+        "femaleAssetbundleName": "cos0216_body"
+    },
+    {
+        "id": 22,
+        "liveMissionPeriodId": 22,
+        "costumeName": "'힙합' 의상",
+        "character3dId1": 566,
+        "character3dId2": 567,
+        "maleAssetbundleName": "cos0246_body",
+        "femaleAssetbundleName": "cos0245_body"
+    },
+    {
+        "id": 24,
+        "liveMissionPeriodId": 24,
+        "costumeName": "'바캉스' 의상",
+        "character3dId1": 623,
+        "character3dId2": 624,
+        "maleAssetbundleName": "cos0270_body",
+        "femaleAssetbundleName": "cos0269_body"
+    },
+    {
+        "id": 25,
+        "liveMissionPeriodId": 25,
+        "costumeName": "'외출복' 의상",
+        "character3dId1": 639,
+        "character3dId2": 640,
+        "maleAssetbundleName": "cos0281_body",
+        "femaleAssetbundleName": "cos0280_body"
+    },
+    {
+        "id": 27,
+        "liveMissionPeriodId": 27,
+        "costumeName": "'드레스 정장' 의상",
+        "character3dId1": 702,
+        "character3dId2": 703,
+        "maleAssetbundleName": "cos0315_body",
+        "femaleAssetbundleName": "cos0314_body"
+    },
+    {
+        "id": 42,
+        "liveMissionPeriodId": 42,
+        "costumeName": "'겨울옷' 의상",
+        "character3dId1": 1334,
+        "character3dId2": 1335,
+        "maleAssetbundleName": "cos0534_body",
+        "femaleAssetbundleName": "cos0533_body"
+    },
+    {
+        "id": 43,
+        "liveMissionPeriodId": 43,
+        "costumeName": "'오페라 하우스' 의상",
+        "character3dId1": 1369,
+        "character3dId2": 1370,
+        "maleAssetbundleName": "cos0546_body",
+        "femaleAssetbundleName": "cos0545_body"
+    },
+    {
+        "id": 44,
+        "liveMissionPeriodId": 44,
+        "costumeName": "'티 파티' 의상",
+        "character3dId1": 1421,
+        "character3dId2": 1422,
+        "maleAssetbundleName": "cos0557_body",
+        "femaleAssetbundleName": "cos0556_body"
+    },
+    {
+        "id": 45,
+        "liveMissionPeriodId": 45,
+        "costumeName": "'벚꽃' 의상",
+        "character3dId1": 1458,
+        "character3dId2": 1459,
+        "maleAssetbundleName": "cos0576_body",
+        "femaleAssetbundleName": "cos0575_body"
+    },
+    {
+        "id": 1000,
+        "liveMissionPeriodId": 1000,
+        "costumeName": "추석 의상",
+        "character3dId1": 10003,
+        "character3dId2": 10004,
+        "maleAssetbundleName": "cos01013_body",
+        "femaleAssetbundleName": "cos01014_body"
+    },
+    {
+        "id": 1001,
+        "liveMissionPeriodId": 1001,
+        "costumeName": "'천사' 의상",
+        "character3dId1": 10005,
+        "character3dId2": 10006,
+        "maleAssetbundleName": "cos01015_body",
+        "femaleAssetbundleName": "cos01016_body"
+    },
+    {
+        "id": 1002,
+        "liveMissionPeriodId": 1002,
+        "costumeName": "초콜릿 과자 콘셉트",
+        "character3dId1": 10007,
+        "character3dId2": 10008,
+        "maleAssetbundleName": "cos01017_body",
+        "femaleAssetbundleName": "cos01018_body"
+    },
+    {
+        "id": 1003,
+        "liveMissionPeriodId": 1003,
+        "costumeName": "크리스마스 의상",
+        "character3dId1": 10010,
+        "character3dId2": 10009,
+        "maleAssetbundleName": "cos01022_body",
+        "femaleAssetbundleName": "cos01023_body"
+    },
+    {
+        "id": 1004,
+        "liveMissionPeriodId": 1004,
+        "costumeName": "'토끼' 의상",
+        "character3dId1": 10011,
+        "character3dId2": 10012,
+        "maleAssetbundleName": "cos0389_body",
+        "femaleAssetbundleName": "cos0390_body"
+    },
+    {
+        "id": 1005,
+        "liveMissionPeriodId": 1005,
+        "costumeName": "'봄의 식물' 의상",
+        "character3dId1": 10013,
+        "character3dId2": 10014,
+        "maleAssetbundleName": "cos01028_body",
+        "femaleAssetbundleName": "cos01029_body"
+    },
+    {
+        "id": 1006,
+        "liveMissionPeriodId": 1006,
+        "costumeName": "'여름 바캉스 의상' 의상",
+        "character3dId1": 10015,
+        "character3dId2": 10016,
+        "maleAssetbundleName": "cos01034_body",
+        "femaleAssetbundleName": "cos01035_body"
+    },
+    {
+        "id": 1007,
+        "liveMissionPeriodId": 1007,
+        "costumeName": "'핼러윈 테마' 의상",
+        "character3dId1": 10017,
+        "character3dId2": 10018,
+        "maleAssetbundleName": "cos01042_body",
+        "femaleAssetbundleName": "cos01043_body"
+    },
+    {
+        "id": 1008,
+        "liveMissionPeriodId": 1008,
+        "costumeName": "'요괴' 의상",
+        "character3dId1": 732,
+        "character3dId2": 733,
+        "maleAssetbundleName": "cos0328_body",
+        "femaleAssetbundleName": "cos0327_body"
+    },
+    {
+        "id": 1009,
+        "liveMissionPeriodId": 1009,
+        "costumeName": "'장난감' 의상",
+        "character3dId1": 771,
+        "character3dId2": 772,
+        "maleAssetbundleName": "cos0339_body",
+        "femaleAssetbundleName": "cos0338_body"
+    },
+    {
+        "id": 1010,
+        "liveMissionPeriodId": 1010,
+        "costumeName": "새해 테마 의상",
+        "character3dId1": 10019,
+        "character3dId2": 10020,
+        "maleAssetbundleName": "cos01050_body",
+        "femaleAssetbundleName": "cos01051_body"
+    },
+    {
+        "id": 1011,
+        "liveMissionPeriodId": 1011,
+        "costumeName": "보석 테마 의상",
+        "character3dId1": 10021,
+        "character3dId2": 10022,
+        "maleAssetbundleName": "cos01052_body",
+        "femaleAssetbundleName": "cos01053_body"
+    },
+    {
+        "id": 1012,
+        "liveMissionPeriodId": 1012,
+        "costumeName": "벚꽃 테마 의상",
+        "character3dId1": 10023,
+        "character3dId2": 10024,
+        "maleAssetbundleName": "cos01054_body",
+        "femaleAssetbundleName": "cos01055_body"
+    },
+    {
+        "id": 1013,
+        "liveMissionPeriodId": 1013,
+        "costumeName": "별 테마 의상",
+        "character3dId1": 10025,
+        "character3dId2": 10026,
+        "maleAssetbundleName": "cos01056_body",
+        "femaleAssetbundleName": "cos01057_body"
+    },
+    {
+        "id": 1014,
+        "liveMissionPeriodId": 1014,
+        "costumeName": "동화 이야기 테마 의상",
+        "character3dId1": 10027,
+        "character3dId2": 10028,
+        "maleAssetbundleName": "cos01058_body",
+        "femaleAssetbundleName": "cos01059_body"
+    },
+    {
+        "id": 1015,
+        "liveMissionPeriodId": 1015,
+        "costumeName": "천문 테마 의상",
+        "character3dId1": 10029,
+        "character3dId2": 10030,
+        "maleAssetbundleName": "cos01060_body",
+        "femaleAssetbundleName": "cos01061_body"
+    },
+    {
+        "id": 1016,
+        "liveMissionPeriodId": 1016,
+        "costumeName": "동물 테마 의상",
+        "character3dId1": 10031,
+        "character3dId2": 10032,
+        "maleAssetbundleName": "cos01062_body",
+        "femaleAssetbundleName": "cos01063_body"
+    },
+    {
+        "id": 1017,
+        "liveMissionPeriodId": 1017,
+        "costumeName": "2024칠석 테마 의상",
+        "character3dId1": 10035,
+        "character3dId2": 10034,
+        "maleAssetbundleName": "cos01064_body",
+        "femaleAssetbundleName": "cos01065_body"
+    },
+    {
+        "id": 1018,
+        "liveMissionPeriodId": 1018,
+        "costumeName": "요정 테마 의상 공모전",
+        "character3dId1": 10037,
+        "character3dId2": 10036,
+        "maleAssetbundleName": "cos01066_body",
+        "femaleAssetbundleName": "cos01067_body"
+    },
+    {
+        "id": 1019,
+        "liveMissionPeriodId": 1019,
+        "costumeName": "작은 악마 테마 의상",
+        "character3dId1": 10039,
+        "character3dId2": 10038,
+        "maleAssetbundleName": "cos01068_body",
+        "femaleAssetbundleName": "cos01069_body"
+    },
+    {
+        "id": 1020,
+        "liveMissionPeriodId": 1020,
+        "costumeName": "초콜릿 테마 의상",
+        "character3dId1": 10041,
+        "character3dId2": 10040,
+        "maleAssetbundleName": "cos01070_body",
+        "femaleAssetbundleName": "cos01071_body"
+    },
+    {
+        "id": 1021,
+        "liveMissionPeriodId": 1021,
+        "costumeName": "눈 테마 의상",
+        "character3dId1": 10043,
+        "character3dId2": 10042,
+        "maleAssetbundleName": "cos01075_body",
+        "femaleAssetbundleName": "cos01076_body"
+    }
+]
