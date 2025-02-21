@@ -1,0 +1,681 @@
+[
+    {
+        "id": 2,
+        "assetbundleName": "special-story",
+        "startAt": 1577804400000,
+        "endAt": 1609340400000,
+        "episodes": [
+            {
+                "id": 4,
+                "specialStoryId": 2,
+                "episodeNo": 1,
+                "title": "오프닝 1",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_sp_ts_01_01",
+                "scenarioId": "op_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": [
+                    1
+                ]
+            },
+            {
+                "id": 5,
+                "specialStoryId": 2,
+                "episodeNo": 2,
+                "title": "오프닝 2",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_sp_ts_01_01",
+                "scenarioId": "op_02",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": [
+                    1
+                ]
+            },
+            {
+                "id": 6,
+                "specialStoryId": 2,
+                "episodeNo": 3,
+                "title": "에어리어 대화",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_sp_ts_01_01",
+                "scenarioId": "op_02area",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": [
+                    1
+                ]
+            },
+            {
+                "id": 7,
+                "specialStoryId": 2,
+                "episodeNo": 4,
+                "title": "오프닝 3",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_sp_ts_01_01",
+                "scenarioId": "op_03",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "assetbundleName": "special-story",
+        "startAt": 1684076400000,
+        "endAt": 1684162799000,
+        "episodes": [
+            {
+                "id": 8,
+                "specialStoryId": 3,
+                "episodeNo": 1,
+                "title": "1주년 카운트다운 영상 01",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "assetbundleName": "special-story",
+        "startAt": 1684162800000,
+        "endAt": 1684249199000,
+        "episodes": [
+            {
+                "id": 9,
+                "specialStoryId": 4,
+                "episodeNo": 1,
+                "title": "1주년 카운트다운 영상 02",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_02",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "assetbundleName": "special-story",
+        "startAt": 1684249200000,
+        "endAt": 1684335599000,
+        "episodes": [
+            {
+                "id": 10,
+                "specialStoryId": 5,
+                "episodeNo": 1,
+                "title": "1주년 카운트다운 영상 03",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_03",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "assetbundleName": "special-story",
+        "startAt": 1684335600000,
+        "endAt": 1684421999000,
+        "episodes": [
+            {
+                "id": 11,
+                "specialStoryId": 6,
+                "episodeNo": 1,
+                "title": "1주년 카운트다운 영상 04",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_04",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "assetbundleName": "special-story",
+        "startAt": 1684422000000,
+        "endAt": 1684508399000,
+        "episodes": [
+            {
+                "id": 12,
+                "specialStoryId": 7,
+                "episodeNo": 1,
+                "title": "1주년 카운트다운 영상 05",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_05",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "assetbundleName": "special-story",
+        "startAt": 1684508400000,
+        "endAt": 1684594799000,
+        "episodes": [
+            {
+                "id": 13,
+                "specialStoryId": 8,
+                "episodeNo": 1,
+                "title": "1주년 카운트다운 영상 06",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_06",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "assetbundleName": "collaboration-akuno-story",
+        "startAt": 1668924000000,
+        "endAt": 1670133599000,
+        "episodes": [
+            {
+                "id": 14,
+                "specialStoryId": 9,
+                "episodeNo": 1,
+                "title": "이동 테스트용 스토리_컬래버레이션 세카이",
+                "specialStoryEpisodeType": "area",
+                "specialStoryEpisodeTypeId": 14,
+                "assetbundleName": "story_collaboration_akuno",
+                "scenarioId": "collaboration_akuno_op_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "assetbundleName": "aprilfool-story-2022",
+        "startAt": 1680274800000,
+        "endAt": 1680361199000,
+        "episodes": [
+            {
+                "id": 15,
+                "specialStoryId": 10,
+                "episodeNo": 1,
+                "title": "만우절 2023 도입부 영상",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_aprilfool_2022",
+                "scenarioId": "aprilfool_2022_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": true,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "assetbundleName": "aprilfool-story-2022",
+        "startAt": 1680361200000,
+        "endAt": 1680447599000,
+        "episodes": [
+            {
+                "id": 16,
+                "specialStoryId": 11,
+                "episodeNo": 1,
+                "title": "만우절 2023 후일담 영상",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_aprilfool_2022",
+                "scenarioId": "aprilfool_2022_02",
+                "releaseConditionId": 1000001,
+                "isAbleSkip": true,
+                "isActionSetRefresh": true,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "assetbundleName": "special-story",
+        "startAt": 1715698800000,
+        "endAt": 1715785199000,
+        "episodes": [
+            {
+                "id": 19,
+                "specialStoryId": 14,
+                "episodeNo": 1,
+                "title": "2주년 카운트다운 영상 01",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_2nd_countdown",
+                "scenarioId": "2nd_countdown_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "assetbundleName": "special-story",
+        "startAt": 1715785200000,
+        "endAt": 1715871599000,
+        "episodes": [
+            {
+                "id": 20,
+                "specialStoryId": 15,
+                "episodeNo": 1,
+                "title": "2주년 카운트다운 영상 02",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_2nd_countdown",
+                "scenarioId": "2nd_countdown_02",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "assetbundleName": "special-story",
+        "startAt": 1715871600000,
+        "endAt": 1715957999000,
+        "episodes": [
+            {
+                "id": 21,
+                "specialStoryId": 16,
+                "episodeNo": 1,
+                "title": "2주년 카운트다운 영상 03",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_2nd_countdown",
+                "scenarioId": "2nd_countdown_03",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "assetbundleName": "special-story",
+        "startAt": 1715958000000,
+        "endAt": 1716044399000,
+        "episodes": [
+            {
+                "id": 22,
+                "specialStoryId": 17,
+                "episodeNo": 1,
+                "title": "2주년 카운트다운 영상 04",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_2nd_countdown",
+                "scenarioId": "2nd_countdown_04",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "assetbundleName": "special-story",
+        "startAt": 1716044400000,
+        "endAt": 1716130799000,
+        "episodes": [
+            {
+                "id": 23,
+                "specialStoryId": 18,
+                "episodeNo": 1,
+                "title": "2주년 카운트다운 영상 05",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_2nd_countdown",
+                "scenarioId": "2nd_countdown_05",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "assetbundleName": "special-story",
+        "startAt": 1716130800000,
+        "endAt": 1716217199000,
+        "episodes": [
+            {
+                "id": 24,
+                "specialStoryId": 19,
+                "episodeNo": 1,
+                "title": "2주년 카운트다운 영상 06",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_2nd_countdown",
+                "scenarioId": "2nd_countdown_06",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "assetbundleName": "aprilfool-story-2023",
+        "startAt": 1711897200000,
+        "endAt": 1711983599000,
+        "episodes": [
+            {
+                "id": 27,
+                "specialStoryId": 22,
+                "episodeNo": 1,
+                "title": "만우절 2024 도입부 영상",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_aprilfool_2023",
+                "scenarioId": "aprilfool_2023_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": true,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "assetbundleName": "aprilfool-story-2023",
+        "startAt": 1711983600000,
+        "endAt": 1712069999000,
+        "episodes": [
+            {
+                "id": 28,
+                "specialStoryId": 23,
+                "episodeNo": 1,
+                "title": "만우절 2024 후일담 영상",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_aprilfool_2023",
+                "scenarioId": "aprilfool_2023_02",
+                "releaseConditionId": 1000131,
+                "isAbleSkip": true,
+                "isActionSetRefresh": true,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "assetbundleName": "collaboration-akuno-story",
+        "startAt": 1700449200000,
+        "endAt": 1701658799000,
+        "episodes": [
+            {
+                "id": 29,
+                "specialStoryId": 24,
+                "episodeNo": 1,
+                "title": "[재등장] 악의 대죄 시리즈 도입부 영상",
+                "specialStoryEpisodeType": "area",
+                "specialStoryEpisodeTypeId": 14,
+                "assetbundleName": "story_collaboration_akuno",
+                "scenarioId": "collaboration_akuno_op_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "assetbundleName": "special-story",
+        "startAt": 1726844400000,
+        "endAt": 1726930799000,
+        "episodes": [
+            {
+                "id": 33,
+                "specialStoryId": 28,
+                "episodeNo": 1,
+                "title": "3주년 카운트다운 영상 01",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_3rd_countdown",
+                "scenarioId": "3rd_countdown_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "assetbundleName": "special-story",
+        "startAt": 1726930800000,
+        "endAt": 1727017199000,
+        "episodes": [
+            {
+                "id": 34,
+                "specialStoryId": 29,
+                "episodeNo": 1,
+                "title": "3주년 카운트다운 영상 02",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_3rd_countdown",
+                "scenarioId": "3rd_countdown_02",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "assetbundleName": "special-story",
+        "startAt": 1727017200000,
+        "endAt": 1727103599000,
+        "episodes": [
+            {
+                "id": 35,
+                "specialStoryId": 30,
+                "episodeNo": 1,
+                "title": "3주년 카운트다운 영상 03",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_3rd_countdown",
+                "scenarioId": "3rd_countdown_03",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "assetbundleName": "special-story",
+        "startAt": 1727103600000,
+        "endAt": 1727189999000,
+        "episodes": [
+            {
+                "id": 36,
+                "specialStoryId": 31,
+                "episodeNo": 1,
+                "title": "3주년 카운트다운 영상 04",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_3rd_countdown",
+                "scenarioId": "3rd_countdown_04",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "assetbundleName": "special-story",
+        "startAt": 1727190000000,
+        "endAt": 1727276399000,
+        "episodes": [
+            {
+                "id": 37,
+                "specialStoryId": 32,
+                "episodeNo": 1,
+                "title": "3주년 카운트다운 영상 05",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_3rd_countdown",
+                "scenarioId": "3rd_countdown_05",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "assetbundleName": "special-story",
+        "startAt": 1727276400000,
+        "endAt": 1727362799000,
+        "episodes": [
+            {
+                "id": 38,
+                "specialStoryId": 33,
+                "episodeNo": 1,
+                "title": "3주년 카운트다운 영상 06",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_3rd_countdown",
+                "scenarioId": "3rd_countdown_06",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "assetbundleName": "special-story",
+        "startAt": 1727622000000,
+        "endAt": 1727708399000,
+        "episodes": [
+            {
+                "id": 39,
+                "specialStoryId": 34,
+                "episodeNo": 1,
+                "title": "3주년 영상",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_3rd_anniversary",
+                "scenarioId": "3rd_anniversary",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "assetbundleName": "collaboration-sanrio-story",
+        "startAt": 1733367600000,
+        "endAt": 1734620399000,
+        "episodes": [
+            {
+                "id": 41,
+                "specialStoryId": 36,
+                "episodeNo": 1,
+                "title": "[프로세카×산리오 캐릭터즈] 컬래버레이션 기념 로그인 스토리 에필로그",
+                "specialStoryEpisodeType": "area",
+                "specialStoryEpisodeTypeId": 22,
+                "assetbundleName": "story_collaboration_sanrio",
+                "scenarioId": "collaboration_sanrio_op_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": true,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "assetbundleName": "collaboration-sanrio-story",
+        "startAt": 1734620400000,
+        "endAt": 1734706799000,
+        "episodes": [
+            {
+                "id": 42,
+                "specialStoryId": 37,
+                "episodeNo": 1,
+                "title": "[프로세카×산리오 캐릭터즈] 컬래버레이션 기념 로그인 스토리 에필로그",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_collaboration_sanrio",
+                "scenarioId": "collaboration_sanrio_ed_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": true,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "assetbundleName": "aprilfool-story-2024",
+        "startAt": 1743433200000,
+        "endAt": 1743519599000,
+        "episodes": [
+            {
+                "id": 44,
+                "specialStoryId": 39,
+                "episodeNo": 1,
+                "title": "만우절 2025 도입부 영상",
+                "specialStoryEpisodeType": "area",
+                "specialStoryEpisodeTypeId": 23,
+                "assetbundleName": "story_aprilfool_2024",
+                "scenarioId": "aprilfool_2024_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": true,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "assetbundleName": "aprilfool-story-2024",
+        "startAt": 1743519600000,
+        "endAt": 1743605999000,
+        "episodes": [
+            {
+                "id": 45,
+                "specialStoryId": 40,
+                "episodeNo": 1,
+                "title": "만우절 2025 후일담 영상",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_aprilfool_2024",
+                "scenarioId": "aprilfool_2024_02",
+                "releaseConditionId": 1000236,
+                "isAbleSkip": true,
+                "isActionSetRefresh": true,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "count": 1,
+        "rankMatchPenaltyType": "warning_pop"
+    },
+    {
+        "id": 2,
+        "count": 2,
+        "rankMatchPenaltyType": "minutes_ban",
+        "rankMatchPenaltyTypeValue": 3
+    },
+    {
+        "id": 3,
+        "count": 3,
+        "rankMatchPenaltyType": "minutes_ban",
+        "rankMatchPenaltyTypeValue": 10
+    },
+    {
+        "id": 4,
+        "count": 4,
+        "rankMatchPenaltyType": "minutes_ban",
+        "rankMatchPenaltyTypeValue": 10
+    },
+    {
+        "id": 5,
+        "count": 5,
+        "rankMatchPenaltyType": "minutes_ban",
+        "rankMatchPenaltyTypeValue": 10
+    },
+    {
+        "id": 6,
+        "count": 6,
+        "rankMatchPenaltyType": "minutes_ban",
+        "rankMatchPenaltyTypeValue": 10
+    },
+    {
+        "id": 7,
+        "count": 7,
+        "rankMatchPenaltyType": "minutes_ban",
+        "rankMatchPenaltyTypeValue": 10
+    },
+    {
+        "id": 8,
+        "count": 8,
+        "rankMatchPenaltyType": "minutes_ban",
+        "rankMatchPenaltyTypeValue": 10
+    },
+    {
+        "id": 9,
+        "count": 9,
+        "rankMatchPenaltyType": "minutes_ban",
+        "rankMatchPenaltyTypeValue": 10
+    },
+    {
+        "id": 10,
+        "count": 10,
+        "rankMatchPenaltyType": "hours_ban",
+        "rankMatchPenaltyTypeValue": 1
+    },
+    {
+        "id": 11,
+        "count": 11,
+        "rankMatchPenaltyType": "hours_ban",
+        "rankMatchPenaltyTypeValue": 3
+    },
+    {
+        "id": 12,
+        "count": 12,
+        "rankMatchPenaltyType": "season_ban"
+    }
+]
