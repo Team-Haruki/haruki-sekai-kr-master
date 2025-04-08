@@ -5715,6 +5715,20 @@
         "assetbundleName": null,
         "resourceBoxPurpose": "billing_shop_item",
         "name": null,
+        "id": 1474,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "billing_shop_item",
+        "name": null,
+        "id": 1475,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "billing_shop_item",
+        "name": null,
         "id": 2000,
         "resourceBoxType": "expand"
     },
@@ -88554,6 +88568,13 @@
         "resourceBoxPurpose": "login_bonus",
         "name": null,
         "id": 1081,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "login_bonus",
+        "name": "[하나사토 미노리] HAPPY BIRTHDAY 로그인 캠페인",
+        "id": 1082,
         "resourceBoxType": "expand"
     },
     {

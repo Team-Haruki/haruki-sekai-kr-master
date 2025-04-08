@@ -5590,6 +5590,33 @@
         "purchaseOption": "exchange"
     },
     {
+        "id": 1535,
+        "seq": 1535,
+        "billingShopItemType": "costume_3d",
+        "name": "WCS 2024 EDITION' 의상",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_1535",
+        "resourceBoxId": 1474,
+        "startAt": 1745377200000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 1536,
+        "seq": 1536,
+        "billingShopItemType": "value_set",
+        "billingProductGroupId": 1531,
+        "name": "[하나사토 미노리] 생일 세트",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_birthdayfood_0414",
+        "resourceBoxId": 1475,
+        "startAt": 1744556400000,
+        "endAt": 1745161199000
+    },
+    {
         "id": 300000,
         "seq": 300000,
         "billingShopItemType": "costume_3d",
