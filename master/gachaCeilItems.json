@@ -1,2154 +1,2154 @@
 [
-    {
-        "id": 1,
-        "gachaId": 1,
-        "name": "서비스 시작 기념 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1656471600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 2,
-        "gachaId": 4,
-        "name": "별 내리는 밤하늘의 추억 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1656471600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 3,
-        "gachaId": 5,
-        "name": "인형들의 무도회 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1657076400000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 4,
-        "gachaId": 6,
-        "name": "젠틀★ 포테이토 스타 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1657767600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 5,
-        "gachaId": 9,
-        "name": "생기발랄♪ 응원단 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1658458800000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 6,
-        "gachaId": 12,
-        "name": "MORE MORE SMILE! 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1659927600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 7,
-        "gachaId": 17,
-        "name": "레벨 1의 파트너 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1659236400000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 8,
-        "gachaId": 20,
-        "name": "하이 스쿨 카니발 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1660618800000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 9,
-        "gachaId": 23,
-        "name": "원더 캐럴 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1661310000000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 10,
-        "gachaId": 28,
-        "name": "세카이의 두근두근 새해 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1662001200000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 11,
-        "gachaId": 39,
-        "name": "작은 용기, 커다란 한 걸음 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1662692400000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 12,
-        "gachaId": 42,
-        "name": "비 온 뒤 반짝이는 무지개 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1665370800000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 13,
-        "gachaId": 45,
-        "name": "클래시컬 메모리 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1663383600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 14,
-        "gachaId": 48,
-        "name": "Rockin'Parade 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1664074800000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 15,
-        "gachaId": 52,
-        "name": "빛이 내리쬐는 캔버스 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1664679600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 16,
-        "gachaId": 56,
-        "name": "둥실둥실☆ 드림랜드 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1666062000000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 17,
-        "gachaId": 60,
-        "name": "하늘을 나는 해피 히나마츠리☆ 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1666753200000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 18,
-        "gachaId": 63,
-        "name": "지금 날갯짓하는 천사 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1667444400000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 19,
-        "gachaId": 66,
-        "name": "[200만 명 돌파 기념] 컬러풀 페스티벌 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1667617200000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 20,
-        "gachaId": 68,
-        "name": "너와 만나는 벚꽃 길 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1668049200000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 21,
-        "gachaId": 72,
-        "name": "비밀의 드레스 룸 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1668654000000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 22,
-        "gachaId": 75,
-        "name": "4=1 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1669258800000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 23,
-        "gachaId": 78,
-        "name": "함께 걷는 크루 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1669777200000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 24,
-        "gachaId": 82,
-        "name": "포레스트 페어리 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1670382000000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 25,
-        "gachaId": 85,
-        "name": "펭귄 카페에 어서 오세요♪ 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1670986800000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 26,
-        "gachaId": 89,
-        "name": "로맨틱 브라이드 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1671591600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 27,
-        "gachaId": 92,
-        "name": "웰컴♪ 이상한 세카이 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1672196400000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 28,
-        "gachaId": 96,
-        "name": "메모리즈 멜로디 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1672887600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 29,
-        "gachaId": 98,
-        "name": "하프 애니버서리 기념 컬러풀 페스티벌 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1671937200000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 30,
-        "gachaId": 99,
-        "name": "무지갯빛 하모니 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1673492400000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 31,
-        "gachaId": 102,
-        "name": "비밀스레 간직한 비스트 하트 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1674097200000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 32,
-        "gachaId": 104,
-        "name": "여름밤에 떠오르는 지난날 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1674702000000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 33,
-        "gachaId": 107,
-        "name": "모두 함께 Enjoy Summer! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1675306800000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 34,
-        "gachaId": 110,
-        "name": "러블리 메신저 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1675911600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 35,
-        "gachaId": 112,
-        "name": "노래여, 울려라! 꿈꾸는 머메이드 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1676516400000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 36,
-        "gachaId": 115,
-        "name": "달밤의 시스터 래빗츠 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1677121200000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 37,
-        "gachaId": 118,
-        "name": "망설임을 끊어 내는 풀 메탈 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1677553200000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 38,
-        "gachaId": 120,
-        "name": "망각의 스노 화이트 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1678071600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 40,
-        "gachaId": 132,
-        "name": "컬러풀 페스티벌 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1678676400000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 41,
-        "gachaId": 134,
-        "name": "[키리타니 하루카] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1668135600000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 42,
-        "gachaId": 136,
-        "name": "Break The Fence! 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1679281200000,
-        "convertResourceBoxId": 1
-    },
-    {
-        "id": 43,
-        "gachaId": 139,
-        "name": "연금술사의 리바이벌 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1679886000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 44,
-        "gachaId": 141,
-        "name": "[모치즈키 호나미] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1669950000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 45,
-        "gachaId": 142,
-        "name": "떠도는 은둔자의 여정 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1680750000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 46,
-        "gachaId": 144,
-        "name": "[MEIKO] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1670727600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 47,
-        "gachaId": 147,
-        "name": "마음을 말로 전하는 Kindness Heart 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1681354800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 48,
-        "gachaId": 149,
-        "name": "[시노노메 아키토] BIRTHDAY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1671332400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 49,
-        "gachaId": 150,
-        "name": "비밀의 일루미네이션 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1681959600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 50,
-        "gachaId": 153,
-        "name": "겹치는 마음 Words Snow 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1682564400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 51,
-        "gachaId": 155,
-        "name": "[히노모리 시즈쿠] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1673492400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 52,
-        "gachaId": 157,
-        "name": "성스러운 밤의 체크메이트 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1683082800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 53,
-        "gachaId": 159,
-        "name": "죄의 회고록 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1672801200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 54,
-        "gachaId": 160,
-        "name": "여행을 떠나는 겨울의 레일웨이 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1683687600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 55,
-        "gachaId": 162,
-        "name": "[카가미네 린] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1675306800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 56,
-        "gachaId": 163,
-        "name": "[카가미네 렌] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1675306800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 58,
-        "gachaId": 165,
-        "name": "[세카이의 새해] 컬러풀 페스티벌 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1684292400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 59,
-        "gachaId": 169,
-        "name": "[히노모리 시호] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1676343600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 60,
-        "gachaId": 171,
-        "name": "꿈도 리얼도! 섞어섞어 팝핀뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1684897200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 61,
-        "gachaId": 173,
-        "name": "정적 속에 울려 퍼지는 오버추어 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1685588400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 62,
-        "gachaId": 175,
-        "name": "[아사히나 마후유] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1677726000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 63,
-        "gachaId": 176,
-        "name": "[메구리네 루카] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1677985200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 64,
-        "gachaId": 177,
-        "name": "시크릿 티타임 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1686193200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 65,
-        "gachaId": 181,
-        "name": "스카이 러너즈! 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1686798000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 66,
-        "gachaId": 183,
-        "name": "[요이사키 카나데] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1678935600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 67,
-        "gachaId": 184,
-        "name": "[KAITO] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1679540400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 68,
-        "gachaId": 185,
-        "name": "Journey with U 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1687402800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 69,
-        "gachaId": 188,
-        "name": "[1주년 기념] 컬러풀 페스티벌 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1688007600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 70,
-        "gachaId": 190,
-        "name": "[아즈사와 코하네] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1680922800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 71,
-        "gachaId": 192,
-        "name": "마법을 걸어 줘! 위치 크래프트 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1688526000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 72,
-        "gachaId": 194,
-        "name": "[모모이 아이리] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1682391600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 73,
-        "gachaId": 195,
-        "name": "번지는 색채에 빠져들어 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1689130800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 75,
-        "gachaId": 200,
-        "name": "300만 명 돌파 기념 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1689735600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 76,
-        "gachaId": 201,
-        "name": "튀어나온 그림책 배우들 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1690340400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 77,
-        "gachaId": 202,
-        "name": "[하나사토 미노리] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1684551600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 78,
-        "gachaId": 203,
-        "name": "반짝이는 은하의 별무리 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1691031600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 79,
-        "gachaId": 204,
-        "name": "[시노노메 에나] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1686020400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 80,
-        "gachaId": 205,
-        "name": "너에게 외치는 푸른 목소리 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1691636400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 81,
-        "gachaId": 206,
-        "name": "[텐마 사키] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1686798000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 82,
-        "gachaId": 207,
-        "name": "총명한 자들의 계략 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1692241200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 83,
-        "gachaId": 208,
-        "name": "[재등장] 둥실둥실☆ 드림랜드 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1692846000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 84,
-        "gachaId": 209,
-        "name": "[텐마 츠카사] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1687489200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 85,
-        "gachaId": 210,
-        "name": "AIM FOR LEGEND 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1692846000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 86,
-        "gachaId": 211,
-        "name": "[아오야기 토우야] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1688094000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 87,
-        "gachaId": 213,
-        "name": "그레이스 마리아주 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1693450800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 88,
-        "gachaId": 214,
-        "name": "Nursing my ES 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1694055600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 89,
-        "gachaId": 215,
-        "name": "[재등장] 함께 걷는 크루 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1694660400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 90,
-        "gachaId": 216,
-        "name": "매혹의 트로피컬 리조트 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1694660400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 91,
-        "gachaId": 217,
-        "name": "[카미시로 루이] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1690772400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 93,
-        "gachaId": 219,
-        "name": "컬러풀 페스티벌 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1695265200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 94,
-        "gachaId": 220,
-        "name": "그날의 빛을 쫓아서 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1695870000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 95,
-        "gachaId": 221,
-        "name": "[재등장] 로맨틱 브라이드 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1696388400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 96,
-        "gachaId": 222,
-        "name": "[쿠사나기 네네] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1693018800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 97,
-        "gachaId": 223,
-        "name": "점점 가라앉는 adolescence 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1696388400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 98,
-        "gachaId": 224,
-        "name": "[시라이시 안] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1693537200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 99,
-        "gachaId": 226,
-        "name": "CYBER SNIPER 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1696993200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 100,
-        "gachaId": 227,
-        "name": "[호시노 이치카] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1694919600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 101,
-        "gachaId": 228,
-        "name": "물가에 피는 가련한 꽃 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1697598000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 102,
-        "gachaId": 229,
-        "name": "[재등장] 모두 함께 Enjoy Summer! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1698116400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 103,
-        "gachaId": 230,
-        "name": "흐릿한 잠에 흔들리는 새벽 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1698202800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 104,
-        "gachaId": 232,
-        "name": "[아키야마 미즈키] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1696215600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 105,
-        "gachaId": 233,
-        "name": "[하츠네 미쿠] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1696561200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 106,
-        "gachaId": 234,
-        "name": "Before the storm 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1698894000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 107,
-        "gachaId": 235,
-        "name": "[오오토리 에무] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1697338800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 108,
-        "gachaId": 236,
-        "name": "Colorful Paint 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1699498800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 109,
-        "gachaId": 237,
-        "name": "[재등장] 달밤의 시스터 래빗츠 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1700103600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 110,
-        "gachaId": 238,
-        "name": "From on a perch 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1700103600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 112,
-        "gachaId": 248,
-        "name": "390만 명 돌파 기념 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1700708400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 114,
-        "gachaId": 250,
-        "name": "[키리타니 하루카] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1699671600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 115,
-        "gachaId": 251,
-        "name": "Dreams come true 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1701313200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 116,
-        "gachaId": 253,
-        "name": "[재등장] 스크램블 플라워 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1701745200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 117,
-        "gachaId": 254,
-        "name": "크로노스의 신전 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1701831600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 118,
-        "gachaId": 256,
-        "name": "[모치즈키 호나미] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1701486000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 120,
-        "gachaId": 258,
-        "name": "Spooky Forest 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1702436400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 121,
-        "gachaId": 259,
-        "name": "[MEIKO] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1702263600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 123,
-        "gachaId": 261,
-        "name": "[시노노메 아키토] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1702868400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 125,
-        "gachaId": 263,
-        "name": "NEON universe 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1703041200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 126,
-        "gachaId": 264,
-        "name": "[재등장] 떠도는 은둔자의 여정 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1703473200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 127,
-        "gachaId": 265,
-        "name": "[1.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1703991600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 128,
-        "gachaId": 267,
-        "name": "Fly to the future!! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1704942000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 129,
-        "gachaId": 268,
-        "name": "[히노모리 시즈쿠] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1705028400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 131,
-        "gachaId": 270,
-        "name": "Break the Chain 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1705806000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 132,
-        "gachaId": 271,
-        "name": "[재등장] 겹치는 마음 Words Snow 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1706065200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 133,
-        "gachaId": 272,
-        "name": "강림한 자애로운 사수 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1706670000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 134,
-        "gachaId": 273,
-        "name": "[카가미네 린] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1706842800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 136,
-        "gachaId": 275,
-        "name": "[카가미네 렌] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1706842800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 139,
-        "gachaId": 280,
-        "name": "2024 새해맞이 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1707534000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 140,
-        "gachaId": 281,
-        "name": "[히노모리 시호] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1707879600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 142,
-        "gachaId": 283,
-        "name": "반짝이는 밤하늘의 Milky Way 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1708484400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 143,
-        "gachaId": 284,
-        "name": "[재등장] 기도하는 새해의 소녀 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1708570800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 144,
-        "gachaId": 285,
-        "name": "너의 리듬의 심포니 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1709175600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 145,
-        "gachaId": 287,
-        "name": "[아사히나 마후유] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1709348400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 147,
-        "gachaId": 289,
-        "name": "[메구리네 루카] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1709607600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 149,
-        "gachaId": 291,
-        "name": "Sweet Cute Valentine! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1710039600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 150,
-        "gachaId": 292,
-        "name": "[요이사키 카나데] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1710558000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 152,
-        "gachaId": 294,
-        "name": "비이슬 맺힌 봄날의 전령사 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1710817200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 153,
-        "gachaId": 295,
-        "name": "[재등장] 시크릿 티타임 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1711076400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 154,
-        "gachaId": 296,
-        "name": "[KAITO] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1711162800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 156,
-        "gachaId": 298,
-        "name": "Let out the Lambs 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1711594800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 157,
-        "gachaId": 301,
-        "name": "Imperial Soldiers 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1712804400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 158,
-        "gachaId": 302,
-        "name": "[아즈사와 코하네] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1712545200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 160,
-        "gachaId": 304,
-        "name": "Hidden Circus 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1713668400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 161,
-        "gachaId": 305,
-        "name": "[재등장] 나이츠 오브 화이트 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1713754800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 162,
-        "gachaId": 306,
-        "name": "[모모이 아이리] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1714014000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 164,
-        "gachaId": 309,
-        "name": "독니를 내비치는 어두운 그림자 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1714446000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 166,
-        "gachaId": 316,
-        "name": "전 세계 3900만 명 돌파 기념 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1715396400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 167,
-        "gachaId": 317,
-        "name": "SPACE COLONY 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1716260400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 168,
-        "gachaId": 318,
-        "name": "[재등장] 봄을 생각하는, 초저녁 한때 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1716346800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 169,
-        "gachaId": 319,
-        "name": "[하나사토 미노리] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1716174000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 171,
-        "gachaId": 321,
-        "name": "나아가는 바퀴 너머는 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1717124400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 172,
-        "gachaId": 323,
-        "name": "[시노노메 에나] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1717642800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 174,
-        "gachaId": 325,
-        "name": "Escape from rain 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1718074800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 175,
-        "gachaId": 327,
-        "name": "[재등장] 죄의 회고록 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1704337200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 176,
-        "gachaId": 328,
-        "name": "[텐마 사키] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1718420400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 178,
-        "gachaId": 330,
-        "name": "출항과 유대의 본 보야지 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1718852400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 179,
-        "gachaId": 331,
-        "name": "[재등장] 너에게 외치는 푸른 목소리 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1719198000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 180,
-        "gachaId": 332,
-        "name": "[텐마 츠카사] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1719111600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 182,
-        "gachaId": 334,
-        "name": "[2주년 기념] 컬러풀 페스티벌 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1719716400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 183,
-        "gachaId": 335,
-        "name": "[아오야기 토우야] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1719716400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 185,
-        "gachaId": 338,
-        "name": "컬러풀 패스 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1720580400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 186,
-        "gachaId": 340,
-        "name": "One's Dear Ones 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1721444400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 187,
-        "gachaId": 341,
-        "name": "[재등장] 그레이스 마리아주 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1721790000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 188,
-        "gachaId": 342,
-        "name": "마음이 반짝이는 보석함 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1722308400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 189,
-        "gachaId": 343,
-        "name": "[카미시로 루이] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1722394800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 192,
-        "gachaId": 347,
-        "name": "괴이 만연한 도읍 뽑기",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1723345200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 193,
-        "gachaId": 348,
-        "name": "Where is ♡? 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1724209200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 194,
-        "gachaId": 349,
-        "name": "[재등장] Sporty Girl♡ 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1724382000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 195,
-        "gachaId": 350,
-        "name": "[쿠사나기 네네] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1724641200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 197,
-        "gachaId": 352,
-        "name": "마음을 실어, Shooting Star!! 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1725073200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 198,
-        "gachaId": 353,
-        "name": "[시라이시 안] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1725159600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 200,
-        "gachaId": 356,
-        "name": "Welcome to diner!! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1725937200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 201,
-        "gachaId": 358,
-        "name": "Repaint My Color! 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1726887600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 202,
-        "gachaId": 359,
-        "name": "[호시노 이치카] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1726542000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 204,
-        "gachaId": 361,
-        "name": "[재등장] CYBER SNIPER 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1726974000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 205,
-        "gachaId": 362,
-        "name": "Never Ending Showtime 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1727665200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 206,
-        "gachaId": 364,
-        "name": "[아키야마 미즈키] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1727838000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 208,
-        "gachaId": 366,
-        "name": "[하츠네 미쿠] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1728183600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 210,
-        "gachaId": 368,
-        "name": "마음을 연주하는 마칭 퍼레이드 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1728615600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 211,
-        "gachaId": 370,
-        "name": "[오오토리 에무] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1728961200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 213,
-        "gachaId": 372,
-        "name": "청춘의 한 페이지 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1729393200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 214,
-        "gachaId": 373,
-        "name": "[재등장] Before the storm 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1729566000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 215,
-        "gachaId": 374,
-        "name": "Phantom Chaser 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1730343600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 217,
-        "gachaId": 388,
-        "name": "BNW 애니버서리 기념 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1731380400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 218,
-        "gachaId": 389,
-        "name": "[키리타니 하루카] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1731294000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 221,
-        "gachaId": 394,
-        "name": "FIND THE EXIT 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1732244400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 222,
-        "gachaId": 395,
-        "name": "[재등장] Darkness Festa 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1732417200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 223,
-        "gachaId": 396,
-        "name": "창공에 울리는 소리 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1732935600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 224,
-        "gachaId": 398,
-        "name": "[모치즈키 호나미] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1733108400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 227,
-        "gachaId": 401,
-        "name": "가을밤 깊어 가는 황혼 녘에 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1733626800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 228,
-        "gachaId": 402,
-        "name": "[MEIKO] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1733886000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 231,
-        "gachaId": 405,
-        "name": "월드 링크 이벤트 서포트 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1734836400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 232,
-        "gachaId": 407,
-        "name": "Heart in Water 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1734836400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 233,
-        "gachaId": 408,
-        "name": "[시노노메 아키토] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1734490800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 236,
-        "gachaId": 411,
-        "name": "[재등장] Spooky Forest 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1734750000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 237,
-        "gachaId": 412,
-        "name": "[재등장] 봄을 생각하는, 초저녁 한때 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1735268400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 238,
-        "gachaId": 413,
-        "name": "[재등장] 함께 걷는 크루 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1735268400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 239,
-        "gachaId": 414,
-        "name": "[2.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1735614000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 240,
-        "gachaId": 416,
-        "name": "화려한 도시로의 초대 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1736478000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 241,
-        "gachaId": 418,
-        "name": "SEKAI에서 Hello♡ 멋진 만남 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1737255600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 242,
-        "gachaId": 419,
-        "name": "[히노모리 시즈쿠] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1736650800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 245,
-        "gachaId": 422,
-        "name": "밀착! 애니멀 폴리스 24시! 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1737342000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 246,
-        "gachaId": 423,
-        "name": "[재등장] Fly to the future!! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1737428400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 247,
-        "gachaId": 424,
-        "name": "[재등장] 스크램블 플라워 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1737860400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 248,
-        "gachaId": 425,
-        "name": "[재등장] 로맨틱 브라이드 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1737860400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 249,
-        "gachaId": 426,
-        "name": "Memory of Melody 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1738292400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 250,
-        "gachaId": 427,
-        "name": "[카가미네 린] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1738465200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 253,
-        "gachaId": 430,
-        "name": "[카가미네 렌] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1738465200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 257,
-        "gachaId": 437,
-        "name": "월드 링크 이벤트 서포트 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1740279600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 258,
-        "gachaId": 438,
-        "name": "2025 새해맞이 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1739070000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 259,
-        "gachaId": 439,
-        "name": "[히노모리 시호] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1739502000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 262,
-        "gachaId": 442,
-        "name": "Here comes challenger! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1740279600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 263,
-        "gachaId": 443,
-        "name": "[재등장] 신수들의 새해 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1740020400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 264,
-        "gachaId": 444,
-        "name": "[재등장] 기도하는 새해의 소녀 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1740452400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 265,
-        "gachaId": 445,
-        "name": "[재등장] 둥실둥실☆ 드림랜드 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1740452400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 266,
-        "gachaId": 446,
-        "name": "Punk Night TOKYO 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1740711600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 267,
-        "gachaId": 448,
-        "name": "[아사히나 마후유] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1740884400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 270,
-        "gachaId": 451,
-        "name": "[메구리네 루카] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1741143600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 273,
-        "gachaId": 454,
-        "name": "포토제닉♡ 밸런타인 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1741575600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 274,
-        "gachaId": 456,
-        "name": "[요이사키 카나데] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1742094000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 277,
-        "gachaId": 459,
-        "name": "눈동자, 높은 곳을 목표로 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1742439600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 278,
-        "gachaId": 460,
-        "name": "[재등장] Sweet Cute Valentine! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1742526000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 279,
-        "gachaId": 461,
-        "name": "[KAITO] HAPPY ANNIVERSARY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1742698800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 282,
-        "gachaId": 464,
-        "name": "[재등장] 그레이스 마리아주 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1742958000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 283,
-        "gachaId": 465,
-        "name": "[재등장] 나이츠 오브 화이트 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1742958000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 284,
-        "gachaId": 466,
-        "name": "하늘에 그리는 무지개 마법 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1743390000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 285,
-        "gachaId": 468,
-        "name": "싸움 끝에 기다리는 것은 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1744081200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 286,
-        "gachaId": 469,
-        "name": "월드 링크 이벤트 서포트 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1745290800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 287,
-        "gachaId": 470,
-        "name": "[아즈사와 코하네] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1744081200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 290,
-        "gachaId": 474,
-        "name": "Crown of Suit 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1745290800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 291,
-        "gachaId": 476,
-        "name": "[재등장] Imperial Soldiers 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1745118000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 292,
-        "gachaId": 477,
-        "name": "[재등장] 시크릿 티타임 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1745722800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 293,
-        "gachaId": 478,
-        "name": "[재등장] 떠도는 은둔자의 여정 뽑기",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1745722800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 294,
-        "gachaId": 479,
-        "name": "[모모이 아이리] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1745550000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 297,
-        "gachaId": 482,
-        "name": "Roots in the snow 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1745982000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 299,
-        "gachaId": 489,
-        "name": "500만 명 돌파 기념 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1746846000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 300,
-        "gachaId": 490,
-        "name": "Drawing Blooming 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1747710000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 301,
-        "gachaId": 491,
-        "name": "[재등장] 하늘하늘 흔들리는 소녀 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1747796400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 302,
-        "gachaId": 493,
-        "name": "[하나사토 미노리] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1747720800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 305,
-        "gachaId": 496,
-        "name": "[재등장] 너에게 외치는 푸른 목소리 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1748314800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 306,
-        "gachaId": 497,
-        "name": "[재등장] 모두 함께 Enjoy Summer! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1748314800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 307,
-        "gachaId": 498,
-        "name": "Not Overlap Sounds 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1748574000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 308,
-        "gachaId": 500,
-        "name": "[시노노메 에나] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1749189600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 311,
-        "gachaId": 503,
-        "name": "Eternal Bout 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1749438000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 312,
-        "gachaId": 504,
-        "name": "월드 링크 이벤트 서포트 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1750647600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 313,
-        "gachaId": 506,
-        "name": "[텐마 사키] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1749967200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 316,
-        "gachaId": 509,
-        "name": "특별한 마음을 네게 줄게! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1750647600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 317,
-        "gachaId": 510,
-        "name": "[재등장] Escape from rain 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1750388400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 318,
-        "gachaId": 511,
-        "name": "[재등장] Sporty Girl♡ 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1750820400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 319,
-        "gachaId": 512,
-        "name": "[재등장] 달밤의 시스터 래빗츠 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1750820400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 320,
-        "gachaId": 513,
-        "name": "[텐마 츠카사] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1750658400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 323,
-        "gachaId": 516,
-        "name": "[3주년 기념] 컬러풀 페스티벌 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1751252400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 324,
-        "gachaId": 517,
-        "name": "[아오야기 토우야] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1751263200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 327,
-        "gachaId": 521,
-        "name": "in my fairy tale 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1752116400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 328,
-        "gachaId": 523,
-        "name": "going upstairs 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1752980400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 329,
-        "gachaId": 524,
-        "name": "[재등장] 영원히 울려 퍼지는 종소리 아래서 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1753066800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 330,
-        "gachaId": 525,
-        "name": "[재등장] Darkness Festa 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1753498800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 331,
-        "gachaId": 526,
-        "name": "[재등장] Before the storm 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1753498800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 332,
-        "gachaId": 529,
-        "name": "Reknit Relation 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1753844400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 333,
-        "gachaId": 530,
-        "name": "[카미시로 루이] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1753855200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 335,
-        "gachaId": 535,
-        "name": "The Party Of Blast!! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1754622000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 336,
-        "gachaId": 536,
-        "name": "악을 멸하라 징계 청부인 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1755313200000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 337,
-        "gachaId": 537,
-        "name": "월드 링크 이벤트 서포트 뽑기 스티커",
-        "assetbundleName": "ceil_item",
-        "convertStartAt": 1756522800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 338,
-        "gachaId": 538,
-        "name": "[재등장] 괴이 만연한 도읍 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1755572400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 339,
-        "gachaId": 539,
-        "name": "[재등장] CYBER SNIPER 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1755918000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 340,
-        "gachaId": 540,
-        "name": "[재등장] 겹치는 마음 Words Snow 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1755918000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 341,
-        "gachaId": 541,
-        "name": "청춘 어셈블! 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1756522800000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 342,
-        "gachaId": 542,
-        "name": "[쿠사나기 네네] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1756101600000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 343,
-        "gachaId": 545,
-        "name": "[시라이시 안] HAPPY BIRTHDAY 뽑기 스티커",
-        "assetbundleName": "ceil_item_birthday",
-        "convertStartAt": 1756620000000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 344,
-        "gachaId": 549,
-        "name": "너에게 닿아라♡ Live Streaming 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1757300400000,
-        "convertResourceBoxId": 2
-    },
-    {
-        "id": 392,
-        "gachaId": 657,
-        "name": "[극장판] 리컬렉션 뽑기 스티커",
-        "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1753844400000,
-        "convertResourceBoxId": 2
-    }
+  {
+    "id": 1,
+    "gachaId": 1,
+    "name": "서비스 시작 기념 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1656471600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 2,
+    "gachaId": 4,
+    "name": "별 내리는 밤하늘의 추억 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1656471600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 3,
+    "gachaId": 5,
+    "name": "인형들의 무도회 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1657076400000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 4,
+    "gachaId": 6,
+    "name": "젠틀★ 포테이토 스타 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1657767600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 5,
+    "gachaId": 9,
+    "name": "생기발랄♪ 응원단 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1658458800000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 6,
+    "gachaId": 12,
+    "name": "MORE MORE SMILE! 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1659927600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 7,
+    "gachaId": 17,
+    "name": "레벨 1의 파트너 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1659236400000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 8,
+    "gachaId": 20,
+    "name": "하이 스쿨 카니발 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1660618800000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 9,
+    "gachaId": 23,
+    "name": "원더 캐럴 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1661310000000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 10,
+    "gachaId": 28,
+    "name": "세카이의 두근두근 새해 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1662001200000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 11,
+    "gachaId": 39,
+    "name": "작은 용기, 커다란 한 걸음 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1662692400000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 12,
+    "gachaId": 42,
+    "name": "비 온 뒤 반짝이는 무지개 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1665370800000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 13,
+    "gachaId": 45,
+    "name": "클래시컬 메모리 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1663383600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 14,
+    "gachaId": 48,
+    "name": "Rockin'Parade 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1664074800000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 15,
+    "gachaId": 52,
+    "name": "빛이 내리쬐는 캔버스 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1664679600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 16,
+    "gachaId": 56,
+    "name": "둥실둥실☆ 드림랜드 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1666062000000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 17,
+    "gachaId": 60,
+    "name": "하늘을 나는 해피 히나마츠리☆ 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1666753200000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 18,
+    "gachaId": 63,
+    "name": "지금 날갯짓하는 천사 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1667444400000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 19,
+    "gachaId": 66,
+    "name": "[200만 명 돌파 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1667617200000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 20,
+    "gachaId": 68,
+    "name": "너와 만나는 벚꽃 길 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1668049200000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 21,
+    "gachaId": 72,
+    "name": "비밀의 드레스 룸 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1668654000000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 22,
+    "gachaId": 75,
+    "name": "4=1 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1669258800000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 23,
+    "gachaId": 78,
+    "name": "함께 걷는 크루 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1669777200000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 24,
+    "gachaId": 82,
+    "name": "포레스트 페어리 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1670382000000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 25,
+    "gachaId": 85,
+    "name": "펭귄 카페에 어서 오세요♪ 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1670986800000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 26,
+    "gachaId": 89,
+    "name": "로맨틱 브라이드 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1671591600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 27,
+    "gachaId": 92,
+    "name": "웰컴♪ 이상한 세카이 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1672196400000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 28,
+    "gachaId": 96,
+    "name": "메모리즈 멜로디 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1672887600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 29,
+    "gachaId": 98,
+    "name": "하프 애니버서리 기념 컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1671937200000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 30,
+    "gachaId": 99,
+    "name": "무지갯빛 하모니 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1673492400000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 31,
+    "gachaId": 102,
+    "name": "비밀스레 간직한 비스트 하트 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1674097200000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 32,
+    "gachaId": 104,
+    "name": "여름밤에 떠오르는 지난날 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1674702000000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 33,
+    "gachaId": 107,
+    "name": "모두 함께 Enjoy Summer! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1675306800000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 34,
+    "gachaId": 110,
+    "name": "러블리 메신저 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1675911600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 35,
+    "gachaId": 112,
+    "name": "노래여, 울려라! 꿈꾸는 머메이드 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1676516400000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 36,
+    "gachaId": 115,
+    "name": "달밤의 시스터 래빗츠 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1677121200000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 37,
+    "gachaId": 118,
+    "name": "망설임을 끊어 내는 풀 메탈 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1677553200000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 38,
+    "gachaId": 120,
+    "name": "망각의 스노 화이트 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1678071600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 40,
+    "gachaId": 132,
+    "name": "컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1678676400000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 41,
+    "gachaId": 134,
+    "name": "[키리타니 하루카] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1668135600000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 42,
+    "gachaId": 136,
+    "name": "Break The Fence! 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1679281200000,
+    "convertResourceBoxId": 1
+  },
+  {
+    "id": 43,
+    "gachaId": 139,
+    "name": "연금술사의 리바이벌 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1679886000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 44,
+    "gachaId": 141,
+    "name": "[모치즈키 호나미] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1669950000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 45,
+    "gachaId": 142,
+    "name": "떠도는 은둔자의 여정 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1680750000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 46,
+    "gachaId": 144,
+    "name": "[MEIKO] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1670727600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 47,
+    "gachaId": 147,
+    "name": "마음을 말로 전하는 Kindness Heart 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1681354800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 48,
+    "gachaId": 149,
+    "name": "[시노노메 아키토] BIRTHDAY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1671332400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 49,
+    "gachaId": 150,
+    "name": "비밀의 일루미네이션 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1681959600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 50,
+    "gachaId": 153,
+    "name": "겹치는 마음 Words Snow 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1682564400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 51,
+    "gachaId": 155,
+    "name": "[히노모리 시즈쿠] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1673492400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 52,
+    "gachaId": 157,
+    "name": "성스러운 밤의 체크메이트 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1683082800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 53,
+    "gachaId": 159,
+    "name": "죄의 회고록 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1672801200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 54,
+    "gachaId": 160,
+    "name": "여행을 떠나는 겨울의 레일웨이 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1683687600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 55,
+    "gachaId": 162,
+    "name": "[카가미네 린] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1675306800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 56,
+    "gachaId": 163,
+    "name": "[카가미네 렌] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1675306800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 58,
+    "gachaId": 165,
+    "name": "[세카이의 새해] 컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1684292400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 59,
+    "gachaId": 169,
+    "name": "[히노모리 시호] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1676343600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 60,
+    "gachaId": 171,
+    "name": "꿈도 리얼도! 섞어섞어 팝핀뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1684897200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 61,
+    "gachaId": 173,
+    "name": "정적 속에 울려 퍼지는 오버추어 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1685588400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 62,
+    "gachaId": 175,
+    "name": "[아사히나 마후유] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1677726000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 63,
+    "gachaId": 176,
+    "name": "[메구리네 루카] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1677985200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 64,
+    "gachaId": 177,
+    "name": "시크릿 티타임 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1686193200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 65,
+    "gachaId": 181,
+    "name": "스카이 러너즈! 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1686798000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 66,
+    "gachaId": 183,
+    "name": "[요이사키 카나데] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1678935600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 67,
+    "gachaId": 184,
+    "name": "[KAITO] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1679540400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 68,
+    "gachaId": 185,
+    "name": "Journey with U 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1687402800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 69,
+    "gachaId": 188,
+    "name": "[1주년 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1688007600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 70,
+    "gachaId": 190,
+    "name": "[아즈사와 코하네] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1680922800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 71,
+    "gachaId": 192,
+    "name": "마법을 걸어 줘! 위치 크래프트 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1688526000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 72,
+    "gachaId": 194,
+    "name": "[모모이 아이리] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1682391600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 73,
+    "gachaId": 195,
+    "name": "번지는 색채에 빠져들어 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1689130800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 75,
+    "gachaId": 200,
+    "name": "300만 명 돌파 기념 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1689735600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 76,
+    "gachaId": 201,
+    "name": "튀어나온 그림책 배우들 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1690340400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 77,
+    "gachaId": 202,
+    "name": "[하나사토 미노리] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1684551600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 78,
+    "gachaId": 203,
+    "name": "반짝이는 은하의 별무리 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1691031600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 79,
+    "gachaId": 204,
+    "name": "[시노노메 에나] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1686020400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 80,
+    "gachaId": 205,
+    "name": "너에게 외치는 푸른 목소리 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1691636400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 81,
+    "gachaId": 206,
+    "name": "[텐마 사키] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1686798000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 82,
+    "gachaId": 207,
+    "name": "총명한 자들의 계략 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1692241200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 83,
+    "gachaId": 208,
+    "name": "[재등장] 둥실둥실☆ 드림랜드 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1692846000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 84,
+    "gachaId": 209,
+    "name": "[텐마 츠카사] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1687489200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 85,
+    "gachaId": 210,
+    "name": "AIM FOR LEGEND 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1692846000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 86,
+    "gachaId": 211,
+    "name": "[아오야기 토우야] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1688094000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 87,
+    "gachaId": 213,
+    "name": "그레이스 마리아주 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1693450800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 88,
+    "gachaId": 214,
+    "name": "Nursing my ES 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1694055600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 89,
+    "gachaId": 215,
+    "name": "[재등장] 함께 걷는 크루 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1694660400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 90,
+    "gachaId": 216,
+    "name": "매혹의 트로피컬 리조트 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1694660400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 91,
+    "gachaId": 217,
+    "name": "[카미시로 루이] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1690772400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 93,
+    "gachaId": 219,
+    "name": "컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1695265200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 94,
+    "gachaId": 220,
+    "name": "그날의 빛을 쫓아서 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1695870000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 95,
+    "gachaId": 221,
+    "name": "[재등장] 로맨틱 브라이드 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1696388400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 96,
+    "gachaId": 222,
+    "name": "[쿠사나기 네네] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1693018800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 97,
+    "gachaId": 223,
+    "name": "점점 가라앉는 adolescence 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1696388400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 98,
+    "gachaId": 224,
+    "name": "[시라이시 안] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1693537200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 99,
+    "gachaId": 226,
+    "name": "CYBER SNIPER 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1696993200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 100,
+    "gachaId": 227,
+    "name": "[호시노 이치카] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1694919600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 101,
+    "gachaId": 228,
+    "name": "물가에 피는 가련한 꽃 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1697598000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 102,
+    "gachaId": 229,
+    "name": "[재등장] 모두 함께 Enjoy Summer! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1698116400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 103,
+    "gachaId": 230,
+    "name": "흐릿한 잠에 흔들리는 새벽 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1698202800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 104,
+    "gachaId": 232,
+    "name": "[아키야마 미즈키] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1696215600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 105,
+    "gachaId": 233,
+    "name": "[하츠네 미쿠] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1696561200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 106,
+    "gachaId": 234,
+    "name": "Before the storm 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1698894000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 107,
+    "gachaId": 235,
+    "name": "[오오토리 에무] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1697338800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 108,
+    "gachaId": 236,
+    "name": "Colorful Paint 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1699498800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 109,
+    "gachaId": 237,
+    "name": "[재등장] 달밤의 시스터 래빗츠 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1700103600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 110,
+    "gachaId": 238,
+    "name": "From on a perch 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1700103600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 112,
+    "gachaId": 248,
+    "name": "390만 명 돌파 기념 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1700708400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 114,
+    "gachaId": 250,
+    "name": "[키리타니 하루카] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1699671600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 115,
+    "gachaId": 251,
+    "name": "Dreams come true 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1701313200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 116,
+    "gachaId": 253,
+    "name": "[재등장] 스크램블 플라워 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1701745200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 117,
+    "gachaId": 254,
+    "name": "크로노스의 신전 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1701831600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 118,
+    "gachaId": 256,
+    "name": "[모치즈키 호나미] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1701486000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 120,
+    "gachaId": 258,
+    "name": "Spooky Forest 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1702436400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 121,
+    "gachaId": 259,
+    "name": "[MEIKO] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1702263600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 123,
+    "gachaId": 261,
+    "name": "[시노노메 아키토] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1702868400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 125,
+    "gachaId": 263,
+    "name": "NEON universe 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1703041200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 126,
+    "gachaId": 264,
+    "name": "[재등장] 떠도는 은둔자의 여정 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1703473200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 127,
+    "gachaId": 265,
+    "name": "[1.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1703991600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 128,
+    "gachaId": 267,
+    "name": "Fly to the future!! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1704942000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 129,
+    "gachaId": 268,
+    "name": "[히노모리 시즈쿠] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1705028400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 131,
+    "gachaId": 270,
+    "name": "Break the Chain 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1705806000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 132,
+    "gachaId": 271,
+    "name": "[재등장] 겹치는 마음 Words Snow 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1706065200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 133,
+    "gachaId": 272,
+    "name": "강림한 자애로운 사수 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1706670000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 134,
+    "gachaId": 273,
+    "name": "[카가미네 린] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1706842800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 136,
+    "gachaId": 275,
+    "name": "[카가미네 렌] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1706842800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 139,
+    "gachaId": 280,
+    "name": "2024 새해맞이 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1707534000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 140,
+    "gachaId": 281,
+    "name": "[히노모리 시호] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1707879600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 142,
+    "gachaId": 283,
+    "name": "반짝이는 밤하늘의 Milky Way 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1708484400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 143,
+    "gachaId": 284,
+    "name": "[재등장] 기도하는 새해의 소녀 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1708570800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 144,
+    "gachaId": 285,
+    "name": "너의 리듬의 심포니 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1709175600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 145,
+    "gachaId": 287,
+    "name": "[아사히나 마후유] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1709348400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 147,
+    "gachaId": 289,
+    "name": "[메구리네 루카] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1709607600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 149,
+    "gachaId": 291,
+    "name": "Sweet Cute Valentine! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1710039600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 150,
+    "gachaId": 292,
+    "name": "[요이사키 카나데] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1710558000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 152,
+    "gachaId": 294,
+    "name": "비이슬 맺힌 봄날의 전령사 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1710817200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 153,
+    "gachaId": 295,
+    "name": "[재등장] 시크릿 티타임 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1711076400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 154,
+    "gachaId": 296,
+    "name": "[KAITO] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1711162800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 156,
+    "gachaId": 298,
+    "name": "Let out the Lambs 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1711594800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 157,
+    "gachaId": 301,
+    "name": "Imperial Soldiers 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1712804400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 158,
+    "gachaId": 302,
+    "name": "[아즈사와 코하네] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1712545200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 160,
+    "gachaId": 304,
+    "name": "Hidden Circus 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1713668400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 161,
+    "gachaId": 305,
+    "name": "[재등장] 나이츠 오브 화이트 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1713754800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 162,
+    "gachaId": 306,
+    "name": "[모모이 아이리] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1714014000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 164,
+    "gachaId": 309,
+    "name": "독니를 내비치는 어두운 그림자 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1714446000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 166,
+    "gachaId": 316,
+    "name": "전 세계 3900만 명 돌파 기념 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1715396400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 167,
+    "gachaId": 317,
+    "name": "SPACE COLONY 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1716260400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 168,
+    "gachaId": 318,
+    "name": "[재등장] 봄을 생각하는, 초저녁 한때 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1716346800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 169,
+    "gachaId": 319,
+    "name": "[하나사토 미노리] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1716174000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 171,
+    "gachaId": 321,
+    "name": "나아가는 바퀴 너머는 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1717124400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 172,
+    "gachaId": 323,
+    "name": "[시노노메 에나] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1717642800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 174,
+    "gachaId": 325,
+    "name": "Escape from rain 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1718074800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 175,
+    "gachaId": 327,
+    "name": "[재등장] 죄의 회고록 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1704337200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 176,
+    "gachaId": 328,
+    "name": "[텐마 사키] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1718420400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 178,
+    "gachaId": 330,
+    "name": "출항과 유대의 본 보야지 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1718852400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 179,
+    "gachaId": 331,
+    "name": "[재등장] 너에게 외치는 푸른 목소리 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1719198000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 180,
+    "gachaId": 332,
+    "name": "[텐마 츠카사] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1719111600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 182,
+    "gachaId": 334,
+    "name": "[2주년 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1719716400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 183,
+    "gachaId": 335,
+    "name": "[아오야기 토우야] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1719716400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 185,
+    "gachaId": 338,
+    "name": "컬러풀 패스 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1720580400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 186,
+    "gachaId": 340,
+    "name": "One's Dear Ones 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1721444400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 187,
+    "gachaId": 341,
+    "name": "[재등장] 그레이스 마리아주 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1721790000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 188,
+    "gachaId": 342,
+    "name": "마음이 반짝이는 보석함 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1722308400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 189,
+    "gachaId": 343,
+    "name": "[카미시로 루이] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1722394800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 192,
+    "gachaId": 347,
+    "name": "괴이 만연한 도읍 뽑기",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1723345200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 193,
+    "gachaId": 348,
+    "name": "Where is ♡? 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1724209200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 194,
+    "gachaId": 349,
+    "name": "[재등장] Sporty Girl♡ 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1724382000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 195,
+    "gachaId": 350,
+    "name": "[쿠사나기 네네] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1724641200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 197,
+    "gachaId": 352,
+    "name": "마음을 실어, Shooting Star!! 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1725073200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 198,
+    "gachaId": 353,
+    "name": "[시라이시 안] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1725159600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 200,
+    "gachaId": 356,
+    "name": "Welcome to diner!! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1725937200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 201,
+    "gachaId": 358,
+    "name": "Repaint My Color! 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1726887600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 202,
+    "gachaId": 359,
+    "name": "[호시노 이치카] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1726542000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 204,
+    "gachaId": 361,
+    "name": "[재등장] CYBER SNIPER 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1726974000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 205,
+    "gachaId": 362,
+    "name": "Never Ending Showtime 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1727665200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 206,
+    "gachaId": 364,
+    "name": "[아키야마 미즈키] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1727838000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 208,
+    "gachaId": 366,
+    "name": "[하츠네 미쿠] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1728183600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 210,
+    "gachaId": 368,
+    "name": "마음을 연주하는 마칭 퍼레이드 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1728615600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 211,
+    "gachaId": 370,
+    "name": "[오오토리 에무] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1728961200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 213,
+    "gachaId": 372,
+    "name": "청춘의 한 페이지 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1729393200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 214,
+    "gachaId": 373,
+    "name": "[재등장] Before the storm 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1729566000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 215,
+    "gachaId": 374,
+    "name": "Phantom Chaser 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1730343600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 217,
+    "gachaId": 388,
+    "name": "BNW 애니버서리 기념 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1731380400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 218,
+    "gachaId": 389,
+    "name": "[키리타니 하루카] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1731294000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 221,
+    "gachaId": 394,
+    "name": "FIND THE EXIT 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1732244400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 222,
+    "gachaId": 395,
+    "name": "[재등장] Darkness Festa 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1732417200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 223,
+    "gachaId": 396,
+    "name": "창공에 울리는 소리 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1732935600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 224,
+    "gachaId": 398,
+    "name": "[모치즈키 호나미] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1733108400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 227,
+    "gachaId": 401,
+    "name": "가을밤 깊어 가는 황혼 녘에 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1733626800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 228,
+    "gachaId": 402,
+    "name": "[MEIKO] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1733886000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 231,
+    "gachaId": 405,
+    "name": "월드 링크 이벤트 서포트 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1734836400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 232,
+    "gachaId": 407,
+    "name": "Heart in Water 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1734836400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 233,
+    "gachaId": 408,
+    "name": "[시노노메 아키토] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1734490800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 236,
+    "gachaId": 411,
+    "name": "[재등장] Spooky Forest 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1734750000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 237,
+    "gachaId": 412,
+    "name": "[재등장] 봄을 생각하는, 초저녁 한때 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1735268400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 238,
+    "gachaId": 413,
+    "name": "[재등장] 함께 걷는 크루 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1735268400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 239,
+    "gachaId": 414,
+    "name": "[2.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1735614000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 240,
+    "gachaId": 416,
+    "name": "화려한 도시로의 초대 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1736478000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 241,
+    "gachaId": 418,
+    "name": "SEKAI에서 Hello♡ 멋진 만남 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1737255600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 242,
+    "gachaId": 419,
+    "name": "[히노모리 시즈쿠] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1736650800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 245,
+    "gachaId": 422,
+    "name": "밀착! 애니멀 폴리스 24시! 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1737342000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 246,
+    "gachaId": 423,
+    "name": "[재등장] Fly to the future!! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1737428400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 247,
+    "gachaId": 424,
+    "name": "[재등장] 스크램블 플라워 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1737860400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 248,
+    "gachaId": 425,
+    "name": "[재등장] 로맨틱 브라이드 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1737860400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 249,
+    "gachaId": 426,
+    "name": "Memory of Melody 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1738292400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 250,
+    "gachaId": 427,
+    "name": "[카가미네 린] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1738465200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 253,
+    "gachaId": 430,
+    "name": "[카가미네 렌] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1738465200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 257,
+    "gachaId": 437,
+    "name": "월드 링크 이벤트 서포트 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1740279600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 258,
+    "gachaId": 438,
+    "name": "2025 새해맞이 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1739070000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 259,
+    "gachaId": 439,
+    "name": "[히노모리 시호] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1739502000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 262,
+    "gachaId": 442,
+    "name": "Here comes challenger! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1740279600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 263,
+    "gachaId": 443,
+    "name": "[재등장] 신수들의 새해 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1740020400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 264,
+    "gachaId": 444,
+    "name": "[재등장] 기도하는 새해의 소녀 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1740452400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 265,
+    "gachaId": 445,
+    "name": "[재등장] 둥실둥실☆ 드림랜드 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1740452400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 266,
+    "gachaId": 446,
+    "name": "Punk Night TOKYO 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1740711600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 267,
+    "gachaId": 448,
+    "name": "[아사히나 마후유] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1740884400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 270,
+    "gachaId": 451,
+    "name": "[메구리네 루카] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1741143600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 273,
+    "gachaId": 454,
+    "name": "포토제닉♡ 밸런타인 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1741575600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 274,
+    "gachaId": 456,
+    "name": "[요이사키 카나데] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1742094000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 277,
+    "gachaId": 459,
+    "name": "눈동자, 높은 곳을 목표로 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1742439600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 278,
+    "gachaId": 460,
+    "name": "[재등장] Sweet Cute Valentine! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1742526000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 279,
+    "gachaId": 461,
+    "name": "[KAITO] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1742698800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 282,
+    "gachaId": 464,
+    "name": "[재등장] 그레이스 마리아주 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1742958000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 283,
+    "gachaId": 465,
+    "name": "[재등장] 나이츠 오브 화이트 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1742958000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 284,
+    "gachaId": 466,
+    "name": "하늘에 그리는 무지개 마법 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1743390000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 285,
+    "gachaId": 468,
+    "name": "싸움 끝에 기다리는 것은 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1744081200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 286,
+    "gachaId": 469,
+    "name": "월드 링크 이벤트 서포트 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1745290800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 287,
+    "gachaId": 470,
+    "name": "[아즈사와 코하네] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1744081200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 290,
+    "gachaId": 474,
+    "name": "Crown of Suit 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1745290800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 291,
+    "gachaId": 476,
+    "name": "[재등장] Imperial Soldiers 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1745118000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 292,
+    "gachaId": 477,
+    "name": "[재등장] 시크릿 티타임 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1745722800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 293,
+    "gachaId": 478,
+    "name": "[재등장] 떠도는 은둔자의 여정 뽑기",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1745722800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 294,
+    "gachaId": 479,
+    "name": "[모모이 아이리] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1745550000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 297,
+    "gachaId": 482,
+    "name": "Roots in the snow 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1745982000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 299,
+    "gachaId": 489,
+    "name": "500만 명 돌파 기념 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1746846000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 300,
+    "gachaId": 490,
+    "name": "Drawing Blooming 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1747710000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 301,
+    "gachaId": 491,
+    "name": "[재등장] 하늘하늘 흔들리는 소녀 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1747796400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 302,
+    "gachaId": 493,
+    "name": "[하나사토 미노리] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1747720800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 305,
+    "gachaId": 496,
+    "name": "[재등장] 너에게 외치는 푸른 목소리 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1748314800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 306,
+    "gachaId": 497,
+    "name": "[재등장] 모두 함께 Enjoy Summer! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1748314800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 307,
+    "gachaId": 498,
+    "name": "Not Overlap Sounds 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1748574000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 308,
+    "gachaId": 500,
+    "name": "[시노노메 에나] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1749189600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 311,
+    "gachaId": 503,
+    "name": "Eternal Bout 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1749438000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 312,
+    "gachaId": 504,
+    "name": "월드 링크 이벤트 서포트 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1750647600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 313,
+    "gachaId": 506,
+    "name": "[텐마 사키] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1749967200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 316,
+    "gachaId": 509,
+    "name": "특별한 마음을 네게 줄게! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1750647600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 317,
+    "gachaId": 510,
+    "name": "[재등장] Escape from rain 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1750388400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 318,
+    "gachaId": 511,
+    "name": "[재등장] Sporty Girl♡ 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1750820400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 319,
+    "gachaId": 512,
+    "name": "[재등장] 달밤의 시스터 래빗츠 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1750820400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 320,
+    "gachaId": 513,
+    "name": "[텐마 츠카사] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1750658400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 323,
+    "gachaId": 516,
+    "name": "[3주년 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1751252400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 324,
+    "gachaId": 517,
+    "name": "[아오야기 토우야] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1751263200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 327,
+    "gachaId": 521,
+    "name": "in my fairy tale 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1752116400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 328,
+    "gachaId": 523,
+    "name": "going upstairs 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1752980400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 329,
+    "gachaId": 524,
+    "name": "[재등장] 영원히 울려 퍼지는 종소리 아래서 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1753066800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 330,
+    "gachaId": 525,
+    "name": "[재등장] Darkness Festa 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1753498800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 331,
+    "gachaId": 526,
+    "name": "[재등장] Before the storm 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1753498800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 332,
+    "gachaId": 529,
+    "name": "Reknit Relation 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1753844400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 333,
+    "gachaId": 530,
+    "name": "[카미시로 루이] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1753855200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 335,
+    "gachaId": 535,
+    "name": "The Party Of Blast!! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1754622000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 336,
+    "gachaId": 536,
+    "name": "악을 멸하라 징계 청부인 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1755313200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 337,
+    "gachaId": 537,
+    "name": "월드 링크 이벤트 서포트 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1756522800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 338,
+    "gachaId": 538,
+    "name": "[재등장] 괴이 만연한 도읍 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1755572400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 339,
+    "gachaId": 539,
+    "name": "[재등장] CYBER SNIPER 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1755918000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 340,
+    "gachaId": 540,
+    "name": "[재등장] 겹치는 마음 Words Snow 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1755918000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 341,
+    "gachaId": 541,
+    "name": "청춘 어셈블! 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1756522800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 342,
+    "gachaId": 542,
+    "name": "[쿠사나기 네네] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1756101600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 343,
+    "gachaId": 545,
+    "name": "[시라이시 안] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1756620000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 344,
+    "gachaId": 549,
+    "name": "너에게 닿아라♡ Live Streaming 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1757300400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 392,
+    "gachaId": 657,
+    "name": "[극장판] 리컬렉션 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1753844400000,
+    "convertResourceBoxId": 2
+  }
 ]

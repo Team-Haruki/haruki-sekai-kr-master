@@ -1,830 +1,830 @@
 [
-    {
-        "id": 1,
-        "seq": 10,
-        "name": "미설정",
-        "assetbundleName": "default"
-    },
-    {
-        "id": 101,
-        "seq": 101,
-        "name": "이치카 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0001"
-    },
-    {
-        "id": 102,
-        "seq": 102,
-        "name": "사키 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0002"
-    },
-    {
-        "id": 103,
-        "seq": 103,
-        "name": "호나미 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0003"
-    },
-    {
-        "id": 104,
-        "seq": 104,
-        "name": "시호 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0004"
-    },
-    {
-        "id": 105,
-        "seq": 105,
-        "name": "미노리 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0005"
-    },
-    {
-        "id": 106,
-        "seq": 106,
-        "name": "하루카 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0006"
-    },
-    {
-        "id": 107,
-        "seq": 107,
-        "name": "아이리 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0007"
-    },
-    {
-        "id": 108,
-        "seq": 108,
-        "name": "시즈쿠 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0008"
-    },
-    {
-        "id": 109,
-        "seq": 109,
-        "name": "코하네 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0009"
-    },
-    {
-        "id": 110,
-        "seq": 110,
-        "name": "안 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0010"
-    },
-    {
-        "id": 111,
-        "seq": 111,
-        "name": "아키토 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0011"
-    },
-    {
-        "id": 112,
-        "seq": 112,
-        "name": "토우야 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0012"
-    },
-    {
-        "id": 113,
-        "seq": 113,
-        "name": "츠카사 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0013"
-    },
-    {
-        "id": 114,
-        "seq": 114,
-        "name": "에무 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0014"
-    },
-    {
-        "id": 115,
-        "seq": 115,
-        "name": "네네 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0015"
-    },
-    {
-        "id": 116,
-        "seq": 116,
-        "name": "루이 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0016"
-    },
-    {
-        "id": 117,
-        "seq": 117,
-        "name": "카나데 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0017"
-    },
-    {
-        "id": 118,
-        "seq": 118,
-        "name": "마후유 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0018"
-    },
-    {
-        "id": 119,
-        "seq": 119,
-        "name": "에나 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0019"
-    },
-    {
-        "id": 120,
-        "seq": 120,
-        "name": "미즈키 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0020"
-    },
-    {
-        "id": 121,
-        "seq": 121,
-        "name": "미쿠 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0021"
-    },
-    {
-        "id": 122,
-        "seq": 122,
-        "name": "린 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0022"
-    },
-    {
-        "id": 123,
-        "seq": 123,
-        "name": "렌 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0023"
-    },
-    {
-        "id": 124,
-        "seq": 124,
-        "name": "루카 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0024"
-    },
-    {
-        "id": 125,
-        "seq": 125,
-        "name": "MEIKO 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0025"
-    },
-    {
-        "id": 126,
-        "seq": 126,
-        "name": "KAITO 서포터 셔츠",
-        "assetbundleName": "avatar_costume_0026"
-    },
-    {
-        "id": 127,
-        "seq": 127,
-        "name": "Leo\/need 응원 핫피",
-        "assetbundleName": "avatar_costume_0027"
-    },
-    {
-        "id": 128,
-        "seq": 128,
-        "name": "MORE MORE JUMP! 응원 핫피",
-        "assetbundleName": "avatar_costume_0028"
-    },
-    {
-        "id": 129,
-        "seq": 129,
-        "name": "Vivid BAD SQUAD 응원 핫피",
-        "assetbundleName": "avatar_costume_0029"
-    },
-    {
-        "id": 130,
-        "seq": 130,
-        "name": "원더랜즈×쇼타임 응원 핫피",
-        "assetbundleName": "avatar_costume_0030"
-    },
-    {
-        "id": 131,
-        "seq": 131,
-        "name": "25시, 나이트 코드에서. 응원 핫피",
-        "assetbundleName": "avatar_costume_0031"
-    },
-    {
-        "id": 132,
-        "seq": 132,
-        "name": "버추얼 싱어 응원 핫피",
-        "assetbundleName": "avatar_costume_0032"
-    },
-    {
-        "id": 138,
-        "seq": 138,
-        "name": "해달 셔츠",
-        "assetbundleName": "avatar_costume_0038"
-    },
-    {
-        "id": 139,
-        "seq": 139,
-        "name": "최애가 눈부셔 셔츠",
-        "assetbundleName": "avatar_costume_0039"
-    },
-    {
-        "id": 140,
-        "seq": 140,
-        "name": "경단 좋아 셔츠",
-        "assetbundleName": "avatar_costume_0040"
-    },
-    {
-        "id": 141,
-        "seq": 141,
-        "name": "벚꽃 떡 좋아 셔츠",
-        "assetbundleName": "avatar_costume_0041"
-    },
-    {
-        "id": 142,
-        "seq": 142,
-        "name": "팬케이크 좋아 셔츠",
-        "assetbundleName": "avatar_costume_0042"
-    },
-    {
-        "id": 143,
-        "seq": 143,
-        "name": "치즈케이크 좋아 셔츠",
-        "assetbundleName": "avatar_costume_0043"
-    },
-    {
-        "id": 144,
-        "seq": 144,
-        "name": "서양 결혼식파 셔츠",
-        "assetbundleName": "avatar_costume_0044"
-    },
-    {
-        "id": 145,
-        "seq": 145,
-        "name": "전통 결혼식파 셔츠",
-        "assetbundleName": "avatar_costume_0045"
-    },
-    {
-        "id": 146,
-        "seq": 146,
-        "name": "옥상에서 먹자 셔츠",
-        "assetbundleName": "avatar_costume_0046"
-    },
-    {
-        "id": 147,
-        "seq": 147,
-        "name": "교실에서 먹자 셔츠",
-        "assetbundleName": "avatar_costume_0047"
-    },
-    {
-        "id": 148,
-        "seq": 148,
-        "name": "보트로 파도 타고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0048"
-    },
-    {
-        "id": 149,
-        "seq": 149,
-        "name": "튜브로 파도 타고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0049"
-    },
-    {
-        "id": 150,
-        "seq": 150,
-        "name": "밤이 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0050"
-    },
-    {
-        "id": 151,
-        "seq": 151,
-        "name": "감이 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0051"
-    },
-    {
-        "id": 152,
-        "seq": 152,
-        "name": "1st Anniversary 셔츠",
-        "assetbundleName": "avatar_costume_0052"
-    },
-    {
-        "id": 153,
-        "seq": 153,
-        "name": "캔 배지 모을래 티셔츠",
-        "assetbundleName": "avatar_costume_0053"
-    },
-    {
-        "id": 154,
-        "seq": 154,
-        "name": "아크릴 열쇠고리 모을래 티셔츠",
-        "assetbundleName": "avatar_costume_0054"
-    },
-    {
-        "id": 155,
-        "seq": 155,
-        "name": "RTVL 흰색 티셔츠",
-        "assetbundleName": "avatar_costume_0055"
-    },
-    {
-        "id": 156,
-        "seq": 156,
-        "name": "RTVL 검은색 티셔츠",
-        "assetbundleName": "avatar_costume_0056"
-    },
-    {
-        "id": 157,
-        "seq": 157,
-        "name": "카레라이스 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0057"
-    },
-    {
-        "id": 158,
-        "seq": 158,
-        "name": "감자튀김 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0058"
-    },
-    {
-        "id": 159,
-        "seq": 159,
-        "name": "눈이 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0059"
-    },
-    {
-        "id": 160,
-        "seq": 160,
-        "name": "일루미네이션이 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0060"
-    },
-    {
-        "id": 161,
-        "seq": 161,
-        "name": "가루타로 놀자 티셔츠",
-        "assetbundleName": "avatar_costume_0061"
-    },
-    {
-        "id": 162,
-        "seq": 162,
-        "name": "후쿠와라이로 놀자 티셔츠",
-        "assetbundleName": "avatar_costume_0062"
-    },
-    {
-        "id": 163,
-        "seq": 163,
-        "name": "밸런타인 주고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0063"
-    },
-    {
-        "id": 164,
-        "seq": 164,
-        "name": "밸런타인 받고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0064"
-    },
-    {
-        "id": 165,
-        "seq": 165,
-        "name": "다크 초콜릿이 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0065"
-    },
-    {
-        "id": 166,
-        "seq": 166,
-        "name": "밀크 초콜릿이 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0066"
-    },
-    {
-        "id": 167,
-        "seq": 167,
-        "name": "벚꽃 라테 마시고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0067"
-    },
-    {
-        "id": 168,
-        "seq": 168,
-        "name": "벚꽃 스무디 마시고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0068"
-    },
-    {
-        "id": 169,
-        "seq": 169,
-        "name": "신나는 곡 듣고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0069"
-    },
-    {
-        "id": 170,
-        "seq": 170,
-        "name": "차분한 곡 듣고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0070"
-    },
-    {
-        "id": 171,
-        "seq": 171,
-        "name": "채플 웨딩파 티셔츠",
-        "assetbundleName": "avatar_costume_0071"
-    },
-    {
-        "id": 172,
-        "seq": 172,
-        "name": "가든 웨딩파 티셔츠",
-        "assetbundleName": "avatar_costume_0072"
-    },
-    {
-        "id": 173,
-        "seq": 173,
-        "name": "야구하며 놀자 티셔츠",
-        "assetbundleName": "avatar_costume_0073"
-    },
-    {
-        "id": 174,
-        "seq": 174,
-        "name": "축구하며 놀자 티셔츠",
-        "assetbundleName": "avatar_costume_0074"
-    },
-    {
-        "id": 175,
-        "seq": 175,
-        "name": "초록 뿌요 지우고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0075"
-    },
-    {
-        "id": 176,
-        "seq": 176,
-        "name": "방해 뿌요 지우고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0076"
-    },
-    {
-        "id": 177,
-        "seq": 177,
-        "name": "돈코츠 라멘이 먹고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0077"
-    },
-    {
-        "id": 178,
-        "seq": 178,
-        "name": "간장 라멘이 먹고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0078"
-    },
-    {
-        "id": 179,
-        "seq": 179,
-        "name": "'JP 2nd ANNIVERSARY SPECIAL STAGE' 스페셜 라이브 티셔츠",
-        "assetbundleName": "avatar_costume_0079"
-    },
-    {
-        "id": 180,
-        "seq": 180,
-        "name": "'JP 2nd ANNIVERSARY SPECIAL STAGE' 라이브 티셔츠(화이트)",
-        "assetbundleName": "avatar_costume_0080"
-    },
-    {
-        "id": 181,
-        "seq": 181,
-        "name": "'JP 2nd ANNIVERSARY SPECIAL STAGE' 라이브 티셔츠(블랙)",
-        "assetbundleName": "avatar_costume_0081"
-    },
-    {
-        "id": 182,
-        "seq": 182,
-        "name": "사과 사탕 먹고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0082"
-    },
-    {
-        "id": 183,
-        "seq": 183,
-        "name": "솜사탕 먹고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0083"
-    },
-    {
-        "id": 184,
-        "seq": 184,
-        "name": "학교 축제에서 카페 하고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0084"
-    },
-    {
-        "id": 185,
-        "seq": 185,
-        "name": "학교 축제에서 귀신의 집 하고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0085"
-    },
-    {
-        "id": 186,
-        "seq": 186,
-        "name": "텔레비전 프로그램을 자주 봐 티셔츠",
-        "assetbundleName": "avatar_costume_0086"
-    },
-    {
-        "id": 187,
-        "seq": 187,
-        "name": "인터넷 방송을 자주 봐 티셔츠",
-        "assetbundleName": "avatar_costume_0087"
-    },
-    {
-        "id": 188,
-        "seq": 188,
-        "name": "산에서 새해 일출을 보고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0088"
-    },
-    {
-        "id": 189,
-        "seq": 189,
-        "name": "바다에서 새해 일출을 보고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0089"
-    },
-    {
-        "id": 190,
-        "seq": 190,
-        "name": "시트러스 계열 향기가 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0090"
-    },
-    {
-        "id": 191,
-        "seq": 191,
-        "name": "플로럴 계열 향기가 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0091"
-    },
-    {
-        "id": 192,
-        "seq": 192,
-        "name": "커피가 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0092"
-    },
-    {
-        "id": 193,
-        "seq": 193,
-        "name": "홍차가 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0093"
-    },
-    {
-        "id": 194,
-        "seq": 194,
-        "name": "금붕어가 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0094"
-    },
-    {
-        "id": 195,
-        "seq": 195,
-        "name": "구피가 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0095"
-    },
-    {
-        "id": 196,
-        "seq": 196,
-        "name": "'JUMPIN!' 라이브 티셔츠(화이트)",
-        "assetbundleName": "avatar_costume_0096"
-    },
-    {
-        "id": 197,
-        "seq": 197,
-        "name": "'JUMPIN!' 라이브 티셔츠(블랙)",
-        "assetbundleName": "avatar_costume_0097"
-    },
-    {
-        "id": 198,
-        "seq": 200,
-        "name": "'SPARKLE' 라이브 티셔츠(화이트)",
-        "assetbundleName": "avatar_costume_0098"
-    },
-    {
-        "id": 199,
-        "seq": 201,
-        "name": "'SPARKLE' 라이브 티셔츠(블랙)",
-        "assetbundleName": "avatar_costume_0099"
-    },
-    {
-        "id": 200,
-        "seq": 198,
-        "name": "패밀리 레스토랑에 가고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0100"
-    },
-    {
-        "id": 201,
-        "seq": 199,
-        "name": "노래방에 가고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0101"
-    },
-    {
-        "id": 202,
-        "seq": 202,
-        "name": "케이크 커팅이 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0102"
-    },
-    {
-        "id": 203,
-        "seq": 203,
-        "name": "부케 던지기가 좋아 티셔츠",
-        "assetbundleName": "avatar_costume_0103"
-    },
-    {
-        "id": 204,
-        "seq": 204,
-        "name": "화과자 만들기 체험을 하고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0104"
-    },
-    {
-        "id": 205,
-        "seq": 205,
-        "name": "다도 체험을 하고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0105"
-    },
-    {
-        "id": 206,
-        "seq": 206,
-        "name": "'moment' 라이브 티셔츠(화이트)",
-        "assetbundleName": "avatar_costume_0106"
-    },
-    {
-        "id": 207,
-        "seq": 207,
-        "name": "'moment' 라이브 티셔츠(블랙)",
-        "assetbundleName": "avatar_costume_0107"
-    },
-    {
-        "id": 208,
-        "seq": 208,
-        "name": "'STORIES' 라이브 티셔츠(화이트)",
-        "assetbundleName": "avatar_costume_0108"
-    },
-    {
-        "id": 209,
-        "seq": 209,
-        "name": "'STORIES' 라이브 티셔츠(블랙)",
-        "assetbundleName": "avatar_costume_0109"
-    },
-    {
-        "id": 210,
-        "seq": 210,
-        "name": "딸기 파르페 먹고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0110"
-    },
-    {
-        "id": 211,
-        "seq": 211,
-        "name": "푸딩 아라모드 먹고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0111"
-    },
-    {
-        "id": 212,
-        "seq": 214,
-        "name": "노래로 응원하고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0112"
-    },
-    {
-        "id": 213,
-        "seq": 215,
-        "name": "연주로 응원하고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0113"
-    },
-    {
-        "id": 214,
-        "seq": 216,
-        "name": "방송부에 들어가고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0114"
-    },
-    {
-        "id": 215,
-        "seq": 217,
-        "name": "사육부에 들어가고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0115"
-    },
-    {
-        "id": 216,
-        "seq": 218,
-        "name": "'3rd ANNIVERSARY Memorial Stage' 스페셜 라이브 티셔츠",
-        "assetbundleName": "avatar_costume_0118"
-    },
-    {
-        "id": 217,
-        "seq": 219,
-        "name": "'3rd ANNIVERSARY Memorial Stage' 라이브 티셔츠(화이트)",
-        "assetbundleName": "avatar_costume_0116"
-    },
-    {
-        "id": 218,
-        "seq": 220,
-        "name": "'3rd ANNIVERSARY Memorial Stage' 라이브 티셔츠(블랙)",
-        "assetbundleName": "avatar_costume_0117"
-    },
-    {
-        "id": 219,
-        "seq": 212,
-        "name": "sekaiuniform",
-        "assetbundleName": "avatar_costume_0119"
-    },
-    {
-        "id": 220,
-        "seq": 213,
-        "name": "스태프",
-        "assetbundleName": "avatar_costume_0120"
-    },
-    {
-        "id": 221,
-        "seq": 221,
-        "name": "온천 만주 먹고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0121"
-    },
-    {
-        "id": 222,
-        "seq": 222,
-        "name": "온천 달걀 먹고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0122"
-    },
-    {
-        "id": 223,
-        "seq": 223,
-        "name": "액션 영화 보고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0123"
-    },
-    {
-        "id": 224,
-        "seq": 224,
-        "name": "코미디 영화 보고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0124"
-    },
-    {
-        "id": 225,
-        "seq": 225,
-        "name": "떡국 먹고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0125"
-    },
-    {
-        "id": 226,
-        "seq": 226,
-        "name": "새해 음식 먹고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0126"
-    },
-    {
-        "id": 227,
-        "seq": 227,
-        "name": "카메라로 사진 찍고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0127"
-    },
-    {
-        "id": 228,
-        "seq": 228,
-        "name": "스마트폰으로 사진 찍고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0128"
-    },
-    {
-        "id": 229,
-        "seq": 229,
-        "name": "허브티 마시고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0129"
-    },
-    {
-        "id": 230,
-        "seq": 230,
-        "name": "생강차 마시고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0130"
-    },
-    {
-        "id": 231,
-        "seq": 231,
-        "name": "프리스비 하고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0131"
-    },
-    {
-        "id": 232,
-        "seq": 232,
-        "name": "산책하고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0132"
-    },
-    {
-        "id": 237,
-        "seq": 237,
-        "name": "'RESONANCE BEATS!!' 스페셜 라이브 티셔츠",
-        "assetbundleName": "avatar_costume_0137"
-    },
-    {
-        "id": 238,
-        "seq": 233,
-        "name": "수족관 결혼식을 보고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0138"
-    },
-    {
-        "id": 239,
-        "seq": 234,
-        "name": "플라네타륨 결혼식을 보고 싶어 티셔츠",
-        "assetbundleName": "avatar_costume_0139"
-    },
-    {
-        "id": 242,
-        "seq": 242,
-        "name": "'4th ANNIVERSARY Brilliant Stage' 스페셜 라이브 티셔츠",
-        "assetbundleName": "avatar_costume_0142"
-    },
-    {
-        "id": 243,
-        "seq": 243,
-        "name": "'4th ANNIVERSARY Brilliant Stage' 라이브 티셔츠 (화이트)",
-        "assetbundleName": "avatar_costume_0143"
-    },
-    {
-        "id": 244,
-        "seq": 244,
-        "name": "'4th ANNIVERSARY Brilliant Stage' 라이브 티셔츠 (블랙)",
-        "assetbundleName": "avatar_costume_0144"
-    },
-    {
-        "id": 994,
-        "seq": 994,
-        "name": "종이와 펜",
-        "assetbundleName": "avatar_costume_0994"
-    },
-    {
-        "id": 995,
-        "seq": 995,
-        "name": "타블렛",
-        "assetbundleName": "avatar_costume_0995"
-    },
-    {
-        "id": 996,
-        "seq": 996,
-        "name": "어려운 노래 의상",
-        "assetbundleName": "avatar_costume_0997"
-    },
-    {
-        "id": 997,
-        "seq": 997,
-        "name": "간단한 노래 의상",
-        "assetbundleName": "avatar_costume_0996"
-    }
+  {
+    "id": 1,
+    "seq": 10,
+    "name": "미설정",
+    "assetbundleName": "default"
+  },
+  {
+    "id": 101,
+    "seq": 101,
+    "name": "이치카 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0001"
+  },
+  {
+    "id": 102,
+    "seq": 102,
+    "name": "사키 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0002"
+  },
+  {
+    "id": 103,
+    "seq": 103,
+    "name": "호나미 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0003"
+  },
+  {
+    "id": 104,
+    "seq": 104,
+    "name": "시호 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0004"
+  },
+  {
+    "id": 105,
+    "seq": 105,
+    "name": "미노리 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0005"
+  },
+  {
+    "id": 106,
+    "seq": 106,
+    "name": "하루카 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0006"
+  },
+  {
+    "id": 107,
+    "seq": 107,
+    "name": "아이리 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0007"
+  },
+  {
+    "id": 108,
+    "seq": 108,
+    "name": "시즈쿠 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0008"
+  },
+  {
+    "id": 109,
+    "seq": 109,
+    "name": "코하네 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0009"
+  },
+  {
+    "id": 110,
+    "seq": 110,
+    "name": "안 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0010"
+  },
+  {
+    "id": 111,
+    "seq": 111,
+    "name": "아키토 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0011"
+  },
+  {
+    "id": 112,
+    "seq": 112,
+    "name": "토우야 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0012"
+  },
+  {
+    "id": 113,
+    "seq": 113,
+    "name": "츠카사 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0013"
+  },
+  {
+    "id": 114,
+    "seq": 114,
+    "name": "에무 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0014"
+  },
+  {
+    "id": 115,
+    "seq": 115,
+    "name": "네네 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0015"
+  },
+  {
+    "id": 116,
+    "seq": 116,
+    "name": "루이 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0016"
+  },
+  {
+    "id": 117,
+    "seq": 117,
+    "name": "카나데 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0017"
+  },
+  {
+    "id": 118,
+    "seq": 118,
+    "name": "마후유 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0018"
+  },
+  {
+    "id": 119,
+    "seq": 119,
+    "name": "에나 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0019"
+  },
+  {
+    "id": 120,
+    "seq": 120,
+    "name": "미즈키 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0020"
+  },
+  {
+    "id": 121,
+    "seq": 121,
+    "name": "미쿠 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0021"
+  },
+  {
+    "id": 122,
+    "seq": 122,
+    "name": "린 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0022"
+  },
+  {
+    "id": 123,
+    "seq": 123,
+    "name": "렌 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0023"
+  },
+  {
+    "id": 124,
+    "seq": 124,
+    "name": "루카 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0024"
+  },
+  {
+    "id": 125,
+    "seq": 125,
+    "name": "MEIKO 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0025"
+  },
+  {
+    "id": 126,
+    "seq": 126,
+    "name": "KAITO 서포터 셔츠",
+    "assetbundleName": "avatar_costume_0026"
+  },
+  {
+    "id": 127,
+    "seq": 127,
+    "name": "Leo/need 응원 핫피",
+    "assetbundleName": "avatar_costume_0027"
+  },
+  {
+    "id": 128,
+    "seq": 128,
+    "name": "MORE MORE JUMP! 응원 핫피",
+    "assetbundleName": "avatar_costume_0028"
+  },
+  {
+    "id": 129,
+    "seq": 129,
+    "name": "Vivid BAD SQUAD 응원 핫피",
+    "assetbundleName": "avatar_costume_0029"
+  },
+  {
+    "id": 130,
+    "seq": 130,
+    "name": "원더랜즈×쇼타임 응원 핫피",
+    "assetbundleName": "avatar_costume_0030"
+  },
+  {
+    "id": 131,
+    "seq": 131,
+    "name": "25시, 나이트 코드에서. 응원 핫피",
+    "assetbundleName": "avatar_costume_0031"
+  },
+  {
+    "id": 132,
+    "seq": 132,
+    "name": "버추얼 싱어 응원 핫피",
+    "assetbundleName": "avatar_costume_0032"
+  },
+  {
+    "id": 138,
+    "seq": 138,
+    "name": "해달 셔츠",
+    "assetbundleName": "avatar_costume_0038"
+  },
+  {
+    "id": 139,
+    "seq": 139,
+    "name": "최애가 눈부셔 셔츠",
+    "assetbundleName": "avatar_costume_0039"
+  },
+  {
+    "id": 140,
+    "seq": 140,
+    "name": "경단 좋아 셔츠",
+    "assetbundleName": "avatar_costume_0040"
+  },
+  {
+    "id": 141,
+    "seq": 141,
+    "name": "벚꽃 떡 좋아 셔츠",
+    "assetbundleName": "avatar_costume_0041"
+  },
+  {
+    "id": 142,
+    "seq": 142,
+    "name": "팬케이크 좋아 셔츠",
+    "assetbundleName": "avatar_costume_0042"
+  },
+  {
+    "id": 143,
+    "seq": 143,
+    "name": "치즈케이크 좋아 셔츠",
+    "assetbundleName": "avatar_costume_0043"
+  },
+  {
+    "id": 144,
+    "seq": 144,
+    "name": "서양 결혼식파 셔츠",
+    "assetbundleName": "avatar_costume_0044"
+  },
+  {
+    "id": 145,
+    "seq": 145,
+    "name": "전통 결혼식파 셔츠",
+    "assetbundleName": "avatar_costume_0045"
+  },
+  {
+    "id": 146,
+    "seq": 146,
+    "name": "옥상에서 먹자 셔츠",
+    "assetbundleName": "avatar_costume_0046"
+  },
+  {
+    "id": 147,
+    "seq": 147,
+    "name": "교실에서 먹자 셔츠",
+    "assetbundleName": "avatar_costume_0047"
+  },
+  {
+    "id": 148,
+    "seq": 148,
+    "name": "보트로 파도 타고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0048"
+  },
+  {
+    "id": 149,
+    "seq": 149,
+    "name": "튜브로 파도 타고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0049"
+  },
+  {
+    "id": 150,
+    "seq": 150,
+    "name": "밤이 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0050"
+  },
+  {
+    "id": 151,
+    "seq": 151,
+    "name": "감이 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0051"
+  },
+  {
+    "id": 152,
+    "seq": 152,
+    "name": "1st Anniversary 셔츠",
+    "assetbundleName": "avatar_costume_0052"
+  },
+  {
+    "id": 153,
+    "seq": 153,
+    "name": "캔 배지 모을래 티셔츠",
+    "assetbundleName": "avatar_costume_0053"
+  },
+  {
+    "id": 154,
+    "seq": 154,
+    "name": "아크릴 열쇠고리 모을래 티셔츠",
+    "assetbundleName": "avatar_costume_0054"
+  },
+  {
+    "id": 155,
+    "seq": 155,
+    "name": "RTVL 흰색 티셔츠",
+    "assetbundleName": "avatar_costume_0055"
+  },
+  {
+    "id": 156,
+    "seq": 156,
+    "name": "RTVL 검은색 티셔츠",
+    "assetbundleName": "avatar_costume_0056"
+  },
+  {
+    "id": 157,
+    "seq": 157,
+    "name": "카레라이스 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0057"
+  },
+  {
+    "id": 158,
+    "seq": 158,
+    "name": "감자튀김 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0058"
+  },
+  {
+    "id": 159,
+    "seq": 159,
+    "name": "눈이 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0059"
+  },
+  {
+    "id": 160,
+    "seq": 160,
+    "name": "일루미네이션이 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0060"
+  },
+  {
+    "id": 161,
+    "seq": 161,
+    "name": "가루타로 놀자 티셔츠",
+    "assetbundleName": "avatar_costume_0061"
+  },
+  {
+    "id": 162,
+    "seq": 162,
+    "name": "후쿠와라이로 놀자 티셔츠",
+    "assetbundleName": "avatar_costume_0062"
+  },
+  {
+    "id": 163,
+    "seq": 163,
+    "name": "밸런타인 주고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0063"
+  },
+  {
+    "id": 164,
+    "seq": 164,
+    "name": "밸런타인 받고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0064"
+  },
+  {
+    "id": 165,
+    "seq": 165,
+    "name": "다크 초콜릿이 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0065"
+  },
+  {
+    "id": 166,
+    "seq": 166,
+    "name": "밀크 초콜릿이 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0066"
+  },
+  {
+    "id": 167,
+    "seq": 167,
+    "name": "벚꽃 라테 마시고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0067"
+  },
+  {
+    "id": 168,
+    "seq": 168,
+    "name": "벚꽃 스무디 마시고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0068"
+  },
+  {
+    "id": 169,
+    "seq": 169,
+    "name": "신나는 곡 듣고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0069"
+  },
+  {
+    "id": 170,
+    "seq": 170,
+    "name": "차분한 곡 듣고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0070"
+  },
+  {
+    "id": 171,
+    "seq": 171,
+    "name": "채플 웨딩파 티셔츠",
+    "assetbundleName": "avatar_costume_0071"
+  },
+  {
+    "id": 172,
+    "seq": 172,
+    "name": "가든 웨딩파 티셔츠",
+    "assetbundleName": "avatar_costume_0072"
+  },
+  {
+    "id": 173,
+    "seq": 173,
+    "name": "야구하며 놀자 티셔츠",
+    "assetbundleName": "avatar_costume_0073"
+  },
+  {
+    "id": 174,
+    "seq": 174,
+    "name": "축구하며 놀자 티셔츠",
+    "assetbundleName": "avatar_costume_0074"
+  },
+  {
+    "id": 175,
+    "seq": 175,
+    "name": "초록 뿌요 지우고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0075"
+  },
+  {
+    "id": 176,
+    "seq": 176,
+    "name": "방해 뿌요 지우고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0076"
+  },
+  {
+    "id": 177,
+    "seq": 177,
+    "name": "돈코츠 라멘이 먹고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0077"
+  },
+  {
+    "id": 178,
+    "seq": 178,
+    "name": "간장 라멘이 먹고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0078"
+  },
+  {
+    "id": 179,
+    "seq": 179,
+    "name": "'JP 2nd ANNIVERSARY SPECIAL STAGE' 스페셜 라이브 티셔츠",
+    "assetbundleName": "avatar_costume_0079"
+  },
+  {
+    "id": 180,
+    "seq": 180,
+    "name": "'JP 2nd ANNIVERSARY SPECIAL STAGE' 라이브 티셔츠(화이트)",
+    "assetbundleName": "avatar_costume_0080"
+  },
+  {
+    "id": 181,
+    "seq": 181,
+    "name": "'JP 2nd ANNIVERSARY SPECIAL STAGE' 라이브 티셔츠(블랙)",
+    "assetbundleName": "avatar_costume_0081"
+  },
+  {
+    "id": 182,
+    "seq": 182,
+    "name": "사과 사탕 먹고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0082"
+  },
+  {
+    "id": 183,
+    "seq": 183,
+    "name": "솜사탕 먹고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0083"
+  },
+  {
+    "id": 184,
+    "seq": 184,
+    "name": "학교 축제에서 카페 하고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0084"
+  },
+  {
+    "id": 185,
+    "seq": 185,
+    "name": "학교 축제에서 귀신의 집 하고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0085"
+  },
+  {
+    "id": 186,
+    "seq": 186,
+    "name": "텔레비전 프로그램을 자주 봐 티셔츠",
+    "assetbundleName": "avatar_costume_0086"
+  },
+  {
+    "id": 187,
+    "seq": 187,
+    "name": "인터넷 방송을 자주 봐 티셔츠",
+    "assetbundleName": "avatar_costume_0087"
+  },
+  {
+    "id": 188,
+    "seq": 188,
+    "name": "산에서 새해 일출을 보고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0088"
+  },
+  {
+    "id": 189,
+    "seq": 189,
+    "name": "바다에서 새해 일출을 보고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0089"
+  },
+  {
+    "id": 190,
+    "seq": 190,
+    "name": "시트러스 계열 향기가 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0090"
+  },
+  {
+    "id": 191,
+    "seq": 191,
+    "name": "플로럴 계열 향기가 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0091"
+  },
+  {
+    "id": 192,
+    "seq": 192,
+    "name": "커피가 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0092"
+  },
+  {
+    "id": 193,
+    "seq": 193,
+    "name": "홍차가 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0093"
+  },
+  {
+    "id": 194,
+    "seq": 194,
+    "name": "금붕어가 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0094"
+  },
+  {
+    "id": 195,
+    "seq": 195,
+    "name": "구피가 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0095"
+  },
+  {
+    "id": 196,
+    "seq": 196,
+    "name": "'JUMPIN!' 라이브 티셔츠(화이트)",
+    "assetbundleName": "avatar_costume_0096"
+  },
+  {
+    "id": 197,
+    "seq": 197,
+    "name": "'JUMPIN!' 라이브 티셔츠(블랙)",
+    "assetbundleName": "avatar_costume_0097"
+  },
+  {
+    "id": 198,
+    "seq": 200,
+    "name": "'SPARKLE' 라이브 티셔츠(화이트)",
+    "assetbundleName": "avatar_costume_0098"
+  },
+  {
+    "id": 199,
+    "seq": 201,
+    "name": "'SPARKLE' 라이브 티셔츠(블랙)",
+    "assetbundleName": "avatar_costume_0099"
+  },
+  {
+    "id": 200,
+    "seq": 198,
+    "name": "패밀리 레스토랑에 가고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0100"
+  },
+  {
+    "id": 201,
+    "seq": 199,
+    "name": "노래방에 가고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0101"
+  },
+  {
+    "id": 202,
+    "seq": 202,
+    "name": "케이크 커팅이 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0102"
+  },
+  {
+    "id": 203,
+    "seq": 203,
+    "name": "부케 던지기가 좋아 티셔츠",
+    "assetbundleName": "avatar_costume_0103"
+  },
+  {
+    "id": 204,
+    "seq": 204,
+    "name": "화과자 만들기 체험을 하고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0104"
+  },
+  {
+    "id": 205,
+    "seq": 205,
+    "name": "다도 체험을 하고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0105"
+  },
+  {
+    "id": 206,
+    "seq": 206,
+    "name": "'moment' 라이브 티셔츠(화이트)",
+    "assetbundleName": "avatar_costume_0106"
+  },
+  {
+    "id": 207,
+    "seq": 207,
+    "name": "'moment' 라이브 티셔츠(블랙)",
+    "assetbundleName": "avatar_costume_0107"
+  },
+  {
+    "id": 208,
+    "seq": 208,
+    "name": "'STORIES' 라이브 티셔츠(화이트)",
+    "assetbundleName": "avatar_costume_0108"
+  },
+  {
+    "id": 209,
+    "seq": 209,
+    "name": "'STORIES' 라이브 티셔츠(블랙)",
+    "assetbundleName": "avatar_costume_0109"
+  },
+  {
+    "id": 210,
+    "seq": 210,
+    "name": "딸기 파르페 먹고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0110"
+  },
+  {
+    "id": 211,
+    "seq": 211,
+    "name": "푸딩 아라모드 먹고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0111"
+  },
+  {
+    "id": 212,
+    "seq": 214,
+    "name": "노래로 응원하고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0112"
+  },
+  {
+    "id": 213,
+    "seq": 215,
+    "name": "연주로 응원하고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0113"
+  },
+  {
+    "id": 214,
+    "seq": 216,
+    "name": "방송부에 들어가고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0114"
+  },
+  {
+    "id": 215,
+    "seq": 217,
+    "name": "사육부에 들어가고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0115"
+  },
+  {
+    "id": 216,
+    "seq": 218,
+    "name": "'3rd ANNIVERSARY Memorial Stage' 스페셜 라이브 티셔츠",
+    "assetbundleName": "avatar_costume_0118"
+  },
+  {
+    "id": 217,
+    "seq": 219,
+    "name": "'3rd ANNIVERSARY Memorial Stage' 라이브 티셔츠(화이트)",
+    "assetbundleName": "avatar_costume_0116"
+  },
+  {
+    "id": 218,
+    "seq": 220,
+    "name": "'3rd ANNIVERSARY Memorial Stage' 라이브 티셔츠(블랙)",
+    "assetbundleName": "avatar_costume_0117"
+  },
+  {
+    "id": 219,
+    "seq": 212,
+    "name": "sekaiuniform",
+    "assetbundleName": "avatar_costume_0119"
+  },
+  {
+    "id": 220,
+    "seq": 213,
+    "name": "스태프",
+    "assetbundleName": "avatar_costume_0120"
+  },
+  {
+    "id": 221,
+    "seq": 221,
+    "name": "온천 만주 먹고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0121"
+  },
+  {
+    "id": 222,
+    "seq": 222,
+    "name": "온천 달걀 먹고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0122"
+  },
+  {
+    "id": 223,
+    "seq": 223,
+    "name": "액션 영화 보고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0123"
+  },
+  {
+    "id": 224,
+    "seq": 224,
+    "name": "코미디 영화 보고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0124"
+  },
+  {
+    "id": 225,
+    "seq": 225,
+    "name": "떡국 먹고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0125"
+  },
+  {
+    "id": 226,
+    "seq": 226,
+    "name": "새해 음식 먹고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0126"
+  },
+  {
+    "id": 227,
+    "seq": 227,
+    "name": "카메라로 사진 찍고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0127"
+  },
+  {
+    "id": 228,
+    "seq": 228,
+    "name": "스마트폰으로 사진 찍고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0128"
+  },
+  {
+    "id": 229,
+    "seq": 229,
+    "name": "허브티 마시고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0129"
+  },
+  {
+    "id": 230,
+    "seq": 230,
+    "name": "생강차 마시고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0130"
+  },
+  {
+    "id": 231,
+    "seq": 231,
+    "name": "프리스비 하고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0131"
+  },
+  {
+    "id": 232,
+    "seq": 232,
+    "name": "산책하고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0132"
+  },
+  {
+    "id": 237,
+    "seq": 237,
+    "name": "'RESONANCE BEATS!!' 스페셜 라이브 티셔츠",
+    "assetbundleName": "avatar_costume_0137"
+  },
+  {
+    "id": 238,
+    "seq": 233,
+    "name": "수족관 결혼식을 보고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0138"
+  },
+  {
+    "id": 239,
+    "seq": 234,
+    "name": "플라네타륨 결혼식을 보고 싶어 티셔츠",
+    "assetbundleName": "avatar_costume_0139"
+  },
+  {
+    "id": 242,
+    "seq": 242,
+    "name": "'4th ANNIVERSARY Brilliant Stage' 스페셜 라이브 티셔츠",
+    "assetbundleName": "avatar_costume_0142"
+  },
+  {
+    "id": 243,
+    "seq": 243,
+    "name": "'4th ANNIVERSARY Brilliant Stage' 라이브 티셔츠 (화이트)",
+    "assetbundleName": "avatar_costume_0143"
+  },
+  {
+    "id": 244,
+    "seq": 244,
+    "name": "'4th ANNIVERSARY Brilliant Stage' 라이브 티셔츠 (블랙)",
+    "assetbundleName": "avatar_costume_0144"
+  },
+  {
+    "id": 994,
+    "seq": 994,
+    "name": "종이와 펜",
+    "assetbundleName": "avatar_costume_0994"
+  },
+  {
+    "id": 995,
+    "seq": 995,
+    "name": "타블렛",
+    "assetbundleName": "avatar_costume_0995"
+  },
+  {
+    "id": 996,
+    "seq": 996,
+    "name": "어려운 노래 의상",
+    "assetbundleName": "avatar_costume_0997"
+  },
+  {
+    "id": 997,
+    "seq": 997,
+    "name": "간단한 노래 의상",
+    "assetbundleName": "avatar_costume_0996"
+  }
 ]
