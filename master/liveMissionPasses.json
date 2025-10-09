@@ -173,11 +173,11 @@
   {
     "id": 51,
     "liveMissionPeriodId": 51,
-    "costumeName": "'실내복' 의상",
+    "costumeName": "'펑크 의상' 의상",
     "character3dId1": 10050,
     "character3dId2": 10051,
-    "maleAssetbundleName": "cos01103_body",
-    "femaleAssetbundleName": "cos01104_body"
+    "maleAssetbundleName": "cos01104_body",
+    "femaleAssetbundleName": "cos01103_body"
   },
   {
     "id": 52,
