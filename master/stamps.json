@@ -9645,7 +9645,7 @@
     "characterId1": 20,
     "gameCharacterUnitId": 20,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1760259600000,
+    "archivePublishedAt": 1760248800000,
     "description": "'가시밭길은 어디로\n애프터 라이브' 참가"
   },
   {
@@ -9688,6 +9688,16 @@
     "description": "'○○ 생일 라이브' 참가"
   },
   {
+    "id": 843,
+    "stampType": "illustration",
+    "seq": 10900,
+    "name": "[스탬프] 미노리: HAPPY BIRTHDAY",
+    "assetbundleName": "stamp0843",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "archiveDisplayType": "normal",
+    "description": "'○○ 생일 라이브' 참가"
+  },
+  {
     "id": 844,
     "stampType": "illustration",
     "seq": 10500,
@@ -9699,6 +9709,16 @@
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1759471200000,
     "description": "'HAPPY BIRTHDAY 라이브\n하루카 2025' 참가"
+  },
+  {
+    "id": 845,
+    "stampType": "illustration",
+    "seq": 10870,
+    "name": "[스탬프] 아이리: HAPPY BIRTHDAY",
+    "assetbundleName": "stamp0845",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "archiveDisplayType": "normal",
+    "description": "'○○ 생일 라이브' 참가"
   },
   {
     "id": 846,
@@ -9714,6 +9734,16 @@
     "description": "'○○ 생일 라이브' 참가"
   },
   {
+    "id": 847,
+    "stampType": "illustration",
+    "seq": 10850,
+    "name": "[스탬프] 코하네: HAPPY BIRTHDAY",
+    "assetbundleName": "stamp0847",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "archiveDisplayType": "normal",
+    "description": "'○○ 생일 라이브' 참가"
+  },
+  {
     "id": 849,
     "stampType": "illustration",
     "seq": 10560,
@@ -9725,6 +9755,42 @@
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1762754400000,
     "description": "'HAPPY BIRTHDAY 라이브\n아키토 2025' 참가"
+  },
+  {
+    "id": 855,
+    "stampType": "illustration",
+    "seq": 10770,
+    "name": "[스탬프] 카나데: HAPPY BIRTHDAY",
+    "assetbundleName": "stamp0855",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 17,
+    "gameCharacterUnitId": 17,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1770530400000,
+    "description": "'○○ 생일 라이브' 참가"
+  },
+  {
+    "id": 856,
+    "stampType": "illustration",
+    "seq": 10710,
+    "name": "[스탬프] 마후유: HAPPY BIRTHDAY",
+    "assetbundleName": "stamp0856",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 18,
+    "gameCharacterUnitId": 18,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1769320800000,
+    "description": "'○○ 생일 라이브' 참가"
+  },
+  {
+    "id": 857,
+    "stampType": "illustration",
+    "seq": 10920,
+    "name": "[스탬프] 에나: HAPPY BIRTHDAY",
+    "assetbundleName": "stamp0857",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "archiveDisplayType": "normal",
+    "description": "'○○ 생일 라이브' 참가"
   },
   {
     "id": 860,
@@ -9753,6 +9819,19 @@
     "description": "'○○ 애니버서리 라이브' 참가"
   },
   {
+    "id": 862,
+    "stampType": "illustration",
+    "seq": 10720,
+    "name": "[스탬프] 루카: HAPPY ANNIVERSARY",
+    "assetbundleName": "stamp0862",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 24,
+    "gameCharacterUnitId": 24,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1769580000000,
+    "description": "'○○ 애니버서리 라이브' 참가"
+  },
+  {
     "id": 863,
     "stampType": "illustration",
     "seq": 10550,
@@ -9764,6 +9843,19 @@
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1762149600000,
     "description": "'HAPPY ANNIVERSARY 라이브\nMEIKO 2025' 참가"
+  },
+  {
+    "id": 864,
+    "stampType": "illustration",
+    "seq": 10780,
+    "name": "[스탬프] KAITO: HAPPY ANNIVERSARY",
+    "assetbundleName": "stamp0864",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 26,
+    "gameCharacterUnitId": 26,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1771135200000,
+    "description": "'○○ 애니버서리 라이브' 참가"
   },
   {
     "id": 865,
@@ -9857,6 +9949,32 @@
     "description": "'Unfading wishing\n애프터 라이브' 참가"
   },
   {
+    "id": 872,
+    "stampType": "illustration",
+    "seq": 10680,
+    "name": "[스탬프] 토우야: 마음이 떨리는걸",
+    "assetbundleName": "stamp0872",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 12,
+    "gameCharacterUnitId": 12,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1768111200000,
+    "description": "'Time to take off！\n애프터 라이브' 참가"
+  },
+  {
+    "id": 873,
+    "stampType": "illustration",
+    "seq": 10700,
+    "name": "[스탬프] 카나데: …소화할 수 있을까?",
+    "assetbundleName": "stamp0873",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 17,
+    "gameCharacterUnitId": 17,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1768975200000,
+    "description": "'Show your shine\n애프터 라이브' 참가"
+  },
+  {
     "id": 874,
     "stampType": "illustration",
     "seq": 10690,
@@ -9868,6 +9986,45 @@
     "archiveDisplayType": "hide",
     "archivePublishedAt": 1748444400000,
     "description": "극장판 프로젝트 세카이 연동\n스탬프 랠리에서 획득"
+  },
+  {
+    "id": 875,
+    "stampType": "illustration",
+    "seq": 10730,
+    "name": "[스탬프] 시즈쿠: 한 땀 한 땀, 정성 들여",
+    "assetbundleName": "stamp0875",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 8,
+    "gameCharacterUnitId": 8,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1769839200000,
+    "description": "'이 바늘 한 땀에 마음을 담아\n애프터 라이브' 참가"
+  },
+  {
+    "id": 876,
+    "stampType": "illustration",
+    "seq": 10770,
+    "name": "[스탬프] 하루카: 더 이상 꺾이지 않아",
+    "assetbundleName": "stamp0876",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 6,
+    "gameCharacterUnitId": 6,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1770703200000,
+    "description": "'Rise and Strive\n애프터 라이브' 참가"
+  },
+  {
+    "id": 877,
+    "stampType": "illustration",
+    "seq": 10830,
+    "name": "[스탬프] 호나미: 오래오래 행복하게 살았답니다",
+    "assetbundleName": "stamp0877",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 3,
+    "gameCharacterUnitId": 3,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1740031200000,
+    "description": "'먼 옛날의 Read-aloud애프터 라이브' 참가"
   },
   {
     "id": 878,
@@ -9920,6 +10077,71 @@
     "archiveDisplayType": "hide",
     "archivePublishedAt": 1752375600000,
     "description": "컬래버레이션 한정 멤버 '★4 [마법과 발명이 자아내는 쇼] 카미시로 루이'를 입수하여 획득"
+  },
+  {
+    "id": 882,
+    "stampType": "illustration",
+    "seq": 10840,
+    "name": "[스탬프] 사키: 늘 고마워!",
+    "assetbundleName": "stamp0882",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 2,
+    "gameCharacterUnitId": 2,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1772258400000,
+    "description": "'Connect hearts message애프터 라이브' 참가"
+  },
+  {
+    "id": 883,
+    "stampType": "illustration",
+    "seq": 10860,
+    "name": "[스탬프] 츠카사: 너도 히어로구나!",
+    "assetbundleName": "stamp0883",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 13,
+    "gameCharacterUnitId": 13,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1773122400000,
+    "description": "'You are my HERO!!애프터 라이브' 참가"
+  },
+  {
+    "id": 884,
+    "stampType": "illustration",
+    "seq": 10880,
+    "name": "[스탬프] 카나데: 기다려 줘",
+    "assetbundleName": "stamp0884",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 17,
+    "gameCharacterUnitId": 17,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1773986400000,
+    "description": "'Unreliable Notes애프터 라이브' 참가"
+  },
+  {
+    "id": 885,
+    "stampType": "illustration",
+    "seq": 10890,
+    "name": "[스탬프] 시호: 최고로 즐거워…!",
+    "assetbundleName": "stamp0885",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 4,
+    "gameCharacterUnitId": 4,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1774850400000,
+    "description": "'Find the dream view애프터 라이브' 참가"
+  },
+  {
+    "id": 886,
+    "stampType": "illustration",
+    "seq": 10910,
+    "name": "[스탬프] 에무: 도전해 볼 가치는 있습니다",
+    "assetbundleName": "stamp0886",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 14,
+    "gameCharacterUnitId": 14,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1776837600000,
+    "description": "'Choices for the future애프터 라이브' 참가"
   },
   {
     "id": 10017,
@@ -11506,6 +11728,19 @@
     "description": "시호와 츠카사의 인연 랭크 66 달성 시 획득"
   },
   {
+    "id": 104151,
+    "stampType": "illustration",
+    "seq": 10750,
+    "name": "[스탬프] 시호와 네네: 합주, 재미있네",
+    "assetbundleName": "stamp104151",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 4,
+    "characterId2": 15,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1769826600000,
+    "description": "시호와 네네의 인연 랭크 66 달성 시 획득"
+  },
+  {
     "id": 104211,
     "stampType": "illustration",
     "seq": 756000,
@@ -11933,6 +12168,19 @@
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727578800000,
     "description": "아이리와 에무의 인연 랭크 66 달성 시 획득"
+  },
+  {
+    "id": 107171,
+    "stampType": "illustration",
+    "seq": 10740,
+    "name": "[스탬프] 아이리와 카나데: 언제든지 의지해 줘♪",
+    "assetbundleName": "stamp107171",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 7,
+    "characterId2": 17,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1769826600000,
+    "description": "아이리와 카나데의 인연 랭크 66 달성 시 획득"
   },
   {
     "id": 107191,
@@ -13025,6 +13273,19 @@
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1747580400000,
     "description": "루이와 마후유의 인연 랭크 66 달성 시 획득"
+  },
+  {
+    "id": 116191,
+    "stampType": "illustration",
+    "seq": 10760,
+    "name": "[스탬프] 루이와 에나: 말해 줘서 고마워",
+    "assetbundleName": "stamp116191",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 16,
+    "characterId2": 19,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1769826600000,
+    "description": "루이와 에나의 인연 랭크 66 달성 시 획득"
   },
   {
     "id": 116201,
