@@ -12069,6 +12069,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "東京テディベア",
@@ -14820,6 +14823,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "フューエル",
@@ -15051,6 +15057,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "熱風",
@@ -15075,6 +15084,39 @@
       }
     ],
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 491,
+    "seq": 99999482,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      }
+    ],
+    "title": "キャットラビング",
+    "pronunciation": "きゃっとらびんぐ",
+    "creatorArtistId": 237,
+    "lyricist": "香椎モイミ",
+    "composer": "香椎モイミ",
+    "arranger": "香椎モイミ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_491",
+    "publishedAt": 1763013600000,
+    "releasedAt": 1626447600000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "491",
+        "creator": "作詞者",
+        "lyricist": "作詞者1",
+        "composer": "作曲者1",
+        "arranger": "編曲者1"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
@@ -15502,7 +15544,7 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "コールボーイ",
+        "title": "콜보이",
         "creator": "syudou",
         "lyricist": "syudou",
         "composer": "syudou",
@@ -15543,6 +15585,42 @@
       }
     ],
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 508,
+    "seq": 99999499,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
+    ],
+    "title": "ヘイヴン",
+    "pronunciation": "へいヴん",
+    "creatorArtistId": 80,
+    "lyricist": "煮ル果実",
+    "composer": "煮ル果実",
+    "arranger": "煮ル果実",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_508",
+    "publishedAt": 1771653600000,
+    "releasedAt": 1601391600000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "508",
+        "creator": "かっこかり",
+        "lyricist": "作詞者1",
+        "composer": "作曲者1",
+        "arranger": "編曲者1"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
@@ -15810,6 +15888,39 @@
     "isFullLength": false
   },
   {
+    "id": 530,
+    "seq": 99999518,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "キャットフード",
+    "pronunciation": "きゃっとふーど",
+    "creatorArtistId": 67,
+    "lyricist": "doriko",
+    "composer": "doriko",
+    "arranger": "doriko",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_530",
+    "publishedAt": 1764136800000,
+    "releasedAt": 1714143600000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "캣 푸드",
+        "creator": "doriko",
+        "lyricist": "doriko",
+        "composer": "doriko",
+        "arranger": "doriko"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 531,
     "seq": 99999519,
     "releaseConditionId": 5,
@@ -15942,6 +16053,42 @@
     "isFullLength": false
   },
   {
+    "id": 538,
+    "seq": 99999525,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
+    ],
+    "title": "オールセーブチャレンジ",
+    "pronunciation": "おーるせーぶちゃれんじ",
+    "creatorArtistId": 237,
+    "lyricist": "香椎モイミ",
+    "composer": "香椎モイミ",
+    "arranger": "香椎モイミ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_538",
+    "publishedAt": 4104961200000,
+    "releasedAt": 1601391600000,
+    "fillerSec": 9.361700057983398,
+    "infos": [
+      {
+        "title": "538",
+        "creator": "かっこかり",
+        "lyricist": "作詞者1",
+        "composer": "作曲者1",
+        "arranger": "編曲者1"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 541,
     "seq": 99999527,
     "releaseConditionId": 5,
@@ -16035,6 +16182,39 @@
         "lyricist": "카멜리아",
         "composer": "카멜리아",
         "arranger": "카멜리아"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 544,
+    "seq": 99999530,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "妄想アスパルテーム",
+    "pronunciation": "もうそうあすぱるてーむ",
+    "creatorArtistId": 243,
+    "lyricist": "picco",
+    "composer": "picco",
+    "arranger": "picco",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_544",
+    "publishedAt": 1762322400000,
+    "releasedAt": 1717599600000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "망상 아스파탐",
+        "creator": "ESHIKARA",
+        "lyricist": "picco",
+        "composer": "picco",
+        "arranger": "picco"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -16173,6 +16353,39 @@
     "isFullLength": false
   },
   {
+    "id": 553,
+    "seq": 99999536,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "パリィ",
+    "pronunciation": "ぱりぃ",
+    "creatorArtistId": 221,
+    "lyricist": "宮守文学",
+    "composer": "宮守文学",
+    "arranger": "宮守文学",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_553",
+    "publishedAt": 1764050400000,
+    "releasedAt": 1629385200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "파리",
+        "creator": "미야모리 문학",
+        "lyricist": "미야모리 문학",
+        "composer": "미야모리 문학",
+        "arranger": "미야모리 문학"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 555,
     "seq": 1647401,
     "releaseConditionId": 10,
@@ -16280,6 +16493,9 @@
     "categories": [
       {
         "musicCategoryName": "image"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "SToRY",
@@ -16478,6 +16694,39 @@
     "isFullLength": false
   },
   {
+    "id": 582,
+    "seq": 9999954,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv_2d"
+      }
+    ],
+    "title": "アンチユー",
+    "pronunciation": "あんちゆー",
+    "creatorArtistId": 103,
+    "lyricist": "Chinozo",
+    "composer": "Chinozo",
+    "arranger": "Chinozo",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_582",
+    "publishedAt": 1770703200000,
+    "releasedAt": 1739113200000,
+    "fillerSec": 7.605000019073486,
+    "infos": [
+      {
+        "title": "안티유",
+        "creator": "Chinozo",
+        "lyricist": "Chinozo",
+        "composer": "Chinozo",
+        "arranger": "Chinozo"
+      }
+    ],
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 593,
     "seq": 1148801,
     "releaseConditionId": 5,
@@ -16508,6 +16757,105 @@
       }
     ],
     "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 596,
+    "seq": 2650101,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv_2d"
+      }
+    ],
+    "title": "D/N/A",
+    "pronunciation": "でぃー・えぬ・えー",
+    "creatorArtistId": 259,
+    "lyricist": "Azari",
+    "composer": "Azari",
+    "arranger": "Azari",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_596",
+    "publishedAt": 1773986400000,
+    "releasedAt": 1742396400000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "D/N/A",
+        "creator": "Azari",
+        "lyricist": "Azari",
+        "composer": "Azari",
+        "arranger": "Azari"
+      }
+    ],
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 604,
+    "seq": 1149701,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "Packaged",
+    "pronunciation": "ぱっけーじど",
+    "creatorArtistId": 270,
+    "lyricist": "kz",
+    "composer": "kz",
+    "arranger": "kz",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_604",
+    "publishedAt": 1773057600000,
+    "releasedAt": 1190646000000,
+    "fillerSec": 8.039999961853027,
+    "infos": [
+      {
+        "title": "Packaged",
+        "creator": "kz",
+        "lyricist": "kz",
+        "composer": "kz",
+        "arranger": "kz"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 605,
+    "seq": 2250301,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv_2d"
+      }
+    ],
+    "title": "Sympathy",
+    "pronunciation": "しんぱしー",
+    "creatorArtistId": 50,
+    "lyricist": "Eve",
+    "composer": "Eve",
+    "arranger": "Numa",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_605",
+    "publishedAt": 1774850400000,
+    "releasedAt": 1743260400000,
+    "fillerSec": 9.32610034942627,
+    "infos": [
+      {
+        "title": "Sympathy",
+        "creator": "Eve",
+        "lyricist": "Eve",
+        "composer": "Eve",
+        "arranger": "Numa"
+      }
+    ],
+    "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
   {
