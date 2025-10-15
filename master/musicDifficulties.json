@@ -17808,6 +17808,46 @@
     "totalNoteCount": 938
   },
   {
+    "id": 2406,
+    "musicId": 482,
+    "musicDifficulty": "easy",
+    "playLevel": 8,
+    "releaseConditionId": 1,
+    "totalNoteCount": 285
+  },
+  {
+    "id": 2407,
+    "musicId": 482,
+    "musicDifficulty": "normal",
+    "playLevel": 13,
+    "releaseConditionId": 1,
+    "totalNoteCount": 419
+  },
+  {
+    "id": 2408,
+    "musicId": 482,
+    "musicDifficulty": "hard",
+    "playLevel": 19,
+    "releaseConditionId": 1,
+    "totalNoteCount": 706
+  },
+  {
+    "id": 2409,
+    "musicId": 482,
+    "musicDifficulty": "expert",
+    "playLevel": 26,
+    "releaseConditionId": 1,
+    "totalNoteCount": 917
+  },
+  {
+    "id": 2410,
+    "musicId": 482,
+    "musicDifficulty": "master",
+    "playLevel": 30,
+    "releaseConditionId": 40482,
+    "totalNoteCount": 976
+  },
+  {
     "id": 2411,
     "musicId": 483,
     "musicDifficulty": "easy",
@@ -17886,6 +17926,46 @@
     "playLevel": 28,
     "releaseConditionId": 40485,
     "totalNoteCount": 918
+  },
+  {
+    "id": 2426,
+    "musicId": 486,
+    "musicDifficulty": "easy",
+    "playLevel": 9,
+    "releaseConditionId": 1,
+    "totalNoteCount": 337
+  },
+  {
+    "id": 2427,
+    "musicId": 486,
+    "musicDifficulty": "normal",
+    "playLevel": 15,
+    "releaseConditionId": 1,
+    "totalNoteCount": 501
+  },
+  {
+    "id": 2428,
+    "musicId": 486,
+    "musicDifficulty": "hard",
+    "playLevel": 23,
+    "releaseConditionId": 1,
+    "totalNoteCount": 1054
+  },
+  {
+    "id": 2429,
+    "musicId": 486,
+    "musicDifficulty": "expert",
+    "playLevel": 31,
+    "releaseConditionId": 1,
+    "totalNoteCount": 1387
+  },
+  {
+    "id": 2430,
+    "musicId": 486,
+    "musicDifficulty": "master",
+    "playLevel": 34,
+    "releaseConditionId": 40486,
+    "totalNoteCount": 1637
   },
   {
     "id": 2431,
@@ -18768,6 +18848,46 @@
     "totalNoteCount": 1226
   },
   {
+    "id": 2581,
+    "musicId": 517,
+    "musicDifficulty": "easy",
+    "playLevel": 5,
+    "releaseConditionId": 1,
+    "totalNoteCount": 218
+  },
+  {
+    "id": 2582,
+    "musicId": 517,
+    "musicDifficulty": "normal",
+    "playLevel": 12,
+    "releaseConditionId": 1,
+    "totalNoteCount": 375
+  },
+  {
+    "id": 2583,
+    "musicId": 517,
+    "musicDifficulty": "hard",
+    "playLevel": 18,
+    "releaseConditionId": 1,
+    "totalNoteCount": 609
+  },
+  {
+    "id": 2584,
+    "musicId": 517,
+    "musicDifficulty": "expert",
+    "playLevel": 26,
+    "releaseConditionId": 1,
+    "totalNoteCount": 874
+  },
+  {
+    "id": 2585,
+    "musicId": 517,
+    "musicDifficulty": "master",
+    "playLevel": 29,
+    "releaseConditionId": 40517,
+    "totalNoteCount": 1024
+  },
+  {
     "id": 2591,
     "musicId": 519,
     "musicDifficulty": "easy",
@@ -18806,6 +18926,46 @@
     "playLevel": 28,
     "releaseConditionId": 40519,
     "totalNoteCount": 787
+  },
+  {
+    "id": 2606,
+    "musicId": 522,
+    "musicDifficulty": "easy",
+    "playLevel": 6,
+    "releaseConditionId": 1,
+    "totalNoteCount": 174
+  },
+  {
+    "id": 2607,
+    "musicId": 522,
+    "musicDifficulty": "normal",
+    "playLevel": 12,
+    "releaseConditionId": 1,
+    "totalNoteCount": 244
+  },
+  {
+    "id": 2608,
+    "musicId": 522,
+    "musicDifficulty": "hard",
+    "playLevel": 17,
+    "releaseConditionId": 1,
+    "totalNoteCount": 497
+  },
+  {
+    "id": 2609,
+    "musicId": 522,
+    "musicDifficulty": "expert",
+    "playLevel": 24,
+    "releaseConditionId": 1,
+    "totalNoteCount": 794
+  },
+  {
+    "id": 2610,
+    "musicId": 522,
+    "musicDifficulty": "master",
+    "playLevel": 28,
+    "releaseConditionId": 40522,
+    "totalNoteCount": 837
   },
   {
     "id": 2611,
@@ -18966,6 +19126,46 @@
     "playLevel": 28,
     "releaseConditionId": 40527,
     "totalNoteCount": 897
+  },
+  {
+    "id": 2641,
+    "musicId": 529,
+    "musicDifficulty": "easy",
+    "playLevel": 7,
+    "releaseConditionId": 1,
+    "totalNoteCount": 169
+  },
+  {
+    "id": 2642,
+    "musicId": 529,
+    "musicDifficulty": "normal",
+    "playLevel": 13,
+    "releaseConditionId": 1,
+    "totalNoteCount": 327
+  },
+  {
+    "id": 2643,
+    "musicId": 529,
+    "musicDifficulty": "hard",
+    "playLevel": 17,
+    "releaseConditionId": 1,
+    "totalNoteCount": 512
+  },
+  {
+    "id": 2644,
+    "musicId": 529,
+    "musicDifficulty": "expert",
+    "playLevel": 25,
+    "releaseConditionId": 1,
+    "totalNoteCount": 797
+  },
+  {
+    "id": 2645,
+    "musicId": 529,
+    "musicDifficulty": "master",
+    "playLevel": 28,
+    "releaseConditionId": 40529,
+    "totalNoteCount": 1037
   },
   {
     "id": 2646,
@@ -20494,6 +20694,14 @@
     "playLevel": 26,
     "releaseConditionId": 1,
     "totalNoteCount": 1028
+  },
+  {
+    "id": 4048,
+    "musicId": 486,
+    "musicDifficulty": "append",
+    "playLevel": 37,
+    "releaseConditionId": 1,
+    "totalNoteCount": 2050
   },
   {
     "id": 4049,
