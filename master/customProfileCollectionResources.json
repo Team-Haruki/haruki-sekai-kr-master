@@ -8662,6 +8662,26 @@
   },
   {
     "customProfileResourceType": "collection",
+    "id": 10004,
+    "seq": 100004,
+    "name": "[MIKU EXPO 2025 ASIA 기념] 마이크",
+    "pronunciation": "かり",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/collection/mk",
+    "fileName": "expo_2025"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10005,
+    "seq": 100005,
+    "name": "[MIKU EXPO 2025 ASIA 기념] 일러스트",
+    "pronunciation": "かり",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/collection/mk",
+    "fileName": "pic_expo_2025"
+  },
+  {
+    "customProfileResourceType": "collection",
     "id": 20001,
     "seq": 200001,
     "name": "야키소바 빵(장식)",

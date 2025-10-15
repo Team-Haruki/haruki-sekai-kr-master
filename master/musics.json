@@ -14919,6 +14919,39 @@
     "isFullLength": false
   },
   {
+    "id": 482,
+    "seq": 99999473,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "だめにんげんだ!",
+    "pronunciation": "だめにんげんだ!",
+    "creatorArtistId": 245,
+    "lyricist": "薄塩指数",
+    "composer": "薄塩指数",
+    "arranger": "薄塩指数",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_482",
+    "publishedAt": 1763618400000,
+    "releasedAt": 1561388400000,
+    "fillerSec": 7.992000102996826,
+    "infos": [
+      {
+        "title": "답 없는 인간이다!",
+        "creator": "Usushioshisuu",
+        "lyricist": "Usushioshisuu",
+        "composer": "Usushioshisuu",
+        "arranger": "Usushioshisuu"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 483,
     "seq": 99999474,
     "releaseConditionId": 5,
@@ -14979,6 +15012,39 @@
         "lyricist": "40mP",
         "composer": "40mP",
         "arranger": "40mP"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 486,
+    "seq": 99999477,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "おぎゃりないざー",
+    "pronunciation": "おぎゃりないざー",
+    "creatorArtistId": 143,
+    "lyricist": "Ponchi♪",
+    "composer": "Ponchi♪",
+    "arranger": "Ponchi♪",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_486",
+    "publishedAt": 1763704800000,
+    "releasedAt": 1698591600000,
+    "fillerSec": 8.164999961853027,
+    "infos": [
+      {
+        "title": "응애나이저",
+        "creator": "Ponchi♪",
+        "lyricist": "Ponchi♪",
+        "composer": "Ponchi♪",
+        "arranger": "Ponchi♪"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -15109,10 +15175,10 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "491",
-        "creator": "作詞者",
-        "lyricist": "作詞者1",
-        "composer": "作曲者1",
+        "title": "카시이 모이미",
+        "creator": "카시이 모이미",
+        "lyricist": "카시이 모이미",
+        "composer": "카시이 모이미",
         "arranger": "編曲者1"
       }
     ],
@@ -15723,6 +15789,39 @@
     "isFullLength": false
   },
   {
+    "id": 517,
+    "seq": 99999507,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "メリーゴーラウンド",
+    "pronunciation": "めりーごーらうんど",
+    "creatorArtistId": 84,
+    "lyricist": "加賀（ネギシャワーＰ）",
+    "composer": "加賀（ネギシャワーＰ）",
+    "arranger": "加賀（ネギシャワーＰ）",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_517",
+    "publishedAt": 1763791200000,
+    "releasedAt": 1708786800000,
+    "fillerSec": 9.517200469970703,
+    "infos": [
+      {
+        "title": "merry-go-round",
+        "creator": "카가(네기샤워P)",
+        "lyricist": "카가(네기샤워P)",
+        "composer": "카가(네기샤워P)",
+        "arranger": "카가(네기샤워P)"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 519,
     "seq": 99999509,
     "releaseConditionId": 5,
@@ -15756,8 +15855,41 @@
     "isFullLength": false
   },
   {
+    "id": 522,
+    "seq": 1442901,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "WAVE",
+    "pronunciation": "うぇーぶ",
+    "creatorArtistId": 239,
+    "lyricist": "niki",
+    "composer": "niki",
+    "arranger": "niki",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_522",
+    "publishedAt": 1763877600000,
+    "releasedAt": 1596726000000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "WAVE",
+        "creator": "niki",
+        "lyricist": "niki",
+        "composer": "niki",
+        "arranger": "niki"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 523,
-    "seq": 99999512,
+    "seq": 99999513,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15790,7 +15922,7 @@
   },
   {
     "id": 524,
-    "seq": 99999513,
+    "seq": 99999514,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -15823,7 +15955,7 @@
   },
   {
     "id": 525,
-    "seq": 99999514,
+    "seq": 99999515,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15856,7 +15988,7 @@
   },
   {
     "id": 527,
-    "seq": 99999516,
+    "seq": 99999517,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15888,8 +16020,41 @@
     "isFullLength": false
   },
   {
-    "id": 530,
+    "id": 529,
     "seq": 99999518,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "カルチャ",
+    "pronunciation": "かるちゃ",
+    "creatorArtistId": 145,
+    "lyricist": "ツミキ",
+    "composer": "ツミキ",
+    "arranger": "ツミキ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_529",
+    "publishedAt": 1763964000000,
+    "releasedAt": 1289919600000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "컬처",
+        "creator": "츠미키",
+        "lyricist": "츠미키",
+        "composer": "츠미키",
+        "arranger": "츠미키"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 530,
+    "seq": 99999519,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15922,7 +16087,7 @@
   },
   {
     "id": 531,
-    "seq": 99999519,
+    "seq": 99999520,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15955,7 +16120,7 @@
   },
   {
     "id": 532,
-    "seq": 99999520,
+    "seq": 99999521,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15988,7 +16153,7 @@
   },
   {
     "id": 533,
-    "seq": 99999521,
+    "seq": 99999522,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16021,7 +16186,7 @@
   },
   {
     "id": 536,
-    "seq": 99999523,
+    "seq": 99999524,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16054,7 +16219,7 @@
   },
   {
     "id": 538,
-    "seq": 99999525,
+    "seq": 99999526,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -16090,7 +16255,7 @@
   },
   {
     "id": 541,
-    "seq": 99999527,
+    "seq": 99999528,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16123,7 +16288,7 @@
   },
   {
     "id": 542,
-    "seq": 99999528,
+    "seq": 99999529,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16156,7 +16321,7 @@
   },
   {
     "id": 543,
-    "seq": 99999529,
+    "seq": 99999530,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16189,7 +16354,7 @@
   },
   {
     "id": 544,
-    "seq": 99999530,
+    "seq": 99999531,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16222,7 +16387,7 @@
   },
   {
     "id": 545,
-    "seq": 99999531,
+    "seq": 99999532,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16255,7 +16420,7 @@
   },
   {
     "id": 546,
-    "seq": 99999532,
+    "seq": 99999533,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -16288,7 +16453,7 @@
   },
   {
     "id": 548,
-    "seq": 99999533,
+    "seq": 99999534,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -16309,11 +16474,11 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "ぼくのかみさま",
-        "creator": "羽生まゐご",
-        "lyricist": "羽生まゐご",
-        "composer": "羽生まゐご",
-        "arranger": "羽生まゐご"
+        "title": "나의 카미사마",
+        "creator": "Maigo Hanyuu",
+        "lyricist": "Maigo Hanyuu",
+        "composer": "Maigo Hanyuu",
+        "arranger": "Maigo Hanyuu"
       }
     ],
     "isNewlyWrittenMusic": true,
@@ -16321,7 +16486,7 @@
   },
   {
     "id": 549,
-    "seq": 99999534,
+    "seq": 99999535,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -16354,7 +16519,7 @@
   },
   {
     "id": 553,
-    "seq": 99999536,
+    "seq": 99999537,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16927,7 +17092,7 @@
   },
   {
     "id": 10001,
-    "seq": 99999583,
+    "seq": 99999584,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16960,7 +17125,7 @@
   },
   {
     "id": 10002,
-    "seq": 99999584,
+    "seq": 99999585,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16993,7 +17158,7 @@
   },
   {
     "id": 10003,
-    "seq": 99999585,
+    "seq": 99999586,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17026,7 +17191,7 @@
   },
   {
     "id": 10004,
-    "seq": 99999586,
+    "seq": 99999587,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17059,7 +17224,7 @@
   },
   {
     "id": 10005,
-    "seq": 99999587,
+    "seq": 99999588,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17095,7 +17260,7 @@
   },
   {
     "id": 10006,
-    "seq": 99999588,
+    "seq": 99999589,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17128,7 +17293,7 @@
   },
   {
     "id": 10007,
-    "seq": 99999589,
+    "seq": 99999590,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17164,7 +17329,7 @@
   },
   {
     "id": 10008,
-    "seq": 99999590,
+    "seq": 99999591,
     "releaseConditionId": 5,
     "categories": [
       {

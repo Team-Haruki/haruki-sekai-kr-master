@@ -2352,6 +2352,70 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 372,
+    "gachaId": 611,
+    "name": "[MEIKO] HAPPY ANNIVERSARY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1765432800000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 373,
+    "gachaId": 615,
+    "name": "낙엽이 흩날리는 티 룸에서 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1766199600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 374,
+    "gachaId": 616,
+    "name": "[재등장] 가을밤 깊어 가는 황혼 녘에 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1766286000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 375,
+    "gachaId": 617,
+    "name": "[재등장] 하늘하늘 흔들리는 소녀 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1766286000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 376,
+    "gachaId": 618,
+    "name": "[시노노메 아키토] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1766037600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 377,
+    "gachaId": 622,
+    "name": "[3.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1767063600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 378,
+    "gachaId": 624,
+    "name": "That flower, once more 뽑기 스티커",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1768014000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 379,
+    "gachaId": 626,
+    "name": "[히노모리 시즈쿠] HAPPY BIRTHDAY 뽑기 스티커",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1768111200000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 392,
     "gachaId": 657,
     "name": "[극장판] 리컬렉션 뽑기 스티커",
