@@ -123,9 +123,9 @@
   {
     "id": 17,
     "keyMissionId": 104,
-    "startAt": 1762268400000,
-    "endAt": 1762873199000,
-    "assetbundleName": "limit_meiko_2022",
+    "startAt": 1762149600000,
+    "endAt": 1762862399000,
+    "assetbundleName": "limitmission_miku_25",
     "iconAssetbundleName": "limitmission_meiko",
     "distributionEndAt": 1764169199000
   }
