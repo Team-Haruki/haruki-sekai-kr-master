@@ -63294,48 +63294,6 @@
     "characterId": 19
   },
   {
-    "voice": "system_autumn_020_008A",
-    "expression": "face_smile_02",
-    "motion": "w-cute02-forward",
-    "publishedAt": 1756620000000,
-    "weight": 1,
-    "assetbundleName": "voicepack_20",
-    "unit": "school_refusal",
-    "specialSeasonId": null,
-    "serif": "에나랑 몽블랑을 먹으러 갔는데\n에나 동생이랑 안네가 있더라고!\n여섯이서 같이 먹었어. 재밌었지~",
-    "id": 4625,
-    "closedAt": 1764482400000,
-    "characterId": 20
-  },
-  {
-    "voice": "system_autumn_020_003",
-    "expression": "face_smile_01",
-    "motion": "w-cool10-nod",
-    "publishedAt": 1756620000000,
-    "weight": 1,
-    "assetbundleName": "voicepack_20",
-    "unit": "school_refusal",
-    "specialSeasonId": null,
-    "serif": "가을은 뭐의 계절이라고들 하는데\n나한텐 귀여움의 계절이려나?\n뭐, 꼭 가을일 필요는 없지만♪",
-    "id": 4626,
-    "closedAt": 1764482400000,
-    "characterId": 20
-  },
-  {
-    "voice": "system_autumn_020_001",
-    "expression": "face_smile_01",
-    "motion": "w-cute02-nodB",
-    "publishedAt": 1756620000000,
-    "weight": 1,
-    "assetbundleName": "voicepack_20",
-    "unit": "school_refusal",
-    "specialSeasonId": null,
-    "serif": "아, 그렇지. 잎이 떨어지기\n시작한 나무 같은 건 괜찮은\n동영상 소재가 될 것 같네.",
-    "id": 4627,
-    "closedAt": 1764482400000,
-    "characterId": 20
-  },
-  {
     "voice": "partvoice_30_021_piapro",
     "expression": "face_smile_05",
     "motion": "w-normal03-nod",

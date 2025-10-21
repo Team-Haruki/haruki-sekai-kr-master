@@ -14919,39 +14919,6 @@
     "isFullLength": false
   },
   {
-    "id": 482,
-    "seq": 99999473,
-    "releaseConditionId": 5,
-    "categories": [
-      {
-        "musicCategoryName": "original"
-      }
-    ],
-    "title": "だめにんげんだ!",
-    "pronunciation": "だめにんげんだ!",
-    "creatorArtistId": 245,
-    "lyricist": "薄塩指数",
-    "composer": "薄塩指数",
-    "arranger": "薄塩指数",
-    "dancerCount": 1,
-    "selfDancerPosition": 0,
-    "assetbundleName": "jacket_s_482",
-    "publishedAt": 1763618400000,
-    "releasedAt": 1561388400000,
-    "fillerSec": 7.992000102996826,
-    "infos": [
-      {
-        "title": "답 없는 인간이다!",
-        "creator": "Usushioshisuu",
-        "lyricist": "Usushioshisuu",
-        "composer": "Usushioshisuu",
-        "arranger": "Usushioshisuu"
-      }
-    ],
-    "isNewlyWrittenMusic": false,
-    "isFullLength": false
-  },
-  {
     "id": 483,
     "seq": 99999474,
     "releaseConditionId": 5,
@@ -15018,39 +14985,6 @@
     "isFullLength": false
   },
   {
-    "id": 486,
-    "seq": 99999477,
-    "releaseConditionId": 5,
-    "categories": [
-      {
-        "musicCategoryName": "image"
-      }
-    ],
-    "title": "おぎゃりないざー",
-    "pronunciation": "おぎゃりないざー",
-    "creatorArtistId": 143,
-    "lyricist": "Ponchi♪",
-    "composer": "Ponchi♪",
-    "arranger": "Ponchi♪",
-    "dancerCount": 1,
-    "selfDancerPosition": 0,
-    "assetbundleName": "jacket_s_486",
-    "publishedAt": 1763704800000,
-    "releasedAt": 1698591600000,
-    "fillerSec": 8.164999961853027,
-    "infos": [
-      {
-        "title": "응애나이저",
-        "creator": "Ponchi♪",
-        "lyricist": "Ponchi♪",
-        "composer": "Ponchi♪",
-        "arranger": "Ponchi♪"
-      }
-    ],
-    "isNewlyWrittenMusic": false,
-    "isFullLength": false
-  },
-  {
     "id": 487,
     "seq": 99999478,
     "releaseConditionId": 5,
@@ -15106,11 +15040,11 @@
     "fillerSec": 9.170999526977539,
     "infos": [
       {
-        "title": "488",
-        "creator": "作詞者",
-        "lyricist": "作詞者1",
-        "composer": "作曲者1",
-        "arranger": "編曲者1"
+        "title": "메모리아",
+        "creator": "Aira",
+        "lyricist": "Aira",
+        "composer": "Aira",
+        "arranger": "Aira"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -15175,11 +15109,11 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "카시이 모이미",
+        "title": "Cat Loving",
         "creator": "카시이 모이미",
         "lyricist": "카시이 모이미",
         "composer": "카시이 모이미",
-        "arranger": "編曲者1"
+        "arranger": "카시이 모이미"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -15783,39 +15717,6 @@
         "lyricist": "하라구치 사스케",
         "composer": "하라구치 사스케",
         "arranger": "하라구치 사스케"
-      }
-    ],
-    "isNewlyWrittenMusic": false,
-    "isFullLength": false
-  },
-  {
-    "id": 517,
-    "seq": 99999507,
-    "releaseConditionId": 5,
-    "categories": [
-      {
-        "musicCategoryName": "image"
-      }
-    ],
-    "title": "メリーゴーラウンド",
-    "pronunciation": "めりーごーらうんど",
-    "creatorArtistId": 84,
-    "lyricist": "加賀（ネギシャワーＰ）",
-    "composer": "加賀（ネギシャワーＰ）",
-    "arranger": "加賀（ネギシャワーＰ）",
-    "dancerCount": 1,
-    "selfDancerPosition": 0,
-    "assetbundleName": "jacket_s_517",
-    "publishedAt": 1763791200000,
-    "releasedAt": 1708786800000,
-    "fillerSec": 9.517200469970703,
-    "infos": [
-      {
-        "title": "merry-go-round",
-        "creator": "카가(네기샤워P)",
-        "lyricist": "카가(네기샤워P)",
-        "composer": "카가(네기샤워P)",
-        "arranger": "카가(네기샤워P)"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -17021,6 +16922,114 @@
       }
     ],
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 622,
+    "seq": 3751601,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "超ナイト・オブ・ナイツ",
+    "pronunciation": "ちょうないと・おぶ・ないつ",
+    "creatorArtistId": 240,
+    "lyricist": "-",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "arranger": "ビートまりお×まろん",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_622",
+    "publishedAt": 1763618400000,
+    "releasedAt": 1746370800000,
+    "fillerSec": 8.68910026550293,
+    "infos": [
+      {
+        "title": "超ナイト・オブ・ナイツ",
+        "creator": "ビートまりお×まろん",
+        "lyricist": "-",
+        "composer": "ZUN（上海アリス幻樂団）",
+        "arranger": "ビートまりお×まろん"
+      }
+    ],
+    "musicCollaborationId": 6,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 623,
+    "seq": 1551501,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
+    ],
+    "title": "とうほう☆ワンダーランド",
+    "pronunciation": "とうほうわんだーらんど",
+    "creatorArtistId": 240,
+    "lyricist": "ビートまりお×まろん",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "arranger": "ビートまりお×まろん、東京アクティブNEETs",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_623",
+    "publishedAt": 1763704800000,
+    "releasedAt": 1746284400000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "とうほう☆ワンダーランド",
+        "creator": "ビートまりお×まろん",
+        "lyricist": "ビートまりお×まろん",
+        "composer": "ZUN（上海アリス幻樂団）",
+        "arranger": "ビートまりお×まろん、東京アクティブNEETs"
+      }
+    ],
+    "musicCollaborationId": 6,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 624,
+    "seq": 1151401,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      },
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "チルノのパーフェクトさんすう学園",
+    "pronunciation": "ちるののぱーふぇくとさんすうがくえん",
+    "creatorArtistId": 240,
+    "lyricist": "ビートまりお×まろん、夕野ヨシミ (IOSYS)",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "arranger": "ビートまりお×まろん、ARM (IOSYS)",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_624",
+    "publishedAt": 1763791200000,
+    "releasedAt": 1746198000000,
+    "fillerSec": 10.556099891662598,
+    "infos": [
+      {
+        "title": "チルノのパーフェクトさんすう学園",
+        "creator": "ビートまりお×まろん",
+        "lyricist": "ビートまりお×まろん、夕野ヨシミ (IOSYS)",
+        "composer": "ZUN（上海アリス幻樂団）",
+        "arranger": "ビートまりお×まろん、ARM (IOSYS)"
+      }
+    ],
+    "musicCollaborationId": 6,
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {

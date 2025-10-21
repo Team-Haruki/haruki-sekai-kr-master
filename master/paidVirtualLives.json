@@ -1155,6 +1155,17 @@
     "backgroundAssetbundleName": "vl_archive_bg_22"
   },
   {
+    "id": 2101,
+    "virtualLiveId": 319,
+    "virtualLivePart": 0,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "light_sound"
+    ],
+    "iconAssetbundleName": "vl_archive_icon_2101",
+    "backgroundAssetbundleName": "vl_archive_bg_16"
+  },
+  {
     "id": 2102,
     "virtualLiveId": 321,
     "virtualLivePart": 0,

@@ -903,10 +903,10 @@
     "limitMissionGroupId": 17,
     "id": 99,
     "seq": 1,
-    "limitMissionType": "clear_live_miku_leader",
+    "limitMissionType": "clear_live_meiko_leader",
     "requirement": 15,
     "sentence": "MEIKO를 리더로 편성하여\n라이브 15회 플레이하기",
-    "resourceBoxId": 100021
+    "resourceBoxId": 100016
   },
   {
     "limitMissionGroupId": 17,
@@ -915,7 +915,7 @@
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
     "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
-    "resourceBoxId": 100022
+    "resourceBoxId": 100045
   },
   {
     "limitMissionGroupId": 17,
@@ -952,6 +952,6 @@
     "requirement": 5,
     "sentence": "MEIKO의 기념일 축제 한정 미션 모두 클리어하기",
     "resourceBoxId": 100026,
-    "selectableRewardGroupId": 1007
+    "selectableRewardGroupId": 1001
   }
 ]
