@@ -3860,6 +3860,10 @@
     "musicTag": "all"
   },
   {
+    "musicId": 482,
+    "musicTag": "all"
+  },
+  {
     "musicId": 483,
     "musicTag": "all"
   },
@@ -3948,6 +3952,10 @@
     "musicTag": "all"
   },
   {
+    "musicId": 506,
+    "musicTag": "all"
+  },
+  {
     "musicId": 507,
     "musicTag": "all"
   },
@@ -3965,6 +3973,10 @@
   },
   {
     "musicId": 515,
+    "musicTag": "all"
+  },
+  {
+    "musicId": 516,
     "musicTag": "all"
   },
   {
@@ -3989,10 +4001,6 @@
   },
   {
     "musicId": 527,
-    "musicTag": "all"
-  },
-  {
-    "musicId": 529,
     "musicTag": "all"
   },
   {
@@ -4572,6 +4580,10 @@
     "musicTag": "vocaloid"
   },
   {
+    "musicId": 482,
+    "musicTag": "idol"
+  },
+  {
     "musicId": 450,
     "musicTag": "theme_park"
   },
@@ -4628,6 +4640,10 @@
     "musicTag": "vocaloid"
   },
   {
+    "musicId": 516,
+    "musicTag": "vocaloid"
+  },
+  {
     "musicId": 474,
     "musicTag": "idol"
   },
@@ -4640,6 +4656,10 @@
     "musicTag": "vocaloid"
   },
   {
+    "musicId": 506,
+    "musicTag": "theme_park"
+  },
+  {
     "musicId": 525,
     "musicTag": "vocaloid"
   },
@@ -4650,10 +4670,6 @@
   {
     "musicId": 495,
     "musicTag": "idol"
-  },
-  {
-    "musicId": 529,
-    "musicTag": "vocaloid"
   },
   {
     "musicId": 532,
