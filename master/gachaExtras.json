@@ -295,6 +295,11 @@
     "gachaExtraResourceDisplayType": "normal"
   },
   {
+    "id": 60,
+    "resourceBoxId": 49,
+    "gachaExtraResourceDisplayType": "normal"
+  },
+  {
     "id": 65,
     "resourceBoxId": 54,
     "gachaExtraResourceDisplayType": "normal"
@@ -302,6 +307,11 @@
   {
     "id": 66,
     "resourceBoxId": 55,
+    "gachaExtraResourceDisplayType": "normal"
+  },
+  {
+    "id": 67,
+    "resourceBoxId": 1010,
     "gachaExtraResourceDisplayType": "normal"
   }
 ]
