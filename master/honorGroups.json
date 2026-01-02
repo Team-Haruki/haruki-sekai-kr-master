@@ -2828,7 +2828,7 @@
   },
   {
     "id": 463,
-    "name": "クリスマス2024",
+    "name": "크리스마스 2025",
     "pronunciation": "くりすます2024",
     "honorType": "event"
   },
@@ -3355,6 +3355,13 @@
     "name": "가장 소중한 선율",
     "pronunciation": "가장 소중한 선율",
     "honorType": "achievement"
+  },
+  {
+    "id": 20012,
+    "name": "제2차 '세카이' 마음 랭킹 칭호",
+    "pronunciation": "제2차 '세카이' 마음 랭킹 칭호",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_season_ranking2"
   },
   {
     "id": 100016,
