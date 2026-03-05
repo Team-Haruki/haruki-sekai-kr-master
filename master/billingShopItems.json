@@ -8112,6 +8112,21 @@
     "billingShopTabChildId": 301
   },
   {
+    "id": 1704,
+    "seq": 1704,
+    "billingShopItemType": "value_set",
+    "name": "39! Thank You 세트",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1019",
+    "resourceBoxId": 1190,
+    "startAt": 1772938800000,
+    "endAt": 1773327599000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 204
+  },
+  {
     "id": 10173,
     "seq": 430000,
     "billingShopItemType": "value_set",
@@ -10534,6 +10549,21 @@
     "assetbundleName": "shop_300680",
     "resourceBoxId": 341,
     "startAt": 1761793200000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 301
+  },
+  {
+    "id": 300990,
+    "seq": 300990,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "2025년 미쿠의 날 기념 한정 의상인",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300990",
+    "resourceBoxId": 515,
+    "startAt": 1772982000000,
     "purchaseOption": "exchange",
     "billingShopTabChildId": 301
   },
