@@ -13,10 +13,6 @@
         "value": 3.0
       },
       {
-        "bonusType": "exp_unit",
-        "value": 2.0
-      },
-      {
         "bonusType": "exp_card",
         "value": 2.0
       }
@@ -57,10 +53,6 @@
         "value": 3.0
       },
       {
-        "bonusType": "exp_unit",
-        "value": 2.0
-      },
-      {
         "bonusType": "exp_card",
         "value": 2.0
       }
@@ -99,10 +91,6 @@
         "resourceType": "material",
         "resourceId": 14,
         "value": 3.0
-      },
-      {
-        "bonusType": "exp_unit",
-        "value": 2.0
       },
       {
         "bonusType": "exp_card",
@@ -149,10 +137,6 @@
         "resourceType": "material",
         "resourceId": 17,
         "value": 3.0
-      },
-      {
-        "bonusType": "exp_unit",
-        "value": 2.0
       },
       {
         "bonusType": "exp_card",
@@ -205,10 +189,6 @@
         "value": 3.0
       },
       {
-        "bonusType": "exp_unit",
-        "value": 2.0
-      },
-      {
         "bonusType": "exp_card",
         "value": 2.0
       }
@@ -257,10 +237,6 @@
         "resourceType": "material",
         "resourceId": 17,
         "value": 3.0
-      },
-      {
-        "bonusType": "exp_unit",
-        "value": 2.0
       },
       {
         "bonusType": "exp_card",
