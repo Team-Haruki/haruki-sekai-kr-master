@@ -30251,27 +30251,6 @@
     "archivePublishedAt": 1768370400000
   },
   {
-    "id": 1139,
-    "musicId": 582,
-    "musicVocalType": "original_song",
-    "seq": 101,
-    "releaseConditionId": 5,
-    "caption": "버추얼 싱어 ver.",
-    "characters": [
-      {
-        "id": 2007,
-        "musicId": 582,
-        "musicVocalId": 1139,
-        "characterType": "game_character",
-        "characterId": 21,
-        "seq": 5820
-      }
-    ],
-    "assetbundleName": "vs_0582_01",
-    "archiveDisplayType": "normal",
-    "archivePublishedAt": 1770703200000
-  },
-  {
     "id": 1142,
     "musicId": 585,
     "musicVocalType": "original_song",
@@ -32959,7 +32938,7 @@
     ],
     "assetbundleName": "an_0392_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1773900000000
+    "archivePublishedAt": 1777528800000
   },
   {
     "id": 1422,
@@ -39438,7 +39417,7 @@
     ],
     "assetbundleName": "an_0277_03",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1773900000000
+    "archivePublishedAt": 1777528800000
   },
   {
     "id": 1615,
@@ -39459,7 +39438,7 @@
     ],
     "assetbundleName": "an_0277_04",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1773900000000
+    "archivePublishedAt": 1777528800000
   },
   {
     "id": 1616,
@@ -39480,7 +39459,7 @@
     ],
     "assetbundleName": "an_0277_05",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1773900000000
+    "archivePublishedAt": 1777528800000
   },
   {
     "id": 1617,
@@ -39583,7 +39562,7 @@
     ],
     "assetbundleName": "an_0457_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1773900000000
+    "archivePublishedAt": 1777528800000
   },
   {
     "id": 1625,
@@ -39604,7 +39583,7 @@
     ],
     "assetbundleName": "an_0457_02",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1773900000000
+    "archivePublishedAt": 1777528800000
   },
   {
     "id": 1626,
@@ -39625,7 +39604,7 @@
     ],
     "assetbundleName": "an_0457_03",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1773900000000
+    "archivePublishedAt": 1777528800000
   },
   {
     "id": 1634,
@@ -39675,7 +39654,7 @@
     ],
     "assetbundleName": "an_0469_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1773900000000
+    "archivePublishedAt": 1777528800000
   },
   {
     "id": 1682,
