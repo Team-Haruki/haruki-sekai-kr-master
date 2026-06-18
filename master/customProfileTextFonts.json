@@ -1,52 +1,52 @@
 [
   {
+    "fontName": "FOT-RodinNTLGPro-DB",
     "id": 1,
-    "name": "퓨어 1",
-    "fontName": "FOT-RodinNTLGPro-DB"
+    "name": "퓨어 1"
   },
   {
+    "fontName": "FOT-SkipProN-B",
     "id": 2,
-    "name": "퓨어 2",
-    "fontName": "FOT-SkipProN-B"
+    "name": "퓨어 2"
   },
   {
+    "fontName": "FOT-PopHappinessStd-EB",
     "id": 3,
-    "name": "해피 1",
-    "fontName": "FOT-PopHappinessStd-EB"
+    "name": "해피 1"
   },
   {
+    "fontName": "FOT-HummingPro-B",
     "id": 4,
-    "name": "해피 2",
-    "fontName": "FOT-HummingPro-B"
+    "name": "해피 2"
   },
   {
+    "fontName": "FOT-BabyPopStd-EB",
     "id": 5,
-    "name": "큐트 1",
-    "fontName": "FOT-BabyPopStd-EB"
+    "name": "큐트 1"
   },
   {
+    "fontName": "FOT-YurukaStd-UB",
     "id": 6,
-    "name": "큐트 2",
-    "fontName": "FOT-YurukaStd-UB"
+    "name": "큐트 2"
   },
   {
+    "fontName": "FOT-LyraStd-DB",
     "id": 7,
-    "name": "미스테리어스 1",
-    "fontName": "FOT-LyraStd-DB"
+    "name": "미스테리어스 1"
   },
   {
+    "fontName": "FOT-PalRetronStd-B",
     "id": 8,
-    "name": "미스테리어스 2",
-    "fontName": "FOT-PalRetronStd-B"
+    "name": "미스테리어스 2"
   },
   {
+    "fontName": "FOT-UDMinchoPro-B",
     "id": 9,
-    "name": "쿨 1",
-    "fontName": "FOT-UDMinchoPro-B"
+    "name": "쿨 1"
   },
   {
+    "fontName": "FOT-GrecoStd-B",
     "id": 10,
-    "name": "쿨 2",
-    "fontName": "FOT-GrecoStd-B"
+    "name": "쿨 2"
   }
 ]

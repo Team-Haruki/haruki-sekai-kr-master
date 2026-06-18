@@ -1,1248 +1,1248 @@
 [
   {
-    "limitMissionGroupId": 2,
     "id": 9,
-    "seq": 1,
+    "limitMissionGroupId": 2,
     "limitMissionType": "clear_multi_live",
     "requirement": 20,
-    "sentence": "‘멀티 라이브’ 20회 플레이하기",
     "resourceBoxId": 100009,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "‘멀티 라이브’ 20회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 2,
     "id": 10,
-    "seq": 1,
+    "limitMissionGroupId": 2,
     "limitMissionType": "clear_live_boost",
     "requirement": 150,
-    "sentence": "라이브 보너스 150개 사용하기\n(‘라이브’의 ‘설정’에서 라이브 보너스 사용 수 변경 가능)",
     "resourceBoxId": 100010,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "라이브 보너스 150개 사용하기\n(‘라이브’의 ‘설정’에서 라이브 보너스 사용 수 변경 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 2,
     "id": 11,
-    "seq": 1,
+    "limitMissionGroupId": 2,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
-    "sentence": "‘챌린지 라이브’ 5회 플레이하기",
     "resourceBoxId": 100011,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "‘챌린지 라이브’ 5회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 2,
     "id": 12,
-    "seq": 1,
+    "limitMissionGroupId": 2,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
-    "sentence": "이벤트 교환소에서 3회 교환하기",
     "resourceBoxId": 100012,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 2,
     "id": 13,
-    "seq": 1,
+    "limitMissionGroupId": 2,
     "limitMissionType": "live_mission_reward",
     "requirement": 10,
-    "sentence": "라이브 미션 보상 10회 받기\n",
     "resourceBoxId": 100013,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "라이브 미션 보상 10회 받기\n",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 2,
     "id": 14,
-    "seq": 1,
+    "limitMissionGroupId": 2,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "50만 명 돌파 기념 기간 한정 미션 모두 클리어하기",
     "resourceBoxId": 100014,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "50만 명 돌파 기념 기간 한정 미션 모두 클리어하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 3,
     "id": 15,
-    "seq": 1,
+    "limitMissionGroupId": 3,
     "limitMissionType": "clear_live_boost",
     "requirement": 150,
-    "sentence": "라이브 보너스 150개 사용하기\n('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
     "resourceBoxId": 100015,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "라이브 보너스 150개 사용하기\n('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 3,
     "id": 16,
-    "seq": 1,
+    "limitMissionGroupId": 3,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
-    "sentence": " '챌린지 라이브' 5회 플레이하기",
     "resourceBoxId": 100016,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '챌린지 라이브' 5회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 3,
     "id": 17,
-    "seq": 1,
+    "limitMissionGroupId": 3,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
-    "sentence": "이벤트 교환소에서 3회 교환하기",
     "resourceBoxId": 100017,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 3,
     "id": 18,
-    "seq": 1,
+    "limitMissionGroupId": 3,
     "limitMissionType": "master_rank",
     "requirement": 1,
-    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
     "resourceBoxId": 100018,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 3,
     "id": 19,
-    "seq": 1,
+    "limitMissionGroupId": 3,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
-    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 3,
     "id": 20,
-    "seq": 1,
+    "limitMissionGroupId": 3,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "100만 명 돌파 기념 기간 한정 미션 모두 클리어하기",
     "resourceBoxId": 100020,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "100만 명 돌파 기념 기간 한정 미션 모두 클리어하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 4,
     "id": 21,
-    "seq": 1,
+    "limitMissionGroupId": 4,
     "limitMissionType": "clear_live_miku_leader",
     "requirement": 15,
-    "sentence": " '하츠네 미쿠'를 리더로 편성하여 \n 라이브 15회 플레이하기",
     "resourceBoxId": 100021,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '하츠네 미쿠'를 리더로 편성하여 \n 라이브 15회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 4,
     "id": 22,
-    "seq": 1,
+    "limitMissionGroupId": 4,
     "limitMissionType": "clear_live_boost",
     "requirement": 100,
-    "sentence": " 라이브 보너스 100개 사용하기\n ('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
     "resourceBoxId": 100022,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 라이브 보너스 100개 사용하기\n ('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 4,
     "id": 23,
-    "seq": 1,
+    "limitMissionGroupId": 4,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
-    "sentence": " 이벤트 교환소에서 3회 교환하기",
     "resourceBoxId": 100023,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 이벤트 교환소에서 3회 교환하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 4,
     "id": 24,
-    "seq": 1,
+    "limitMissionGroupId": 4,
     "limitMissionType": "character_rank_miku",
     "requirement": 5,
-    "sentence": " 하츠네 미쿠 캐릭터 레벨 5 달성하기",
     "resourceBoxId": 100024,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 하츠네 미쿠 캐릭터 레벨 5 달성하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 4,
     "id": 25,
-    "seq": 1,
+    "limitMissionGroupId": 4,
     "limitMissionType": "clear_solo_challenge_live_miku",
     "requirement": 3,
-    "sentence": " 하츠네 미쿠로 챌린지 라이브 3회 플레이하기",
     "resourceBoxId": 100025,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 하츠네 미쿠로 챌린지 라이브 3회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 4,
     "id": 26,
-    "seq": 1,
+    "limitMissionGroupId": 4,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": " 하츠네 미쿠의 모든 기념일 한정 미션 완료하기",
     "resourceBoxId": 100026,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 하츠네 미쿠의 모든 기념일 한정 미션 완료하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 5,
     "id": 27,
-    "seq": 1,
+    "limitMissionGroupId": 5,
     "limitMissionType": "clear_live_boost",
     "requirement": 150,
-    "sentence": " 라이브 보너스 150개 사용하기\n(‘라이브’의 ‘설정’에서 라이브 보너스 사용 수 변경 가능) ",
     "resourceBoxId": 100015,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 라이브 보너스 150개 사용하기\n(‘라이브’의 ‘설정’에서 라이브 보너스 사용 수 변경 가능) ",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 5,
     "id": 28,
-    "seq": 1,
+    "limitMissionGroupId": 5,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
-    "sentence": " ‘챌린지 라이브’ 5회 플레이하기",
     "resourceBoxId": 100016,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " ‘챌린지 라이브’ 5회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 5,
     "id": 29,
-    "seq": 1,
+    "limitMissionGroupId": 5,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
-    "sentence": " 이벤트 교환소에서 3회 교환하기",
     "resourceBoxId": 100017,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 이벤트 교환소에서 3회 교환하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 5,
     "id": 30,
-    "seq": 1,
+    "limitMissionGroupId": 5,
     "limitMissionType": "master_rank",
     "requirement": 1,
-    "sentence": " 아무 멤버의 마스터 랭크 1회 올리기",
     "resourceBoxId": 100018,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 아무 멤버의 마스터 랭크 1회 올리기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 5,
     "id": 31,
-    "seq": 1,
+    "limitMissionGroupId": 5,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
-    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 5,
     "id": 32,
-    "seq": 1,
+    "limitMissionGroupId": 5,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": " 200만 명 돌파 기념 기간 한정 미션 모두 클리어하기",
     "resourceBoxId": 100020,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 200만 명 돌파 기념 기간 한정 미션 모두 클리어하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 6,
     "id": 33,
-    "seq": 1,
+    "limitMissionGroupId": 6,
     "limitMissionType": "clear_live_meiko_leader",
     "requirement": 15,
-    "sentence": "'MEIKO'를 리더로 편성하여 \n라이브 15회 플레이하기",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "'MEIKO'를 리더로 편성하여 \n라이브 15회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 6,
     "id": 34,
-    "seq": 1,
+    "limitMissionGroupId": 6,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
-    "sentence": "'마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
     "resourceBoxId": 100015,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "'마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 6,
     "id": 35,
-    "seq": 1,
+    "limitMissionGroupId": 6,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
-    "sentence": "이벤트 교환소에서 3회 교환하기",
     "resourceBoxId": 100027,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 6,
     "id": 36,
-    "seq": 1,
+    "limitMissionGroupId": 6,
     "limitMissionType": "character_rank_meiko",
     "requirement": 5,
-    "sentence": "MEIKO 캐릭터 랭크 5 달성하기",
     "resourceBoxId": 100028,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "MEIKO 캐릭터 랭크 5 달성하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 6,
     "id": 37,
-    "seq": 1,
+    "limitMissionGroupId": 6,
     "limitMissionType": "clear_solo_challenge_live_meiko",
     "requirement": 3,
-    "sentence": "MEIKO 로 챌린지 라이브 3회 플레이하기",
     "resourceBoxId": 100029,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "MEIKO 로 챌린지 라이브 3회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 6,
     "id": 38,
-    "seq": 1,
+    "limitMissionGroupId": 6,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "MEIKO 의 모든 기념일 한정 미션 완료하기",
     "resourceBoxId": 100030,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "MEIKO 의 모든 기념일 한정 미션 완료하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 7,
     "id": 39,
-    "seq": 1,
+    "limitMissionGroupId": 7,
     "limitMissionType": "clear_multi_live",
     "requirement": 30,
-    "sentence": " '멀티 라이브'나 '치어풀 라이브'를 30회 플레이하기",
     "resourceBoxId": 100015,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '멀티 라이브'나 '치어풀 라이브'를 30회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 7,
     "id": 40,
-    "seq": 1,
+    "limitMissionGroupId": 7,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
-    "sentence": " '챌린지 라이브' 5회 플레이하기",
     "resourceBoxId": 100031,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '챌린지 라이브' 5회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 7,
     "id": 41,
-    "seq": 1,
+    "limitMissionGroupId": 7,
     "limitMissionType": "friend_share",
     "requirement": 1,
-    "sentence": " 공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
     "resourceBoxId": 100017,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 7,
     "id": 42,
-    "seq": 1,
+    "limitMissionGroupId": 7,
     "limitMissionType": "master_rank",
     "requirement": 1,
-    "sentence": " 아무 멤버의 마스터 랭크 1회 올리기",
     "resourceBoxId": 100018,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 아무 멤버의 마스터 랭크 1회 올리기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 7,
     "id": 43,
-    "seq": 1,
+    "limitMissionGroupId": 7,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
-    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 7,
     "id": 44,
-    "seq": 1,
+    "limitMissionGroupId": 7,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": " 하프 애니버서리의 기간 한정 미션을 모두 클리어하기",
     "resourceBoxId": 100032,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 하프 애니버서리의 기간 한정 미션을 모두 클리어하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 8,
     "id": 45,
-    "seq": 1,
+    "limitMissionGroupId": 8,
     "limitMissionType": "clear_live_kagamine_leader",
     "requirement": 15,
-    "sentence": "카가미네 린과 카가미네 렌으로 유닛을 편성하여 라이브 15회 플레이하기",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "카가미네 린과 카가미네 렌으로 유닛을 편성하여 라이브 15회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 8,
     "id": 46,
-    "seq": 1,
+    "limitMissionGroupId": 8,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
-    "sentence": "마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
     "resourceBoxId": 100015,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 8,
     "id": 47,
-    "seq": 1,
+    "limitMissionGroupId": 8,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
-    "sentence": "이벤트 교환소에서 3회 교환하기",
     "resourceBoxId": 100027,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 8,
     "id": 48,
-    "seq": 1,
+    "limitMissionGroupId": 8,
     "limitMissionType": "character_rank_kagamine",
     "requirement": 5,
-    "sentence": "카가미네 린과 카가미네 렌 모두 캐릭터 랭크 5 달성하기",
     "resourceBoxId": 100033,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "카가미네 린과 카가미네 렌 모두 캐릭터 랭크 5 달성하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 8,
     "id": 49,
-    "seq": 1,
+    "limitMissionGroupId": 8,
     "limitMissionType": "master_rank",
     "requirement": 1,
-    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
     "resourceBoxId": 100025,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 8,
     "id": 50,
-    "seq": 1,
+    "limitMissionGroupId": 8,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "카가미네 린과 카가미네 렌의 모든 기념일 한정 미션 완료하기",
     "resourceBoxId": 100034,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "카가미네 린과 카가미네 렌의 모든 기념일 한정 미션 완료하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 9,
     "id": 51,
-    "seq": 1,
+    "limitMissionGroupId": 9,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
-    "sentence": " '챌린지 라이브 ' 5회 플레이하기",
     "resourceBoxId": 100003,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '챌린지 라이브 ' 5회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 9,
     "id": 52,
-    "seq": 1,
+    "limitMissionGroupId": 9,
     "limitMissionType": "clear_virtual_live",
     "requirement": 1,
-    "sentence": "공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
     "resourceBoxId": 100035,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 9,
     "id": 53,
-    "seq": 1,
+    "limitMissionGroupId": 9,
     "limitMissionType": "use_virtual_item",
     "requirement": 10,
-    "sentence": " '버추얼 라이브'에서 버추얼 아이템을 10회 사용하세요.",
     "resourceBoxId": 100027,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '버추얼 라이브'에서 버추얼 아이템을 10회 사용하세요.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 9,
     "id": 54,
-    "seq": 1,
+    "limitMissionGroupId": 9,
     "limitMissionType": "friend_share",
     "requirement": 1,
-    "sentence": "공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 9,
     "id": 55,
-    "seq": 1,
+    "limitMissionGroupId": 9,
     "limitMissionType": "master_rank",
     "requirement": 1,
-    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
     "resourceBoxId": 100018,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 9,
     "id": 56,
-    "seq": 1,
+    "limitMissionGroupId": 9,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "위 미션들을 모두 통과하세요.",
     "resourceBoxId": 100031,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "위 미션들을 모두 통과하세요.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 10,
     "id": 57,
-    "seq": 1,
+    "limitMissionGroupId": 10,
     "limitMissionType": "clear_live_luka_leader",
     "requirement": 15,
-    "sentence": " '메구리네 루카'를 리더로 편성하여 \n라이브 15회 플레이하기",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '메구리네 루카'를 리더로 편성하여 \n라이브 15회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 10,
     "id": 58,
-    "seq": 1,
+    "limitMissionGroupId": 10,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
-    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
     "resourceBoxId": 100015,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 10,
     "id": 59,
-    "seq": 1,
+    "limitMissionGroupId": 10,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
-    "sentence": "이벤트 교환소에서 3회 교환하기",
     "resourceBoxId": 100027,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 10,
     "id": 60,
-    "seq": 1,
+    "limitMissionGroupId": 10,
     "limitMissionType": "character_rank_luka",
     "requirement": 5,
-    "sentence": "메구리네 루카 캐릭터 랭크 5 달성하기",
     "resourceBoxId": 100036,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "메구리네 루카 캐릭터 랭크 5 달성하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 10,
     "id": 61,
-    "seq": 1,
+    "limitMissionGroupId": 10,
     "limitMissionType": "master_rank",
     "requirement": 1,
-    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
     "resourceBoxId": 100025,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 10,
     "id": 62,
-    "seq": 1,
+    "limitMissionGroupId": 10,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "메구리네 루카의 모든 기념일 한정 미션 완료하기",
     "resourceBoxId": 100037,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "메구리네 루카의 모든 기념일 한정 미션 완료하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 11,
     "id": 63,
-    "seq": 1,
+    "limitMissionGroupId": 11,
     "limitMissionType": "clear_live_kaito_leader",
     "requirement": 15,
-    "sentence": " 'KAITO'를 리더로 편성하여 \n라이브 15회 플레이하기",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 'KAITO'를 리더로 편성하여 \n라이브 15회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 11,
     "id": 64,
-    "seq": 1,
+    "limitMissionGroupId": 11,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
-    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
     "resourceBoxId": 100015,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 11,
     "id": 65,
-    "seq": 1,
+    "limitMissionGroupId": 11,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
-    "sentence": "이벤트 교환소에서 3회 교환하기",
     "resourceBoxId": 100027,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 11,
     "id": 66,
-    "seq": 1,
+    "limitMissionGroupId": 11,
     "limitMissionType": "character_rank_kaito",
     "requirement": 5,
-    "sentence": "KAITO 캐릭터 랭크 5 달성하기",
     "resourceBoxId": 100038,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "KAITO 캐릭터 랭크 5 달성하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 11,
     "id": 67,
-    "seq": 1,
-    "limitMissionType": "master_rank",
-    "requirement": 1,
-    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
-    "resourceBoxId": 100025,
-    "selectableRewardGroupId": 0
-  },
-  {
     "limitMissionGroupId": 11,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "resourceBoxId": 100025,
+    "selectableRewardGroupId": 0,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
+    "seq": 1
+  },
+  {
     "id": 68,
-    "seq": 1,
+    "limitMissionGroupId": 11,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "KAITO의 모든 기념일 한정 미션 완료하기",
     "resourceBoxId": 100039,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "KAITO의 모든 기념일 한정 미션 완료하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 12,
     "id": 69,
-    "seq": 1,
+    "limitMissionGroupId": 12,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
+    "resourceBoxId": 100003,
+    "selectableRewardGroupId": 0,
     "sentence": " '챌린지 라이브'  5회 플레이하기",
-    "resourceBoxId": 100003,
-    "selectableRewardGroupId": 0
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 12,
     "id": 70,
-    "seq": 1,
+    "limitMissionGroupId": 12,
     "limitMissionType": "clear_virtual_live",
     "requirement": 1,
+    "resourceBoxId": 100035,
+    "selectableRewardGroupId": 0,
     "sentence": " '버추얼 라이브' 1회 참가하기",
-    "resourceBoxId": 100035,
-    "selectableRewardGroupId": 0
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 12,
     "id": 71,
-    "seq": 1,
+    "limitMissionGroupId": 12,
     "limitMissionType": "use_virtual_item",
     "requirement": 10,
-    "sentence": " '버추얼 라이브'에서 버추얼 아이템을 10회 사용하세요.",
     "resourceBoxId": 100027,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '버추얼 라이브'에서 버추얼 아이템을 10회 사용하세요.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 12,
     "id": 72,
-    "seq": 1,
+    "limitMissionGroupId": 12,
     "limitMissionType": "friend_share",
     "requirement": 1,
+    "resourceBoxId": 100019,
+    "selectableRewardGroupId": 0,
     "sentence": " 공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
-    "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 12,
     "id": 73,
-    "seq": 1,
+    "limitMissionGroupId": 12,
     "limitMissionType": "master_rank",
     "requirement": 1,
-    "sentence": " 아무 멤버의 마스터 랭크 1회 올리기",
     "resourceBoxId": 100018,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 아무 멤버의 마스터 랭크 1회 올리기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 12,
     "id": 74,
-    "seq": 1,
+    "limitMissionGroupId": 12,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": " 위 미션들을 모두 통과하세요.",
     "resourceBoxId": 100040,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 위 미션들을 모두 통과하세요.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 13,
     "id": 75,
-    "seq": 1,
+    "limitMissionGroupId": 13,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
-    "sentence": " '챌린지 라이브 ' 5회 플레이하기.",
     "resourceBoxId": 100003,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '챌린지 라이브 ' 5회 플레이하기.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 13,
     "id": 76,
-    "seq": 1,
+    "limitMissionGroupId": 13,
     "limitMissionType": "clear_virtual_live",
     "requirement": 1,
-    "sentence": " '버추얼 라이브' 1회 참가하기.",
     "resourceBoxId": 100035,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '버추얼 라이브' 1회 참가하기.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 13,
     "id": 77,
-    "seq": 1,
+    "limitMissionGroupId": 13,
     "limitMissionType": "use_virtual_item",
     "requirement": 10,
-    "sentence": " '버추얼 라이브'에서 버추얼 아이템을 10회 사용하세요.",
     "resourceBoxId": 100027,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '버추얼 라이브'에서 버추얼 아이템을 10회 사용하세요.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 13,
     "id": 78,
-    "seq": 1,
+    "limitMissionGroupId": 13,
     "limitMissionType": "friend_share",
     "requirement": 1,
-    "sentence": "공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 13,
     "id": 79,
-    "seq": 1,
+    "limitMissionGroupId": 13,
     "limitMissionType": "master_rank",
     "requirement": 1,
-    "sentence": "아무 멤버의 마스터 랭크 1회 올리기.",
     "resourceBoxId": 100018,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 13,
     "id": 80,
-    "seq": 1,
+    "limitMissionGroupId": 13,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "위 미션들을 모두 통과하세요.",
     "resourceBoxId": 100041,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "위 미션들을 모두 통과하세요.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 14,
     "id": 81,
-    "seq": 1,
+    "limitMissionGroupId": 14,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
-    "sentence": " '챌린지 라이브 ' 5회 플레이하기.",
     "resourceBoxId": 100041,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '챌린지 라이브 ' 5회 플레이하기.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 14,
     "id": 82,
-    "seq": 1,
+    "limitMissionGroupId": 14,
     "limitMissionType": "clear_virtual_live",
     "requirement": 1,
-    "sentence": " '버추얼 라이브' 1회 참가하기.",
     "resourceBoxId": 100035,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '버추얼 라이브' 1회 참가하기.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 14,
     "id": 83,
-    "seq": 1,
+    "limitMissionGroupId": 14,
     "limitMissionType": "use_virtual_item",
     "requirement": 10,
-    "sentence": " '버추얼 라이브'에서 버추얼 아이템을 10회 사용하세요.",
     "resourceBoxId": 100027,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '버추얼 라이브'에서 버추얼 아이템을 10회 사용하세요.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 14,
     "id": 84,
-    "seq": 1,
+    "limitMissionGroupId": 14,
     "limitMissionType": "clear_live_boost",
     "requirement": 30,
-    "sentence": " 라이브 보너스 30개 사용하기\n ('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 라이브 보너스 30개 사용하기\n ('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 14,
     "id": 85,
-    "seq": 1,
+    "limitMissionGroupId": 14,
     "limitMissionType": "master_rank",
     "requirement": 1,
-    "sentence": "아무 멤버의 마스터 랭크 1회 올리기.",
     "resourceBoxId": 100018,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 14,
     "id": 86,
-    "seq": 1,
+    "limitMissionGroupId": 14,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "위 미션들을 모두 통과하세요.",
     "resourceBoxId": 100042,
-    "selectableRewardGroupId": 999
+    "selectableRewardGroupId": 999,
+    "sentence": "위 미션들을 모두 통과하세요.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 15,
     "id": 87,
-    "seq": 1,
+    "limitMissionGroupId": 15,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
-    "sentence": "'챌린지 라이브' 5회 플레이하기.",
     "resourceBoxId": 100041,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "'챌린지 라이브' 5회 플레이하기.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 15,
     "id": 88,
-    "seq": 1,
+    "limitMissionGroupId": 15,
     "limitMissionType": "clear_multi_live",
     "requirement": 10,
-    "sentence": "'멀티 라이브' 10회 플레이하기",
     "resourceBoxId": 100035,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "'멀티 라이브' 10회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 15,
     "id": 89,
-    "seq": 1,
+    "limitMissionGroupId": 15,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
-    "sentence": "이벤트 교환소에서 3회 교환하기",
     "resourceBoxId": 100027,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 15,
     "id": 90,
-    "seq": 1,
+    "limitMissionGroupId": 15,
     "limitMissionType": "clear_live_boost",
     "requirement": 30,
-    "sentence": "라이브 보너스 30개 사용하기\n ('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
     "resourceBoxId": 100019,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "라이브 보너스 30개 사용하기\n ('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 15,
     "id": 91,
-    "seq": 1,
+    "limitMissionGroupId": 15,
     "limitMissionType": "master_rank",
     "requirement": 1,
-    "sentence": "아무 멤버의 마스터 랭크 1회 올리기.",
     "resourceBoxId": 100018,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 15,
     "id": 92,
-    "seq": 1,
+    "limitMissionGroupId": 15,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "위 미션들을 모두 통과하세요.",
     "resourceBoxId": 100043,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": "위 미션들을 모두 통과하세요.",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 16,
     "id": 93,
-    "seq": 1,
+    "limitMissionGroupId": 16,
     "limitMissionType": "clear_live_miku_leader",
     "requirement": 15,
-    "sentence": " '하츠네 미쿠'를 리더로 편성하여 \n 라이브 15회 플레이하기",
     "resourceBoxId": 100021,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '하츠네 미쿠'를 리더로 편성하여 \n 라이브 15회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 16,
     "id": 94,
-    "seq": 1,
+    "limitMissionGroupId": 16,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
-    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
     "resourceBoxId": 100022,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 16,
     "id": 95,
-    "seq": 1,
+    "limitMissionGroupId": 16,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
-    "sentence": " 이벤트 교환소에서 3회 교환하기",
     "resourceBoxId": 100023,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 이벤트 교환소에서 3회 교환하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 16,
     "id": 96,
-    "seq": 1,
+    "limitMissionGroupId": 16,
     "limitMissionType": "character_rank_miku",
     "requirement": 5,
-    "sentence": " 하츠네 미쿠 캐릭터 레벨 5 달성하기",
     "resourceBoxId": 100024,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 하츠네 미쿠 캐릭터 레벨 5 달성하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 16,
     "id": 97,
-    "seq": 1,
+    "limitMissionGroupId": 16,
     "limitMissionType": "clear_solo_challenge_live_miku",
     "requirement": 3,
-    "sentence": " 하츠네 미쿠로 챌린지 라이브 3회 플레이하기",
     "resourceBoxId": 100025,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 0,
+    "sentence": " 하츠네 미쿠로 챌린지 라이브 3회 플레이하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 16,
     "id": 98,
-    "seq": 1,
+    "limitMissionGroupId": 16,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": " 하츠네 미쿠의 모든 기념일 한정 미션 완료하기",
     "resourceBoxId": 100026,
-    "selectableRewardGroupId": 1000
+    "selectableRewardGroupId": 1000,
+    "sentence": " 하츠네 미쿠의 모든 기념일 한정 미션 완료하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 17,
     "id": 99,
-    "seq": 1,
+    "limitMissionGroupId": 17,
     "limitMissionType": "clear_live_meiko_leader",
     "requirement": 15,
+    "resourceBoxId": 100016,
     "sentence": "MEIKO를 리더로 편성하여\n라이브 15회 플레이하기",
-    "resourceBoxId": 100016
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 17,
     "id": 100,
-    "seq": 1,
+    "limitMissionGroupId": 17,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
+    "resourceBoxId": 100045,
     "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
-    "resourceBoxId": 100045
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 17,
     "id": 101,
-    "seq": 1,
+    "limitMissionGroupId": 17,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
+    "resourceBoxId": 100044,
     "sentence": "이벤트 교환소에서 3회 교환하기",
-    "resourceBoxId": 100044
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 17,
     "id": 102,
-    "seq": 1,
+    "limitMissionGroupId": 17,
     "limitMissionType": "character_rank_meiko",
     "requirement": 5,
+    "resourceBoxId": 100028,
     "sentence": "MEIKO의 캐릭터 랭크 5 달성하기",
-    "resourceBoxId": 100028
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 17,
     "id": 103,
-    "seq": 1,
+    "limitMissionGroupId": 17,
     "limitMissionType": "clear_solo_challenge_live_meiko",
     "requirement": 3,
+    "resourceBoxId": 100025,
     "sentence": "MEIKO로 챌린지 라이브 1회 클리어하기",
-    "resourceBoxId": 100025
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 17,
     "id": 104,
-    "seq": 1,
+    "limitMissionGroupId": 17,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "MEIKO의 기념일 축제 한정 미션 모두 클리어하기",
     "resourceBoxId": 100026,
-    "selectableRewardGroupId": 1001
+    "selectableRewardGroupId": 1001,
+    "sentence": "MEIKO의 기념일 축제 한정 미션 모두 클리어하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 18,
     "id": 105,
-    "seq": 1,
+    "limitMissionGroupId": 18,
     "limitMissionType": "clear_live_kagamine_leader",
     "requirement": 15,
+    "resourceBoxId": 100016,
     "sentence": "카가미네 린과 카가미네 렌으로 편성하여 라이브 15회 플레이하기",
-    "resourceBoxId": 100016
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 18,
     "id": 106,
-    "seq": 1,
+    "limitMissionGroupId": 18,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
+    "resourceBoxId": 100045,
     "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
-    "resourceBoxId": 100045
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 18,
     "id": 107,
-    "seq": 1,
+    "limitMissionGroupId": 18,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
+    "resourceBoxId": 100044,
     "sentence": "이벤트 교환소에서 3회 교환하기",
-    "resourceBoxId": 100044
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 18,
     "id": 108,
-    "seq": 1,
+    "limitMissionGroupId": 18,
     "limitMissionType": "character_rank_kagamine",
     "requirement": 5,
+    "resourceBoxId": 100047,
     "sentence": "카가미네 린과 카가미네 렌의 캐릭터 랭크 5 달성하기",
-    "resourceBoxId": 100047
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 18,
     "id": 109,
-    "seq": 1,
+    "limitMissionGroupId": 18,
     "limitMissionType": "master_rank",
     "requirement": 1,
+    "resourceBoxId": 100046,
     "sentence": "멤버의 마스터 랭크 누적 1회 랭크 업 하기",
-    "resourceBoxId": 100046
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 18,
     "id": 110,
-    "seq": 1,
+    "limitMissionGroupId": 18,
     "limitMissionType": "clear_virtual_live",
     "requirement": 1,
+    "resourceBoxId": 100025,
     "sentence": "버추얼 라이브' 1회 참가하기",
-    "resourceBoxId": 100025
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 18,
     "id": 111,
-    "seq": 1,
+    "limitMissionGroupId": 18,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 7,
-    "sentence": "카가미네 린 또는 카가미네 렌의 기념일 축제 한정 미션 모두 클리어하기",
     "resourceBoxId": 100026,
-    "selectableRewardGroupId": 1002
+    "selectableRewardGroupId": 1002,
+    "sentence": "카가미네 린 또는 카가미네 렌의 기념일 축제 한정 미션 모두 클리어하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 19,
     "id": 112,
-    "seq": 1,
+    "limitMissionGroupId": 19,
     "limitMissionType": "clear_live_luka_leader",
     "requirement": 15,
+    "resourceBoxId": 100016,
     "sentence": "메구리네 루카를 리더로 편성하여\n라이브 15회 플레이하기",
-    "resourceBoxId": 100016
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 19,
     "id": 113,
-    "seq": 1,
+    "limitMissionGroupId": 19,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
+    "resourceBoxId": 100045,
     "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
-    "resourceBoxId": 100045
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 19,
     "id": 114,
-    "seq": 1,
+    "limitMissionGroupId": 19,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
+    "resourceBoxId": 100044,
     "sentence": "이벤트 교환소에서 3회 교환하기",
-    "resourceBoxId": 100044
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 19,
     "id": 115,
-    "seq": 1,
+    "limitMissionGroupId": 19,
     "limitMissionType": "character_rank_luka",
     "requirement": 5,
+    "resourceBoxId": 100036,
     "sentence": "메구리네 루카의 캐릭터 랭크 5 달성하기",
-    "resourceBoxId": 100036
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 19,
     "id": 116,
-    "seq": 1,
+    "limitMissionGroupId": 19,
     "limitMissionType": "clear_solo_challenge_live_luka",
     "requirement": 3,
+    "resourceBoxId": 100025,
     "sentence": "메구리네 루카로 챌린지 라이브 3회 클리어하기",
-    "resourceBoxId": 100025
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 19,
     "id": 117,
-    "seq": 1,
+    "limitMissionGroupId": 19,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "메구리네 루카의 기념일 축제 한정 미션 모두 클리어하기",
     "resourceBoxId": 100026,
-    "selectableRewardGroupId": 1003
+    "selectableRewardGroupId": 1003,
+    "sentence": "메구리네 루카의 기념일 축제 한정 미션 모두 클리어하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 20,
     "id": 118,
-    "seq": 1,
+    "limitMissionGroupId": 20,
     "limitMissionType": "buy_music",
     "requirement": 1,
+    "resourceBoxId": 100027,
     "sentence": "음반 상점에서 악곡 1회 교환하기",
-    "resourceBoxId": 100027
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 20,
     "id": 119,
-    "seq": 1,
+    "limitMissionGroupId": 20,
     "limitMissionType": "clear_maimai_music",
     "requirement": 10,
+    "resourceBoxId": 100048,
     "sentence": "컬래버레이션 악곡 10회 플레이하기",
-    "resourceBoxId": 100048
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 20,
     "id": 120,
-    "seq": 1,
+    "limitMissionGroupId": 20,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 3,
+    "resourceBoxId": 100015,
     "sentence": "'챌린지 라이브' 3회 플레이하기",
-    "resourceBoxId": 100015
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 20,
     "id": 121,
-    "seq": 1,
+    "limitMissionGroupId": 20,
     "limitMissionType": "clear_multi_live",
     "requirement": 5,
+    "resourceBoxId": 100049,
     "sentence": "'멀티 라이브' 5회 플레이하기",
-    "resourceBoxId": 100049
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 20,
     "id": 122,
-    "seq": 1,
+    "limitMissionGroupId": 20,
     "limitMissionType": "clear_virtual_live",
     "requirement": 1,
+    "resourceBoxId": 100003,
     "sentence": "'버추얼 라이브' 1회 참가하기",
-    "resourceBoxId": 100003
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 20,
     "id": 123,
-    "seq": 1,
+    "limitMissionGroupId": 20,
     "limitMissionType": "friend_share",
     "requirement": 1,
+    "resourceBoxId": 100019,
     "sentence": "공유 기능 1회 사용하기(공유 버튼은 '라이브 결과 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
-    "resourceBoxId": 100019
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 20,
     "id": 124,
-    "seq": 1,
+    "limitMissionGroupId": 20,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 6,
+    "resourceBoxId": 100050,
     "sentence": "위 미션들 모두 통과하기",
-    "resourceBoxId": 100050
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 21,
     "id": 125,
-    "seq": 1,
+    "limitMissionGroupId": 21,
     "limitMissionType": "clear_live_kaito_leader",
     "requirement": 15,
+    "resourceBoxId": 100016,
     "sentence": "KAITO를 리더로 편성하여\n라이브 15회 플레이하기",
-    "resourceBoxId": 100016
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 21,
     "id": 126,
-    "seq": 1,
+    "limitMissionGroupId": 21,
     "limitMissionType": "master_piece_exchange",
     "requirement": 1,
+    "resourceBoxId": 100045,
     "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
-    "resourceBoxId": 100045
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 21,
     "id": 127,
-    "seq": 1,
+    "limitMissionGroupId": 21,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
+    "resourceBoxId": 100044,
     "sentence": "이벤트 교환소에서 3회 교환하기",
-    "resourceBoxId": 100044
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 21,
     "id": 128,
-    "seq": 1,
+    "limitMissionGroupId": 21,
     "limitMissionType": "character_rank_kaito",
     "requirement": 5,
+    "resourceBoxId": 100038,
     "sentence": "KAITO의 캐릭터 랭크 5 달성하기",
-    "resourceBoxId": 100038
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 21,
     "id": 129,
-    "seq": 1,
+    "limitMissionGroupId": 21,
     "limitMissionType": "clear_solo_challenge_live_kaito",
     "requirement": 3,
+    "resourceBoxId": 100025,
     "sentence": "KAITO로 챌린지 라이브 3회 클리어하기",
-    "resourceBoxId": 100025
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 21,
     "id": 130,
-    "seq": 1,
+    "limitMissionGroupId": 21,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
-    "sentence": "KAITO의 기념일 축제 한정 미션 모두 클리어하기",
     "resourceBoxId": 100026,
-    "selectableRewardGroupId": 1004
+    "selectableRewardGroupId": 1004,
+    "sentence": "KAITO의 기념일 축제 한정 미션 모두 클리어하기",
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 22,
     "id": 131,
-    "seq": 1,
+    "limitMissionGroupId": 22,
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
+    "resourceBoxId": 100041,
     "sentence": "'챌린지 라이브' 5회 플레이하기.",
-    "resourceBoxId": 100041
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 22,
     "id": 132,
-    "seq": 1,
+    "limitMissionGroupId": 22,
     "limitMissionType": "clear_multi_live",
     "requirement": 10,
+    "resourceBoxId": 100035,
     "sentence": "'멀티 라이브' 10회 플레이하기",
-    "resourceBoxId": 100035
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 22,
     "id": 133,
-    "seq": 1,
+    "limitMissionGroupId": 22,
     "limitMissionType": "buy_event_item",
     "requirement": 3,
+    "resourceBoxId": 100027,
     "sentence": "이벤트 교환소에서 3회 교환하기",
-    "resourceBoxId": 100027
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 22,
     "id": 134,
-    "seq": 1,
+    "limitMissionGroupId": 22,
     "limitMissionType": "clear_live_boost",
     "requirement": 30,
+    "resourceBoxId": 100019,
     "sentence": "라이브 보너스 30개 사용하기\n ('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
-    "resourceBoxId": 100019
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 22,
     "id": 135,
-    "seq": 1,
+    "limitMissionGroupId": 22,
     "limitMissionType": "master_rank",
     "requirement": 1,
+    "resourceBoxId": 100018,
     "sentence": "아무 멤버의 마스터 랭크 1회 올리기.",
-    "resourceBoxId": 100018
+    "seq": 1
   },
   {
-    "limitMissionGroupId": 22,
     "id": 136,
-    "seq": 1,
+    "limitMissionGroupId": 22,
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
+    "resourceBoxId": 100043,
     "sentence": "위 미션들을 모두 통과하세요.",
-    "resourceBoxId": 100043
+    "seq": 1
   }
 ]

@@ -1,1430 +1,1424 @@
 [
   {
-    "id": 1,
-    "groupId": 1,
-    "title": "세카이에 어서 와 대작전!!",
     "assetbundleName": "friend_invitation",
-    "startAt": 1700449200000,
-    "progressEndAt": 1702306799000,
-    "receiveRewardEndAt": 1703170799000,
     "closedAt": 1703429999000,
+    "groupId": 1,
+    "id": 1,
     "missions": [
       {
         "id": 1,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 1,
         "reward": [
           {
-            "id": 1,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 1,
             "resourceBoxId": 1
           }
         ]
       },
       {
         "id": 2,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 2,
         "reward": [
           {
-            "id": 2,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 2,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 3,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 3,
         "reward": [
           {
-            "id": 3,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 3,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 4,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 4,
         "reward": [
           {
-            "id": 4,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 4,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 5,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 5,
         "reward": [
           {
-            "id": 5,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 5,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 6,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 6,
         "reward": [
           {
-            "id": 6,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 6,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 7,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 7,
         "reward": [
           {
-            "id": 7,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 7,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 8,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 8,
         "reward": [
           {
-            "id": 8,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 8,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 9,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 9,
         "reward": [
           {
-            "id": 9,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 9,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 10,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 10,
         "reward": [
           {
-            "id": 10,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 10,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 11,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 1,
         "reward": [
           {
-            "id": 11,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 11,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 12,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 2,
         "reward": [
           {
-            "id": 12,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 12,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 13,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 3,
         "reward": [
           {
-            "id": 1,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 1,
             "resourceBoxId": 1
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1703170799000
+    "progressEndAt": 1702306799000,
+    "rewardReceiveEndAt": 1703170799000,
+    "startAt": 1700449200000,
+    "title": "세카이에 어서 와 대작전!!"
   },
   {
-    "id": 2,
-    "groupId": 2,
-    "title": "[2주년 기념]세카이에 어서 와 대작전!!",
     "assetbundleName": "friend_invitation",
-    "startAt": 1716174000000,
-    "progressEndAt": 1718290799000,
-    "receiveRewardEndAt": 1719154799000,
     "closedAt": 1719413999000,
+    "groupId": 2,
+    "id": 2,
     "missions": [
       {
         "id": 14,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 1,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 27,
             "resourceBoxId": 5
           },
           {
-            "id": 28,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 28,
             "resourceBoxId": 6
           },
           {
-            "id": 29,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 29,
             "resourceBoxId": 7
           },
           {
-            "id": 30,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 30,
             "resourceBoxId": 8
           }
         ]
       },
       {
         "id": 15,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 2,
         "reward": [
           {
-            "id": 16,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 16,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 16,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 3,
         "reward": [
           {
-            "id": 17,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 17,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 17,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 4,
         "reward": [
           {
-            "id": 18,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 18,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 18,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 5,
         "reward": [
           {
-            "id": 19,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 19,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 19,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 6,
         "reward": [
           {
-            "id": 20,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 20,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 20,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 7,
         "reward": [
           {
-            "id": 21,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 21,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 21,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 8,
         "reward": [
           {
-            "id": 22,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 22,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 22,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 9,
         "reward": [
           {
-            "id": 23,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 23,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 23,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 10,
         "reward": [
           {
-            "id": 24,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 24,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 24,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 1,
         "reward": [
           {
-            "id": 25,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 25,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 25,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 2,
         "reward": [
           {
-            "id": 26,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 26,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 26,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 3,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 27,
             "resourceBoxId": 5
           },
           {
-            "id": 28,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 28,
             "resourceBoxId": 6
           },
           {
-            "id": 29,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 29,
             "resourceBoxId": 7
           },
           {
-            "id": 30,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 30,
             "resourceBoxId": 8
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1719154799000
+    "progressEndAt": 1718290799000,
+    "rewardReceiveEndAt": 1719154799000,
+    "startAt": 1716174000000,
+    "title": "[2주년 기념]세카이에 어서 와 대작전!!"
   },
   {
-    "id": 4,
-    "groupId": 2,
-    "title": "[brand new your world]세카이에 어서 와 대작전!!",
     "assetbundleName": "friend_invitation_4th_anniv",
-    "startAt": 1760238000000,
-    "progressEndAt": 1762268399000,
-    "receiveRewardEndAt": 1763132399000,
     "closedAt": 1763391599000,
+    "groupId": 2,
+    "id": 4,
     "missions": [
       {
         "id": 40,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 1,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 27,
             "resourceBoxId": 5
           },
           {
-            "id": 28,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 28,
             "resourceBoxId": 6
           },
           {
-            "id": 29,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 29,
             "resourceBoxId": 7
           },
           {
-            "id": 30,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 30,
             "resourceBoxId": 8
           }
         ]
       },
       {
         "id": 41,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 2,
         "reward": [
           {
-            "id": 16,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 16,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 42,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 3,
         "reward": [
           {
-            "id": 17,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 17,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 43,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 4,
         "reward": [
           {
-            "id": 18,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 18,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 44,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 5,
         "reward": [
           {
-            "id": 19,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 19,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 45,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 6,
         "reward": [
           {
-            "id": 20,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 20,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 46,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 7,
         "reward": [
           {
-            "id": 21,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 21,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 47,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 8,
         "reward": [
           {
-            "id": 22,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 22,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 48,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 9,
         "reward": [
           {
-            "id": 23,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 23,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 49,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 10,
         "reward": [
           {
-            "id": 24,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 24,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 50,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 5,
         "reward": [
           {
-            "id": 25,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 25,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 51,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 10,
         "reward": [
           {
-            "id": 26,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 26,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 52,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 20,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 27,
             "resourceBoxId": 5
           },
           {
-            "id": 28,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 28,
             "resourceBoxId": 6
           },
           {
-            "id": 29,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 29,
             "resourceBoxId": 7
           },
           {
-            "id": 30,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 30,
             "resourceBoxId": 8
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1763132399000
+    "progressEndAt": 1762268399000,
+    "rewardReceiveEndAt": 1763132399000,
+    "startAt": 1760238000000,
+    "title": "[brand new your world]세카이에 어서 와 대작전!!"
   },
   {
-    "id": 1001,
-    "groupId": 2,
-    "title": "[Brand New World]세카이에 어서 와 대작전!!",
     "assetbundleName": "friend_invitation",
-    "startAt": 1727622000000,
-    "progressEndAt": 1729781999000,
-    "receiveRewardEndAt": 1730559599000,
     "closedAt": 1732460399000,
+    "groupId": 2,
+    "id": 1001,
     "missions": [
       {
         "id": 1001,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 1,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 27,
             "resourceBoxId": 5
           },
           {
-            "id": 28,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 28,
             "resourceBoxId": 6
           },
           {
-            "id": 29,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 29,
             "resourceBoxId": 7
           },
           {
-            "id": 30,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 30,
             "resourceBoxId": 8
           }
         ]
       },
       {
         "id": 1002,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 2,
         "reward": [
           {
-            "id": 16,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 16,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1003,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 3,
         "reward": [
           {
-            "id": 17,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 17,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1004,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 4,
         "reward": [
           {
-            "id": 18,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 18,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1005,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 5,
         "reward": [
           {
-            "id": 19,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 19,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1006,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 6,
         "reward": [
           {
-            "id": 20,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 20,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1007,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 7,
         "reward": [
           {
-            "id": 21,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 21,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1008,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 8,
         "reward": [
           {
-            "id": 22,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 22,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1009,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 9,
         "reward": [
           {
-            "id": 23,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 23,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1010,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 10,
         "reward": [
           {
-            "id": 24,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 24,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1011,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 1,
         "reward": [
           {
-            "id": 25,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 25,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 1012,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 2,
         "reward": [
           {
-            "id": 26,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 26,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 1013,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 3,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 27,
             "resourceBoxId": 5
           },
           {
-            "id": 28,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 28,
             "resourceBoxId": 6
           },
           {
-            "id": 29,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 29,
             "resourceBoxId": 7
           },
           {
-            "id": 30,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 30,
             "resourceBoxId": 8
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1730559599000
+    "progressEndAt": 1729781999000,
+    "rewardReceiveEndAt": 1730559599000,
+    "startAt": 1727622000000,
+    "title": "[Brand New World]세카이에 어서 와 대작전!!"
   },
   {
-    "id": 1002,
-    "groupId": 2,
-    "title": "500만 명 돌파 기념세카이에 어서 와 대작전!!",
     "assetbundleName": "friend_invitation",
-    "startAt": 1743087600000,
-    "progressEndAt": 1746025199000,
-    "receiveRewardEndAt": 1746889199000,
     "closedAt": 1747925999000,
+    "groupId": 2,
+    "id": 1002,
     "missions": [
       {
         "id": 1014,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 1,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 27,
             "resourceBoxId": 5
           },
           {
-            "id": 28,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 28,
             "resourceBoxId": 6
           },
           {
-            "id": 29,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 29,
             "resourceBoxId": 7
           },
           {
-            "id": 30,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 30,
             "resourceBoxId": 8
           }
         ]
       },
       {
         "id": 1015,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 2,
         "reward": [
           {
-            "id": 16,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 16,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1016,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 3,
         "reward": [
           {
-            "id": 17,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 17,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1017,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 4,
         "reward": [
           {
-            "id": 18,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 18,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1018,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 5,
         "reward": [
           {
-            "id": 19,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 19,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1019,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 6,
         "reward": [
           {
-            "id": 20,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 20,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1020,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 7,
         "reward": [
           {
-            "id": 21,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 21,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1021,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 8,
         "reward": [
           {
-            "id": 22,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 22,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1022,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 9,
         "reward": [
           {
-            "id": 23,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 23,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1023,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 10,
         "reward": [
           {
-            "id": 24,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 24,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1024,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 1,
         "reward": [
           {
-            "id": 25,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 25,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 1025,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 2,
         "reward": [
           {
-            "id": 26,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 26,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 1026,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 3,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 27,
             "resourceBoxId": 5
           },
           {
-            "id": 28,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 28,
             "resourceBoxId": 6
           },
           {
-            "id": 29,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 29,
             "resourceBoxId": 7
           },
           {
-            "id": 30,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 30,
             "resourceBoxId": 8
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1746889199000
+    "progressEndAt": 1746025199000,
+    "rewardReceiveEndAt": 1746889199000,
+    "startAt": 1743087600000,
+    "title": "500만 명 돌파 기념세카이에 어서 와 대작전!!"
   },
   {
-    "id": 1003,
-    "groupId": 2,
-    "title": "700만 명 돌파 기념세카이에 어서 와 대작전!!",
     "assetbundleName": "friend_invitation_4th_anniv",
-    "startAt": 1774580400000,
-    "progressEndAt": 1776697199000,
-    "receiveRewardEndAt": 1777561199000,
     "closedAt": 1777820399000,
+    "groupId": 2,
+    "id": 1003,
     "missions": [
       {
         "id": 1027,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 1,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 27,
             "resourceBoxId": 5
           },
           {
-            "id": 28,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 28,
             "resourceBoxId": 6
           },
           {
-            "id": 29,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 29,
             "resourceBoxId": 7
           },
           {
-            "id": 30,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 30,
             "resourceBoxId": 8
           }
         ]
       },
       {
         "id": 1028,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 2,
         "reward": [
           {
-            "id": 16,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 16,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1029,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 3,
         "reward": [
           {
-            "id": 17,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 17,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1030,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 4,
         "reward": [
           {
-            "id": 18,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 18,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1031,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 5,
         "reward": [
           {
-            "id": 19,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 19,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1032,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 6,
         "reward": [
           {
-            "id": 20,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 20,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1033,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 7,
         "reward": [
           {
-            "id": 21,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 21,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1034,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 8,
         "reward": [
           {
-            "id": 22,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 22,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1035,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 9,
         "reward": [
           {
-            "id": 23,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 23,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1036,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "초대자 임무",
         "requirement": 10,
         "reward": [
           {
-            "id": 24,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 24,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1037,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 5,
         "reward": [
           {
-            "id": 25,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 25,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 1038,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 10,
         "reward": [
           {
-            "id": 26,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 26,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 1039,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "메인 스토리를 건너뛰지 않고 읽자",
         "requirement": 20,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 27,
             "resourceBoxId": 5
           },
           {
-            "id": 28,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 28,
             "resourceBoxId": 6
           },
           {
-            "id": 29,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 29,
             "resourceBoxId": 7
           },
           {
-            "id": 30,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 30,
             "resourceBoxId": 8
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1777561199000
+    "progressEndAt": 1776697199000,
+    "rewardReceiveEndAt": 1777561199000,
+    "startAt": 1774580400000,
+    "title": "700만 명 돌파 기념세카이에 어서 와 대작전!!"
   }
 ]

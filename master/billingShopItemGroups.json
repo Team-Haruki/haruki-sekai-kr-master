@@ -1,600 +1,600 @@
 [
   {
-    "id": 1,
-    "name": "'서브컬처 보이 스타일' 의상",
     "assetbundleName": "shop_300000",
-    "seq": 300000,
     "billingShopItemIds": [
       300000,
       300001,
       300002,
       300003,
       300004
-    ]
+    ],
+    "id": 1,
+    "name": "'서브컬처 보이 스타일' 의상",
+    "seq": 300000
   },
   {
-    "id": 3,
-    "name": "'메이드/버틀러' 의상",
     "assetbundleName": "shop_300020",
-    "seq": 300020,
     "billingShopItemIds": [
       300020,
       300021,
       300022,
       300023,
       300024
-    ]
+    ],
+    "id": 3,
+    "name": "'메이드/버틀러' 의상",
+    "seq": 300020
   },
   {
-    "id": 5,
-    "name": "'디저트' 의상",
     "assetbundleName": "shop_300060",
-    "seq": 300060,
     "billingShopItemIds": [
       300060,
       300061,
       300062,
       300063,
       300064
-    ]
+    ],
+    "id": 5,
+    "name": "'디저트' 의상",
+    "seq": 300060
   },
   {
-    "id": 6,
-    "name": "'근미래' 의상",
     "assetbundleName": "shop_300070",
-    "seq": 300070,
     "billingShopItemIds": [
       300070,
       300071,
       300072,
       300073,
       300074
-    ]
+    ],
+    "id": 6,
+    "name": "'근미래' 의상",
+    "seq": 300070
   },
   {
-    "id": 9,
-    "name": "'레스토랑' 의상",
     "assetbundleName": "shop_300110",
-    "seq": 300110,
     "billingShopItemIds": [
       300110,
       300111,
       300112,
       300113,
       300114
-    ]
+    ],
+    "id": 9,
+    "name": "'레스토랑' 의상",
+    "seq": 300110
   },
   {
-    "id": 10,
-    "name": "'해적' 의상",
     "assetbundleName": "shop_300120",
-    "seq": 300120,
     "billingShopItemIds": [
       300120,
       300121,
       300122,
       300123,
       300124
-    ]
+    ],
+    "id": 10,
+    "name": "'해적' 의상",
+    "seq": 300120
   },
   {
-    "id": 16,
-    "name": "'우주' 의상",
     "assetbundleName": "shop_300260",
-    "seq": 300260,
     "billingShopItemIds": [
       300260,
       300261,
       300262,
       300263,
       300264
-    ]
+    ],
+    "id": 16,
+    "name": "'우주' 의상",
+    "seq": 300260
   },
   {
-    "id": 18,
-    "name": "'판타지' 의상",
     "assetbundleName": "shop_300280",
-    "seq": 300280,
     "billingShopItemIds": [
       300280,
       300281,
       300282,
       300283,
       300284
-    ]
+    ],
+    "id": 18,
+    "name": "'판타지' 의상",
+    "seq": 300280
   },
   {
-    "id": 19,
-    "name": "'부활절' 의상",
     "assetbundleName": "shop_300320",
-    "seq": 300320,
     "billingShopItemIds": [
       300320,
       300321,
       300322,
       300323,
       300324
-    ]
+    ],
+    "id": 19,
+    "name": "'부활절' 의상",
+    "seq": 300320
   },
   {
-    "id": 20,
-    "name": "'힙합' 의상",
     "assetbundleName": "shop_300330",
-    "seq": 300330,
     "billingShopItemIds": [
       300330,
       300331,
       300332,
       300333,
       300334
-    ]
+    ],
+    "id": 20,
+    "name": "'힙합' 의상",
+    "seq": 300330
   },
   {
-    "id": 22,
-    "name": "'바캉스' 의상",
     "assetbundleName": "shop_300350",
-    "seq": 300350,
     "billingShopItemIds": [
       300350,
       300351,
       300352,
       300353,
       300354
-    ]
+    ],
+    "id": 22,
+    "name": "'바캉스' 의상",
+    "seq": 300350
   },
   {
-    "id": 23,
-    "name": "'외출복' 의상",
     "assetbundleName": "shop_300360",
-    "seq": 300360,
     "billingShopItemIds": [
       300360,
       300361,
       300362,
       300363,
       300364
-    ]
+    ],
+    "id": 23,
+    "name": "'외출복' 의상",
+    "seq": 300360
   },
   {
-    "id": 25,
-    "name": "'드레스 정장' 의상",
     "assetbundleName": "shop_300380",
-    "seq": 300380,
     "billingShopItemIds": [
       300380,
       300381,
       300382,
       300383,
       300384
-    ]
+    ],
+    "id": 25,
+    "name": "'드레스 정장' 의상",
+    "seq": 300380
   },
   {
-    "id": 26,
-    "name": "'요괴' 의상",
     "assetbundleName": "shop_300450",
-    "seq": 300450,
     "billingShopItemIds": [
       300450,
       300451,
       300452,
       300453,
       300454
-    ]
+    ],
+    "id": 26,
+    "name": "'요괴' 의상",
+    "seq": 300450
   },
   {
-    "id": 27,
-    "name": "'장난감' 의상",
     "assetbundleName": "shop_300470",
-    "seq": 300470,
     "billingShopItemIds": [
       300470,
       300471,
       300472,
       300473,
       300474
-    ]
+    ],
+    "id": 27,
+    "name": "'장난감' 의상",
+    "seq": 300470
   },
   {
-    "id": 36,
-    "name": "'American Casual' 의상",
     "assetbundleName": "shop_300590",
-    "seq": 300590,
     "billingShopItemIds": [
       300590,
       300591,
       300592,
       300593,
       300594
-    ]
+    ],
+    "id": 36,
+    "name": "'American Casual' 의상",
+    "seq": 300590
   },
   {
-    "id": 1000,
-    "name": "'추석' 의상",
     "assetbundleName": "shop_40014",
-    "seq": 3000000,
     "billingShopItemIds": [
       1281,
       1282,
       1283,
       1284,
       1285
-    ]
+    ],
+    "id": 1000,
+    "name": "'추석' 의상",
+    "seq": 3000000
   },
   {
-    "id": 1001,
-    "name": "'천사' 의상",
     "assetbundleName": "shop_40015",
-    "seq": 3000001,
     "billingShopItemIds": [
       1286,
       1287,
       1288,
       1289,
       1290
-    ]
+    ],
+    "id": 1001,
+    "name": "'천사' 의상",
+    "seq": 3000001
   },
   {
-    "id": 1002,
-    "name": "  '초콜릿 과자 콘셉트' 의상",
     "assetbundleName": "shop_40013",
-    "seq": 3000002,
     "billingShopItemIds": [
       1303,
       1304,
       1305,
       1306,
       1307
-    ]
+    ],
+    "id": 1002,
+    "name": "  '초콜릿 과자 콘셉트' 의상",
+    "seq": 3000002
   },
   {
-    "id": 1003,
-    "name": " '2022 크리스마스' 오리지널 의상  ",
     "assetbundleName": "shop_40017",
-    "seq": 3000003,
     "billingShopItemIds": [
       1319,
       1320,
       1321,
       1322,
       1323
-    ]
+    ],
+    "id": 1003,
+    "name": " '2022 크리스마스' 오리지널 의상  ",
+    "seq": 3000003
   },
   {
-    "id": 1004,
-    "name": "'2023새해' 의상　",
     "assetbundleName": "shop_1335",
-    "seq": 3000004,
     "billingShopItemIds": [
       1335,
       1338,
       1339,
       1340,
       1341
-    ]
+    ],
+    "id": 1004,
+    "name": "'2023새해' 의상　",
+    "seq": 3000004
   },
   {
-    "id": 1006,
-    "name": "'봄의 식물' 의상",
     "assetbundleName": "shop_1362",
-    "seq": 3000006,
     "billingShopItemIds": [
       1362,
       1363,
       1364,
       1365,
       1366
-    ]
+    ],
+    "id": 1006,
+    "name": "'봄의 식물' 의상",
+    "seq": 3000006
   },
   {
-    "id": 1007,
-    "name": "'여름 바캉스' 의상",
     "assetbundleName": "shop_1381",
-    "seq": 3000007,
     "billingShopItemIds": [
       1381,
       1382,
       1383,
       1384,
       1385
-    ]
+    ],
+    "id": 1007,
+    "name": "'여름 바캉스' 의상",
+    "seq": 3000007
   },
   {
-    "id": 1008,
-    "name": "'핼러윈 테마' 의상",
     "assetbundleName": "shop_1422",
-    "seq": 3000008,
     "billingShopItemIds": [
       1422,
       1423,
       1424,
       1425,
       1426
-    ]
+    ],
+    "id": 1008,
+    "name": "'핼러윈 테마' 의상",
+    "seq": 3000008
   },
   {
-    "id": 1009,
-    "name": "'2024 새해' 의상 ",
     "assetbundleName": "shop_1457",
-    "seq": 3000009,
     "billingShopItemIds": [
       1455,
       1456,
       1457,
       1458,
       1459
-    ]
+    ],
+    "id": 1009,
+    "name": "'2024 새해' 의상 ",
+    "seq": 3000009
   },
   {
-    "id": 1010,
-    "name": "'보석 테마 ' 의상",
     "assetbundleName": "shop_1458",
-    "seq": 3000010,
     "billingShopItemIds": [
       1468,
       1469,
       1470,
       1471,
       1472
-    ]
+    ],
+    "id": 1010,
+    "name": "'보석 테마 ' 의상",
+    "seq": 3000010
   },
   {
-    "id": 1011,
-    "name": "'벚꽃 테마' 의상  ",
     "assetbundleName": "shop_1459",
-    "seq": 3000011,
     "billingShopItemIds": [
       1473,
       1474,
       1475,
       1476,
       1477
-    ]
+    ],
+    "id": 1011,
+    "name": "'벚꽃 테마' 의상  ",
+    "seq": 3000011
   },
   {
-    "id": 1012,
-    "name": "'별 테마' 의상  ",
     "assetbundleName": "shop_1460",
-    "seq": 3000012,
     "billingShopItemIds": [
       1478,
       1479,
       1480,
       1481,
       1482
-    ]
+    ],
+    "id": 1012,
+    "name": "'별 테마' 의상  ",
+    "seq": 3000012
   },
   {
-    "id": 1013,
-    "name": "'동화 이야기 테마' 의상  ",
     "assetbundleName": "shop_1461",
-    "seq": 3000013,
     "billingShopItemIds": [
       1483,
       1484,
       1485,
       1486,
       1487
-    ]
+    ],
+    "id": 1013,
+    "name": "'동화 이야기 테마' 의상  ",
+    "seq": 3000013
   },
   {
-    "id": 1014,
-    "name": "'천문 테마' 의상  ",
     "assetbundleName": "shop_1462",
-    "seq": 3000014,
     "billingShopItemIds": [
       1488,
       1489,
       1490,
       1491,
       1492
-    ]
+    ],
+    "id": 1014,
+    "name": "'천문 테마' 의상  ",
+    "seq": 3000014
   },
   {
-    "id": 1015,
-    "name": "'동물 테마' 의상  ",
     "assetbundleName": "shop_1463",
-    "seq": 3000015,
     "billingShopItemIds": [
       1493,
       1494,
       1495,
       1496,
       1497
-    ]
+    ],
+    "id": 1015,
+    "name": "'동물 테마' 의상  ",
+    "seq": 3000015
   },
   {
-    "id": 1016,
-    "name": "'2024 칠석 테마' 의상  ",
     "assetbundleName": "shop_1464",
-    "seq": 3000016,
     "billingShopItemIds": [
       1498,
       1499,
       1500,
       1501,
       1502
-    ]
+    ],
+    "id": 1016,
+    "name": "'2024 칠석 테마' 의상  ",
+    "seq": 3000016
   },
   {
-    "id": 1017,
-    "name": "'요정 테마' 의상  ",
     "assetbundleName": "shop_1465",
-    "seq": 3000017,
     "billingShopItemIds": [
       1503,
       1504,
       1505,
       1506,
       1507
-    ]
+    ],
+    "id": 1017,
+    "name": "'요정 테마' 의상  ",
+    "seq": 3000017
   },
   {
-    "id": 1018,
-    "name": "'작은 악마 테마' 의상  ",
     "assetbundleName": "shop_1466",
-    "seq": 3000018,
     "billingShopItemIds": [
       1508,
       1509,
       1510,
       1511,
       1512
-    ]
+    ],
+    "id": 1018,
+    "name": "'작은 악마 테마' 의상  ",
+    "seq": 3000018
   },
   {
-    "id": 1019,
-    "name": "'초콜릿 테마' 의상  ",
     "assetbundleName": "shop_1467",
-    "seq": 3000019,
     "billingShopItemIds": [
       1513,
       1514,
       1515,
       1516,
       1517
-    ]
+    ],
+    "id": 1019,
+    "name": "'초콜릿 테마' 의상  ",
+    "seq": 3000019
   },
   {
-    "id": 1020,
-    "name": "'눈 테마' 의상  ",
     "assetbundleName": "shop_1468",
-    "seq": 3000020,
     "billingShopItemIds": [
       1518,
       1519,
       1520,
       1521,
       1522
-    ]
+    ],
+    "id": 1020,
+    "name": "'눈 테마' 의상  ",
+    "seq": 3000020
   },
   {
-    "id": 1021,
-    "name": "'겨울옷' 의상",
     "assetbundleName": "shop_300710",
-    "seq": 3000021,
     "billingShopItemIds": [
       1618,
       1619,
       1620,
       1621,
       1622
-    ]
+    ],
+    "id": 1021,
+    "name": "'겨울옷' 의상",
+    "seq": 3000021
   },
   {
-    "id": 1022,
-    "name": "'오페라 하우스' 의상",
     "assetbundleName": "shop_300730",
-    "seq": 3000022,
     "billingShopItemIds": [
       1623,
       1624,
       1625,
       1626,
       1627
-    ]
+    ],
+    "id": 1022,
+    "name": "'오페라 하우스' 의상",
+    "seq": 3000022
   },
   {
-    "id": 1023,
-    "name": "스포티 스타일 의상",
     "assetbundleName": "shop_1607",
-    "seq": 3000023,
     "billingShopItemIds": [
       1628,
       1629,
       1630,
       1631,
       1632
-    ]
+    ],
+    "id": 1023,
+    "name": "스포티 스타일 의상",
+    "seq": 3000023
   },
   {
-    "id": 1024,
-    "name": "'벚꽃' 의상",
     "assetbundleName": "shop_300750",
-    "seq": 3000024,
     "billingShopItemIds": [
       1633,
       1634,
       1635,
       1636,
       1637
-    ]
+    ],
+    "id": 1024,
+    "name": "'벚꽃' 의상",
+    "seq": 3000024
   },
   {
-    "id": 1025,
-    "name": "'탐정' 의상",
     "assetbundleName": "shop_300770",
-    "seq": 3000025,
     "billingShopItemIds": [
       1638,
       1639,
       1640,
       1641,
       1642
-    ]
+    ],
+    "id": 1025,
+    "name": "'탐정' 의상",
+    "seq": 3000025
   },
   {
-    "id": 1026,
-    "name": "'비 오는 날' 의상",
     "assetbundleName": "shop_300800",
-    "seq": 3000026,
     "billingShopItemIds": [
       1643,
       1644,
       1645,
       1646,
       1647
-    ]
+    ],
+    "id": 1026,
+    "name": "'비 오는 날' 의상",
+    "seq": 3000026
   },
   {
-    "id": 1027,
-    "name": "Room Wear 의상",
     "assetbundleName": "shop_1608",
-    "seq": 3000027,
     "billingShopItemIds": [
       1648,
       1649,
       1650,
       1651,
       1652
-    ]
+    ],
+    "id": 1027,
+    "name": "Room Wear 의상",
+    "seq": 3000027
   },
   {
-    "id": 1028,
-    "name": "'티셔츠' 의상",
     "assetbundleName": "shop_300830",
-    "seq": 3000028,
     "billingShopItemIds": [
       1653,
       1654,
       1655,
       1656,
       1657
-    ]
+    ],
+    "id": 1028,
+    "name": "'티셔츠' 의상",
+    "seq": 3000028
   },
   {
-    "id": 1029,
-    "name": "'경찰관' 의상",
     "assetbundleName": "shop_300840",
-    "seq": 3000029,
     "billingShopItemIds": [
       1658,
       1659,
       1660,
       1661,
       1662
-    ]
+    ],
+    "id": 1029,
+    "name": "'경찰관' 의상",
+    "seq": 3000029
   },
   {
-    "id": 1030,
-    "name": "'펑크' 의상",
     "assetbundleName": "shop_1609",
-    "seq": 3000030,
     "billingShopItemIds": [
       1663,
       1664,
       1665,
       1666,
       1667
-    ]
+    ],
+    "id": 1030,
+    "name": "'펑크' 의상",
+    "seq": 3000030
   }
 ]

@@ -1,3994 +1,3994 @@
 [
   {
+    "honorType": "character",
     "id": 1,
     "name": "이치카 팬",
-    "pronunciation": "いちかふぁん",
-    "honorType": "character"
+    "pronunciation": "いちかふぁん"
   },
   {
+    "honorType": "character",
     "id": 2,
     "name": "사키 팬",
-    "pronunciation": "さきふぁん",
-    "honorType": "character"
+    "pronunciation": "さきふぁん"
   },
   {
+    "honorType": "character",
     "id": 3,
     "name": "호나미 팬",
-    "pronunciation": "ほなみふぁん",
-    "honorType": "character"
+    "pronunciation": "ほなみふぁん"
   },
   {
+    "honorType": "character",
     "id": 4,
     "name": "시호 팬",
-    "pronunciation": "しほふぁん",
-    "honorType": "character"
+    "pronunciation": "しほふぁん"
   },
   {
+    "honorType": "character",
     "id": 5,
     "name": "미노리 팬",
-    "pronunciation": "みのりふぁん",
-    "honorType": "character"
+    "pronunciation": "みのりふぁん"
   },
   {
+    "honorType": "character",
     "id": 6,
     "name": "하루카 팬",
-    "pronunciation": "はるかふぁん",
-    "honorType": "character"
+    "pronunciation": "はるかふぁん"
   },
   {
+    "honorType": "character",
     "id": 7,
     "name": "아이리 팬",
-    "pronunciation": "あいりふぁん",
-    "honorType": "character"
+    "pronunciation": "あいりふぁん"
   },
   {
+    "honorType": "character",
     "id": 8,
     "name": "시즈쿠 팬",
-    "pronunciation": "しずくふぁん",
-    "honorType": "character"
+    "pronunciation": "しずくふぁん"
   },
   {
+    "honorType": "character",
     "id": 9,
     "name": "코하네 팬",
-    "pronunciation": "こはねふぁん",
-    "honorType": "character"
+    "pronunciation": "こはねふぁん"
   },
   {
+    "honorType": "character",
     "id": 10,
     "name": "안 팬",
-    "pronunciation": "あんふぁん",
-    "honorType": "character"
+    "pronunciation": "あんふぁん"
   },
   {
+    "honorType": "character",
     "id": 11,
     "name": "아키토 팬",
-    "pronunciation": "あきとふぁん",
-    "honorType": "character"
+    "pronunciation": "あきとふぁん"
   },
   {
+    "honorType": "character",
     "id": 12,
     "name": "토우야 팬",
-    "pronunciation": "とうやふぁん",
-    "honorType": "character"
+    "pronunciation": "とうやふぁん"
   },
   {
+    "honorType": "character",
     "id": 13,
     "name": "츠카사 팬",
-    "pronunciation": "つかさふぁん",
-    "honorType": "character"
+    "pronunciation": "つかさふぁん"
   },
   {
+    "honorType": "character",
     "id": 14,
     "name": "에무 팬",
-    "pronunciation": "えむふぁん",
-    "honorType": "character"
+    "pronunciation": "えむふぁん"
   },
   {
+    "honorType": "character",
     "id": 15,
     "name": "네네 팬",
-    "pronunciation": "ねねふぁん",
-    "honorType": "character"
+    "pronunciation": "ねねふぁん"
   },
   {
+    "honorType": "character",
     "id": 16,
     "name": "루이 팬",
-    "pronunciation": "るいふぁん",
-    "honorType": "character"
+    "pronunciation": "るいふぁん"
   },
   {
+    "honorType": "character",
     "id": 17,
     "name": "카나데 팬",
-    "pronunciation": "かなでふぁん",
-    "honorType": "character"
+    "pronunciation": "かなでふぁん"
   },
   {
+    "honorType": "character",
     "id": 18,
     "name": "마후유 팬",
-    "pronunciation": "まふゆふぁん",
-    "honorType": "character"
+    "pronunciation": "まふゆふぁん"
   },
   {
+    "honorType": "character",
     "id": 19,
     "name": "에나 팬",
-    "pronunciation": "えなふぁん",
-    "honorType": "character"
+    "pronunciation": "えなふぁん"
   },
   {
+    "honorType": "character",
     "id": 20,
     "name": "미즈키 팬",
-    "pronunciation": "みずきふぁん",
-    "honorType": "character"
+    "pronunciation": "みずきふぁん"
   },
   {
+    "honorType": "character",
     "id": 21,
     "name": "미쿠 팬",
-    "pronunciation": "みくふぁん",
-    "honorType": "character"
+    "pronunciation": "みくふぁん"
   },
   {
+    "honorType": "character",
     "id": 22,
     "name": "린 팬",
-    "pronunciation": "りんふぁん",
-    "honorType": "character"
+    "pronunciation": "りんふぁん"
   },
   {
+    "honorType": "character",
     "id": 23,
     "name": "렌 팬",
-    "pronunciation": "れんふぁん",
-    "honorType": "character"
+    "pronunciation": "れんふぁん"
   },
   {
+    "honorType": "character",
     "id": 24,
     "name": "루카 팬",
-    "pronunciation": "るかふぁん",
-    "honorType": "character"
+    "pronunciation": "るかふぁん"
   },
   {
+    "honorType": "character",
     "id": 25,
     "name": "MEIKO 팬",
-    "pronunciation": "めいこふぁん",
-    "honorType": "character"
+    "pronunciation": "めいこふぁん"
   },
   {
+    "honorType": "character",
     "id": 26,
     "name": "KAITO 팬",
-    "pronunciation": "かいとふぁん",
-    "honorType": "character"
+    "pronunciation": "かいとふぁん"
   },
   {
+    "honorType": "achievement",
     "id": 27,
     "name": "39!",
-    "pronunciation": "39！",
-    "honorType": "achievement"
+    "pronunciation": "39！"
   },
   {
+    "honorType": "achievement",
     "id": 28,
     "name": "3939!",
-    "pronunciation": "3939！",
-    "honorType": "achievement"
+    "pronunciation": "3939！"
   },
   {
+    "honorType": "achievement",
     "id": 29,
     "name": "초보 탈출",
-    "pronunciation": "いちにんまえ",
-    "honorType": "achievement"
+    "pronunciation": "いちにんまえ"
   },
   {
+    "honorType": "achievement",
     "id": 30,
     "name": "베테랑",
-    "pronunciation": "べてらん",
-    "honorType": "achievement"
+    "pronunciation": "べてらん"
   },
   {
+    "honorType": "achievement",
     "id": 31,
     "name": "개근상",
-    "pronunciation": "かいきんしょう",
-    "honorType": "achievement"
+    "pronunciation": "かいきんしょう"
   },
   {
+    "honorType": "achievement",
     "id": 32,
     "name": "올드비",
-    "pronunciation": "むかしからいる",
-    "honorType": "achievement"
+    "pronunciation": "むかしからいる"
   },
   {
+    "honorType": "achievement",
     "id": 33,
     "name": "또 하나의 노랫소리",
-    "pronunciation": "もうひとつのうたごえ",
-    "honorType": "achievement"
+    "pronunciation": "もうひとつのうたごえ"
   },
   {
+    "honorType": "achievement",
     "id": 34,
     "name": "유닛 팬",
-    "pronunciation": "はこおし",
-    "honorType": "achievement"
+    "pronunciation": "はこおし"
   },
   {
+    "honorType": "achievement",
     "id": 35,
     "name": "아이템 마스터",
-    "pronunciation": "あいてむまいすたー",
-    "honorType": "achievement"
+    "pronunciation": "あいてむまいすたー"
   },
   {
+    "honorType": "achievement",
     "id": 36,
     "name": "모두 다 좋아요",
-    "pronunciation": "みんなだいすき",
-    "honorType": "achievement"
+    "pronunciation": "みんなだいすき"
   },
   {
+    "honorType": "achievement",
     "id": 37,
     "name": "완벽주의",
-    "pronunciation": "かんぺきしゅぎ",
-    "honorType": "achievement"
+    "pronunciation": "かんぺきしゅぎ"
   },
   {
+    "honorType": "achievement",
     "id": 40,
     "name": "안전제일",
-    "pronunciation": "あんぜんだいいち",
-    "honorType": "achievement"
+    "pronunciation": "あんぜんだいいち"
   },
   {
+    "honorType": "achievement",
     "id": 41,
     "name": "네버 기브 업",
-    "pronunciation": "ねばーぎぶあっぷ",
-    "honorType": "achievement"
+    "pronunciation": "ねばーぎぶあっぷ"
   },
   {
+    "honorType": "achievement",
     "id": 42,
     "name": "건초염",
-    "pronunciation": "けんしょうえん",
-    "honorType": "achievement"
+    "pronunciation": "けんしょうえん"
   },
   {
+    "honorType": "achievement",
     "id": 43,
     "name": "백만장자",
-    "pronunciation": "みりおねあ",
-    "honorType": "achievement"
+    "pronunciation": "みりおねあ"
   },
   {
+    "honorType": "achievement",
     "id": 44,
     "name": "모두 함께 풀 콤보!",
-    "pronunciation": "みんなでふるこんぼ！",
-    "honorType": "achievement"
+    "pronunciation": "みんなでふるこんぼ！"
   },
   {
+    "honorType": "achievement",
     "id": 45,
     "name": "싱크로니시티",
-    "pronunciation": "しんくろにしてぃ",
-    "honorType": "achievement"
+    "pronunciation": "しんくろにしてぃ"
   },
   {
+    "honorType": "achievement",
     "id": 46,
     "name": "도플갱어",
-    "pronunciation": "どっぺるげんがー",
-    "honorType": "achievement"
+    "pronunciation": "どっぺるげんがー"
   },
   {
+    "honorType": "achievement",
     "id": 47,
     "name": "꼭꼭 인사하기",
-    "pronunciation": "あいさつがだいじ",
-    "honorType": "achievement"
+    "pronunciation": "あいさつがだいじ"
   },
   {
+    "honorType": "achievement",
     "id": 49,
     "name": "만남과 이별",
-    "pronunciation": "であいとわかれ",
-    "honorType": "achievement"
+    "pronunciation": "であいとわかれ"
   },
   {
+    "honorType": "achievement",
     "id": 50,
     "name": "스탬프 수집가",
-    "pronunciation": "すたんぷこれくたー",
-    "honorType": "achievement"
+    "pronunciation": "すたんぷこれくたー"
   },
   {
+    "honorType": "achievement",
     "id": 51,
     "name": "척척박사",
-    "pronunciation": "なんでもしってる",
-    "honorType": "achievement"
+    "pronunciation": "なんでもしってる"
   },
   {
+    "honorType": "achievement",
     "id": 52,
     "name": "꼬박꼬박 읽어요",
-    "pronunciation": "ちゃんとよんでる",
-    "honorType": "achievement"
+    "pronunciation": "ちゃんとよんでる"
   },
   {
+    "honorType": "achievement",
     "id": 53,
     "name": "고등학교 1학년",
-    "pronunciation": "こうこういちねんせい",
-    "honorType": "achievement"
+    "pronunciation": "こうこういちねんせい"
   },
   {
+    "honorType": "achievement",
     "id": 54,
     "name": "고등학교 2학년",
-    "pronunciation": "こうこうにねんせい",
-    "honorType": "achievement"
+    "pronunciation": "こうこうにねんせい"
   },
   {
+    "honorType": "achievement",
     "id": 55,
     "name": "미야마스자카 여학원 학생",
-    "pronunciation": "みやじょなせいと",
-    "honorType": "achievement"
+    "pronunciation": "みやじょなせいと"
   },
   {
+    "honorType": "achievement",
     "id": 56,
     "name": "카미야마 고등학교 학생",
-    "pronunciation": "かみやませいと",
-    "honorType": "achievement"
+    "pronunciation": "かみやませいと"
   },
   {
+    "honorType": "achievement",
     "id": 57,
     "name": "보이즈 마스터",
-    "pronunciation": "ぼーいずますたー",
-    "honorType": "achievement"
+    "pronunciation": "ぼーいずますたー"
   },
   {
+    "honorType": "achievement",
     "id": 58,
     "name": "MVP",
-    "pronunciation": "えむぶいぴー",
-    "honorType": "achievement"
+    "pronunciation": "えむぶいぴー"
   },
   {
+    "honorType": "achievement",
     "id": 59,
     "name": "SUPER STAR",
-    "pronunciation": "すーぱーすたー",
-    "honorType": "achievement"
+    "pronunciation": "すーぱーすたー"
   },
   {
+    "honorType": "achievement",
     "id": 60,
     "name": "패션 리더",
-    "pronunciation": "ふぁっしょんりーだー",
-    "honorType": "achievement"
+    "pronunciation": "ふぁっしょんりーだー"
   },
   {
+    "backgroundAssetbundleName": "honor_0182",
+    "honorType": "event",
     "id": 71,
     "name": "비 갠 뒤 첫 번째 별",
-    "pronunciation": "あめあがりのいちばんほし",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0182"
+    "pronunciation": "あめあがりのいちばんほし"
   },
   {
+    "honorType": "achievement",
     "id": 72,
     "name": "Leo/need 응원 부대",
-    "pronunciation": "れおにーどおうえんたい",
-    "honorType": "achievement"
+    "pronunciation": "れおにーどおうえんたい"
   },
   {
+    "honorType": "achievement",
     "id": 73,
     "name": "MORE MORE JUMP! 응원 부대",
-    "pronunciation": "もあもあじゃんぷおうえんたい",
-    "honorType": "achievement"
+    "pronunciation": "もあもあじゃんぷおうえんたい"
   },
   {
+    "honorType": "achievement",
     "id": 74,
     "name": "Vivid BAD SQUAD 응원 부대",
-    "pronunciation": "びびっどばっどすくあっどおうえんたい",
-    "honorType": "achievement"
+    "pronunciation": "びびっどばっどすくあっどおうえんたい"
   },
   {
+    "honorType": "achievement",
     "id": 75,
     "name": "원더랜즈×쇼타임 응원 부대",
-    "pronunciation": "わんだーらんずかけるしょうたいむおうえんたい",
-    "honorType": "achievement"
+    "pronunciation": "わんだーらんずかけるしょうたいむおうえんたい"
   },
   {
+    "honorType": "achievement",
     "id": 76,
     "name": "25시, 나이트 코드에서. 응원 부대",
-    "pronunciation": "25にじゅうごじ、ないとこーどで。おうえんたい",
-    "honorType": "achievement"
+    "pronunciation": "25にじゅうごじ、ないとこーどで。おうえんたい"
   },
   {
+    "honorType": "achievement",
     "id": 77,
     "name": "버추얼 싱어 응원 부대",
-    "pronunciation": "ばーちゃる・しんがーおうえんたい",
-    "honorType": "achievement"
+    "pronunciation": "ばーちゃる・しんがーおうえんたい"
   },
   {
+    "honorType": "event",
     "id": 78,
     "name": "HAPPY BIRTHDAY 이치카 2022.8.11",
-    "pronunciation": "はっぴーばーすでーいちか2021.8.11",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーいちか2021.8.11"
   },
   {
+    "honorType": "event",
     "id": 79,
     "name": "HAPPY BIRTHDAY 사키 2023.5.9",
-    "pronunciation": "はっぴーばーすでーさき2021.5.9",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーさき2021.5.9"
   },
   {
+    "honorType": "event",
     "id": 80,
     "name": "HAPPY BIRTHDAY 호나미 2022.10.27",
-    "pronunciation": "はっぴーばーすでーほなみ2020.10.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーほなみ2020.10.27"
   },
   {
+    "honorType": "event",
     "id": 81,
     "name": "HAPPY BIRTHDAY 시호 2023.1.8",
-    "pronunciation": "はっぴーばーすでーしほ2021.1.8",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーしほ2021.1.8"
   },
   {
+    "honorType": "event",
     "id": 82,
     "name": "HAPPY BIRTHDAY 미노리 2023.4.14",
-    "pronunciation": "はっぴーばーすでーみのり2021.4.14",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーみのり2021.4.14"
   },
   {
+    "honorType": "event",
     "id": 83,
     "name": "HAPPY BIRTHDAY 하루카 2022.10.5",
-    "pronunciation": "はっぴーばーすでーはるか2020.10.5",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーはるか2020.10.5"
   },
   {
+    "honorType": "event",
     "id": 84,
     "name": "HAPPY BIRTHDAY 아이리 2023.3.19",
-    "pronunciation": "はっぴーばーすでーあいり2021.3.19",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあいり2021.3.19"
   },
   {
+    "honorType": "event",
     "id": 85,
     "name": "HAPPY BIRTHDAY 시즈쿠 2022.12.6",
-    "pronunciation": "はっぴーばーすでーしずく2020.12.6",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーしずく2020.12.6"
   },
   {
+    "honorType": "event",
     "id": 86,
     "name": "HAPPY BIRTHDAY 코하네 2023.3.2",
-    "pronunciation": "はっぴーばーすでーこはね2021.3.2",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーこはね2021.3.2"
   },
   {
+    "honorType": "event",
     "id": 87,
     "name": "HAPPY BIRTHDAY 안 2022.7.26",
-    "pronunciation": "はっぴーばーすでーあん2021.7.26",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあん2021.7.26"
   },
   {
+    "honorType": "event",
     "id": 88,
     "name": "HAPPY BIRTHDAY 아키토 2022.11.12",
-    "pronunciation": "はっぴーばーすでーあきと2020.11.12",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあきと2020.11.12"
   },
   {
+    "honorType": "event",
     "id": 89,
     "name": "HAPPY BIRTHDAY 토우야 2022.5.25",
-    "pronunciation": "はっぴーばーすでーとうや2021.5.25",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーとうや2021.5.25"
   },
   {
+    "honorType": "event",
     "id": 90,
     "name": "HAPPY BIRTHDAY 츠카사 2023.5.17",
-    "pronunciation": "はっぴーばーすでーつかさ2021.5.17",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーつかさ2021.5.17"
   },
   {
+    "honorType": "event",
     "id": 91,
     "name": "HAPPY BIRTHDAY 에무 2022.9.9",
-    "pronunciation": "はっぴーばーすでーえむ2021.9.9",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーえむ2021.9.9"
   },
   {
+    "honorType": "event",
     "id": 92,
     "name": "HAPPY BIRTHDAY 네네 2022.7.20",
-    "pronunciation": "はっぴーばーすでーねね2021.7.20",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーねね2021.7.20"
   },
   {
+    "honorType": "event",
     "id": 93,
     "name": "HAPPY BIRTHDAY 루이 2022.6.24",
-    "pronunciation": "はっぴーばーすでーるい2021.6.24",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーるい2021.6.24"
   },
   {
+    "honorType": "event",
     "id": 94,
     "name": "HAPPY BIRTHDAY 카나데 2023.2.10",
-    "pronunciation": "はっぴーばーすでーかなで2021.2.10",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーかなで2021.2.10"
   },
   {
+    "honorType": "event",
     "id": 95,
     "name": "HAPPY BIRTHDAY 마후유 2023.1.27",
-    "pronunciation": "はっぴーばーすでーまふゆ2021.1.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーまふゆ2021.1.27"
   },
   {
+    "honorType": "event",
     "id": 96,
     "name": "HAPPY BIRTHDAY 에나 2023.4.30",
-    "pronunciation": "はっぴーばーすでーえな2021.4.30",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーえな2021.4.30"
   },
   {
+    "honorType": "event",
     "id": 97,
     "name": "HAPPY BIRTHDAY 미즈키 2022.8.27",
-    "pronunciation": "はっぴーばーすでーみずき2021.8.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーみずき2021.8.27"
   },
   {
+    "honorType": "event",
     "id": 98,
     "name": "HAPPY ANNIVERSARY 미쿠 2022.8.31",
-    "pronunciation": "はっぴーあにばーさりーみく2021.8.31",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーみく2021.8.31"
   },
   {
+    "honorType": "event",
     "id": 99,
     "name": "HAPPY ANNIVERSARY 린 2022.12.27",
-    "pronunciation": "はっぴーあにばーさりーりん2020.12.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーりん2020.12.27"
   },
   {
+    "honorType": "event",
     "id": 100,
     "name": "HAPPY ANNIVERSARY 렌 2022.12.27",
-    "pronunciation": "はっぴーあにばーさりーれん2020.12.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーれん2020.12.27"
   },
   {
+    "honorType": "event",
     "id": 101,
     "name": "HAPPY ANNIVERSARY 루카 2023.1.30",
-    "pronunciation": "はっぴーあにばーさりーるか2021.1.30",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーるか2021.1.30"
   },
   {
+    "honorType": "event",
     "id": 102,
     "name": "HAPPY ANNIVERSARY MEIKO 2022.11.5",
-    "pronunciation": "はっぴーあにばーさりーめいこ2020.11.5",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーめいこ2020.11.5"
   },
   {
+    "honorType": "event",
     "id": 103,
     "name": "HAPPY ANNIVERSARY KAITO 2023.2.17",
-    "pronunciation": "はっぴーあにばーさりーかいと2021.2.17",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーかいと2021.2.17"
   },
   {
+    "backgroundAssetbundleName": "honor_0256",
+    "honorType": "event",
     "id": 104,
     "name": "사로잡힌 마리오네트",
-    "pronunciation": "とらわれのまりおねっと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0256"
+    "pronunciation": "とらわれのまりおねっと"
   },
   {
+    "backgroundAssetbundleName": "honor_0280",
+    "honorType": "event",
     "id": 105,
     "name": "전력! 원더 핼러윈!",
-    "pronunciation": "ぜんりょくわんだーはろうぃん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0280"
+    "pronunciation": "ぜんりょくわんだーはろうぃん"
   },
   {
+    "honorType": "event",
     "id": 106,
     "name": "핼러윈",
-    "pronunciation": "はろうぃん2020",
-    "honorType": "event"
+    "pronunciation": "はろうぃん2020"
   },
   {
+    "backgroundAssetbundleName": "honor_0305",
+    "honorType": "event",
     "id": 107,
     "name": "달려라! 운동회! ~바쁜 실행 위원~",
-    "pronunciation": "はしれたいいくさい～じっこういいんはおおいそがし～",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0305"
+    "pronunciation": "はしれたいいくさい～じっこういいんはおおいそがし～"
   },
   {
+    "backgroundAssetbundleName": "honor_0329",
+    "honorType": "event",
     "id": 108,
     "name": "지금부터 RE:START!",
-    "pronunciation": "ここからりすたーと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0329"
+    "pronunciation": "ここからりすたーと"
   },
   {
+    "honorType": "achievement",
     "id": 110,
     "name": "플라티나",
-    "pronunciation": "ぷらちな",
-    "honorType": "achievement"
+    "pronunciation": "ぷらちな"
   },
   {
+    "backgroundAssetbundleName": "honor_0358",
+    "honorType": "event",
     "id": 111,
     "name": "언젠가 등을 맞댄 가사를",
-    "pronunciation": "いつか、せなかあわせのりりっくを",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0358"
+    "pronunciation": "いつか、せなかあわせのりりっくを"
   },
   {
+    "backgroundAssetbundleName": "honor_0382",
+    "honorType": "event",
     "id": 112,
     "name": "KAMIHIGH FESTIVAL!",
-    "pronunciation": "かみこうふぇすてぃばる",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0382"
+    "pronunciation": "かみこうふぇすてぃばる"
   },
   {
+    "backgroundAssetbundleName": "honor_0406",
+    "honorType": "event",
     "id": 113,
     "name": "성스러운 밤에 이 노랫소리를",
-    "pronunciation": "せいなるよるに、このうたごえを",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0406"
+    "pronunciation": "せいなるよるに、このうたごえを"
   },
   {
+    "honorType": "event",
     "id": 114,
     "name": "크리스마스",
-    "pronunciation": "くりすます2020",
-    "honorType": "event"
+    "pronunciation": "くりすます2020"
   },
   {
+    "honorType": "event",
     "id": 115,
     "name": "RAGE 프로젝트 세카이 2020 Winter powered by AQUOS",
-    "pronunciation": "れいじぷろじぇくとせかい2020うぃんたーぱわーどばいあくおす",
-    "honorType": "event"
+    "pronunciation": "れいじぷろじぇくとせかい2020うぃんたーぱわーどばいあくおす"
   },
   {
+    "honorType": "event",
     "id": 116,
     "name": "2023 카운트다운 라이브",
-    "pronunciation": "2021かうんとだうんらいぶ",
-    "honorType": "event"
+    "pronunciation": "2021かうんとだうんらいぶ"
   },
   {
+    "backgroundAssetbundleName": "honor_0436",
+    "honorType": "event",
     "id": 117,
     "name": "세카이의 해피 뉴 이어!",
-    "pronunciation": "せかいのはっぴーにゅーいやー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0436"
+    "pronunciation": "せかいのはっぴーにゅーいやー"
   },
   {
+    "backgroundAssetbundleName": "honor_0460",
+    "honorType": "event",
     "id": 118,
     "name": "흔들리는 채로, 그래도 넌 앞으로",
-    "pronunciation": "ゆれるまま、でもきみはまえへ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0460"
+    "pronunciation": "ゆれるまま、でもきみはまえへ"
   },
   {
+    "backgroundAssetbundleName": "honor_0484",
+    "honorType": "event",
     "id": 119,
     "name": "Color of Myself!",
-    "pronunciation": "からーおぶまいせるふ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0484"
+    "pronunciation": "からーおぶまいせるふ"
   },
   {
+    "backgroundAssetbundleName": "honor_0508",
+    "honorType": "event",
     "id": 120,
     "name": "Period of NOCTURNE",
-    "pronunciation": "ぴりおどおぶのくたーん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0508"
+    "pronunciation": "ぴりおどおぶのくたーん"
   },
   {
+    "honorType": "achievement",
     "id": 121,
     "name": "친구 모집 중",
-    "pronunciation": "ふれんどぼしゅうちゅう",
-    "honorType": "achievement"
+    "pronunciation": "ふれんどぼしゅうちゅう"
   },
   {
+    "honorType": "achievement",
     "id": 122,
     "name": "친구 100명 도전",
-    "pronunciation": "ともだち100にんできるかな",
-    "honorType": "achievement"
+    "pronunciation": "ともだち100にんできるかな"
   },
   {
+    "honorType": "achievement",
     "id": 123,
     "name": "베스트 프렌드",
-    "pronunciation": "べすとふれんど",
-    "honorType": "achievement"
+    "pronunciation": "べすとふれんど"
   },
   {
+    "honorType": "event",
     "id": 124,
     "name": "밸런타인 2023",
-    "pronunciation": "ばれんたいん2021",
-    "honorType": "event"
+    "pronunciation": "ばれんたいん2021"
   },
   {
+    "backgroundAssetbundleName": "honor_0536",
+    "honorType": "event",
     "id": 125,
     "name": "울려 퍼지는 트와일라이트 퍼레이드",
-    "pronunciation": "ひびくとわいらいとぱれーど",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0536"
+    "pronunciation": "ひびくとわいらいとぱれーど"
   },
   {
+    "backgroundAssetbundleName": "honor_0560",
+    "honorType": "event",
     "id": 126,
     "name": "채워지지 않는 페일 컬러",
-    "pronunciation": "みたされないぺいるからー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0560"
+    "pronunciation": "みたされないぺいるからー"
   },
   {
+    "backgroundAssetbundleName": "honor_0584",
+    "honorType": "event",
     "id": 127,
     "name": "스마일 오브 드리머",
-    "pronunciation": "すまいるおぶどりーまー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0584"
+    "pronunciation": "すまいるおぶどりーまー"
   },
   {
+    "honorType": "event",
     "id": 128,
     "name": "화이트데이",
-    "pronunciation": "ほわいとでー2021",
-    "honorType": "event"
+    "pronunciation": "ほわいとでー2021"
   },
   {
+    "backgroundAssetbundleName": "honor_0609",
+    "honorType": "event",
     "id": 129,
     "name": "텐마 집안의 히나마츠리",
-    "pronunciation": "てんまさんちのひなまつり",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0609"
+    "pronunciation": "てんまさんちのひなまつり"
   },
   {
+    "backgroundAssetbundleName": "honor_0633",
+    "honorType": "event",
     "id": 130,
     "name": "닿아라! HOPEFUL STAGE♪",
-    "pronunciation": "とどけほーぷふるすてーじ♪",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0633"
+    "pronunciation": "とどけほーぷふるすてーじ♪"
   },
   {
+    "backgroundAssetbundleName": "honor_0657",
+    "honorType": "event",
     "id": 131,
     "name": "너와 노래해, 벚꽃 흩날리는 세상에서",
-    "pronunciation": "きみとうたう、さくらまうせかいで",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0657"
+    "pronunciation": "きみとうたう、さくらまうせかいで"
   },
   {
+    "backgroundAssetbundleName": "honor_0681",
+    "honorType": "event",
     "id": 132,
     "name": "시크릿 디스턴스",
-    "pronunciation": "しーくれっとでぃすたんす",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0681"
+    "pronunciation": "しーくれっとでぃすたんす"
   },
   {
+    "backgroundAssetbundleName": "honor_0705",
+    "honorType": "event",
     "id": 133,
     "name": "Resonate with you",
-    "pronunciation": "りぞねいとうぃずゆー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0705"
+    "pronunciation": "りぞねいとうぃずゆー"
   },
   {
+    "honorType": "achievement",
     "id": 134,
     "name": "다이아몬드",
-    "pronunciation": "だいやもんど",
-    "honorType": "achievement"
+    "pronunciation": "だいやもんど"
   },
   {
+    "backgroundAssetbundleName": "honor_0730",
+    "honorType": "event",
     "id": 135,
     "name": "STRAY BAD DOG",
-    "pronunciation": "すとれいばっどどっぐ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0730"
+    "pronunciation": "すとれいばっどどっぐ"
   },
   {
+    "backgroundAssetbundleName": "honor_0754",
+    "honorType": "event",
     "id": 136,
     "name": "고민을 들려 줘! 두근두근 피크닉",
-    "pronunciation": "おなやみずきかせてわくわくぴくにっく",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0754"
+    "pronunciation": "おなやみずきかせてわくわくぴくにっく"
   },
   {
+    "backgroundAssetbundleName": "honor_0778",
+    "honorType": "event",
     "id": 137,
     "name": "노력하는 너에게 Break Time!",
-    "pronunciation": "がんばるあなたにぶれいくたいむ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0778"
+    "pronunciation": "がんばるあなたにぶれいくたいむ"
   },
   {
+    "backgroundAssetbundleName": "honor_0802",
+    "honorType": "event",
     "id": 138,
     "name": "순백의 그대에게 맹세의 노래를!",
-    "pronunciation": "じゅんぱくのあなたへ、ちかいのうたを",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0802"
+    "pronunciation": "じゅんぱくのあなたへ、ちかいのうたを"
   },
   {
+    "backgroundAssetbundleName": "honor_0826",
+    "honorType": "event",
     "id": 139,
     "name": "원더 매지컬 쇼타임!",
-    "pronunciation": "わんだーまじかるしょうたいむ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_0826"
+    "pronunciation": "わんだーまじかるしょうたいむ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_carnation",
+    "honorType": "event",
     "id": 140,
     "name": "카네이션 리컬렉션",
-    "pronunciation": "かーねーしょんりこれくしょん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_carnation"
+    "pronunciation": "かーねーしょんりこれくしょん"
   },
   {
+    "honorType": "event",
     "id": 141,
     "name": "칠석 2022",
-    "pronunciation": "たなばた2021",
-    "honorType": "event"
+    "pronunciation": "たなばた2021"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_unnamed",
+    "honorType": "event",
     "id": 142,
     "name": "Unnamed Harmony",
-    "pronunciation": "あんねーむどはーもにー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_unnamed"
+    "pronunciation": "あんねーむどはーもにー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_awakening",
+    "honorType": "event",
     "id": 143,
     "name": "Awakening Beat",
-    "pronunciation": "あうぇいきんぐびーと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_awakening"
+    "pronunciation": "あうぇいきんぐびーと"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_natsumatsuri",
+    "honorType": "event",
     "id": 144,
     "name": "여름 축제에 울려 퍼지는 소리는",
-    "pronunciation": "なつまつり、なりひびくおとは",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_natsumatsuri"
+    "pronunciation": "なつまつり、なりひびくおとは"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_summer",
+    "honorType": "event",
     "id": 145,
     "name": "틀림없이 최고의 summer!",
-    "pronunciation": "きっとさいこうのさまー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_summer"
+    "pronunciation": "きっとさいこうのさまー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_everyday",
+    "honorType": "event",
     "id": 146,
     "name": "해피 러블리 에브리데이!",
-    "pronunciation": "はっぴーらぶりーえぶりでい",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_everyday"
+    "pronunciation": "はっぴーらぶりーえぶりでい"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_mermaid",
+    "honorType": "event",
     "id": 147,
     "name": "머메이드를 동경해서",
-    "pronunciation": "まーめいどにあこがれて",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_mermaid"
+    "pronunciation": "まーめいどにあこがれて"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_moonrabbit",
+    "honorType": "event",
     "id": 148,
     "name": "두 사람, 달 토끼",
-    "pronunciation": "ふたり、つきうさぎ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_moonrabbit"
+    "pronunciation": "ふたり、つきうさぎ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_future",
+    "honorType": "event",
     "id": 149,
     "name": "Knock the Future!!",
-    "pronunciation": "のっくざふゅーちゃー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_future"
+    "pronunciation": "のっくざふゅーちゃー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_mirage",
+    "honorType": "event",
     "id": 150,
     "name": "등불의 미라주",
-    "pronunciation": "あかりのみらーじゅ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_mirage"
+    "pronunciation": "あかりのみらーじゅ"
   },
   {
+    "honorType": "event",
     "id": 151,
     "name": "1주년 기념",
-    "pronunciation": "1しゅうねんきねん",
-    "honorType": "event"
+    "pronunciation": "1しゅうねんきねん"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_scramble",
+    "honorType": "event",
     "id": 152,
     "name": "스크램블 팬 페스타!",
-    "pronunciation": "すくらんぶるふぁんふぇすた",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_scramble"
+    "pronunciation": "すくらんぶるふぁんふぇすた"
   },
   {
+    "honorType": "event",
     "id": 153,
     "name": "HAPPY BIRTHDAY 이치카 2023.8.11",
-    "pronunciation": "はっぴーばーすでーいちか2022.8.11",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーいちか2022.8.11"
   },
   {
+    "honorType": "event",
     "id": 154,
     "name": "HAPPY BIRTHDAY 사키 2024.5.9",
-    "pronunciation": "はっぴーばーすでーさき2022.5.9",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーさき2022.5.9"
   },
   {
+    "honorType": "event",
     "id": 155,
     "name": "HAPPY BIRTHDAY 호나미 2023.10.27",
-    "pronunciation": "はっぴーばーすでーほなみ2021.10.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーほなみ2021.10.27"
   },
   {
+    "honorType": "event",
     "id": 156,
     "name": "HAPPY BIRTHDAY 시호 2024.1.8",
-    "pronunciation": "はっぴーばーすでーしほ2022.1.8",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーしほ2022.1.8"
   },
   {
+    "honorType": "event",
     "id": 157,
     "name": "HAPPY BIRTHDAY 미노리 2024.4.14",
-    "pronunciation": "はっぴーばーすでーみのり2022.4.14",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーみのり2022.4.14"
   },
   {
+    "honorType": "event",
     "id": 158,
     "name": "HAPPY BIRTHDAY 하루카 2023.10.5",
-    "pronunciation": "はっぴーばーすでーはるか2021.10.5",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーはるか2021.10.5"
   },
   {
+    "honorType": "event",
     "id": 159,
     "name": "HAPPY BIRTHDAY 아이리 2024.3.19",
-    "pronunciation": "はっぴーばーすでーあいり2022.3.19",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあいり2022.3.19"
   },
   {
+    "honorType": "event",
     "id": 160,
     "name": "HAPPY BIRTHDAY 시즈쿠 2023.12.6",
-    "pronunciation": "はっぴーばーすでーしずく2021.12.6",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーしずく2021.12.6"
   },
   {
+    "honorType": "event",
     "id": 161,
     "name": "HAPPY BIRTHDAY 코하네 2024.3.2",
-    "pronunciation": "はっぴーばーすでーこはね2022.3.2",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーこはね2022.3.2"
   },
   {
+    "honorType": "event",
     "id": 162,
     "name": "HAPPY BIRTHDAY 안 2023.7.26",
-    "pronunciation": "はっぴーばーすでーあん2022.7.26",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあん2022.7.26"
   },
   {
+    "honorType": "event",
     "id": 163,
     "name": "HAPPY BIRTHDAY 아키토 2023.11.12",
-    "pronunciation": "はっぴーばーすでーあきと2021.11.12",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあきと2021.11.12"
   },
   {
+    "honorType": "event",
     "id": 164,
     "name": "HAPPY BIRTHDAY 토우야 2023.5.25",
-    "pronunciation": "はっぴーばーすでーとうや2022.5.25",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーとうや2022.5.25"
   },
   {
+    "honorType": "event",
     "id": 165,
     "name": "HAPPY BIRTHDAY 츠카사 2024.5.17",
-    "pronunciation": "はっぴーばーすでーつかさ2022.5.17",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーつかさ2022.5.17"
   },
   {
+    "honorType": "event",
     "id": 166,
     "name": "HAPPY BIRTHDAY 에무 2023.9.9",
-    "pronunciation": "はっぴーばーすでーえむ2022.9.9",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーえむ2022.9.9"
   },
   {
+    "honorType": "event",
     "id": 167,
     "name": "HAPPY BIRTHDAY 네네 2023.7.20",
-    "pronunciation": "はっぴーばーすでーねね2022.7.20",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーねね2022.7.20"
   },
   {
+    "honorType": "event",
     "id": 168,
     "name": "HAPPY BIRTHDAY 루이 2023.6.24",
-    "pronunciation": "はっぴーばーすでーるい2022.6.24",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーるい2022.6.24"
   },
   {
+    "honorType": "event",
     "id": 169,
     "name": "HAPPY BIRTHDAY 카나데 2024.2.10",
-    "pronunciation": "はっぴーばーすでーかなで2022.2.10",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーかなで2022.2.10"
   },
   {
+    "honorType": "event",
     "id": 170,
     "name": "HAPPY BIRTHDAY 마후유 2024.1.27",
-    "pronunciation": "はっぴーばーすでーまふゆ2022.1.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーまふゆ2022.1.27"
   },
   {
+    "honorType": "event",
     "id": 171,
     "name": "HAPPY BIRTHDAY 에나 2024.4.30",
-    "pronunciation": "はっぴーばーすでーえな2022.4.30",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーえな2022.4.30"
   },
   {
+    "honorType": "event",
     "id": 172,
     "name": "HAPPY BIRTHDAY 미즈키 2023.8.27",
-    "pronunciation": "はっぴーばーすでーみずき2022.8.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーみずき2022.8.27"
   },
   {
+    "honorType": "event",
     "id": 173,
     "name": "HAPPY ANNIVERSARY 미쿠 2023.8.31",
-    "pronunciation": "はっぴーあにばーさりーみく2022.8.31",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーみく2022.8.31"
   },
   {
+    "honorType": "event",
     "id": 174,
     "name": "HAPPY ANNIVERSARY 린 2023.12.27",
-    "pronunciation": "はっぴーあにばーさりーりん2021.12.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーりん2021.12.27"
   },
   {
+    "honorType": "event",
     "id": 175,
     "name": "HAPPY ANNIVERSARY 렌 2023.12.27",
-    "pronunciation": "はっぴーあにばーさりーれん2021.12.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーれん2021.12.27"
   },
   {
+    "honorType": "event",
     "id": 176,
     "name": "HAPPY ANNIVERSARY 루카 2024.1.30",
-    "pronunciation": "はっぴーあにばーさりーるか2022.1.30",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーるか2022.1.30"
   },
   {
+    "honorType": "event",
     "id": 177,
     "name": "HAPPY ANNIVERSARY MEIKO 2023.11.5",
-    "pronunciation": "はっぴーあにばーさりーめいこ2021.11.5",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーめいこ2021.11.5"
   },
   {
+    "honorType": "event",
     "id": 178,
     "name": "HAPPY ANNIVERSARY KAITO 2024.2.17",
-    "pronunciation": "はっぴーあにばーさりーかいと2022.2.17",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーかいと2022.2.17"
   },
   {
+    "honorType": "event",
     "id": 179,
     "name": "프로젝트 세카이 Championship 2021 Autumn",
-    "pronunciation": "ぷろじぇくとせかいちゃんぴおんしっぷ2021おーたむ",
-    "honorType": "event"
+    "pronunciation": "ぷろじぇくとせかいちゃんぴおんしっぷ2021おーたむ"
   },
   {
+    "honorType": "event",
     "id": 180,
     "name": "프로젝트 세카이 스페셜 팀 매치 2021",
-    "pronunciation": "ぷろじぇくとせかいすぺしゃるちーむまっち2021",
-    "honorType": "event"
+    "pronunciation": "ぷろじぇくとせかいすぺしゃるちーむまっち2021"
   },
   {
+    "honorType": "achievement",
     "id": 181,
     "name": "루비",
-    "pronunciation": "るびー",
-    "honorType": "achievement"
+    "pronunciation": "るびー"
   },
   {
+    "honorType": "event",
     "id": 182,
     "name": "핼러윈 2022",
-    "pronunciation": "はろうぃん2021",
-    "honorType": "event"
+    "pronunciation": "はろうぃん2021"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_besideyou",
+    "honorType": "event",
     "id": 183,
     "name": "Bout for Beside You",
-    "pronunciation": "ばうとふぉーびさいどゆー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_besideyou"
+    "pronunciation": "ばうとふぉーびさいどゆー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_revival",
+    "honorType": "event",
     "id": 184,
     "name": "Revival my dream",
-    "pronunciation": "りばいばるまいどりーむ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_revival"
+    "pronunciation": "りばいばるまいどりーむ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_ashiato",
+    "honorType": "event",
     "id": 185,
     "name": "나의 발자취 너의 목적지",
-    "pronunciation": "ぼくのあしあときみのゆくさき",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_ashiato"
+    "pronunciation": "ぼくのあしあときみのゆくさき"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_stage",
+    "honorType": "event",
     "id": 186,
     "name": "흔들림 없는 마음, 지금 말로 전하며",
-    "pronunciation": "ゆるがぬおもい、いまことばにして",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_stage"
+    "pronunciation": "ゆるがぬおもい、いまことばにして"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_buddy",
+    "honorType": "event",
     "id": 187,
     "name": "버디 퍼니 스펜드 타임♪",
-    "pronunciation": "ばでぃふぁにーすぺんどたいむ♪",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_buddy"
+    "pronunciation": "ばでぃふぁにーすぺんどたいむ♪"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_melody",
+    "honorType": "event",
     "id": 188,
     "name": "교차하는 선율 빛을 밝히는 온기",
-    "pronunciation": "まじわるせんりつともるぬくもり",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_melody"
+    "pronunciation": "まじわるせんりつともるぬくもり"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_makingxmas",
+    "honorType": "event",
     "id": 189,
     "name": "MORE MORE Making Xmas",
-    "pronunciation": "もあもあめいきんぐくりすます",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_makingxmas"
+    "pronunciation": "もあもあめいきんぐくりすます"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_camp",
+    "honorType": "event",
     "id": 190,
     "name": "Same Dreams, Same Colors",
-    "pronunciation": "せいむどりーむせいむからーず",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_camp"
+    "pronunciation": "せいむどりーむせいむからーず"
   },
   {
+    "honorType": "event",
     "id": 191,
     "name": "크리스마스 2022",
-    "pronunciation": "くりすます2021",
-    "honorType": "event"
+    "pronunciation": "くりすます2021"
   },
   {
+    "honorType": "event",
     "id": 192,
     "name": "카운트다운",
-    "pronunciation": "かうんとだうん2022",
-    "honorType": "event"
+    "pronunciation": "かうんとだうん2022"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_prayer",
+    "honorType": "event",
     "id": 193,
     "name": "기도 끝에 바라는 내일은",
-    "pronunciation": "いのりのさきねがうあしたは",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_prayer"
+    "pronunciation": "いのりのさきねがうあしたは"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_nikkori",
+    "honorType": "event",
     "id": 194,
     "name": "POP IN MY HEART!!",
-    "pronunciation": "ぽっぴんまいはーと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_nikkori"
+    "pronunciation": "ぽっぴんまいはーと"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_tricolo",
+    "honorType": "event",
     "id": 195,
     "name": "언젠가 절망의 밑바닥에서",
-    "pronunciation": "いつか、ぜつぼうのそこから",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_tricolo"
+    "pronunciation": "いつか、ぜつぼうのそこから"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_valentine",
+    "honorType": "event",
     "id": 196,
     "name": "비밀의♡ 밸런타인 대작전!",
-    "pronunciation": "ひみつの♡ばれんたいんだいさくせん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_valentine"
+    "pronunciation": "ひみつの♡ばれんたいんだいさくせん"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_legend",
+    "honorType": "event",
     "id": 197,
     "name": "Legend still vivid",
-    "pronunciation": "れじぇんどすてぃるびびっど",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_legend"
+    "pronunciation": "れじぇんどすてぃるびびっど"
   },
   {
+    "honorType": "event",
     "id": 198,
     "name": "밸런타인",
-    "pronunciation": "ばれんたいん2022",
-    "honorType": "event"
+    "pronunciation": "ばれんたいん2022"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_peaky",
+    "honorType": "event",
     "id": 199,
     "name": "그날, 하늘은 멀리 있었다",
-    "pronunciation": "あのひ、そらはとおかった",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_peaky"
+    "pronunciation": "あのひ、そらはとおかった"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_whiteday",
+    "honorType": "event",
     "id": 200,
     "name": "괴도 신사의 조마조마?! 화이트데이",
-    "pronunciation": "かいとうしんしのはらはら？ほわいとでー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_whiteday"
+    "pronunciation": "かいとうしんしのはらはら？ほわいとでー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_castspell",
+    "honorType": "event",
     "id": 201,
     "name": "Cast Spell on You",
-    "pronunciation": "きゃすとすぺるおんゆー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_castspell"
+    "pronunciation": "きゃすとすぺるおんゆー"
   },
   {
+    "honorType": "event",
     "id": 202,
     "name": "화이트데이 2023",
-    "pronunciation": "ほわいとでー2022",
-    "honorType": "event"
+    "pronunciation": "ほわいとでー2022"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_canvas",
+    "honorType": "event",
     "id": 203,
     "name": "공백의 캔버스에 그리는 나는",
-    "pronunciation": "くうはくのきゃんばすにえがくわたしは",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_canvas"
+    "pronunciation": "くうはくのきゃんばすにえがくわたしは"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_sakura",
+    "honorType": "event",
     "id": 205,
     "name": "세카이의 벚꽃, 이어지는 마음",
-    "pronunciation": "せかいのさくら、つながるおもい",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_sakura"
+    "pronunciation": "せかいのさくら、つながるおもい"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_star",
+    "honorType": "event",
     "id": 206,
     "name": "눈부신 빛의 스테이지에서",
-    "pronunciation": "まばゆいひかりのすてーじで",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_star"
+    "pronunciation": "まばゆいひかりのすてーじで"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_memories",
+    "honorType": "event",
     "id": 207,
     "name": "Live with memories",
-    "pronunciation": "らいぶうぃずめもりーず",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_memories"
+    "pronunciation": "らいぶうぃずめもりーず"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_painful",
+    "honorType": "event",
     "id": 208,
     "name": "이어가는 Painful Hope",
-    "pronunciation": "つなぐぺいんふるほーぷ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_painful"
+    "pronunciation": "つなぐぺいんふるほーぷ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_cheerteam",
+    "honorType": "event",
     "id": 209,
     "name": "불타올라라! 카미야마 응원단! ",
-    "pronunciation": "はくねつじんこうおうえんだん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_cheerteam"
+    "pronunciation": "はくねつじんこうおうえんだん"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_unity",
+    "honorType": "event",
     "id": 210,
     "name": "THE POWER OF UNITY",
-    "pronunciation": "ざぱわーおぶゆにてぃ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_unity"
+    "pronunciation": "ざぱわーおぶゆにてぃ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_happiness",
+    "honorType": "event",
     "id": 211,
     "name": "푸른 하늘에 바라는 유어 해피니스!",
-    "pronunciation": "あおぞらにねがうゆあはぴねす",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_happiness"
+    "pronunciation": "あおぞらにねがうゆあはぴねす"
   },
   {
+    "honorType": "event",
     "id": 212,
     "name": "커넥트 라이브 Vivid BAD SQUAD 1st CRASH",
-    "pronunciation": "こねくとらいぶびびっどばっどすくあっどふぁーすとくらっしゅ",
-    "honorType": "event"
+    "pronunciation": "こねくとらいぶびびっどばっどすくあっどふぁーすとくらっしゅ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_maigo",
+    "honorType": "event",
     "id": 213,
     "name": "헤매는 아이의 손을 잡고 이끈, 그 너머에는",
-    "pronunciation": "まよいごのてをひく、そのさきは",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_maigo"
+    "pronunciation": "まよいごのてをひく、そのさきは"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_island",
+    "honorType": "event",
     "id": 214,
     "name": "절체절명?! 아일랜드 패닉!",
-    "pronunciation": "ぜったいぜつめい？あいらんどぱにっく",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_island"
+    "pronunciation": "ぜったいぜつめい？あいらんどぱにっく"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_sports",
+    "honorType": "event",
     "id": 215,
     "name": "모두 함께 엔조이! 스포조이 파크",
-    "pronunciation": "みんなでえんじょいすぽじょいぱーく",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_sports"
+    "pronunciation": "みんなでえんじょいすぽじょいぱーく"
   },
   {
+    "honorType": "event",
     "id": 216,
     "name": "칠석 2023",
-    "pronunciation": "たなばた2022",
-    "honorType": "event"
+    "pronunciation": "たなばた2022"
   },
   {
+    "backgroundAssetbundleName": "season_2022_summer",
+    "honorType": "rank_match",
     "id": 217,
     "name": "랭크 매치 2022 SUMMER",
-    "pronunciation": "らんくまっち2022さまー",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2022_summer"
+    "pronunciation": "らんくまっち2022さまー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_tale",
+    "honorType": "event",
     "id": 218,
     "name": "The Vivid Old Tale",
-    "pronunciation": "ざびびっどおーるどている",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_tale"
+    "pronunciation": "ざびびっどおーるどている"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_noseek",
+    "honorType": "event",
     "id": 219,
     "name": "No seek No find",
-    "pronunciation": "のーしーくのーふぁいんど",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_noseek"
+    "pronunciation": "のーしーくのーふぁいんど"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_cyber",
+    "honorType": "event",
     "id": 220,
     "name": "close game/OFFLINE",
-    "pronunciation": "くろーずげーむ/おふらいん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_cyber"
+    "pronunciation": "くろーずげーむ/おふらいん"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_blue",
+    "honorType": "event",
     "id": 221,
     "name": "푸른 하늘 너머, 반짝임을 따라서",
-    "pronunciation": "あおぞらのさき、かがやきをおいかけて",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_blue"
+    "pronunciation": "あおぞらのさき、かがやきをおいかけて"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_ribbon",
+    "honorType": "event",
     "id": 222,
     "name": "그리고 지금, 리본을 묶고",
-    "pronunciation": "そしていま、りぼんをむすんで",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_ribbon"
+    "pronunciation": "そしていま、りぼんをむすんで"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_faith",
+    "honorType": "event",
     "id": 223,
     "name": "Don't lose faith!",
-    "pronunciation": "どんとるーずふぇいす",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_faith"
+    "pronunciation": "どんとるーずふぇいす"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_rainbow",
+    "honorType": "event",
     "id": 224,
     "name": "좋아하는 걸 그려 봐♪ 레인보우 캔버스",
-    "pronunciation": "すきをえがいて♪れいんぼーきゃんばす",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_rainbow"
+    "pronunciation": "すきをえがいて♪れいんぼーきゃんばす"
   },
   {
+    "honorType": "achievement",
     "id": 225,
     "name": "펄",
-    "pronunciation": "ぱーる",
-    "honorType": "achievement"
+    "pronunciation": "ぱーる"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_walk",
+    "honorType": "event",
     "id": 226,
     "name": "Walk on and on",
-    "pronunciation": "うぉーくおんあんどおん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_walk"
+    "pronunciation": "うぉーくおんあんどおん"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_festival",
+    "honorType": "event",
     "id": 227,
     "name": "이 축제에 노을빛도",
-    "pronunciation": "このまつりにゆうやみしょくも",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_festival"
+    "pronunciation": "このまつりにゆうやみしょくも"
   },
   {
+    "backgroundAssetbundleName": "season_2022_autumn",
+    "honorType": "rank_match",
     "id": 228,
     "name": "랭크 매치 2022 AUTUMN",
-    "pronunciation": "らんくまっち2022おーたむ",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2022_autumn"
+    "pronunciation": "らんくまっち2022おーたむ"
   },
   {
+    "honorType": "event",
     "id": 229,
     "name": "HAPPY BIRTHDAY 이치카 2024.8.11",
-    "pronunciation": "はっぴーばーすでーいちか2023.8.11",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーいちか2023.8.11"
   },
   {
+    "honorType": "event",
     "id": 230,
     "name": "HAPPY BIRTHDAY 사키",
-    "pronunciation": "はっぴーばーすでーさき2023.5.9",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーさき2023.5.9"
   },
   {
+    "honorType": "event",
     "id": 231,
     "name": "HAPPY BIRTHDAY 호나미",
-    "pronunciation": "はっぴーばーすでーほなみ2022.10.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーほなみ2022.10.27"
   },
   {
+    "honorType": "event",
     "id": 232,
     "name": "HAPPY BIRTHDAY 시호",
-    "pronunciation": "はっぴーばーすでーしほ2023.1.8",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーしほ2023.1.8"
   },
   {
+    "honorType": "event",
     "id": 233,
     "name": "HAPPY BIRTHDAY 미노리",
-    "pronunciation": "はっぴーばーすでーみのり2023.4.14",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーみのり2023.4.14"
   },
   {
+    "honorType": "event",
     "id": 234,
     "name": "HAPPY BIRTHDAY 하루카",
-    "pronunciation": "はっぴーばーすでーはるか2022.10.5",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーはるか2022.10.5"
   },
   {
+    "honorType": "event",
     "id": 235,
     "name": "HAPPY BIRTHDAY 아이리",
-    "pronunciation": "はっぴーばーすでーあいり2023.3.19",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあいり2023.3.19"
   },
   {
+    "honorType": "event",
     "id": 236,
     "name": "HAPPY BIRTHDAY 시즈쿠 ",
-    "pronunciation": "はっぴーばーすでーしずく2022.12.6",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーしずく2022.12.6"
   },
   {
+    "honorType": "event",
     "id": 237,
     "name": "HAPPY BIRTHDAY 코하네",
-    "pronunciation": "はっぴーばーすでーこはね2023.3.2",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーこはね2023.3.2"
   },
   {
+    "honorType": "event",
     "id": 238,
     "name": "HAPPY BIRTHDAY 안 2024.7.26",
-    "pronunciation": "はっぴーばーすでーあん2023.7.26",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあん2023.7.26"
   },
   {
+    "honorType": "event",
     "id": 239,
     "name": "HAPPY BIRTHDAY 아키토",
-    "pronunciation": "はっぴーばーすでーあきと2022.11.12",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあきと2022.11.12"
   },
   {
+    "honorType": "event",
     "id": 240,
     "name": "HAPPY BIRTHDAY 토우야 2024.5.25",
-    "pronunciation": "はっぴーばーすでーとうや2023.5.25",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーとうや2023.5.25"
   },
   {
+    "honorType": "event",
     "id": 241,
     "name": "HAPPY BIRTHDAY 츠카사",
-    "pronunciation": "はっぴーばーすでーつかさ2023.5.17",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーつかさ2023.5.17"
   },
   {
+    "honorType": "event",
     "id": 242,
     "name": "HAPPY BIRTHDAY 에무 2024.9.9",
-    "pronunciation": "はっぴーばーすでーえむ2023.9.9",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーえむ2023.9.9"
   },
   {
+    "honorType": "event",
     "id": 243,
     "name": "HAPPY BIRTHDAY 네네 2024.7.20",
-    "pronunciation": "はっぴーばーすでーねね2023.7.20",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーねね2023.7.20"
   },
   {
+    "honorType": "event",
     "id": 244,
     "name": "HAPPY BIRTHDAY 루이 2024.6.24",
-    "pronunciation": "はっぴーばーすでーるい2023.6.24",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーるい2023.6.24"
   },
   {
+    "honorType": "event",
     "id": 245,
     "name": "HAPPY BIRTHDAY 카나데",
-    "pronunciation": "はっぴーばーすでーかなで2023.2.10",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーかなで2023.2.10"
   },
   {
+    "honorType": "event",
     "id": 246,
     "name": "HAPPY BIRTHDAY 마후유",
-    "pronunciation": "はっぴーばーすでーまふゆ2023.1.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーまふゆ2023.1.27"
   },
   {
+    "honorType": "event",
     "id": 247,
     "name": "HAPPY BIRTHDAY 에나 2025.4.30",
-    "pronunciation": "はっぴーばーすでーえな2023.4.30",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーえな2023.4.30"
   },
   {
+    "honorType": "event",
     "id": 248,
     "name": "HAPPY BIRTHDAY 미즈키 2024.8.27",
-    "pronunciation": "はっぴーばーすでーみずき2023.8.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーみずき2023.8.27"
   },
   {
+    "honorType": "event",
     "id": 249,
     "name": "HAPPY ANNIVERSARY 미쿠 2024.8.31",
-    "pronunciation": "はっぴーあにばーさりーみく2023.8.31",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーみく2023.8.31"
   },
   {
+    "honorType": "event",
     "id": 250,
     "name": "HAPPY ANNIVERSARY 린",
-    "pronunciation": "はっぴーあにばーさりーりん2022.12.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーりん2022.12.27"
   },
   {
+    "honorType": "event",
     "id": 251,
     "name": "HAPPY ANNIVERSARY 렌",
-    "pronunciation": "はっぴーあにばーさりーれん2022.12.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーれん2022.12.27"
   },
   {
+    "honorType": "event",
     "id": 252,
     "name": "HAPPY ANNIVERSARY 루카",
-    "pronunciation": "はっぴーあにばーさりーるか2023.1.30",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーるか2023.1.30"
   },
   {
+    "honorType": "event",
     "id": 253,
     "name": "HAPPY ANNIVERSARY MEIKO",
-    "pronunciation": "はっぴーあにばーさりーめいこ2022.11.5",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーめいこ2022.11.5"
   },
   {
+    "honorType": "event",
     "id": 254,
     "name": "HAPPY ANNIVERSARY KAITO",
-    "pronunciation": "はっぴーあにばーさりーかいと2023.2.17",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーかいと2023.2.17"
   },
   {
+    "honorType": "event",
     "id": 255,
     "name": "커넥트 라이브 2nd ANNIVERSARY SPECIAL STAGE",
-    "pronunciation": "こねくとらいぶせかんどあにばーさりーすぺしゃるすてーじ",
-    "honorType": "event"
+    "pronunciation": "こねくとらいぶせかんどあにばーさりーすぺしゃるすてーじ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_then",
+    "honorType": "event",
     "id": 256,
     "name": "친애하는, 그 무렵의 내게",
-    "pronunciation": "はいけい、あのころのわたしへ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_then"
+    "pronunciation": "はいけい、あのころのわたしへ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_curtaincall",
+    "honorType": "event",
     "id": 257,
     "name": "커튼콜에 애틋한 이별을",
-    "pronunciation": "かーてんこーるにせきべつを",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_curtaincall"
+    "pronunciation": "かーてんこーるにせきべつを"
   },
   {
+    "honorType": "event",
     "id": 258,
     "name": "핼러윈 2023",
-    "pronunciation": "はろうぃん2022",
-    "honorType": "event"
+    "pronunciation": "はろうぃん2022"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_scream",
+    "honorType": "event",
     "id": 259,
     "name": "절규?! 늑대의 숲에 어서 오세요!",
-    "pronunciation": "ぜっきょう？おおかみのもりへようこそ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_scream"
+    "pronunciation": "ぜっきょう？おおかみのもりへようこそ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_echo",
+    "honorType": "event",
     "id": 260,
     "name": "Echo my melody",
-    "pronunciation": "えこーまいめろでぃー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_echo"
+    "pronunciation": "えこーまいめろでぃー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wish",
+    "honorType": "event",
     "id": 261,
     "name": "소망은, 언젠가 아침을 넘어",
-    "pronunciation": "ねがいは、いつかあさをこえて",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wish"
+    "pronunciation": "ねがいは、いつかあさをこえて"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_beyond",
+    "honorType": "event",
     "id": 262,
     "name": "그날의 꿈의, 저 너머로",
-    "pronunciation": "あのひのゆめの、かなたむこうへ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_beyond"
+    "pronunciation": "あのひのゆめの、かなたむこうへ"
   },
   {
+    "honorType": "event",
     "id": 263,
     "name": "프로젝트 세카이 Championship 2022 Autumn",
-    "pronunciation": "ぷろじぇくとせかいちゃんぴおんしっぷ2022おーたむ",
-    "honorType": "event"
+    "pronunciation": "ぷろじぇくとせかいちゃんぴおんしっぷ2022おーたむ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_way",
+    "honorType": "event",
     "id": 264,
     "name": "Find A Way Out",
-    "pronunciation": "ふぁいんどあうぇいあうと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_way"
+    "pronunciation": "ふぁいんどあうぇいあうと"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_kyudo",
+    "honorType": "event",
     "id": 265,
     "name": "활시위를 당겨, 하얀 세계에서",
-    "pronunciation": "ゆみひけ、しろのせかいで",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_kyudo"
+    "pronunciation": "ゆみひけ、しろのせかいで"
   },
   {
+    "honorType": "event",
     "id": 266,
     "name": "크리스마스 2023",
-    "pronunciation": "くりすます2022",
-    "honorType": "event"
+    "pronunciation": "くりすます2022"
   },
   {
+    "honorType": "event",
     "id": 267,
     "name": "카운트다운 2024",
-    "pronunciation": "かうんとだうん2023",
-    "honorType": "event"
+    "pronunciation": "かうんとだうん2023"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_liondance",
+    "honorType": "event",
     "id": 268,
     "name": "새해맞이! 사자춤 로봇의 새해 쇼!",
-    "pronunciation": "しんしゅんししまいろぼのおしょうがつしょー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_liondance"
+    "pronunciation": "しんしゅんししまいろぼのおしょうがつしょー"
   },
   {
+    "backgroundAssetbundleName": "season_2023_winter",
+    "honorType": "rank_match",
     "id": 269,
     "name": "랭크 매치 2024 WINTER",
-    "pronunciation": "らんくまっち2023うぃんたー",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2023_winter"
+    "pronunciation": "らんくまっち2023うぃんたー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_shining",
+    "honorType": "event",
     "id": 270,
     "name": "꿈속, 빛나는 별들에게",
-    "pronunciation": "ゆめのとちゅう、かがやくほしたちへ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_shining"
+    "pronunciation": "ゆめのとちゅう、かがやくほしたちへ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_bravers",
+    "honorType": "event",
     "id": 271,
     "name": "Little Bravers!",
-    "pronunciation": "りとるぶれいばーず",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_bravers"
+    "pronunciation": "りとるぶれいばーず"
   },
   {
+    "honorType": "event",
     "id": 272,
     "name": "밸런타인 2024",
-    "pronunciation": "ばれんたいん2023",
-    "honorType": "event"
+    "pronunciation": "ばれんたいん2023"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_candle",
+    "honorType": "event",
     "id": 273,
     "name": "캔들 향기는 추억과 함께",
-    "pronunciation": "きゃんどるのかおりはおもいでとともに",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_candle"
+    "pronunciation": "きゃんどるのかおりはおもいでとともに"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_thread",
+    "honorType": "event",
     "id": 274,
     "name": "풀린 실 그 너머에",
-    "pronunciation": "ほどかれたいとのそのさきに",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_thread"
+    "pronunciation": "ほどかれたいとのそのさきに"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_kick",
+    "honorType": "event",
     "id": 275,
     "name": "Kick it up a notch",
-    "pronunciation": "きっくいっとあっぷあのっち",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_kick"
+    "pronunciation": "きっくいっとあっぷあのっち"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_cooking",
+    "honorType": "event",
     "id": 276,
     "name": "Never Give Up Cooking!",
-    "pronunciation": "ねばーぎぶあっぷくっきんぐ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_cooking"
+    "pronunciation": "ねばーぎぶあっぷくっきんぐ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_sky",
+    "honorType": "event",
     "id": 277,
     "name": "하늘 끝의 피닉스에게",
-    "pronunciation": "てんのはてのふぇにっくすへ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_sky"
+    "pronunciation": "てんのはてのふぇにっくすへ"
   },
   {
+    "honorType": "event",
     "id": 278,
     "name": "화이트데이 2024",
-    "pronunciation": "ほわいとでー2023",
-    "honorType": "event"
+    "pronunciation": "ほわいとでー2023"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_immiscible",
+    "honorType": "event",
     "id": 279,
     "name": "이미서블 디스코드",
-    "pronunciation": "いみしぶるでぃすこーど",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_immiscible"
+    "pronunciation": "いみしぶるでぃすこーど"
   },
   {
+    "honorType": "event",
     "id": 280,
     "name": "커넥트 라이브 MORE MORE JUMP! 1st JUMPIN!",
-    "pronunciation": "こねくとらいぶもあもあじゃんぷふぁーすとじゃんぴん",
-    "honorType": "event"
+    "pronunciation": "こねくとらいぶもあもあじゃんぷふぁーすとじゃんぴん"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_citycorner",
+    "honorType": "event",
     "id": 281,
     "name": "교향하는 거리의 한편에서",
-    "pronunciation": "こうきょうするまちのかたすみで",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_citycorner"
+    "pronunciation": "こうきょうするまちのかたすみで"
   },
   {
+    "backgroundAssetbundleName": "season_2023_spring",
+    "honorType": "rank_match",
     "id": 282,
     "name": "랭크 매치 2024 SPRING",
-    "pronunciation": "らんくまっち2023すぷりんぐ",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2023_spring"
+    "pronunciation": "らんくまっち2023すぷりんぐ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_getover",
+    "honorType": "event",
     "id": 283,
     "name": "Get over it.",
-    "pronunciation": "げっとおーばーいっと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_getover"
+    "pronunciation": "げっとおーばーいっと"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_retie",
+    "honorType": "event",
     "id": 284,
     "name": "Re-tie Friendship",
-    "pronunciation": "りたいふれんどしっぷ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_retie"
+    "pronunciation": "りたいふれんどしっぷ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_runaway",
+    "honorType": "event",
     "id": 285,
     "name": "우리들의 생존 도주",
-    "pronunciation": "ぼくたちのせいぞんとうかなで",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_runaway"
+    "pronunciation": "ぼくたちのせいぞんとうかなで"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_trip",
+    "honorType": "event",
     "id": 286,
     "name": "출항 전의 원데이 트립",
-    "pronunciation": "ふなでのまえのわんでいとりっぷ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_trip"
+    "pronunciation": "ふなでのまえのわんでいとりっぷ"
   },
   {
+    "honorType": "event",
     "id": 287,
     "name": "커넥트 라이브 Leo/need 1st SPARKLE",
-    "pronunciation": "こねくとらいぶれおにーどふぁーすとすぱーくる",
-    "honorType": "event"
+    "pronunciation": "こねくとらいぶれおにーどふぁーすとすぱーくる"
   },
   {
+    "honorType": "event",
     "id": 288,
     "name": "프로젝트 세카이 Championship 2024 Spring",
-    "pronunciation": "ぷろじぇくとせかいちゃんぴおんしっぷ2023すぷりんぐ",
-    "honorType": "event"
+    "pronunciation": "ぷろじぇくとせかいちゃんぴおんしっぷ2023すぷりんぐ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_quagmire",
+    "honorType": "event",
     "id": 289,
     "name": "카나리아는 궁지 속에서 노래한다",
-    "pronunciation": "かなりあはきゅうきょうにうたう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_quagmire"
+    "pronunciation": "かなりあはきゅうきょうにうたう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_neighbor",
+    "honorType": "event",
     "id": 290,
     "name": "옆에 선, 다정한 당신에게",
-    "pronunciation": "となりにたつ、やさしいあなたへ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_neighbor"
+    "pronunciation": "となりにたつ、やさしいあなたへ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_fire",
+    "honorType": "event",
     "id": 291,
     "name": "Light Up the Fire",
-    "pronunciation": "らいとあっぷざふぁいあ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_fire"
+    "pronunciation": "らいとあっぷざふぁいあ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_step",
+    "honorType": "event",
     "id": 292,
     "name": "STEP by STEP!",
-    "pronunciation": "すてっぷばいすてっぷ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_step"
+    "pronunciation": "すてっぷばいすてっぷ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_pandemonium",
+    "honorType": "event",
     "id": 293,
     "name": "일생에 한 번뿐인 백귀야행?!",
-    "pronunciation": "いちごいちえなひゃっきやこう？",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_pandemonium"
+    "pronunciation": "いちごいちえなひゃっきやこう？"
   },
   {
+    "honorType": "event",
     "id": 294,
     "name": "커넥트 라이브 25시, 나이트 코드에서. 1st moment",
-    "pronunciation": "こねくとらいぶ25じ、ないとこーどで。ふぁーすともーめんと",
-    "honorType": "event"
+    "pronunciation": "こねくとらいぶ25じ、ないとこーどで。ふぁーすともーめんと"
   },
   {
+    "backgroundAssetbundleName": "season_2023_summer",
+    "honorType": "rank_match",
     "id": 295,
     "name": "랭크 매치 2024 SUMMER",
-    "pronunciation": "らんくまっち2023さまー",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2023_summer"
+    "pronunciation": "らんくまっち2023さまー"
   },
   {
+    "honorType": "event",
     "id": 296,
     "name": "칠석 2024",
-    "pronunciation": "たなばた2023",
-    "honorType": "event"
+    "pronunciation": "たなばた2023"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_persona",
+    "honorType": "event",
     "id": 297,
     "name": "가면 쓴 나에게 작별 인사를",
-    "pronunciation": "かめんのわたしにさよならを",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_persona"
+    "pronunciation": "かめんのわたしにさよならを"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_connect",
+    "honorType": "event",
     "id": 298,
     "name": "이어지는, 별의 노래",
-    "pronunciation": "つなぐ、ほしのうた",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_connect"
+    "pronunciation": "つなぐ、ほしのうた"
   },
   {
+    "honorType": "event",
     "id": 299,
     "name": "커넥트 라이브 원더랜즈×쇼타임 1st STORIES",
-    "pronunciation": "こねくとらいぶわんだーらんずかけるしょうたいむふぁーすとすとーりーず",
-    "honorType": "event"
+    "pronunciation": "こねくとらいぶわんだーらんずかけるしょうたいむふぁーすとすとーりーず"
   },
   {
+    "honorType": "achievement",
     "id": 300,
     "name": "라이브 마스터 초급",
-    "pronunciation": "らいぶますたーしょきゅう",
-    "honorType": "achievement"
+    "pronunciation": "らいぶますたーしょきゅう"
   },
   {
+    "honorType": "achievement",
     "id": 301,
     "name": "라이브 마스터 중급",
-    "pronunciation": "らいぶますたーちゅうきゅう",
-    "honorType": "achievement"
+    "pronunciation": "らいぶますたーちゅうきゅう"
   },
   {
+    "honorType": "achievement",
     "id": 302,
     "name": "라이브 마스터 상급",
-    "pronunciation": "らいぶますたーじょうきゅう",
-    "honorType": "achievement"
+    "pronunciation": "らいぶますたーじょうきゅう"
   },
   {
+    "honorType": "achievement",
     "id": 303,
     "name": "라이브 마스터 전문가",
-    "pronunciation": "らいぶますたーたつじん",
-    "honorType": "achievement"
+    "pronunciation": "らいぶますたーたつじん"
   },
   {
+    "honorType": "achievement",
     "id": 304,
     "name": "라이브 마스터 달인",
-    "pronunciation": "らいぶますたーかいでん",
-    "honorType": "achievement"
+    "pronunciation": "らいぶますたーかいでん"
   },
   {
+    "honorType": "achievement",
     "id": 305,
     "name": "라이브 마스터 진정한 달인",
-    "pronunciation": "らいぶますたーしんかいでん",
-    "honorType": "achievement"
+    "pronunciation": "らいぶますたーしんかいでん"
   },
   {
+    "honorType": "achievement",
     "id": 306,
     "name": "제법 올드비",
-    "pronunciation": "ずっとむかしからいる",
-    "honorType": "achievement"
+    "pronunciation": "ずっとむかしからいる"
   },
   {
+    "honorType": "achievement",
     "id": 307,
     "name": "엄청난 올드비",
-    "pronunciation": "はるかむかしからいる",
-    "honorType": "achievement"
+    "pronunciation": "はるかむかしからいる"
   },
   {
+    "honorType": "achievement",
     "id": 308,
     "name": "전생부터 있었던 올드비",
-    "pronunciation": "ぜんせからいる",
-    "honorType": "achievement"
+    "pronunciation": "ぜんせからいる"
   },
   {
+    "honorType": "achievement",
     "id": 309,
     "name": "언제나 곁에 있어",
-    "pronunciation": "いつでもそばにいる",
-    "honorType": "achievement"
+    "pronunciation": "いつでもそばにいる"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_recording",
+    "honorType": "event",
     "id": 310,
     "name": "좌충우돌 cafe ●REC!!",
-    "pronunciation": "どたばたかふぇれっく",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_recording"
+    "pronunciation": "どたばたかふぇれっく"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_onyourfeet",
+    "honorType": "event",
     "id": 311,
     "name": "On Your Feet",
-    "pronunciation": "おんゆあーふぃーと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_onyourfeet"
+    "pronunciation": "おんゆあーふぃーと"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_ourhappy",
+    "honorType": "event",
     "id": 312,
     "name": "우리들의 해피 엔딩",
-    "pronunciation": "あたしたちのはっぴーえんど",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_ourhappy"
+    "pronunciation": "あたしたちのはっぴーえんど"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_resound",
+    "honorType": "event",
     "id": 313,
     "name": "세카이에 울려 퍼져라! Your Song",
-    "pronunciation": "せかいにひびけゆあそんぐ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_resound"
+    "pronunciation": "せかいにひびけゆあそんぐ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_preciousmemories",
+    "honorType": "event",
     "id": 314,
     "name": "너와 만드는 Precious memories",
-    "pronunciation": "きみとつむぐぷれしゃすめもりーず",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_preciousmemories"
+    "pronunciation": "きみとつむぐぷれしゃすめもりーず"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_study",
+    "honorType": "event",
     "id": 315,
     "name": "Let's study hard!",
-    "pronunciation": "れっつすたでぃはーど",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_study"
+    "pronunciation": "れっつすたでぃはーど"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_hello",
+    "honorType": "event",
     "id": 316,
     "name": "헬로 굿 데이!",
-    "pronunciation": "はろーぐっどでい",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_hello"
+    "pronunciation": "はろーぐっどでい"
   },
   {
+    "honorType": "event",
     "id": 317,
     "name": "커넥트 라이브 3rd ANNIVERSARY Memorial Stage",
-    "pronunciation": "こねくとらいぶさーどあにばーさりーめもりあるすてーじ",
-    "honorType": "event"
+    "pronunciation": "こねくとらいぶさーどあにばーさりーめもりあるすてーじ"
   },
   {
+    "backgroundAssetbundleName": "season_2023_autumn",
+    "honorType": "rank_match",
     "id": 318,
     "name": "랭크 매치 2024 AUTUMN",
-    "pronunciation": "らんくまっち2023おーたむ",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2023_autumn"
+    "pronunciation": "らんくまっち2023おーたむ"
   },
   {
+    "honorType": "event",
     "id": 319,
     "name": "HAPPY BIRTHDAY 이치카 2025.8.11",
-    "pronunciation": "はっぴーばーすでーいちか2024.8.11",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーいちか2024.8.11"
   },
   {
+    "honorType": "event",
     "id": 320,
     "name": "HAPPY BIRTHDAY 사키 2025.5.9",
-    "pronunciation": "はっぴーばーすでーさき2024.5.9",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーさき2024.5.9"
   },
   {
+    "honorType": "event",
     "id": 321,
     "name": "HAPPY BIRTHDAY 호나미 2025.10.27",
-    "pronunciation": "はっぴーばーすでーほなみ2023.10.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーほなみ2023.10.27"
   },
   {
+    "honorType": "event",
     "id": 322,
     "name": "HAPPY BIRTHDAY 시호 2026.1.8",
-    "pronunciation": "はっぴーばーすでーしほ2024.1.8",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーしほ2024.1.8"
   },
   {
+    "honorType": "event",
     "id": 323,
     "name": "HAPPY BIRTHDAY 미노리 2025.4.14",
-    "pronunciation": "はっぴーばーすでーみのり2024.4.14",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーみのり2024.4.14"
   },
   {
+    "honorType": "event",
     "id": 324,
     "name": "HAPPY BIRTHDAY 하루카 2025.10.5",
-    "pronunciation": "はっぴーばーすでーはるか2023.10.5",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーはるか2023.10.5"
   },
   {
+    "honorType": "event",
     "id": 325,
     "name": "HAPPY BIRTHDAY 아이리 2025.3.19",
-    "pronunciation": "はっぴーばーすでーあいり2024.3.19",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあいり2024.3.19"
   },
   {
+    "honorType": "event",
     "id": 326,
     "name": "HAPPY BIRTHDAY 시즈쿠 2025.12.6",
-    "pronunciation": "はっぴーばーすでーしずく2023.12.6",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーしずく2023.12.6"
   },
   {
+    "honorType": "event",
     "id": 327,
     "name": "HAPPY BIRTHDAY 코하네 2025.3.2",
-    "pronunciation": "はっぴーばーすでーこはね2024.3.2",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーこはね2024.3.2"
   },
   {
+    "honorType": "event",
     "id": 328,
     "name": "HAPPY BIRTHDAY 안 2025.7.26",
-    "pronunciation": "はっぴーばーすでーあん2024.7.26",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあん2024.7.26"
   },
   {
+    "honorType": "event",
     "id": 329,
     "name": "HAPPY BIRTHDAY 아키토 2025.11.12",
-    "pronunciation": "はっぴーばーすでーあきと2023.11.12",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあきと2023.11.12"
   },
   {
+    "honorType": "event",
     "id": 330,
     "name": "HAPPY BIRTHDAY 토우야 2025.5.25",
-    "pronunciation": "はっぴーばーすでーとうや2024.5.25",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーとうや2024.5.25"
   },
   {
+    "honorType": "event",
     "id": 331,
     "name": "HAPPY BIRTHDAY 츠카사 2025.5.17",
-    "pronunciation": "はっぴーばーすでーつかさ2024.5.17",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーつかさ2024.5.17"
   },
   {
+    "honorType": "event",
     "id": 332,
     "name": "HAPPY BIRTHDAY 에무 2025.9.9",
-    "pronunciation": "はっぴーばーすでーえむ2024.9.9",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーえむ2024.9.9"
   },
   {
+    "honorType": "event",
     "id": 333,
     "name": "HAPPY BIRTHDAY 네네 2025.7.20",
-    "pronunciation": "はっぴーばーすでーねね2024.7.20",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーねね2024.7.20"
   },
   {
+    "honorType": "event",
     "id": 334,
     "name": "HAPPY BIRTHDAY 루이 2025.6.24",
-    "pronunciation": "はっぴーばーすでーるい2024.6.24",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーるい2024.6.24"
   },
   {
+    "honorType": "event",
     "id": 335,
     "name": "HAPPY BIRTHDAY 카나데 2025.2.10",
-    "pronunciation": "はっぴーばーすでーかなで2024.2.10",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーかなで2024.2.10"
   },
   {
+    "honorType": "event",
     "id": 336,
     "name": "HAPPY BIRTHDAY 마후유 2025.1.27",
-    "pronunciation": "はっぴーばーすでーまふゆ2024.1.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーまふゆ2024.1.27"
   },
   {
+    "honorType": "event",
     "id": 337,
     "name": "HAPPY BIRTHDAY 에나 2026.4.30",
-    "pronunciation": "はっぴーばーすでーえな2024.4.30",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーえな2024.4.30"
   },
   {
+    "honorType": "event",
     "id": 338,
     "name": "HAPPY BIRTHDAY 미즈키 2025.8.27",
-    "pronunciation": "はっぴーばーすでーみずき2024.8.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーみずき2024.8.27"
   },
   {
+    "honorType": "event",
     "id": 339,
     "name": "HAPPY ANNIVERSARY 미쿠 2025.8.31",
-    "pronunciation": "はっぴーあにばーさりーみく2024.8.31",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーみく2024.8.31"
   },
   {
+    "honorType": "event",
     "id": 340,
     "name": "HAPPY ANNIVERSARY 린 2025.12.27",
-    "pronunciation": "はっぴーあにばーさりーりん2023.12.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーりん2023.12.27"
   },
   {
+    "honorType": "event",
     "id": 341,
     "name": "HAPPY ANNIVERSARY 렌 2025.12.27",
-    "pronunciation": "はっぴーあにばーさりーれん2023.12.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーれん2023.12.27"
   },
   {
+    "honorType": "event",
     "id": 342,
     "name": "HAPPY ANNIVERSARY 루카 2026.1.30",
-    "pronunciation": "はっぴーあにばーさりーるか2024.1.30",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーるか2024.1.30"
   },
   {
+    "honorType": "event",
     "id": 343,
     "name": "HAPPY ANNIVERSARY MEIKO 2025.11.5",
-    "pronunciation": "はっぴーあにばーさりーめいこ2023.11.5",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーめいこ2023.11.5"
   },
   {
+    "honorType": "event",
     "id": 344,
     "name": "HAPPY ANNIVERSARY KAITO 2026.2.17",
-    "pronunciation": "はっぴーあにばーさりーかいと2024.2.17",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーかいと2024.2.17"
   },
   {
+    "honorType": "achievement",
     "id": 345,
     "name": "고등학교 2학년",
-    "pronunciation": "こうこう2ねんせい",
-    "honorType": "achievement"
+    "pronunciation": "こうこう2ねんせい"
   },
   {
+    "honorType": "achievement",
     "id": 346,
     "name": "고등학교 3학년",
-    "pronunciation": "こうこう3ねんせい",
-    "honorType": "achievement"
+    "pronunciation": "こうこう3ねんせい"
   },
   {
+    "honorType": "achievement",
     "id": 347,
     "name": "사파이어",
-    "pronunciation": "さふぁいあ",
-    "honorType": "achievement"
+    "pronunciation": "さふぁいあ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_burn",
+    "honorType": "event",
     "id": 348,
     "name": "BURN MY SOUL",
-    "pronunciation": "ばーんまいそうる",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_burn"
+    "pronunciation": "ばーんまいそうる"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_stickto",
+    "honorType": "event",
     "id": 349,
     "name": "Stick to your faith",
-    "pronunciation": "すてぃっくとゅーゆあーふぇいす",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_stickto"
+    "pronunciation": "すてぃっくとゅーゆあーふぇいす"
   },
   {
+    "honorType": "event",
     "id": 350,
     "name": "핼러윈 2024",
-    "pronunciation": "はろうぃん2023",
-    "honorType": "event"
+    "pronunciation": "はろうぃん2023"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_warmth",
+    "honorType": "event",
     "id": 351,
     "name": "그 손이 이끄는 온기는",
-    "pronunciation": "そのてみちびくぬくもりは",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_warmth"
+    "pronunciation": "そのてみちびくぬくもりは"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_underwater",
+    "honorType": "event",
     "id": 352,
     "name": "수면 아래로, 그림자를 찾아서 종합",
-    "pronunciation": "みなそこにかげをさがしてかなでごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_underwater"
+    "pronunciation": "みなそこにかげをさがしてかなでごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_underwater_cp1",
+    "frameName": "event_underwater_cp1",
+    "honorType": "event",
     "id": 353,
     "name": "수면 아래로, 그림자를 찾아서 챕터 1",
-    "pronunciation": "みなそこにかげをさがしてちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_underwater_cp1",
-    "frameName": "event_underwater_cp1"
+    "pronunciation": "みなそこにかげをさがしてちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_underwater_cp2",
+    "frameName": "event_underwater_cp2",
+    "honorType": "event",
     "id": 354,
     "name": "수면 아래로, 그림자를 찾아서 챕터 2",
-    "pronunciation": "みなそこにかげをさがしてちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_underwater_cp2",
-    "frameName": "event_underwater_cp2"
+    "pronunciation": "みなそこにかげをさがしてちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_underwater_cp3",
+    "frameName": "event_underwater_cp3",
+    "honorType": "event",
     "id": 355,
     "name": "수면 아래로, 그림자를 찾아서 챕터 3",
-    "pronunciation": "みなそこにかげをさがしてちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_underwater_cp3",
-    "frameName": "event_underwater_cp3"
+    "pronunciation": "みなそこにかげをさがしてちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_underwater_cp4",
+    "frameName": "event_underwater_cp4",
+    "honorType": "event",
     "id": 356,
     "name": "수면 아래로, 그림자를 찾아서 챕터 4",
-    "pronunciation": "みなそこにかげをさがしてちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_underwater_cp4",
-    "frameName": "event_underwater_cp4"
+    "pronunciation": "みなそこにかげをさがしてちゃぷたー4"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_supporting",
+    "honorType": "event",
     "id": 357,
     "name": "네가 주인공인 이야기를",
-    "pronunciation": "きみがしゅやくのものがたりを",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_supporting"
+    "pronunciation": "きみがしゅやくのものがたりを"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_crankup",
+    "honorType": "event",
     "id": 358,
     "name": "최고의 크랭크 업!",
-    "pronunciation": "さいこうのくらんくあっぷ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_crankup"
+    "pronunciation": "さいこうのくらんくあっぷ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_keeper",
+    "honorType": "event",
     "id": 359,
     "name": "여기저기 사육사 체험!",
-    "pronunciation": "あっちこっちしいくいんたいけん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_keeper"
+    "pronunciation": "あっちこっちしいくいんたいけん"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_tone",
+    "honorType": "event",
     "id": 360,
     "name": "그날, 연주한 음색을",
-    "pronunciation": "あのひ、かなでたねいろを",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_tone"
+    "pronunciation": "あのひ、かなでたねいろを"
   },
   {
+    "honorType": "event",
     "id": 361,
     "name": "크리스마스 2024",
-    "pronunciation": "くりすます2023",
-    "honorType": "event"
+    "pronunciation": "くりすます2023"
   },
   {
+    "honorType": "event",
     "id": 362,
     "name": "카운트다운 2025",
-    "pronunciation": "かうんとだうん2024",
-    "honorType": "event"
+    "pronunciation": "かうんとだうん2024"
   },
   {
+    "honorType": "event",
     "id": 363,
     "name": "해피 뉴 이어 2025",
-    "pronunciation": "はっぴーにゅーいやー2024",
-    "honorType": "event"
+    "pronunciation": "はっぴーにゅーいやー2024"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_cuddle",
+    "honorType": "event",
     "id": 364,
     "name": "변함없는 온기 옆에서",
-    "pronunciation": "かわらぬあたたかさのとなりで",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_cuddle"
+    "pronunciation": "かわらぬあたたかさのとなりで"
   },
   {
+    "backgroundAssetbundleName": "season_2024_winter",
+    "honorType": "rank_match",
     "id": 365,
     "name": "랭크 매치 2024 WINTER",
-    "pronunciation": "らんくまっち2024うぃんたー",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2024_winter"
+    "pronunciation": "らんくまっち2024うぃんたー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_breakdown",
+    "honorType": "event",
     "id": 366,
     "name": "BREAK DOWN THE WALL 종합",
-    "pronunciation": "ぶれいくだうんざうぉーるかなでごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_breakdown"
+    "pronunciation": "ぶれいくだうんざうぉーるかなでごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp1",
+    "frameName": "event_breakdown_cp1",
+    "honorType": "event",
     "id": 367,
     "name": "BREAK DOWN THE WALL 챕터 1",
-    "pronunciation": "ぶれいくだうんざうぉーるちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp1",
-    "frameName": "event_breakdown_cp1"
+    "pronunciation": "ぶれいくだうんざうぉーるちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp2",
+    "frameName": "event_breakdown_cp2",
+    "honorType": "event",
     "id": 368,
     "name": "BREAK DOWN THE WALL 챕터 2",
-    "pronunciation": "ぶれいくだうんざうぉーるちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp2",
-    "frameName": "event_breakdown_cp2"
+    "pronunciation": "ぶれいくだうんざうぉーるちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp3",
+    "frameName": "event_breakdown_cp3",
+    "honorType": "event",
     "id": 369,
     "name": "BREAK DOWN THE WALL 챕터 3",
-    "pronunciation": "ぶれいくだうんざうぉーるちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp3",
-    "frameName": "event_breakdown_cp3"
+    "pronunciation": "ぶれいくだうんざうぉーるちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp4",
+    "frameName": "event_breakdown_cp4",
+    "honorType": "event",
     "id": 370,
     "name": "BREAK DOWN THE WALL 챕터 4",
-    "pronunciation": "ぶれいくだうんざうぉーるちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp4",
-    "frameName": "event_breakdown_cp4"
+    "pronunciation": "ぶれいくだうんざうぉーるちゃぷたー4"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_lensflare",
+    "honorType": "event",
     "id": 371,
     "name": "역광의 렌즈 플레어",
-    "pronunciation": "ぎゃっこうのれんずふれあ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_lensflare"
+    "pronunciation": "ぎゃっこうのれんずふれあ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_bestshot",
+    "honorType": "event",
     "id": 372,
     "name": "Take the Best Shot!",
-    "pronunciation": "ていくざべすとしょっと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_bestshot"
+    "pronunciation": "ていくざべすとしょっと"
   },
   {
+    "honorType": "event",
     "id": 373,
     "name": "밸런타인 2025",
-    "pronunciation": "ばれんたいん2024",
-    "honorType": "event"
+    "pronunciation": "ばれんたいん2024"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_lead",
+    "honorType": "event",
     "id": 374,
     "name": "이끄는 용기, 다정함을 가슴에",
-    "pronunciation": "みちびくゆうき、やさしさをむねに",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_lead"
+    "pronunciation": "みちびくゆうき、やさしさをむねに"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_graven",
+    "honorType": "event",
     "id": 375,
     "name": "새겨진 상처는 이윽고",
-    "pronunciation": "きざまれたきずは、やがて",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_graven"
+    "pronunciation": "きざまれたきずは、やがて"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_teatime",
+    "honorType": "event",
     "id": 376,
     "name": "릴랙스 티타임",
-    "pronunciation": "りらっくすてぃーたいむ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_teatime"
+    "pronunciation": "りらっくすてぃーたいむ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_yosoro",
+    "honorType": "event",
     "id": 377,
     "name": "별을 향해 출항! 종합",
-    "pronunciation": "ほしをめざして、よーそろーかなでごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_yosoro"
+    "pronunciation": "ほしをめざして、よーそろーかなでごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp1",
+    "frameName": "event_yosoro_cp1",
+    "honorType": "event",
     "id": 378,
     "name": "별을 향해 출항! 챕터 1",
-    "pronunciation": "ほしをめざして、よーそろーちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp1",
-    "frameName": "event_yosoro_cp1"
+    "pronunciation": "ほしをめざして、よーそろーちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp2",
+    "frameName": "event_yosoro_cp2",
+    "honorType": "event",
     "id": 379,
     "name": "별을 향해 출항! 챕터 2",
-    "pronunciation": "ほしをめざして、よーそろーちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp2",
-    "frameName": "event_yosoro_cp2"
+    "pronunciation": "ほしをめざして、よーそろーちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp3",
+    "frameName": "event_yosoro_cp3",
+    "honorType": "event",
     "id": 380,
     "name": "별을 향해 출항! 챕터 3",
-    "pronunciation": "ほしをめざして、よーそろーちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp3",
-    "frameName": "event_yosoro_cp3"
+    "pronunciation": "ほしをめざして、よーそろーちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp4",
+    "frameName": "event_yosoro_cp4",
+    "honorType": "event",
     "id": 381,
     "name": "별을 향해 출항! 챕터 4",
-    "pronunciation": "ほしをめざして、よーそろーちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp4",
-    "frameName": "event_yosoro_cp4"
+    "pronunciation": "ほしをめざして、よーそろーちゃぷたー4"
   },
   {
+    "honorType": "event",
     "id": 382,
     "name": "화이트데이 2025",
-    "pronunciation": "ほわいとでー2024",
-    "honorType": "event"
+    "pronunciation": "ほわいとでー2024"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_concerto",
+    "honorType": "event",
     "id": 383,
     "name": "The first concerto",
-    "pronunciation": "ざふぁーすとこんさーと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_concerto"
+    "pronunciation": "ざふぁーすとこんさーと"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_rise",
+    "honorType": "event",
     "id": 384,
     "name": "Rise as ONE!",
-    "pronunciation": "らいずあずわん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_rise"
+    "pronunciation": "らいずあずわん"
   },
   {
+    "backgroundAssetbundleName": "season_2024_spring",
+    "honorType": "rank_match",
     "id": 385,
     "name": "랭크 매치 2025 SPRING",
-    "pronunciation": "らんくまっち2024すぷりんぐ",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2024_spring"
+    "pronunciation": "らんくまっち2024すぷりんぐ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_unseen",
+    "honorType": "event",
     "id": 386,
     "name": "Knowing the Unseen",
-    "pronunciation": "のういんぐざあんしーん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_unseen"
+    "pronunciation": "のういんぐざあんしーん"
   },
   {
+    "honorType": "event",
     "id": 387,
     "name": "프로젝트 세카이 World Championship 2024 Spring",
-    "pronunciation": "ぷろじぇくとせかいわーるどちゃんぴおんしっぷ2024すぷりんぐ",
-    "honorType": "event"
+    "pronunciation": "ぷろじぇくとせかいわーるどちゃんぴおんしっぷ2024すぷりんぐ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_parallel",
+    "honorType": "event",
     "id": 388,
     "name": "Parallel Harmonies",
-    "pronunciation": "ぱられるはーもにーず",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_parallel"
+    "pronunciation": "ぱられるはーもにーず"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_whip",
+    "honorType": "event",
     "id": 389,
     "name": "Whip the wimp girl!!",
-    "pronunciation": "ほいっぷざうぃんぷがーる",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_whip"
+    "pronunciation": "ほいっぷざうぃんぷがーる"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_blooming",
+    "honorType": "event",
     "id": 390,
     "name": "언젠가 꽃피는 스테이지로 종합",
-    "pronunciation": "いつかはなさくすてーじへかなでごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_blooming"
+    "pronunciation": "いつかはなさくすてーじへかなでごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_blooming_cp1",
+    "frameName": "event_blooming_cp1",
+    "honorType": "event",
     "id": 391,
     "name": "언젠가 꽃피는 스테이지로 챕터 1",
-    "pronunciation": "いつかはなさくすてーじへちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_blooming_cp1",
-    "frameName": "event_blooming_cp1"
+    "pronunciation": "いつかはなさくすてーじへちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_blooming_cp2",
+    "frameName": "event_blooming_cp2",
+    "honorType": "event",
     "id": 392,
     "name": "언젠가 꽃피는 스테이지로 챕터 2",
-    "pronunciation": "いつかはなさくすてーじへちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_blooming_cp2",
-    "frameName": "event_blooming_cp2"
+    "pronunciation": "いつかはなさくすてーじへちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_blooming_cp3",
+    "frameName": "event_blooming_cp3",
+    "honorType": "event",
     "id": 393,
     "name": "언젠가 꽃피는 스테이지로 챕터 3",
-    "pronunciation": "いつかはなさくすてーじへちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_blooming_cp3",
-    "frameName": "event_blooming_cp3"
+    "pronunciation": "いつかはなさくすてーじへちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_blooming_cp4",
+    "frameName": "event_blooming_cp4",
+    "honorType": "event",
     "id": 394,
     "name": "언젠가 꽃피는 스테이지로 챕터 4",
-    "pronunciation": "いつかはなさくすてーじへちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_blooming_cp4",
-    "frameName": "event_blooming_cp4"
+    "pronunciation": "いつかはなさくすてーじへちゃぷたー4"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_smile",
+    "honorType": "event",
     "id": 395,
     "name": "perspective for smile",
-    "pronunciation": "ぱーすぺくてぃぶふぉーすまいる",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_smile"
+    "pronunciation": "ぱーすぺくてぃぶふぉーすまいる"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wedding",
+    "honorType": "event",
     "id": 396,
     "name": "다 함께 방송♡ WEDDING LIVE!",
-    "pronunciation": "みんなではいしんうえでぃんぐらいぶ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wedding"
+    "pronunciation": "みんなではいしんうえでぃんぐらいぶ"
   },
   {
+    "honorType": "event",
     "id": 397,
     "name": "커넥트 라이브 RESONANCE BEATS!!",
-    "pronunciation": "コネクトライブ れぞなんす びーつ",
-    "honorType": "event"
+    "pronunciation": "コネクトライブ れぞなんす びーつ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_shine",
+    "honorType": "event",
     "id": 398,
     "name": "Lead to shine more",
-    "pronunciation": "りーどとぅーしゃいんもあ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_shine"
+    "pronunciation": "りーどとぅーしゃいんもあ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_tomoshibi",
+    "honorType": "event",
     "id": 399,
     "name": "등불의 기억을 더듬으며",
-    "pronunciation": "ともしびをたぐりよせて",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_tomoshibi"
+    "pronunciation": "ともしびをたぐりよせて"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_overrad",
+    "honorType": "event",
     "id": 400,
     "name": "OVER RAD SQUAD!!",
-    "pronunciation": "おーばー らっど すくわっど！！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_overrad"
+    "pronunciation": "おーばー らっど すくわっど！！"
   },
   {
+    "honorType": "event",
     "id": 401,
     "name": "칠석 2025",
-    "pronunciation": "たなばた2024",
-    "honorType": "event"
+    "pronunciation": "たなばた2024"
   },
   {
+    "backgroundAssetbundleName": "season_2024_summer",
+    "honorType": "rank_match",
     "id": 402,
     "name": "랭크 매치 2025 SUMMER",
-    "pronunciation": "らんくまっち2024さまー",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2024_summer"
+    "pronunciation": "らんくまっち2024さまー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_torimonothou",
+    "honorType": "event",
     "id": 403,
     "name": "오라를 받아라?! 텐마 체포록",
-    "pronunciation": "おなわをちょうだい！？てんまとりものちょう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_torimonothou"
+    "pronunciation": "おなわをちょうだい！？てんまとりものちょう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_nightsky",
+    "honorType": "event",
     "id": 404,
     "name": "그날 본 밤하늘은 언젠가의 미래로 종합",
-    "pronunciation": "あのひみたよぞらは、いつかのみらいへ そうごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_nightsky"
+    "pronunciation": "あのひみたよぞらは、いつかのみらいへ そうごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp1",
+    "frameName": "event_nightsky_cp1",
+    "honorType": "event",
     "id": 405,
     "name": "그날 본 밤하늘은 언젠가의 미래로 챕터 1",
-    "pronunciation": "あのひみたよぞらは、いつかのみらいへ ちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp1",
-    "frameName": "event_nightsky_cp1"
+    "pronunciation": "あのひみたよぞらは、いつかのみらいへ ちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp2",
+    "frameName": "event_nightsky_cp2",
+    "honorType": "event",
     "id": 406,
     "name": "그날 본 밤하늘은 언젠가의 미래로 챕터 2",
-    "pronunciation": "あのひみたよぞらは、いつかのみらいへ ちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp2",
-    "frameName": "event_nightsky_cp2"
+    "pronunciation": "あのひみたよぞらは、いつかのみらいへ ちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp3",
+    "frameName": "event_nightsky_cp3",
+    "honorType": "event",
     "id": 407,
     "name": "그날 본 밤하늘은 언젠가의 미래로 챕터 3",
-    "pronunciation": "あのひみたよぞらは、いつかのみらいへ ちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp3",
-    "frameName": "event_nightsky_cp3"
+    "pronunciation": "あのひみたよぞらは、いつかのみらいへ ちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp4",
+    "frameName": "event_nightsky_cp4",
+    "honorType": "event",
     "id": 408,
     "name": "그날 본 밤하늘은 언젠가의 미래로 챕터 4",
-    "pronunciation": "あのひみたよぞらは、いつかのみらいへ ちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp4",
-    "frameName": "event_nightsky_cp4"
+    "pronunciation": "あのひみたよぞらは、いつかのみらいへ ちゃぷたー4"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_chase",
+    "honorType": "event",
     "id": 409,
     "name": "Chase my IDEAL IDOL!",
-    "pronunciation": "ちぇいす まい あいである あいどる！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_chase"
+    "pronunciation": "ちぇいす まい あいである あいどる！"
   },
   {
+    "honorType": "achievement",
     "id": 410,
     "name": "라이브 마스터 비전",
-    "pronunciation": "らいぶますたーひでん",
-    "honorType": "achievement"
+    "pronunciation": "らいぶますたーひでん"
   },
   {
+    "honorType": "achievement",
     "id": 411,
     "name": "라이브 마스터 진정한 비전",
-    "pronunciation": "らいぶますたーしんひでん",
-    "honorType": "achievement"
+    "pronunciation": "らいぶますたーしんひでん"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_beautifulsound",
+    "honorType": "event",
     "id": 412,
     "name": "울려라 뷰티풀 사운드!",
-    "pronunciation": "ならせびゅーてぃふるさうんど！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_beautifulsound"
+    "pronunciation": "ならせびゅーてぃふるさうんど！"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_beginning",
+    "honorType": "event",
     "id": 413,
     "name": "너와 세카이의 시작에서 종합",
-    "pronunciation": "きみと、せかいのはじまりで そうごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_beginning"
+    "pronunciation": "きみと、せかいのはじまりで そうごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp1",
+    "frameName": "event_beginning_cp1",
+    "honorType": "event",
     "id": 414,
     "name": "너와 세카이의 시작에서 챕터 1",
-    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_beginning_cp1",
-    "frameName": "event_beginning_cp1"
+    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp2",
+    "frameName": "event_beginning_cp2",
+    "honorType": "event",
     "id": 415,
     "name": "너와 세카이의 시작에서 챕터 2",
-    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_beginning_cp2",
-    "frameName": "event_beginning_cp2"
+    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp3",
+    "frameName": "event_beginning_cp3",
+    "honorType": "event",
     "id": 416,
     "name": "너와 세카이의 시작에서 챕터 3",
-    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_beginning_cp3",
-    "frameName": "event_beginning_cp3"
+    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp4",
+    "frameName": "event_beginning_cp4",
+    "honorType": "event",
     "id": 417,
     "name": "너와 세카이의 시작에서 챕터 4",
-    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_beginning_cp4",
-    "frameName": "event_beginning_cp4"
+    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー4"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp5",
+    "frameName": "event_beginning_cp5",
+    "honorType": "event",
     "id": 418,
     "name": "너와 세카이의 시작에서 챕터 5",
-    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー5",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_beginning_cp5",
-    "frameName": "event_beginning_cp5"
+    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー5"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp6",
+    "frameName": "event_beginning_cp6",
+    "honorType": "event",
     "id": 419,
     "name": "너와 세카이의 시작에서 챕터 6",
-    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー6",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_beginning_cp6",
-    "frameName": "event_beginning_cp6"
+    "pronunciation": "きみと、せかいのはじまりで ちゃぷたー6"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_horror",
+    "honorType": "event",
     "id": 420,
     "name": "원더호러~?!한 담력 훈련!",
-    "pronunciation": "わんだほら～！？なきもだめし！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_horror"
+    "pronunciation": "わんだほら～！？なきもだめし！"
   },
   {
+    "honorType": "event",
     "id": 421,
     "name": "커뮤니티컵 2025 SUMMER",
-    "pronunciation": "こみゅにてぃかっぷ2024さまー",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2024さまー"
   },
   {
+    "honorType": "event",
     "id": 422,
     "name": "프로세카 전국 연합 학력 평가",
-    "pronunciation": "ぷろせかぜんこくとういつてすと",
-    "honorType": "event"
+    "pronunciation": "ぷろせかぜんこくとういつてすと"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_muscle",
+    "honorType": "event",
     "id": 423,
     "name": "단련해서 FLY! Muscle Training!",
-    "pronunciation": "きたえてふらい！まっするとれーにんぐ！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_muscle"
+    "pronunciation": "きたえてふらい！まっするとれーにんぐ！"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_moment",
+    "honorType": "event",
     "id": 424,
     "name": "This moment with you!",
-    "pronunciation": "でぃす　もーめんと　うぃず　ゆー！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_moment"
+    "pronunciation": "でぃす　もーめんと　うぃず　ゆー！"
   },
   {
+    "honorType": "achievement",
     "id": 425,
     "name": "가넷",
-    "pronunciation": "がーねっと",
-    "honorType": "achievement"
+    "pronunciation": "がーねっと"
   },
   {
+    "honorType": "event",
     "id": 426,
     "name": "HAPPY BIRTHDAY 이치카 2026.8.11",
-    "pronunciation": "はっぴーばーすでーいちか2025.8.11",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーいちか2025.8.11"
   },
   {
+    "honorType": "event",
     "id": 427,
     "name": "HAPPY BIRTHDAY 사키 2026.5.9",
-    "pronunciation": "はっぴーばーすでーさき2025.5.9",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーさき2025.5.9"
   },
   {
+    "honorType": "event",
     "id": 428,
     "name": "HAPPY BIRTHDAY 호나미 2026.10.27",
-    "pronunciation": "はっぴーばーすでーほなみ2024.10.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーほなみ2024.10.27"
   },
   {
+    "honorType": "event",
     "id": 429,
     "name": "HAPPY BIRTHDAY 시호 2027.1.8",
-    "pronunciation": "はっぴーばーすでーしほ2025.1.8",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーしほ2025.1.8"
   },
   {
+    "honorType": "event",
     "id": 430,
     "name": "HAPPY BIRTHDAY 미노리 2026.4.14",
-    "pronunciation": "はっぴーばーすでーみのり2025.4.14",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーみのり2025.4.14"
   },
   {
+    "honorType": "event",
     "id": 431,
     "name": "HAPPY BIRTHDAY 하루카 2026.10.5",
-    "pronunciation": "はっぴーばーすでーはるか2024.10.5",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーはるか2024.10.5"
   },
   {
+    "honorType": "event",
     "id": 432,
     "name": "HAPPY BIRTHDAY 아이리 2026.3.19",
-    "pronunciation": "はっぴーばーすでーあいり2025.3.19",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあいり2025.3.19"
   },
   {
+    "honorType": "event",
     "id": 433,
     "name": "HAPPY BIRTHDAY 시즈쿠 2026.12.6",
-    "pronunciation": "はっぴーばーすでーしずく2024.12.6",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーしずく2024.12.6"
   },
   {
+    "honorType": "event",
     "id": 434,
     "name": "HAPPY BIRTHDAY 코하네 2026.3.2",
-    "pronunciation": "はっぴーばーすでーこはね2025.3.2",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーこはね2025.3.2"
   },
   {
+    "honorType": "event",
     "id": 435,
     "name": "HAPPY BIRTHDAY 안 2026.7.26",
-    "pronunciation": "はっぴーばーすでーあん2025.7.26",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあん2025.7.26"
   },
   {
+    "honorType": "event",
     "id": 436,
     "name": "HAPPY BIRTHDAY 아키토 2026.11.12",
-    "pronunciation": "はっぴーばーすでーあきと2024.11.12",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーあきと2024.11.12"
   },
   {
+    "honorType": "event",
     "id": 437,
     "name": "HAPPY BIRTHDAY 토우야 2026.5.25",
-    "pronunciation": "はっぴーばーすでーとうや2025.5.25",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーとうや2025.5.25"
   },
   {
+    "honorType": "event",
     "id": 438,
     "name": "HAPPY BIRTHDAY 츠카사 2026.5.17",
-    "pronunciation": "はっぴーばーすでーつかさ2025.5.17",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーつかさ2025.5.17"
   },
   {
+    "honorType": "event",
     "id": 439,
     "name": "HAPPY BIRTHDAY 에무 2026.9.9",
-    "pronunciation": "はっぴーばーすでーえむ2025.9.9",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーえむ2025.9.9"
   },
   {
+    "honorType": "event",
     "id": 440,
     "name": "HAPPY BIRTHDAY 네네 2026.7.20",
-    "pronunciation": "はっぴーばーすでーねね2025.7.20",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーねね2025.7.20"
   },
   {
+    "honorType": "event",
     "id": 441,
     "name": "HAPPY BIRTHDAY 루이 2026.6.24",
-    "pronunciation": "はっぴーばーすでーるい2025.6.24",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーるい2025.6.24"
   },
   {
+    "honorType": "event",
     "id": 442,
     "name": "HAPPY BIRTHDAY 카나데 2026.2.10",
-    "pronunciation": "はっぴーばーすでーかなで2025.2.10",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーかなで2025.2.10"
   },
   {
+    "honorType": "event",
     "id": 443,
     "name": "HAPPY BIRTHDAY 마후유 2026.1.27",
-    "pronunciation": "はっぴーばーすでーまふゆ2025.1.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーまふゆ2025.1.27"
   },
   {
+    "honorType": "event",
     "id": 444,
     "name": "HAPPY BIRTHDAY 에나 2027.4.30",
-    "pronunciation": "はっぴーばーすでーえな2025.4.30",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーえな2025.4.30"
   },
   {
+    "honorType": "event",
     "id": 445,
     "name": "HAPPY BIRTHDAY 미즈키 2026.8.27",
-    "pronunciation": "はっぴーばーすでーみずき2025.8.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーばーすでーみずき2025.8.27"
   },
   {
+    "honorType": "event",
     "id": 446,
     "name": "HAPPY ANNIVERSARY 미쿠 2026.8.31",
-    "pronunciation": "はっぴーあにばーさりーみく2025.8.31",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーみく2025.8.31"
   },
   {
+    "honorType": "event",
     "id": 447,
     "name": "HAPPY ANNIVERSARY 린 2026.12.27",
-    "pronunciation": "はっぴーあにばーさりーりん2024.12.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーりん2024.12.27"
   },
   {
+    "honorType": "event",
     "id": 448,
     "name": "HAPPY ANNIVERSARY 렌 2026.12.27",
-    "pronunciation": "はっぴーあにばーさりーれん2024.12.27",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーれん2024.12.27"
   },
   {
+    "honorType": "event",
     "id": 449,
     "name": "HAPPY ANNIVERSARY 루카 2027.1.30",
-    "pronunciation": "はっぴーあにばーさりーるか2025.1.30",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーるか2025.1.30"
   },
   {
+    "honorType": "event",
     "id": 450,
     "name": "HAPPY ANNIVERSARY MEIKO 2026.11.5",
-    "pronunciation": "はっぴーあにばーさりーめいこ2024.11.5",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーめいこ2024.11.5"
   },
   {
+    "honorType": "event",
     "id": 451,
     "name": "HAPPY ANNIVERSARY KAITO 2027.2.17",
-    "pronunciation": "はっぴーあにばーさりーかいと2025.2.17",
-    "honorType": "event"
+    "pronunciation": "はっぴーあにばーさりーかいと2025.2.17"
   },
   {
+    "honorType": "event",
     "id": 452,
     "name": "커뮤니티컵 2025 AUTUMN",
-    "pronunciation": "こみゅにてぃかっぷ2024おーたむ",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2024おーたむ"
   },
   {
+    "backgroundAssetbundleName": "season_2024_autumn",
+    "honorType": "rank_match",
     "id": 453,
     "name": "랭크 매치 2025 AUTUMN",
-    "pronunciation": "らんくまっち2024おーたむ",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2024_autumn"
+    "pronunciation": "らんくまっち2024おーたむ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_dreamstage",
+    "honorType": "event",
     "id": 454,
     "name": "마음을 담아! Dream Stage",
-    "pronunciation": "おもいをのせて！どりーむすてーじ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_dreamstage"
+    "pronunciation": "おもいをのせて！どりーむすてーじ"
   },
   {
+    "honorType": "event",
     "id": 455,
     "name": "커넥트 라이브 4th ANNIVERSARY Brilliant Stage",
-    "pronunciation": "こねくとらいぶ　ふぉーすあにばーさりー　ぶりりあんとすてーじ",
-    "honorType": "event"
+    "pronunciation": "こねくとらいぶ　ふぉーすあにばーさりー　ぶりりあんとすてーじ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_thorns",
+    "honorType": "event",
     "id": 456,
     "name": "가시밭길은 어디로",
-    "pronunciation": "けいきょくのみちはいずこへ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_thorns"
+    "pronunciation": "けいきょくのみちはいずこへ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_rekindle",
+    "honorType": "event",
     "id": 457,
     "name": "Rekindle the flame",
-    "pronunciation": "りきんどる ざ ふれいむ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_rekindle"
+    "pronunciation": "りきんどる ざ ふれいむ"
   },
   {
+    "honorType": "event",
     "id": 458,
     "name": "핼러윈 2025",
-    "pronunciation": "はろうぃん2024",
-    "honorType": "event"
+    "pronunciation": "はろうぃん2024"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_enjoymusic",
+    "honorType": "event",
     "id": 459,
     "name": "Happy Enjoy Music!",
-    "pronunciation": "はっぴー　えんじょい　みゅーじっく！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_enjoymusic"
+    "pronunciation": "はっぴー　えんじょい　みゅーじっく！"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_foliage",
+    "honorType": "event",
     "id": 461,
     "name": "다시 나뭇잎이 물들 즈음에",
-    "pronunciation": "また、このはのいろづくころに",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_foliage"
+    "pronunciation": "また、このはのいろづくころに"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_regret",
+    "honorType": "event",
     "id": 462,
     "name": "The Power Of Regret",
-    "pronunciation": "ざ　ぱわー　おぶ　りぐれっと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_regret"
+    "pronunciation": "ざ　ぱわー　おぶ　りぐれっと"
   },
   {
+    "honorType": "event",
     "id": 463,
     "name": "크리스마스 2025",
-    "pronunciation": "くりすます2024",
-    "honorType": "event"
+    "pronunciation": "くりすます2024"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_scratch",
+    "honorType": "event",
     "id": 464,
     "name": "상처투성이 손으로, 우리는",
-    "pronunciation": "きずだらけのてで、わたしたちは",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_scratch"
+    "pronunciation": "きずだらけのてで、わたしたちは"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_grow",
+    "honorType": "event",
     "id": 465,
     "name": "Grow glorious glow",
-    "pronunciation": "ぐろう　ぐろりあす　ぐろー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_grow"
+    "pronunciation": "ぐろう　ぐろりあす　ぐろー"
   },
   {
+    "honorType": "event",
     "id": 466,
     "name": "카운트다운 2026",
-    "pronunciation": "かうんとだうん2025",
-    "honorType": "event"
+    "pronunciation": "かうんとだうん2025"
   },
   {
+    "honorType": "event",
     "id": 467,
     "name": "해피 뉴 이어 2026",
-    "pronunciation": "はっぴーにゅーいやー2025",
-    "honorType": "event"
+    "pronunciation": "はっぴーにゅーいやー2025"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_specialpresent",
+    "honorType": "event",
     "id": 468,
     "name": "Special present for YOU!",
-    "pronunciation": "すぺしゃる　ぷれぜんと　ふぉー　ゆー！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_specialpresent"
+    "pronunciation": "すぺしゃる　ぷれぜんと　ふぉー　ゆー！"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_unfading",
+    "honorType": "event",
     "id": 469,
     "name": "Unfading wishing",
-    "pronunciation": "あんふぇいでぃんぐ　うぃっしんぐ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_unfading"
+    "pronunciation": "あんふぇいでぃんぐ　うぃっしんぐ"
   },
   {
+    "honorType": "event",
     "id": 470,
     "name": "커뮤니티컵 2026 WINTER",
-    "pronunciation": "こみゅにてぃかっぷ2025うぃんたー",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2025うぃんたー"
   },
   {
+    "backgroundAssetbundleName": "season_2025_winter",
+    "honorType": "rank_match",
     "id": 471,
     "name": "랭크 매치 2026 WINTER",
-    "pronunciation": "らんくまっち2025うぃんたー",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2025_winter"
+    "pronunciation": "らんくまっち2025うぃんたー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_takeoff",
+    "honorType": "event",
     "id": 472,
     "name": "Time to take off!",
-    "pronunciation": "たいむ　とぅ　ていく　おふ！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_takeoff"
+    "pronunciation": "たいむ　とぅ　ていく　おふ！"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_yourshine",
+    "honorType": "event",
     "id": 473,
     "name": "Show your shine",
-    "pronunciation": "しょう　ゆあ　しゃいん",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_yourshine"
+    "pronunciation": "しょう　ゆあ　しゃいん"
   },
   {
+    "honorType": "event",
     "id": 474,
     "name": "커넥트 라이브 Ensemble in SEKAI",
-    "pronunciation": "こねくとらいぶ　あんさんぶる　いん　せかい",
-    "honorType": "event"
+    "pronunciation": "こねくとらいぶ　あんさんぶる　いん　せかい"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_needle",
+    "honorType": "event",
     "id": 475,
     "name": "이 바늘 한 땀에 마음을 담아",
-    "pronunciation": "このひとはりにおもいをこめて",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_needle"
+    "pronunciation": "このひとはりにおもいをこめて"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_strive",
+    "honorType": "event",
     "id": 476,
     "name": "Rise and Strive",
-    "pronunciation": "らいず　あんど　すとらいぶ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_strive"
+    "pronunciation": "らいず　あんど　すとらいぶ"
   },
   {
+    "honorType": "event",
     "id": 477,
     "name": "밸런타인 2026",
-    "pronunciation": "ばれんたいん2025",
-    "honorType": "event"
+    "pronunciation": "ばれんたいん2025"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_readaloud",
+    "honorType": "event",
     "id": 478,
     "name": "과거의 Read-aloud",
-    "pronunciation": "せきじつのりーど　あらうど",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_readaloud"
+    "pronunciation": "せきじつのりーど　あらうど"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_heartsmessage",
+    "honorType": "event",
     "id": 479,
     "name": "Connect hearts message",
-    "pronunciation": "こねくと　はーつ　めっせーじ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_heartsmessage"
+    "pronunciation": "こねくと　はーつ　めっせーじ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_myhero",
+    "honorType": "event",
     "id": 480,
     "name": "You are my HERO!!",
-    "pronunciation": "ゆー　あー　まい　ひーろー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_myhero"
+    "pronunciation": "ゆー　あー　まい　ひーろー"
   },
   {
+    "honorType": "event",
     "id": 481,
     "name": "화이트데이 2026",
-    "pronunciation": "ホワイトデー2025",
-    "honorType": "event"
+    "pronunciation": "ホワイトデー2025"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_notes",
+    "honorType": "event",
     "id": 482,
     "name": "Unreliable Notes",
-    "pronunciation": "あんりらいあぶる　のーつ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_notes"
+    "pronunciation": "あんりらいあぶる　のーつ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_dreamview",
+    "honorType": "event",
     "id": 483,
     "name": "Find the dream view",
-    "pronunciation": "ふぁいんど　ざ　どりーむ　びゅー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_dreamview"
+    "pronunciation": "ふぁいんど　ざ　どりーむ　びゅー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_street",
+    "honorType": "event",
     "id": 484,
     "name": "Turning Pain into Drive 종합",
-    "pronunciation": "たーにんぐ　ぺいん　いんとぅー　どらいぶ そうごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_street"
+    "pronunciation": "たーにんぐ　ぺいん　いんとぅー　どらいぶ そうごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_street_cp1",
+    "frameName": "event_wl_2nd_street_cp1",
+    "honorType": "event",
     "id": 485,
     "name": "Turning Pain into Drive 챕터 1",
-    "pronunciation": "たーにんぐ　ぺいん　いんとぅー　どらいぶ ちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_street_cp1",
-    "frameName": "event_wl_2nd_street_cp1"
+    "pronunciation": "たーにんぐ　ぺいん　いんとぅー　どらいぶ ちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_street_cp2",
+    "frameName": "event_wl_2nd_street_cp2",
+    "honorType": "event",
     "id": 486,
     "name": "Turning Pain into Drive 챕터 2",
-    "pronunciation": "たーにんぐ　ぺいん　いんとぅー　どらいぶ ちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_street_cp2",
-    "frameName": "event_wl_2nd_street_cp2"
+    "pronunciation": "たーにんぐ　ぺいん　いんとぅー　どらいぶ ちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_street_cp3",
+    "frameName": "event_wl_2nd_street_cp3",
+    "honorType": "event",
     "id": 487,
     "name": "Turning Pain into Drive 챕터 3",
-    "pronunciation": "たーにんぐ　ぺいん　いんとぅー　どらいぶ ちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_street_cp3",
-    "frameName": "event_wl_2nd_street_cp3"
+    "pronunciation": "たーにんぐ　ぺいん　いんとぅー　どらいぶ ちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_street_cp4",
+    "frameName": "event_wl_2nd_street_cp4",
+    "honorType": "event",
     "id": 488,
     "name": "Turning Pain into Drive 챕터 4",
-    "pronunciation": "たーにんぐ　ぺいん　いんとぅー　どらいぶ ちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_street_cp4",
-    "frameName": "event_wl_2nd_street_cp4"
+    "pronunciation": "たーにんぐ　ぺいん　いんとぅー　どらいぶ ちゃぷたー4"
   },
   {
+    "backgroundAssetbundleName": "season_2025_spring",
+    "honorType": "rank_match",
     "id": 489,
     "name": "랭크 매치 2026 SPRING",
-    "pronunciation": "らんくまっち2025すぷりんぐ",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2025_spring"
+    "pronunciation": "らんくまっち2025すぷりんぐ"
   },
   {
+    "honorType": "event",
     "id": 490,
     "name": "커뮤니티컵 2026 SPRING",
-    "pronunciation": "こみゅにてぃかっぷ2025すぷりんぐ",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2025すぷりんぐ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_choicesfuture",
+    "honorType": "event",
     "id": 491,
     "name": "Choices for the future",
-    "pronunciation": "ちょいしず　ふぉー　ざ　ふゅーちゃー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_choicesfuture"
+    "pronunciation": "ちょいしず　ふぉー　ざ　ふゅーちゃー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_needlemoving",
+    "honorType": "event",
     "id": 492,
     "name": "그리고, 바늘은 움직이기 시작한다",
-    "pronunciation": "そして、はりはうごきだす",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_needlemoving"
+    "pronunciation": "そして、はりはうごきだす"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark",
+    "honorType": "event",
     "id": 493,
     "name": "Dear my fellows 종합",
-    "pronunciation": "でぃあ　まい　ふぇろうず そうごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark"
+    "pronunciation": "でぃあ　まい　ふぇろうず そうごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp1",
+    "frameName": "event_wl_2nd_themepark_cp1",
+    "honorType": "event",
     "id": 494,
     "name": "Dear my fellows 챕터 1",
-    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp1",
-    "frameName": "event_wl_2nd_themepark_cp1"
+    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp2",
+    "frameName": "event_wl_2nd_themepark_cp2",
+    "honorType": "event",
     "id": 495,
     "name": "Dear my fellows 챕터 2",
-    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp2",
-    "frameName": "event_wl_2nd_themepark_cp2"
+    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp3",
+    "frameName": "event_wl_2nd_themepark_cp3",
+    "honorType": "event",
     "id": 496,
     "name": "Dear my fellows 챕터 3",
-    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp3",
-    "frameName": "event_wl_2nd_themepark_cp3"
+    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp4",
+    "frameName": "event_wl_2nd_themepark_cp4",
+    "honorType": "event",
     "id": 497,
     "name": "Dear my fellows 챕터 4",
-    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp4",
-    "frameName": "event_wl_2nd_themepark_cp4"
+    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー4"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_cheerheart",
+    "honorType": "event",
     "id": 498,
     "name": "Cheer with my Heart!",
-    "pronunciation": "ちあ　うぃず　まい　はーと！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_cheerheart"
+    "pronunciation": "ちあ　うぃず　まい　はーと！"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_higher",
+    "honorType": "event",
     "id": 499,
     "name": "Aim higher and higher！",
-    "pronunciation": "えいむ　はいあー　あんど　はいあー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_higher"
+    "pronunciation": "えいむ　はいあー　あんど　はいあー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal",
+    "honorType": "event",
     "id": 500,
     "name": "물거품에 감싸여 종합",
-    "pronunciation": "うたかたにいだかれて そうごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal"
+    "pronunciation": "うたかたにいだかれて そうごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp1",
+    "frameName": "event_wl_2nd_schoolrefusal_cp1",
+    "honorType": "event",
     "id": 501,
     "name": "물거품에 감싸여 챕터 1",
-    "pronunciation": "うたかたにいだかれて ちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp1",
-    "frameName": "event_wl_2nd_schoolrefusal_cp1"
+    "pronunciation": "うたかたにいだかれて ちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp2",
+    "frameName": "event_wl_2nd_schoolrefusal_cp2",
+    "honorType": "event",
     "id": 502,
     "name": "물거품에 감싸여 챕터 2",
-    "pronunciation": "うたかたにいだかれて ちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp2",
-    "frameName": "event_wl_2nd_schoolrefusal_cp2"
+    "pronunciation": "うたかたにいだかれて ちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp3",
+    "frameName": "event_wl_2nd_schoolrefusal_cp3",
+    "honorType": "event",
     "id": 503,
     "name": "물거품에 감싸여 챕터 3",
-    "pronunciation": "うたかたにいだかれて ちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp3",
-    "frameName": "event_wl_2nd_schoolrefusal_cp3"
+    "pronunciation": "うたかたにいだかれて ちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp4",
+    "frameName": "event_wl_2nd_schoolrefusal_cp4",
+    "honorType": "event",
     "id": 504,
     "name": "물거품에 감싸여 챕터 4",
-    "pronunciation": "うたかたにいだかれて ちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp4",
-    "frameName": "event_wl_2nd_schoolrefusal_cp4"
+    "pronunciation": "うたかたにいだかれて ちゃぷたー4"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound",
+    "honorType": "event",
     "id": 505,
     "name": "ordinary, yet special us 종합",
-    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす そうごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound"
+    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす そうごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp1",
+    "frameName": "event_wl_2nd_lightsound_cp1",
+    "honorType": "event",
     "id": 506,
     "name": "ordinary, yet special us 챕터 1",
-    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp1",
-    "frameName": "event_wl_2nd_lightsound_cp1"
+    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp2",
+    "frameName": "event_wl_2nd_lightsound_cp2",
+    "honorType": "event",
     "id": 507,
     "name": "ordinary, yet special us 챕터 2",
-    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp2",
-    "frameName": "event_wl_2nd_lightsound_cp2"
+    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp3",
+    "frameName": "event_wl_2nd_lightsound_cp3",
+    "honorType": "event",
     "id": 508,
     "name": "ordinary, yet special us 챕터 3",
-    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp3",
-    "frameName": "event_wl_2nd_lightsound_cp3"
+    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp4",
+    "frameName": "event_wl_2nd_lightsound_cp4",
+    "honorType": "event",
     "id": 509,
     "name": "ordinary, yet special us 챕터 4",
-    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp4",
-    "frameName": "event_wl_2nd_lightsound_cp4"
+    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー4"
   },
   {
+    "honorType": "event",
     "id": 510,
     "name": "칠석 2026",
-    "pronunciation": "たなばた2025",
-    "honorType": "event"
+    "pronunciation": "たなばた2025"
   },
   {
+    "honorType": "event",
     "id": 511,
     "name": "커뮤니티컵 2026 SUMMER",
-    "pronunciation": "こみゅにてぃかっぷ2025さまー",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2025さまー"
   },
   {
+    "honorType": "event",
     "id": 512,
     "name": "커뮤니티컵 2026 AUTUMN",
-    "pronunciation": "こみゅにてぃかっぷ2025おーたむ",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2025おーたむ"
   },
   {
+    "honorType": "event",
     "id": 513,
     "name": "커뮤니티컵 2027 WINTER",
-    "pronunciation": "こみゅにてぃかっぷ2026うぃんたー",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2026うぃんたー"
   },
   {
+    "honorType": "event",
     "id": 514,
     "name": "커뮤니티컵 2027 SPRING",
-    "pronunciation": "こみゅにてぃかっぷ2026すぷりんぐ",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2026すぷりんぐ"
   },
   {
+    "honorType": "event",
     "id": 515,
     "name": "커뮤니티컵 2027 SUMMER",
-    "pronunciation": "こみゅにてぃかっぷ2026さまー",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2026さまー"
   },
   {
+    "honorType": "event",
     "id": 516,
     "name": "커뮤니티컵 2027 AUTUMN",
-    "pronunciation": "こみゅにてぃかっぷ2026おーたむ",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2026おーたむ"
   },
   {
+    "honorType": "event",
     "id": 517,
     "name": "커뮤니티컵 2027 WINTER",
-    "pronunciation": "こみゅにてぃかっぷ2027うぃんたー",
-    "honorType": "event"
+    "pronunciation": "こみゅにてぃかっぷ2027うぃんたー"
   },
   {
+    "backgroundAssetbundleName": "season_2025_summer",
+    "honorType": "rank_match",
     "id": 518,
     "name": "랭크 매치 2026 SUMMER",
-    "pronunciation": "らんくまっち2025さまー",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2025_summer"
+    "pronunciation": "らんくまっち2025さまー"
   },
   {
+    "honorType": "event",
     "id": 519,
     "name": "커넥트 라이브 Dreamscape",
-    "pronunciation": "こねくとらいぶ どりーむすけーぷ",
-    "honorType": "event"
+    "pronunciation": "こねくとらいぶ どりーむすけーぷ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_deeper",
+    "honorType": "event",
     "id": 520,
     "name": "Deeper and deeper",
-    "pronunciation": "でぃーぱー　あんど　でぃーぱー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_deeper"
+    "pronunciation": "でぃーぱー　あんど　でぃーぱー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_unsteady",
+    "honorType": "event",
     "id": 521,
     "name": "Unsteady, still steady step",
-    "pronunciation": "あんすてでぃ　すてぃる　すてでぃ　すてっぷ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_unsteady"
+    "pronunciation": "あんすてでぃ　すてぃる　すてでぃ　すてっぷ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_crossing",
+    "honorType": "event",
     "id": 522,
     "name": "start rolling! stars' crossing",
-    "pronunciation": "すたーとろーりんぐ！すたーずくろっしんぐ",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_crossing"
+    "pronunciation": "すたーとろーりんぐ！すたーずくろっしんぐ"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_competitive",
+    "honorType": "event",
     "id": 523,
     "name": "Competitive fire!",
-    "pronunciation": "こんぺてぃてぃぶ　ふぁいやー",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_competitive"
+    "pronunciation": "こんぺてぃてぃぶ　ふぁいやー"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol",
+    "honorType": "event",
     "id": 524,
     "name": "All ways Jump! with you 종합",
-    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー そうごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol"
+    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー そうごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp1",
+    "frameName": "event_wl_2nd_idol_cp1",
+    "honorType": "event",
     "id": 525,
     "name": "All ways Jump! with you 챕터 1",
-    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp1",
-    "frameName": "event_wl_2nd_idol_cp1"
+    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp2",
+    "frameName": "event_wl_2nd_idol_cp2",
+    "honorType": "event",
     "id": 526,
     "name": "All ways Jump! with you 챕터 2",
-    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp2",
-    "frameName": "event_wl_2nd_idol_cp2"
+    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp3",
+    "frameName": "event_wl_2nd_idol_cp3",
+    "honorType": "event",
     "id": 527,
     "name": "All ways Jump! with you 챕터 3",
-    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp3",
-    "frameName": "event_wl_2nd_idol_cp3"
+    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp4",
+    "frameName": "event_wl_2nd_idol_cp4",
+    "honorType": "event",
     "id": 528,
     "name": "All ways Jump! with you 챕터 4",
-    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp4",
-    "frameName": "event_wl_2nd_idol_cp4"
+    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー4"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_tomorrow",
+    "honorType": "event",
     "id": 529,
     "name": "풀리지 않는 내일에 손을 뻗어서",
-    "pronunciation": "ほどけぬあすにてをのばして",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_tomorrow"
+    "pronunciation": "ほどけぬあすにてをのばして"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_forlight",
+    "honorType": "event",
     "id": 530,
     "name": "Deep Dark For Light",
-    "pronunciation": "でぃーぷだーくふぉーらいと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_forlight"
+    "pronunciation": "でぃーぷだーくふぉーらいと"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro",
+    "honorType": "event",
     "id": 531,
     "name": "Link the Beats! 종합",
-    "pronunciation": "りんくざびーつ！ そうごう",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro"
+    "pronunciation": "りんくざびーつ！ そうごう"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp1",
+    "frameName": "event_wl_2nd_piapro_cp1",
+    "honorType": "event",
     "id": 532,
     "name": "Link the Beats! 챕터 1",
-    "pronunciation": "りんくざびーつ！ ちゃぷたー1",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp1",
-    "frameName": "event_wl_2nd_piapro_cp1"
+    "pronunciation": "りんくざびーつ！ ちゃぷたー1"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp2",
+    "frameName": "event_wl_2nd_piapro_cp2",
+    "honorType": "event",
     "id": 533,
     "name": "Link the Beats! 챕터 2",
-    "pronunciation": "りんくざびーつ！ ちゃぷたー2",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp2",
-    "frameName": "event_wl_2nd_piapro_cp2"
+    "pronunciation": "りんくざびーつ！ ちゃぷたー2"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp3",
+    "frameName": "event_wl_2nd_piapro_cp3",
+    "honorType": "event",
     "id": 534,
     "name": "Link the Beats! 챕터 3",
-    "pronunciation": "りんくざびーつ！ ちゃぷたー3",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp3",
-    "frameName": "event_wl_2nd_piapro_cp3"
+    "pronunciation": "りんくざびーつ！ ちゃぷたー3"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp4",
+    "frameName": "event_wl_2nd_piapro_cp4",
+    "honorType": "event",
     "id": 535,
     "name": "Link the Beats! 챕터 4",
-    "pronunciation": "りんくざびーつ！ ちゃぷたー4",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp4",
-    "frameName": "event_wl_2nd_piapro_cp4"
+    "pronunciation": "りんくざびーつ！ ちゃぷたー4"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp5",
+    "frameName": "event_wl_2nd_piapro_cp5",
+    "honorType": "event",
     "id": 536,
     "name": "Link the Beats! 챕터 5",
-    "pronunciation": "りんくざびーつ！ ちゃぷたー5",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp5",
-    "frameName": "event_wl_2nd_piapro_cp5"
+    "pronunciation": "りんくざびーつ！ ちゃぷたー5"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp6",
+    "frameName": "event_wl_2nd_piapro_cp6",
+    "honorType": "event",
     "id": 537,
     "name": "Link the Beats! 챕터 6",
-    "pronunciation": "りんくざびーつ！ ちゃぷたー6",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp6",
-    "frameName": "event_wl_2nd_piapro_cp6"
+    "pronunciation": "りんくざびーつ！ ちゃぷたー6"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_finale",
+    "honorType": "event",
     "id": 538,
     "name": "Wishes in Bloom!",
-    "pronunciation": "うぃっしーず　いん　ぶるーむ！",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_finale"
+    "pronunciation": "うぃっしーず　いん　ぶるーむ！"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_birthday_01_03",
+    "frameName": "honor_frame_birthday_01_03",
+    "honorType": "birthday",
     "id": 541,
     "name": "HAPPY BIRTHDAY 호나미 2026.10.27",
-    "pronunciation": "はっぴーばーすでーほなみ2025.10.27",
-    "honorType": "birthday",
-    "backgroundAssetbundleName": "honor_bg_birthday_01_03",
-    "frameName": "honor_frame_birthday_01_03"
+    "pronunciation": "はっぴーばーすでーほなみ2025.10.27"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_birthday_01_06",
+    "frameName": "honor_frame_birthday_01_06",
+    "honorType": "birthday",
     "id": 544,
     "name": "HAPPY BIRTHDAY 하루카 2026.10.5",
-    "pronunciation": "はっぴーばーすでーはるか2025.10.5",
-    "honorType": "birthday",
-    "backgroundAssetbundleName": "honor_bg_birthday_01_06",
-    "frameName": "honor_frame_birthday_01_06"
+    "pronunciation": "はっぴーばーすでーはるか2025.10.5"
   },
   {
+    "honorType": "event",
     "id": 567,
     "name": "5th ANNIVERSARY",
-    "pronunciation": "ふぃふすあにばーさりー",
-    "honorType": "event"
+    "pronunciation": "ふぃふすあにばーさりー"
   },
   {
+    "honorType": "event",
     "id": 570,
     "name": "베스트 크리에이터 호나미 생일 파티 '26",
-    "pronunciation": "べすとくりえいたーほなみばーすでーぱーてぃー25",
-    "honorType": "event"
+    "pronunciation": "べすとくりえいたーほなみばーすでーぱーてぃー25"
   },
   {
+    "honorType": "event",
     "id": 573,
     "name": "베스트 크리에이터 하루카 생일 파티 '26",
-    "pronunciation": "べすとくりえいたーはるかばーすでーぱーてぃー25",
-    "honorType": "event"
+    "pronunciation": "べすとくりえいたーはるかばーすでーぱーてぃー25"
   },
   {
+    "honorType": "event",
     "id": 594,
     "name": "베스트 크리에이터 나만의 마이세카이",
-    "pronunciation": "べすとくりえいたーあなたのまいせかい",
-    "honorType": "event"
+    "pronunciation": "べすとくりえいたーあなたのまいせかい"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_golden",
+    "honorType": "event",
     "id": 595,
     "name": "Our Golden Days",
-    "pronunciation": "あわー　ごーるでん　でいず",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_golden"
+    "pronunciation": "あわー　ごーるでん　でいず"
   },
   {
+    "backgroundAssetbundleName": "season_2025_autumn",
+    "honorType": "rank_match",
     "id": 596,
     "name": "랭크 매치 2026 AUTUMN",
-    "pronunciation": "らんくまっち2025おーたむ",
-    "honorType": "rank_match",
-    "backgroundAssetbundleName": "season_2025_autumn"
+    "pronunciation": "らんくまっち2025おーたむ"
   },
   {
+    "honorType": "event",
     "id": 597,
     "name": "프로젝트 세카이 Championship 2026 in 프로세카 감사제",
-    "pronunciation": "ぷろじぇくとせかいちゃんぴおんしっぷ2025いんぷろせかかんしゃさい",
-    "honorType": "event"
+    "pronunciation": "ぷろじぇくとせかいちゃんぴおんしっぷ2025いんぷろせかかんしゃさい"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_heartbeat",
+    "honorType": "event",
     "id": 598,
     "name": "너와 이어 가는 Heart Beat",
-    "pronunciation": "きみとつなぐはーとびーと",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_heartbeat"
+    "pronunciation": "きみとつなぐはーとびーと"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_event_colorcross",
+    "honorType": "event",
     "id": 599,
     "name": "어우러지는 색은 그날 그대로",
-    "pronunciation": "まじわるいろはあのひのままに",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_event_colorcross"
+    "pronunciation": "まじわるいろはあのひのままに"
   },
   {
+    "honorType": "event",
     "id": 646,
     "name": "잊혀진 모래시계",
-    "pronunciation": "잊혀진 모래시계",
-    "honorType": "event"
+    "pronunciation": "잊혀진 모래시계"
   },
   {
+    "honorType": "event",
     "id": 647,
     "name": "#ΦωΦ",
-    "pronunciation": "#ΦωΦ",
-    "honorType": "event"
+    "pronunciation": "#ΦωΦ"
   },
   {
+    "honorType": "event",
     "id": 10008,
     "name": "반주년 기념",
-    "pronunciation": "반주년 기념",
-    "honorType": "event"
+    "pronunciation": "반주년 기념"
   },
   {
+    "honorType": "limitevent",
     "id": 10009,
     "name": "Leo/need 팬 ",
-    "pronunciation": "Leo/need 팬 ",
-    "honorType": "limitevent"
+    "pronunciation": "Leo/need 팬 "
   },
   {
+    "honorType": "limitevent",
     "id": 10010,
     "name": "MORE MORE JUMP！팬",
-    "pronunciation": "MORE MORE JUMP！팬",
-    "honorType": "limitevent"
+    "pronunciation": "MORE MORE JUMP！팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10011,
     "name": "Vivid BAD SQUAD 팬",
-    "pronunciation": "Vivid BAD SQUAD 팬",
-    "honorType": "limitevent"
+    "pronunciation": "Vivid BAD SQUAD 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10012,
     "name": "원더랜즈×쇼타임 팬",
-    "pronunciation": "원더랜즈×쇼타임 팬",
-    "honorType": "limitevent"
+    "pronunciation": "원더랜즈×쇼타임 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10013,
     "name": "25시, 나이트 코드에서. 팬",
-    "pronunciation": "25시, 나이트 코드에서. 팬",
-    "honorType": "limitevent"
+    "pronunciation": "25시, 나이트 코드에서. 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10014,
     "name": "버추얼 싱어 팬",
-    "pronunciation": "버추얼 싱어 팬",
-    "honorType": "limitevent"
+    "pronunciation": "버추얼 싱어 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10015,
     "name": "Leo/need 팬 ",
-    "pronunciation": "Leo/need 팬 ",
-    "honorType": "limitevent"
+    "pronunciation": "Leo/need 팬 "
   },
   {
+    "honorType": "limitevent",
     "id": 10016,
     "name": "MORE MORE JUMP！팬",
-    "pronunciation": "MORE MORE JUMP！팬",
-    "honorType": "limitevent"
+    "pronunciation": "MORE MORE JUMP！팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10017,
     "name": "Vivid BAD SQUAD 팬",
-    "pronunciation": "Vivid BAD SQUAD 팬",
-    "honorType": "limitevent"
+    "pronunciation": "Vivid BAD SQUAD 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10018,
     "name": "원더랜즈×쇼타임 팬",
-    "pronunciation": "원더랜즈×쇼타임 팬",
-    "honorType": "limitevent"
+    "pronunciation": "원더랜즈×쇼타임 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10019,
     "name": "25시, 나이트 코드에서. 팬",
-    "pronunciation": "25시, 나이트 코드에서. 팬",
-    "honorType": "limitevent"
+    "pronunciation": "25시, 나이트 코드에서. 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10020,
     "name": "버추얼 싱어 팬",
-    "pronunciation": "버추얼 싱어 팬",
-    "honorType": "limitevent"
+    "pronunciation": "버추얼 싱어 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10021,
     "name": "Leo/need 팬 ",
-    "pronunciation": "Leo/need 팬 ",
-    "honorType": "limitevent"
+    "pronunciation": "Leo/need 팬 "
   },
   {
+    "honorType": "limitevent",
     "id": 10022,
     "name": "MORE MORE JUMP！팬",
-    "pronunciation": "MORE MORE JUMP！팬",
-    "honorType": "limitevent"
+    "pronunciation": "MORE MORE JUMP！팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10023,
     "name": "Vivid BAD SQUAD 팬",
-    "pronunciation": "Vivid BAD SQUAD 팬",
-    "honorType": "limitevent"
+    "pronunciation": "Vivid BAD SQUAD 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10024,
     "name": "원더랜즈×쇼타임 팬",
-    "pronunciation": "원더랜즈×쇼타임 팬",
-    "honorType": "limitevent"
+    "pronunciation": "원더랜즈×쇼타임 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10025,
     "name": "25시, 나이트 코드에서. 팬",
-    "pronunciation": "25시, 나이트 코드에서. 팬",
-    "honorType": "limitevent"
+    "pronunciation": "25시, 나이트 코드에서. 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10026,
     "name": "버추얼 싱어 팬",
-    "pronunciation": "버추얼 싱어 팬",
-    "honorType": "limitevent"
+    "pronunciation": "버추얼 싱어 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10028,
     "name": "Leo/need 팬 ",
-    "pronunciation": "Leo/need 팬 ",
-    "honorType": "limitevent"
+    "pronunciation": "Leo/need 팬 "
   },
   {
+    "honorType": "limitevent",
     "id": 10029,
     "name": "MORE MORE JUMP！팬",
-    "pronunciation": "MORE MORE JUMP！팬",
-    "honorType": "limitevent"
+    "pronunciation": "MORE MORE JUMP！팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10030,
     "name": "Vivid BAD SQUAD 팬",
-    "pronunciation": "Vivid BAD SQUAD 팬",
-    "honorType": "limitevent"
+    "pronunciation": "Vivid BAD SQUAD 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10031,
     "name": "원더랜즈×쇼타임 팬",
-    "pronunciation": "원더랜즈×쇼타임 팬",
-    "honorType": "limitevent"
+    "pronunciation": "원더랜즈×쇼타임 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10032,
     "name": "25시, 나이트 코드에서. 팬",
-    "pronunciation": "25시, 나이트 코드에서. 팬",
-    "honorType": "limitevent"
+    "pronunciation": "25시, 나이트 코드에서. 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10033,
     "name": "버추얼 싱어 팬",
-    "pronunciation": "버추얼 싱어 팬",
-    "honorType": "limitevent"
+    "pronunciation": "버추얼 싱어 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10034,
     "name": "Leo/need 팬 ",
-    "pronunciation": "Leo/need 팬 ",
-    "honorType": "limitevent"
+    "pronunciation": "Leo/need 팬 "
   },
   {
+    "honorType": "limitevent",
     "id": 10035,
     "name": "MORE MORE JUMP！팬",
-    "pronunciation": "MORE MORE JUMP！팬",
-    "honorType": "limitevent"
+    "pronunciation": "MORE MORE JUMP！팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10036,
     "name": "Vivid BAD SQUAD 팬",
-    "pronunciation": "Vivid BAD SQUAD 팬",
-    "honorType": "limitevent"
+    "pronunciation": "Vivid BAD SQUAD 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10037,
     "name": "원더랜즈×쇼타임 팬",
-    "pronunciation": "원더랜즈×쇼타임 팬",
-    "honorType": "limitevent"
+    "pronunciation": "원더랜즈×쇼타임 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10038,
     "name": "25시, 나이트 코드에서. 팬",
-    "pronunciation": "25시, 나이트 코드에서. 팬",
-    "honorType": "limitevent"
+    "pronunciation": "25시, 나이트 코드에서. 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10039,
     "name": "버추얼 싱어 팬",
-    "pronunciation": "버추얼 싱어 팬",
-    "honorType": "limitevent"
+    "pronunciation": "버추얼 싱어 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10040,
     "name": "Leo/need 팬 ",
-    "pronunciation": "Leo/need 팬 ",
-    "honorType": "limitevent"
+    "pronunciation": "Leo/need 팬 "
   },
   {
+    "honorType": "limitevent",
     "id": 10041,
     "name": "MORE MORE JUMP！팬",
-    "pronunciation": "MORE MORE JUMP！팬",
-    "honorType": "limitevent"
+    "pronunciation": "MORE MORE JUMP！팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10042,
     "name": "Vivid BAD SQUAD 팬",
-    "pronunciation": "Vivid BAD SQUAD 팬",
-    "honorType": "limitevent"
+    "pronunciation": "Vivid BAD SQUAD 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10043,
     "name": "원더랜즈×쇼타임 팬",
-    "pronunciation": "원더랜즈×쇼타임 팬",
-    "honorType": "limitevent"
+    "pronunciation": "원더랜즈×쇼타임 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10044,
     "name": "25시, 나이트 코드에서. 팬",
-    "pronunciation": "25시, 나이트 코드에서. 팬",
-    "honorType": "limitevent"
+    "pronunciation": "25시, 나이트 코드에서. 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10045,
     "name": "버추얼 싱어 팬",
-    "pronunciation": "버추얼 싱어 팬",
-    "honorType": "limitevent"
+    "pronunciation": "버추얼 싱어 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10046,
     "name": "Leo/need 팬 ",
-    "pronunciation": "Leo/need 팬 ",
-    "honorType": "limitevent"
+    "pronunciation": "Leo/need 팬 "
   },
   {
+    "honorType": "limitevent",
     "id": 10047,
     "name": "MORE MORE JUMP！팬",
-    "pronunciation": "MORE MORE JUMP！팬",
-    "honorType": "limitevent"
+    "pronunciation": "MORE MORE JUMP！팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10048,
     "name": "Vivid BAD SQUAD 팬",
-    "pronunciation": "Vivid BAD SQUAD 팬",
-    "honorType": "limitevent"
+    "pronunciation": "Vivid BAD SQUAD 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10049,
     "name": "원더랜즈×쇼타임 팬",
-    "pronunciation": "원더랜즈×쇼타임 팬",
-    "honorType": "limitevent"
+    "pronunciation": "원더랜즈×쇼타임 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10050,
     "name": "25시, 나이트 코드에서. 팬",
-    "pronunciation": "25시, 나이트 코드에서. 팬",
-    "honorType": "limitevent"
+    "pronunciation": "25시, 나이트 코드에서. 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10051,
     "name": "버추얼 싱어 팬",
-    "pronunciation": "버추얼 싱어 팬",
-    "honorType": "limitevent"
+    "pronunciation": "버추얼 싱어 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10052,
     "name": "Leo/need 팬 ",
-    "pronunciation": "Leo/need 팬 ",
-    "honorType": "limitevent"
+    "pronunciation": "Leo/need 팬 "
   },
   {
+    "honorType": "limitevent",
     "id": 10053,
     "name": "MORE MORE JUMP！팬",
-    "pronunciation": "MORE MORE JUMP！팬",
-    "honorType": "limitevent"
+    "pronunciation": "MORE MORE JUMP！팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10054,
     "name": "Vivid BAD SQUAD 팬",
-    "pronunciation": "Vivid BAD SQUAD 팬",
-    "honorType": "limitevent"
+    "pronunciation": "Vivid BAD SQUAD 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10055,
     "name": "원더랜즈×쇼타임 팬",
-    "pronunciation": "원더랜즈×쇼타임 팬",
-    "honorType": "limitevent"
+    "pronunciation": "원더랜즈×쇼타임 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10056,
     "name": "25시, 나이트 코드에서. 팬",
-    "pronunciation": "25시, 나이트 코드에서. 팬",
-    "honorType": "limitevent"
+    "pronunciation": "25시, 나이트 코드에서. 팬"
   },
   {
+    "honorType": "limitevent",
     "id": 10057,
     "name": "버추얼 싱어 팬",
-    "pronunciation": "버추얼 싱어 팬",
-    "honorType": "limitevent"
+    "pronunciation": "버추얼 싱어 팬"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_season_ranking",
+    "honorType": "event",
     "id": 20000,
     "name": "마음 세카이의 여행",
-    "pronunciation": "마음 세카이의 여행",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_season_ranking"
+    "pronunciation": "마음 세카이의 여행"
   },
   {
+    "honorType": "event",
     "id": 20001,
     "name": "1주년 기념",
-    "pronunciation": "1주년 기념",
-    "honorType": "event"
+    "pronunciation": "1주년 기념"
   },
   {
+    "honorType": "event",
     "id": 20002,
     "name": "여름 라이브 카니발 기념 2023",
-    "pronunciation": "여름 라이브 카니발 기념 2023",
-    "honorType": "event"
+    "pronunciation": "여름 라이브 카니발 기념 2023"
   },
   {
+    "honorType": "event",
     "id": 20003,
     "name": "여름 라이브 카니발 기념 2024",
-    "pronunciation": "여름 라이브 카니발 기념 2024",
-    "honorType": "event"
+    "pronunciation": "여름 라이브 카니발 기념 2024"
   },
   {
+    "honorType": "event",
     "id": 20004,
     "name": "Brand New World 기념",
-    "pronunciation": "Brand New World 기념",
-    "honorType": "event"
+    "pronunciation": "Brand New World 기념"
   },
   {
+    "honorType": "event",
     "id": 20005,
     "name": "3주년 기념",
-    "pronunciation": "3주년 기념",
-    "honorType": "event"
+    "pronunciation": "3주년 기념"
   },
   {
+    "honorType": "event",
     "id": 20006,
     "name": "CAMPUS festival",
-    "pronunciation": "CAMPUS festival",
-    "honorType": "event"
+    "pronunciation": "CAMPUS festival"
   },
   {
+    "honorType": "achievement",
     "id": 20007,
     "name": "초심",
-    "pronunciation": "초심",
-    "honorType": "achievement"
+    "pronunciation": "초심"
   },
   {
+    "honorType": "achievement",
     "id": 20008,
     "name": "감사의 응원가",
-    "pronunciation": "감사의 응원가",
-    "honorType": "achievement"
+    "pronunciation": "감사의 응원가"
   },
   {
+    "honorType": "achievement",
     "id": 20009,
     "name": "소원 합주자",
-    "pronunciation": "소원 합주자",
-    "honorType": "achievement"
+    "pronunciation": "소원 합주자"
   },
   {
+    "honorType": "achievement",
     "id": 20010,
     "name": "오랜 친구",
-    "pronunciation": "오랜 친구",
-    "honorType": "achievement"
+    "pronunciation": "오랜 친구"
   },
   {
+    "honorType": "achievement",
     "id": 20011,
     "name": "가장 소중한 선율",
-    "pronunciation": "가장 소중한 선율",
-    "honorType": "achievement"
+    "pronunciation": "가장 소중한 선율"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_season_ranking2",
+    "honorType": "event",
     "id": 20012,
     "name": "제2차 '세카이' 마음 랭킹 칭호",
-    "pronunciation": "제2차 '세카이' 마음 랭킹 칭호",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_season_ranking2"
+    "pronunciation": "제2차 '세카이' 마음 랭킹 칭호"
   },
   {
+    "honorType": "event",
     "id": 20013,
     "name": "두근거리는 메아리",
-    "pronunciation": "두근거리는 메아리",
-    "honorType": "event"
+    "pronunciation": "두근거리는 메아리"
   },
   {
+    "honorType": "event",
     "id": 20014,
     "name": "White Reverie",
-    "pronunciation": "White Reverie",
-    "honorType": "event"
+    "pronunciation": "White Reverie"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_season_ranking3",
+    "honorType": "event",
     "id": 20015,
     "name": "제3차 '세카이' 마음 랭킹 칭호",
-    "pronunciation": "제3차 '세카이' 마음 랭킹 칭호",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_season_ranking3"
+    "pronunciation": "제3차 '세카이' 마음 랭킹 칭호"
   },
   {
+    "honorType": "event",
     "id": 20016,
     "name": "리듬이 멈추지 않아",
-    "pronunciation": "리듬이 멈추지 않아",
-    "honorType": "event"
+    "pronunciation": "리듬이 멈추지 않아"
   },
   {
+    "honorType": "event",
     "id": 20017,
     "name": "공명의 소리",
-    "pronunciation": "공명의 소리",
-    "honorType": "event"
+    "pronunciation": "공명의 소리"
   },
   {
+    "honorType": "event",
     "id": 20018,
     "name": "4주년 기념 칭호",
-    "pronunciation": "4주년 기념 칭호",
-    "honorType": "event"
+    "pronunciation": "4주년 기념 칭호"
   },
   {
+    "honorType": "event",
     "id": 20019,
     "name": "영원한 윤슬",
-    "pronunciation": "영원한 윤슬",
-    "honorType": "event"
+    "pronunciation": "영원한 윤슬"
   },
   {
+    "honorType": "event",
     "id": 20020,
     "name": "베스트 크리에이터 '세카이'의 봄'26",
-    "pronunciation": "베스트 크리에이터 '세카이'의 봄'26",
-    "honorType": "event"
+    "pronunciation": "베스트 크리에이터 '세카이'의 봄'26"
   },
   {
+    "honorType": "event",
     "id": 20021,
     "name": "공명의 소리",
-    "pronunciation": "공명의 소리",
-    "honorType": "event"
+    "pronunciation": "공명의 소리"
   },
   {
+    "backgroundAssetbundleName": "honor_bg_season_ranking4",
+    "honorType": "event",
     "id": 20022,
     "name": "제4차 '세카이' 마음 랭킹 칭호",
-    "pronunciation": "제4차 '세카이' 마음 랭킹 칭호",
-    "honorType": "event",
-    "backgroundAssetbundleName": "honor_bg_season_ranking4"
+    "pronunciation": "제4차 '세카이' 마음 랭킹 칭호"
   },
   {
+    "honorType": "achievement",
     "id": 100016,
     "name": "EXP 초과",
-    "pronunciation": "EXP 초과",
-    "honorType": "achievement"
+    "pronunciation": "EXP 초과"
   },
   {
+    "honorType": "achievement",
     "id": 100017,
     "name": "실력 향상",
-    "pronunciation": "실력 향상",
-    "honorType": "achievement"
+    "pronunciation": "실력 향상"
   },
   {
+    "honorType": "achievement",
     "id": 100018,
     "name": "오버 더 마스터",
-    "pronunciation": "오버 더 마스터",
-    "honorType": "achievement"
+    "pronunciation": "오버 더 마스터"
   },
   {
+    "honorType": "achievement",
     "id": 100019,
     "name": "연구 전문가",
-    "pronunciation": "연구 전문가",
-    "honorType": "achievement"
+    "pronunciation": "연구 전문가"
   },
   {
+    "honorType": "achievement",
     "id": 100020,
     "name": "스토리 관람가",
-    "pronunciation": "스토리 관람가",
-    "honorType": "achievement"
+    "pronunciation": "스토리 관람가"
   },
   {
+    "honorType": "achievement",
     "id": 100021,
     "name": "스토리 감상가",
-    "pronunciation": "스토리 감상가",
-    "honorType": "achievement"
+    "pronunciation": "스토리 감상가"
   },
   {
+    "honorType": "event",
     "id": 100022,
     "name": "maimai DX|CHUNITHM 공명 마스터",
-    "pronunciation": "maimai DX|CHUNITHM 공명 마스터",
-    "honorType": "event"
+    "pronunciation": "maimai DX|CHUNITHM 공명 마스터"
   }
 ]

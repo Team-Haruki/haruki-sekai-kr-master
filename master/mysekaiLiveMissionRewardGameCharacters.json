@@ -1,590 +1,590 @@
 [
   {
+    "gameCharacterId": 1,
+    "groupId": 1,
     "id": 1,
-    "groupId": 1,
-    "gameCharacterId": 1,
-    "name": "이치카 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 1
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 1,
+    "name": "이치카 인형 설계도"
   },
   {
+    "gameCharacterId": 2,
+    "groupId": 1,
     "id": 2,
-    "groupId": 1,
-    "gameCharacterId": 2,
-    "name": "사키 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 2
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 2,
+    "name": "사키 인형 설계도"
   },
   {
+    "gameCharacterId": 3,
+    "groupId": 1,
     "id": 3,
-    "groupId": 1,
-    "gameCharacterId": 3,
-    "name": "호나미 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 3
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 3,
+    "name": "호나미 인형 설계도"
   },
   {
+    "gameCharacterId": 4,
+    "groupId": 1,
     "id": 4,
-    "groupId": 1,
-    "gameCharacterId": 4,
-    "name": "시호 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 4
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 4,
+    "name": "시호 인형 설계도"
   },
   {
+    "gameCharacterId": 5,
+    "groupId": 1,
     "id": 5,
-    "groupId": 1,
-    "gameCharacterId": 5,
-    "name": "미노리 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 5
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 5,
+    "name": "미노리 인형 설계도"
   },
   {
+    "gameCharacterId": 6,
+    "groupId": 1,
     "id": 6,
-    "groupId": 1,
-    "gameCharacterId": 6,
-    "name": "하루카 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 6
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 6,
+    "name": "하루카 인형 설계도"
   },
   {
+    "gameCharacterId": 7,
+    "groupId": 1,
     "id": 7,
-    "groupId": 1,
-    "gameCharacterId": 7,
-    "name": "아이리 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 7
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 7,
+    "name": "아이리 인형 설계도"
   },
   {
+    "gameCharacterId": 8,
+    "groupId": 1,
     "id": 8,
-    "groupId": 1,
-    "gameCharacterId": 8,
-    "name": "시즈쿠 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 8
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 8,
+    "name": "시즈쿠 인형 설계도"
   },
   {
+    "gameCharacterId": 9,
+    "groupId": 1,
     "id": 9,
-    "groupId": 1,
-    "gameCharacterId": 9,
-    "name": "코하네 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 9
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 9,
+    "name": "코하네 인형 설계도"
   },
   {
+    "gameCharacterId": 10,
+    "groupId": 1,
     "id": 10,
-    "groupId": 1,
-    "gameCharacterId": 10,
-    "name": "안 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 10
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 10,
+    "name": "안 인형 설계도"
   },
   {
+    "gameCharacterId": 11,
+    "groupId": 1,
     "id": 11,
-    "groupId": 1,
-    "gameCharacterId": 11,
-    "name": "아키토 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 11
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 11,
+    "name": "아키토 인형 설계도"
   },
   {
+    "gameCharacterId": 12,
+    "groupId": 1,
     "id": 12,
-    "groupId": 1,
-    "gameCharacterId": 12,
-    "name": "토우야 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 12
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 12,
+    "name": "토우야 인형 설계도"
   },
   {
+    "gameCharacterId": 13,
+    "groupId": 1,
     "id": 13,
-    "groupId": 1,
-    "gameCharacterId": 13,
-    "name": "츠카사 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 13
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 13,
+    "name": "츠카사 인형 설계도"
   },
   {
+    "gameCharacterId": 14,
+    "groupId": 1,
     "id": 14,
-    "groupId": 1,
-    "gameCharacterId": 14,
-    "name": "에무 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 14
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 14,
+    "name": "에무 인형 설계도"
   },
   {
+    "gameCharacterId": 15,
+    "groupId": 1,
     "id": 15,
-    "groupId": 1,
-    "gameCharacterId": 15,
-    "name": "네네 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 15
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 15,
+    "name": "네네 인형 설계도"
   },
   {
+    "gameCharacterId": 16,
+    "groupId": 1,
     "id": 16,
-    "groupId": 1,
-    "gameCharacterId": 16,
-    "name": "루이 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 16
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 16,
+    "name": "루이 인형 설계도"
   },
   {
+    "gameCharacterId": 17,
+    "groupId": 1,
     "id": 17,
-    "groupId": 1,
-    "gameCharacterId": 17,
-    "name": "카나데 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 17
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 17,
+    "name": "카나데 인형 설계도"
   },
   {
+    "gameCharacterId": 18,
+    "groupId": 1,
     "id": 18,
-    "groupId": 1,
-    "gameCharacterId": 18,
-    "name": "마후유 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 18
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 18,
+    "name": "마후유 인형 설계도"
   },
   {
+    "gameCharacterId": 19,
+    "groupId": 1,
     "id": 19,
-    "groupId": 1,
-    "gameCharacterId": 19,
-    "name": "에나 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 19
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 19,
+    "name": "에나 인형 설계도"
   },
   {
+    "gameCharacterId": 20,
+    "groupId": 1,
     "id": 20,
-    "groupId": 1,
-    "gameCharacterId": 20,
-    "name": "미즈키 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 20
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 20,
+    "name": "미즈키 인형 설계도"
   },
   {
+    "gameCharacterId": 21,
+    "groupId": 1,
     "id": 21,
-    "groupId": 1,
-    "gameCharacterId": 21,
-    "name": "미쿠 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 21
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 21,
+    "name": "미쿠 인형 설계도"
   },
   {
+    "gameCharacterId": 27,
+    "groupId": 1,
     "id": 22,
-    "groupId": 1,
-    "gameCharacterId": 27,
-    "name": "린 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 22
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 22,
+    "name": "린 인형 설계도"
   },
   {
+    "gameCharacterId": 28,
+    "groupId": 1,
     "id": 23,
-    "groupId": 1,
-    "gameCharacterId": 28,
-    "name": "렌 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 23
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 23,
+    "name": "렌 인형 설계도"
   },
   {
+    "gameCharacterId": 29,
+    "groupId": 1,
     "id": 24,
-    "groupId": 1,
-    "gameCharacterId": 29,
-    "name": "루카 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 24
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 24,
+    "name": "루카 인형 설계도"
   },
   {
+    "gameCharacterId": 30,
+    "groupId": 1,
     "id": 25,
-    "groupId": 1,
-    "gameCharacterId": 30,
-    "name": "MEIKO 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 25
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 25,
+    "name": "MEIKO 인형 설계도"
   },
   {
+    "gameCharacterId": 31,
+    "groupId": 1,
     "id": 26,
-    "groupId": 1,
-    "gameCharacterId": 31,
-    "name": "KAITO 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 26
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 26,
+    "name": "KAITO 인형 설계도"
   },
   {
+    "gameCharacterId": 1,
+    "groupId": 2,
     "id": 27,
-    "groupId": 2,
-    "gameCharacterId": 1,
-    "name": "[컬러풀 페스티벌 스타일] 이치카 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 27
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 27,
+    "name": "[컬러풀 페스티벌 스타일] 이치카 인형 설계도"
   },
   {
+    "gameCharacterId": 5,
+    "groupId": 2,
     "id": 28,
-    "groupId": 2,
-    "gameCharacterId": 5,
-    "name": "[컬러풀 페스티벌 스타일] 미노리 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 28
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 28,
+    "name": "[컬러풀 페스티벌 스타일] 미노리 인형 설계도"
   },
   {
+    "gameCharacterId": 9,
+    "groupId": 2,
     "id": 29,
-    "groupId": 2,
-    "gameCharacterId": 9,
-    "name": "[컬러풀 페스티벌 스타일] 코하네 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 29
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 29,
+    "name": "[컬러풀 페스티벌 스타일] 코하네 인형 설계도"
   },
   {
+    "gameCharacterId": 13,
+    "groupId": 2,
     "id": 30,
-    "groupId": 2,
-    "gameCharacterId": 13,
-    "name": "[컬러풀 페스티벌 스타일] 츠카사 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 30
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 30,
+    "name": "[컬러풀 페스티벌 스타일] 츠카사 인형 설계도"
   },
   {
+    "gameCharacterId": 17,
+    "groupId": 2,
     "id": 31,
-    "groupId": 2,
-    "gameCharacterId": 17,
-    "name": "[컬러풀 페스티벌 스타일] 카나데 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 31
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 31,
+    "name": "[컬러풀 페스티벌 스타일] 카나데 인형 설계도"
   },
   {
+    "gameCharacterId": 21,
+    "groupId": 2,
     "id": 32,
-    "groupId": 2,
-    "gameCharacterId": 21,
-    "name": "[컬러풀 페스티벌 스타일] 미쿠 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 32
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 32,
+    "name": "[컬러풀 페스티벌 스타일] 미쿠 인형 설계도"
   },
   {
+    "gameCharacterId": 2,
+    "groupId": 3,
     "id": 33,
-    "groupId": 3,
-    "gameCharacterId": 2,
-    "name": "[컬러풀 페스티벌 스타일] 사키 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 33
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 33,
+    "name": "[컬러풀 페스티벌 스타일] 사키 인형 설계도"
   },
   {
+    "gameCharacterId": 7,
+    "groupId": 3,
     "id": 34,
-    "groupId": 3,
-    "gameCharacterId": 7,
-    "name": "[컬러풀 페스티벌 스타일] 아이리 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 34
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 34,
+    "name": "[컬러풀 페스티벌 스타일] 아이리 인형 설계도"
   },
   {
+    "gameCharacterId": 10,
+    "groupId": 3,
     "id": 35,
-    "groupId": 3,
-    "gameCharacterId": 10,
-    "name": "[컬러풀 페스티벌 스타일] 안 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 35
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 35,
+    "name": "[컬러풀 페스티벌 스타일] 안 인형 설계도"
   },
   {
+    "gameCharacterId": 14,
+    "groupId": 3,
     "id": 36,
-    "groupId": 3,
-    "gameCharacterId": 14,
-    "name": "[컬러풀 페스티벌 스타일] 에무 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 36
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 36,
+    "name": "[컬러풀 페스티벌 스타일] 에무 인형 설계도"
   },
   {
+    "gameCharacterId": 20,
+    "groupId": 3,
     "id": 37,
-    "groupId": 3,
-    "gameCharacterId": 20,
-    "name": "[컬러풀 페스티벌 스타일] 미즈키 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 37
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 37,
+    "name": "[컬러풀 페스티벌 스타일] 미즈키 인형 설계도"
   },
   {
+    "gameCharacterId": 27,
+    "groupId": 3,
     "id": 38,
-    "groupId": 3,
-    "gameCharacterId": 27,
-    "name": "[컬러풀 페스티벌 스타일] 린 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 38
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 38,
+    "name": "[컬러풀 페스티벌 스타일] 린 인형 설계도"
   },
   {
+    "gameCharacterId": 30,
+    "groupId": 3,
     "id": 39,
-    "groupId": 3,
-    "gameCharacterId": 30,
-    "name": "[컬러풀 페스티벌 스타일] MEIKO 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 39
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 39,
+    "name": "[컬러풀 페스티벌 스타일] MEIKO 인형 설계도"
   },
   {
+    "gameCharacterId": 4,
+    "groupId": 4,
     "id": 40,
-    "groupId": 4,
-    "gameCharacterId": 4,
-    "name": "[컬러풀 페스티벌 스타일] 시호 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 40
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 40,
+    "name": "[컬러풀 페스티벌 스타일] 시호 인형 설계도"
   },
   {
+    "gameCharacterId": 6,
+    "groupId": 4,
     "id": 41,
-    "groupId": 4,
-    "gameCharacterId": 6,
-    "name": "[컬러풀 페스티벌 스타일] 하루카 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 41
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 41,
+    "name": "[컬러풀 페스티벌 스타일] 하루카 인형 설계도"
   },
   {
+    "gameCharacterId": 12,
+    "groupId": 4,
     "id": 42,
-    "groupId": 4,
-    "gameCharacterId": 12,
-    "name": "[컬러풀 페스티벌 스타일] 토우야 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 42
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 42,
+    "name": "[컬러풀 페스티벌 스타일] 토우야 인형 설계도"
   },
   {
+    "gameCharacterId": 16,
+    "groupId": 4,
     "id": 43,
-    "groupId": 4,
-    "gameCharacterId": 16,
-    "name": "[컬러풀 페스티벌 스타일] 루이 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 43
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 43,
+    "name": "[컬러풀 페스티벌 스타일] 루이 인형 설계도"
   },
   {
+    "gameCharacterId": 19,
+    "groupId": 4,
     "id": 44,
-    "groupId": 4,
-    "gameCharacterId": 19,
-    "name": "[컬러풀 페스티벌 스타일] 에나 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 44
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 44,
+    "name": "[컬러풀 페스티벌 스타일] 에나 인형 설계도"
   },
   {
+    "gameCharacterId": 29,
+    "groupId": 4,
     "id": 45,
-    "groupId": 4,
-    "gameCharacterId": 29,
-    "name": "[컬러풀 페스티벌 스타일] 루카 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 45
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 45,
+    "name": "[컬러풀 페스티벌 스타일] 루카 인형 설계도"
   },
   {
+    "gameCharacterId": 3,
+    "groupId": 5,
     "id": 46,
-    "groupId": 5,
-    "gameCharacterId": 3,
-    "name": "[컬러풀 페스티벌 스타일] 호나미 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 46
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 46,
+    "name": "[컬러풀 페스티벌 스타일] 호나미 인형 설계도"
   },
   {
+    "gameCharacterId": 8,
+    "groupId": 5,
     "id": 47,
-    "groupId": 5,
-    "gameCharacterId": 8,
-    "name": "[컬러풀 페스티벌 스타일] 시즈쿠 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 47
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 47,
+    "name": "[컬러풀 페스티벌 스타일] 시즈쿠 인형 설계도"
   },
   {
+    "gameCharacterId": 11,
+    "groupId": 5,
     "id": 48,
-    "groupId": 5,
-    "gameCharacterId": 11,
-    "name": "[컬러풀 페스티벌 스타일] 아키토 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 48
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 48,
+    "name": "[컬러풀 페스티벌 스타일] 아키토 인형 설계도"
   },
   {
+    "gameCharacterId": 15,
+    "groupId": 5,
     "id": 49,
-    "groupId": 5,
-    "gameCharacterId": 15,
-    "name": "[컬러풀 페스티벌 스타일] 네네 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 49
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 49,
+    "name": "[컬러풀 페스티벌 스타일] 네네 인형 설계도"
   },
   {
+    "gameCharacterId": 18,
+    "groupId": 5,
     "id": 50,
-    "groupId": 5,
-    "gameCharacterId": 18,
-    "name": "[컬러풀 페스티벌 스타일] 마후유 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 50
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 50,
+    "name": "[컬러풀 페스티벌 스타일] 마후유 인형 설계도"
   },
   {
+    "gameCharacterId": 28,
+    "groupId": 5,
     "id": 51,
-    "groupId": 5,
-    "gameCharacterId": 28,
-    "name": "[컬러풀 페스티벌 스타일] 렌 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 51
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 51,
+    "name": "[컬러풀 페스티벌 스타일] 렌 인형 설계도"
   },
   {
+    "gameCharacterId": 31,
+    "groupId": 5,
     "id": 52,
-    "groupId": 5,
-    "gameCharacterId": 31,
-    "name": "[컬러풀 페스티벌 스타일] KAITO 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 52
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 52,
+    "name": "[컬러풀 페스티벌 스타일] KAITO 인형 설계도"
   },
   {
-    "id": 53,
-    "groupId": 6,
     "gameCharacterId": 2,
-    "name": "[리미티드 스타일 vol.1] 사키 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 53
+    "groupId": 6,
+    "id": 53,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 53,
+    "name": "[리미티드 스타일 vol.1] 사키 인형 설계도"
   },
   {
-    "id": 54,
-    "groupId": 6,
     "gameCharacterId": 6,
-    "name": "[리미티드 스타일 vol.1] 하루카 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 54
+    "groupId": 6,
+    "id": 54,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 54,
+    "name": "[리미티드 스타일 vol.1] 하루카 인형 설계도"
   },
   {
-    "id": 55,
-    "groupId": 6,
     "gameCharacterId": 10,
-    "name": "[리미티드 스타일 vol.1] 안 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 55
+    "groupId": 6,
+    "id": 55,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 55,
+    "name": "[리미티드 스타일 vol.1] 안 인형 설계도"
   },
   {
-    "id": 56,
-    "groupId": 6,
     "gameCharacterId": 13,
-    "name": "[리미티드 스타일 vol.1] 츠카사 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 56
+    "groupId": 6,
+    "id": 56,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 56,
+    "name": "[리미티드 스타일 vol.1] 츠카사 인형 설계도"
   },
   {
+    "gameCharacterId": 20,
+    "groupId": 6,
     "id": 57,
-    "groupId": 6,
-    "gameCharacterId": 20,
-    "name": "[리미티드 스타일 vol.1] 미즈키 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 57
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 57,
+    "name": "[리미티드 스타일 vol.1] 미즈키 인형 설계도"
   },
   {
-    "id": 58,
-    "groupId": 6,
     "gameCharacterId": 21,
-    "name": "[리미티드 스타일 vol.1] 미쿠 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 58
+    "groupId": 6,
+    "id": 58,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 58,
+    "name": "[리미티드 스타일 vol.1] 미쿠 인형 설계도"
   },
   {
+    "gameCharacterId": 1,
+    "groupId": 7,
     "id": 59,
-    "groupId": 7,
-    "gameCharacterId": 1,
-    "name": "[리미티드 스타일 vol.1] 이치카 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 59
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 59,
+    "name": "[리미티드 스타일 vol.1] 이치카 인형 설계도"
   },
   {
+    "gameCharacterId": 7,
+    "groupId": 7,
     "id": 60,
-    "groupId": 7,
-    "gameCharacterId": 7,
-    "name": "[리미티드 스타일 vol.1] 아이리 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 60
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 60,
+    "name": "[리미티드 스타일 vol.1] 아이리 인형 설계도"
   },
   {
+    "gameCharacterId": 9,
+    "groupId": 7,
     "id": 61,
-    "groupId": 7,
-    "gameCharacterId": 9,
-    "name": "[리미티드 스타일 vol.1] 코하네 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 61
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 61,
+    "name": "[리미티드 스타일 vol.1] 코하네 인형 설계도"
   },
   {
+    "gameCharacterId": 16,
+    "groupId": 7,
     "id": 62,
-    "groupId": 7,
-    "gameCharacterId": 16,
-    "name": "[리미티드 스타일 vol.1] 루이 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 62
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 62,
+    "name": "[리미티드 스타일 vol.1] 루이 인형 설계도"
   },
   {
-    "id": 63,
-    "groupId": 7,
     "gameCharacterId": 17,
-    "name": "[리미티드 스타일 vol.1] 카나데 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 63
+    "groupId": 7,
+    "id": 63,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 63,
+    "name": "[리미티드 스타일 vol.1] 카나데 인형 설계도"
   },
   {
-    "id": 64,
-    "groupId": 7,
     "gameCharacterId": 27,
-    "name": "[리미티드 스타일 vol.1] 린 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 64
-  },
-  {
-    "id": 65,
     "groupId": 7,
-    "gameCharacterId": 30,
-    "name": "[리미티드 스타일 vol.1] MEIKO 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 65
+    "id": 64,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 64,
+    "name": "[리미티드 스타일 vol.1] 린 인형 설계도"
   },
   {
-    "id": 66,
-    "groupId": 8,
+    "gameCharacterId": 30,
+    "groupId": 7,
+    "id": 65,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 65,
+    "name": "[리미티드 스타일 vol.1] MEIKO 인형 설계도"
+  },
+  {
     "gameCharacterId": 4,
-    "name": "[리미티드 스타일 vol.1] 시호 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 66
+    "groupId": 8,
+    "id": 66,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 66,
+    "name": "[리미티드 스타일 vol.1] 시호 인형 설계도"
   },
   {
-    "id": 67,
-    "groupId": 8,
     "gameCharacterId": 5,
-    "name": "[리미티드 스타일 vol.1] 미노리 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 67
+    "groupId": 8,
+    "id": 67,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 67,
+    "name": "[리미티드 스타일 vol.1] 미노리 인형 설계도"
   },
   {
-    "id": 68,
-    "groupId": 8,
     "gameCharacterId": 11,
-    "name": "[리미티드 스타일 vol.1] 아키토 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 68
+    "groupId": 8,
+    "id": 68,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 68,
+    "name": "[리미티드 스타일 vol.1] 아키토 인형 설계도"
   },
   {
-    "id": 69,
-    "groupId": 8,
     "gameCharacterId": 14,
-    "name": "[리미티드 스타일 vol.1] 에무 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 69
+    "groupId": 8,
+    "id": 69,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 69,
+    "name": "[리미티드 스타일 vol.1] 에무 인형 설계도"
   },
   {
-    "id": 70,
-    "groupId": 8,
     "gameCharacterId": 18,
-    "name": "[리미티드 스타일 vol.1] 마후유 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 70
-  },
-  {
-    "id": 71,
     "groupId": 8,
+    "id": 70,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 70,
+    "name": "[리미티드 스타일 vol.1] 마후유 인형 설계도"
+  },
+  {
     "gameCharacterId": 28,
-    "name": "[리미티드 스타일 vol.1] 렌 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 71
+    "groupId": 8,
+    "id": 71,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 71,
+    "name": "[리미티드 스타일 vol.1] 렌 인형 설계도"
   },
   {
-    "id": 72,
-    "groupId": 9,
     "gameCharacterId": 3,
-    "name": "[리미티드 스타일 vol.1] 호나미 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 72
+    "groupId": 9,
+    "id": 72,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 72,
+    "name": "[리미티드 스타일 vol.1] 호나미 인형 설계도"
   },
   {
-    "id": 73,
-    "groupId": 9,
     "gameCharacterId": 8,
-    "name": "[리미티드 스타일 vol.1] 시즈쿠 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 73
+    "groupId": 9,
+    "id": 73,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 73,
+    "name": "[리미티드 스타일 vol.1] 시즈쿠 인형 설계도"
   },
   {
-    "id": 74,
-    "groupId": 9,
     "gameCharacterId": 12,
-    "name": "[리미티드 스타일 vol.1] 토우야 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 74
+    "groupId": 9,
+    "id": 74,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 74,
+    "name": "[리미티드 스타일 vol.1] 토우야 인형 설계도"
   },
   {
-    "id": 75,
-    "groupId": 9,
     "gameCharacterId": 15,
-    "name": "[리미티드 스타일 vol.1] 네네 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 75
+    "groupId": 9,
+    "id": 75,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 75,
+    "name": "[리미티드 스타일 vol.1] 네네 인형 설계도"
   },
   {
-    "id": 76,
-    "groupId": 9,
     "gameCharacterId": 19,
-    "name": "[리미티드 스타일 vol.1] 에나 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 76
+    "groupId": 9,
+    "id": 76,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 76,
+    "name": "[리미티드 스타일 vol.1] 에나 인형 설계도"
   },
   {
-    "id": 77,
-    "groupId": 9,
     "gameCharacterId": 29,
-    "name": "[리미티드 스타일 vol.1] 루카 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 77
-  },
-  {
-    "id": 78,
     "groupId": 9,
+    "id": 77,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 77,
+    "name": "[리미티드 스타일 vol.1] 루카 인형 설계도"
+  },
+  {
     "gameCharacterId": 31,
-    "name": "[리미티드 스타일 vol.1] KAITO 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 78
+    "groupId": 9,
+    "id": 78,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 78,
+    "name": "[리미티드 스타일 vol.1] KAITO 인형 설계도"
   },
   {
-    "id": 79,
-    "groupId": 10,
     "gameCharacterId": 1,
-    "name": "[리미티드 스타일 vol.2] 이치카 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 79
+    "groupId": 10,
+    "id": 79,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 79,
+    "name": "[리미티드 스타일 vol.2] 이치카 인형 설계도"
   },
   {
-    "id": 80,
-    "groupId": 10,
     "gameCharacterId": 7,
-    "name": "[리미티드 스타일 vol.2] 아이리 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 80
+    "groupId": 10,
+    "id": 80,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 80,
+    "name": "[리미티드 스타일 vol.2] 아이리 인형 설계도"
   },
   {
-    "id": 81,
-    "groupId": 10,
     "gameCharacterId": 9,
-    "name": "[리미티드 스타일 vol.2] 코하네 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 81
+    "groupId": 10,
+    "id": 81,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 81,
+    "name": "[리미티드 스타일 vol.2] 코하네 인형 설계도"
   },
   {
-    "id": 82,
-    "groupId": 10,
     "gameCharacterId": 16,
-    "name": "[리미티드 스타일 vol.2] 루이 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 82
+    "groupId": 10,
+    "id": 82,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 82,
+    "name": "[리미티드 스타일 vol.2] 루이 인형 설계도"
   },
   {
-    "id": 83,
-    "groupId": 10,
     "gameCharacterId": 20,
-    "name": "[리미티드 스타일 vol.2] 미즈키 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 83
+    "groupId": 10,
+    "id": 83,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 83,
+    "name": "[리미티드 스타일 vol.2] 미즈키 인형 설계도"
   },
   {
-    "id": 84,
-    "groupId": 10,
     "gameCharacterId": 30,
-    "name": "[리미티드 스타일 vol.2] MEIKO 인형 설계도",
-    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 84
+    "groupId": 10,
+    "id": 84,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 84,
+    "name": "[리미티드 스타일 vol.2] MEIKO 인형 설계도"
   }
 ]

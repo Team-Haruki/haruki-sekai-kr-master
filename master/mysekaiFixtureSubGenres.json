@@ -1,200 +1,200 @@
 [
   {
+    "assetbundleName": "icon_all",
     "id": 1,
-    "name": "전체",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_all"
+    "name": "전체"
   },
   {
+    "assetbundleName": "icon_bed",
     "id": 2,
-    "name": "침대",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_bed"
+    "name": "침대"
   },
   {
+    "assetbundleName": "icon_table",
     "id": 3,
-    "name": "테이블",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_table"
+    "name": "테이블"
   },
   {
+    "assetbundleName": "icon_chair",
     "id": 4,
-    "name": "의자",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_chair"
+    "name": "의자"
   },
   {
+    "assetbundleName": "icon_closet",
     "id": 5,
-    "name": "선반",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_closet"
+    "name": "선반"
   },
   {
+    "assetbundleName": "icon_house_plants",
     "id": 7,
-    "name": "관엽 식물",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_house_plants"
+    "name": "관엽 식물"
   },
   {
+    "assetbundleName": "icon_home_appliance_l",
     "id": 8,
-    "name": "가전",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_home_appliance_l"
+    "name": "가전"
   },
   {
+    "assetbundleName": "icon_others",
     "id": 9,
-    "name": "기타",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_others"
+    "name": "기타"
   },
   {
+    "assetbundleName": "icon_stuffed_toy",
     "id": 10,
-    "name": "인형",
     "mysekaiFixtureSubGenreType": "doll",
-    "assetbundleName": "icon_stuffed_toy"
+    "name": "인형"
   },
   {
+    "assetbundleName": "icon_house_plants",
     "id": 11,
-    "name": "관엽 식물",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_house_plants"
+    "name": "관엽 식물"
   },
   {
+    "assetbundleName": "icon_home_appliance",
     "id": 12,
-    "name": "가전",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_home_appliance"
+    "name": "가전"
   },
   {
+    "assetbundleName": "icon_others",
     "id": 13,
-    "name": "기타",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_others"
+    "name": "기타"
   },
   {
+    "assetbundleName": "icon_wall_furniture",
     "id": 14,
-    "name": "벽걸이",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_wall_furniture"
+    "name": "벽걸이"
   },
   {
+    "assetbundleName": "icon_all",
     "id": 15,
-    "name": "컬렉션",
     "mysekaiFixtureSubGenreType": "custom_profile_resource_collection_all",
-    "assetbundleName": "icon_all"
+    "name": "컬렉션"
   },
   {
+    "assetbundleName": "icon_honor",
     "id": 16,
-    "name": "칭호",
     "mysekaiFixtureSubGenreType": "honor",
-    "assetbundleName": "icon_honor"
+    "name": "칭호"
   },
   {
+    "assetbundleName": "icon_record_jacket",
     "id": 17,
-    "name": "레코드",
     "mysekaiFixtureSubGenreType": "mysekai_music_record",
-    "assetbundleName": "icon_record_jacket"
+    "name": "레코드"
   },
   {
+    "assetbundleName": "icon_canvas",
     "id": 18,
-    "name": "캔버스",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_canvas"
+    "name": "캔버스"
   },
   {
+    "assetbundleName": "icon_wallpaper",
     "id": 19,
-    "name": "벽지",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_wallpaper"
+    "name": "벽지"
   },
   {
+    "assetbundleName": "icon_floor",
     "id": 20,
-    "name": "바닥재",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_floor"
+    "name": "바닥재"
   },
   {
+    "assetbundleName": "icon_rug",
     "id": 21,
-    "name": "러그",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_rug"
+    "name": "러그"
   },
   {
+    "assetbundleName": "icon_road",
     "id": 22,
-    "name": "길",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_road"
+    "name": "길"
   },
   {
+    "assetbundleName": "icon_fence",
     "id": 23,
-    "name": "울타리",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_fence"
+    "name": "울타리"
   },
   {
+    "assetbundleName": "icon_house",
     "id": 24,
-    "name": "건물",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_house"
+    "name": "건물"
   },
   {
+    "assetbundleName": "icon_wood",
     "id": 25,
-    "name": "나무",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_wood"
+    "name": "나무"
   },
   {
+    "assetbundleName": "icon_flower",
     "id": 26,
-    "name": "꽃",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_flower"
+    "name": "꽃"
   },
   {
+    "assetbundleName": "icon_axe",
     "id": 27,
-    "name": "도끼",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_axe"
+    "name": "도끼"
   },
   {
+    "assetbundleName": "icon_pickaxe",
     "id": 28,
-    "name": "곡괭이",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_pickaxe"
+    "name": "곡괭이"
   },
   {
+    "assetbundleName": "icon_penlight",
     "id": 29,
-    "name": "응원봉",
     "mysekaiFixtureSubGenreType": "penlight",
-    "assetbundleName": "icon_penlight"
+    "name": "응원봉"
   },
   {
+    "assetbundleName": "icon_photo",
     "id": 30,
-    "name": "사진",
     "mysekaiFixtureSubGenreType": "mysekai_photo",
-    "assetbundleName": "icon_photo"
+    "name": "사진"
   },
   {
+    "assetbundleName": "icon_canbadge",
     "id": 31,
-    "name": "캔 배지",
     "mysekaiFixtureSubGenreType": "custom_profile_resource_collection_can_badge",
-    "assetbundleName": "icon_canbadge"
+    "name": "캔 배지"
   },
   {
+    "assetbundleName": "icon_acrylstand",
     "id": 32,
-    "name": "아크릴 스탠드",
     "mysekaiFixtureSubGenreType": "custom_profile_resource_collection_acrylic_stand",
-    "assetbundleName": "icon_acrylstand"
+    "name": "아크릴 스탠드"
   },
   {
+    "assetbundleName": "icon_others",
     "id": 33,
-    "name": "기타",
     "mysekaiFixtureSubGenreType": "custom_profile_resource_collection_other",
-    "assetbundleName": "icon_others"
+    "name": "기타"
   },
   {
+    "assetbundleName": "icon_road_color",
     "id": 34,
-    "name": "컬러 타일",
     "mysekaiFixtureSubGenreType": "none",
-    "assetbundleName": "icon_road_color"
+    "name": "컬러 타일"
   }
 ]

@@ -1,602 +1,602 @@
 [
   {
+    "flavorText": " 라이브 보너스를 1 회복한다.",
     "id": 1,
     "name": "라이브 보너스 드링크(소)",
-    "recoveryValue": 1,
-    "flavorText": " 라이브 보너스를 1 회복한다."
+    "recoveryValue": 1
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 2,
     "name": "라이브 보너스 드링크(대)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3,
     "name": "밸런타인 초콜릿",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 4,
     "name": "화이트데이 마시멜로",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 5,
     "name": "[한정] 카라아게군 레귤러",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 6,
     "name": "핼러윈 쿠키",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 7,
     "name": "브리오슈",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 8,
     "name": "크리스마스 케이크",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 9,
     "name": "감주",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 10,
     "name": "[한정] CUPNOODLE",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 11,
     "name": "[한정] 포카리스웨트",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 1 회복한다.",
     "id": 12,
     "name": "파",
-    "recoveryValue": 1,
-    "flavorText": " 라이브 보너스를 1 회복한다."
+    "recoveryValue": 1
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 13,
     "name": "[미쿠 16주년 기념]축하 미쿠 케이크",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 14,
     "name": "키티의 사과",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 15,
     "name": "3900's 라이브 보너스 음료",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 99 회복한다.",
     "id": 16,
     "name": "메모리얼 라이브 보너스 보틀",
-    "recoveryValue": 99,
-    "flavorText": " 라이브 보너스를 99 회복한다."
+    "recoveryValue": 99
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 17,
     "name": "영화관의 새하얀 소금 팝콘",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 18,
     "name": "영화관의 상쾌한 톡톡 소다",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 19,
     "name": "영화관의 달콤한 멜론 아이스크림",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 20,
     "name": "영화관의 따끈따끈한 핫도그",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 21,
     "name": "영화관의 갓 튀긴 원더풀 감자튀김",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 22,
     "name": "영화관의 쌉쌀한 다크초콜릿 추로스",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 23,
     "name": "ASTRO DRINK",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 24,
     "name": "레이무의 차",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 25,
     "name": "테스트 이벤트용 라이브 보너스 드링크(대)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 26,
     "name": "르블랑의 카레 세트",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 27,
     "name": "주먹밥",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 28,
     "name": "피아노 퐁당 케이크",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 29,
     "name": "파란 꽃 드링크",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1002,
     "name": "파",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1003,
     "name": "송편",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1004,
     "name": "와인",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1005,
     "name": "주스",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1006,
     "name": "떡국",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1007,
     "name": "참치",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1008,
     "name": "아이스바",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1009,
     "name": "부침개",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1010,
     "name": "막대 사탕",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1011,
     "name": "VIRTUAL SINGER 피스타치오 라떼",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1012,
     "name": "Leo/need 블루 레몬에이드",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1013,
     "name": "MORE MORE JUMP! 키위 스무디",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1014,
     "name": "Vivid BAD SQUAD 초코 크림 카스텔라",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1015,
     "name": "원더랜즈×쇼타임 달콤 파르페",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1016,
     "name": "25시, 나이트 코드에서. 블루베리 치즈 케이크",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1017,
     "name": "[MIKU EXPO 2025 ASIA 기념] 팝콘",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 1018,
     "name": "[2025년 연말 한정] 무궁화 드링크",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3000,
     "name": "생일 케이크",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3001,
     "name": "야키소바 빵",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3002,
     "name": "과자",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3003,
     "name": "애플파이",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3004,
     "name": "라멘",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3005,
     "name": "연어",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3006,
     "name": "디저트",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3007,
     "name": "화과자",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3008,
     "name": "우동",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3009,
     "name": "복숭아 모양 만두",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3010,
     "name": "럼 레이즌 아이스크림",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3011,
     "name": "팬케이크",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3012,
     "name": "커피",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3013,
     "name": "돼지고기 생강구이",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3014,
     "name": "붕어빵",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3015,
     "name": "자몽",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3016,
     "name": "라무네 사탕",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3017,
     "name": "컵라면",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3018,
     "name": "엄마가 해 준 요리",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3019,
     "name": "치즈케이크",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3020,
     "name": "카레라이스",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3021,
     "name": "파",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3022,
     "name": "오렌지 주스",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3023,
     "name": "바나나 주스",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3024,
     "name": "참치",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3025,
     "name": "와인",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3026,
     "name": "아이스크림",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3027,
     "name": "기념일 케이크",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3028,
     "name": "슈가 쿠키(기타)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3029,
     "name": "슈가 쿠키(키보드)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3030,
     "name": "슈가 쿠키(드럼)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3031,
     "name": "슈가 쿠키(베이스)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3032,
     "name": "슈가 쿠키(사모)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3033,
     "name": "슈가 쿠키(펭귄)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3034,
     "name": "슈가 쿠키(고양이)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3035,
     "name": "슈가 쿠키(물방울)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3036,
     "name": "슈가 쿠키(모자)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3037,
     "name": "슈가 쿠키(페퍼민트 화분)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3038,
     "name": "슈가 쿠키(마이크)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3039,
     "name": "슈가 쿠키(커피잔)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3040,
     "name": "슈가 쿠키(깃발)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3041,
     "name": "슈가 쿠키(사탕)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3042,
     "name": "슈가 쿠키(게임기)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3043,
     "name": "슈가 쿠키(풍선)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3044,
     "name": "슈가 쿠키(헤드폰)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3045,
     "name": "슈가 쿠키(토끼 인형)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3046,
     "name": "슈가 쿠키(붓)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3047,
     "name": "슈가 쿠키(리본)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3048,
     "name": "슈가 쿠키(리본타이)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3049,
     "name": "슈가 쿠키(머리핀)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3050,
     "name": "슈가 쿠키(스프레이)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3051,
     "name": "슈가 쿠키(와펜)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3052,
     "name": "슈가 쿠키(커피 그라인더)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   },
   {
+    "flavorText": " 라이브 보너스를 10 회복한다.",
     "id": 3053,
     "name": "슈가 쿠키(실크해트)",
-    "recoveryValue": 10,
-    "flavorText": " 라이브 보너스를 10 회복한다."
+    "recoveryValue": 10
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
-    "id": 1,
-    "startAt": 1758985200000,
+    "assetbundleName": "btn_home_change_4th",
     "endAt": 1763132399000,
-    "assetbundleName": "btn_home_change_4th"
+    "id": 1,
+    "startAt": 1758985200000
   },
   {
-    "id": 2,
-    "startAt": 1774580400000,
+    "assetbundleName": "btn_home_change_4-5th",
     "endAt": 1776826799000,
-    "assetbundleName": "btn_home_change_4-5th"
+    "id": 2,
+    "startAt": 1774580400000
   },
   {
-    "id": 3,
-    "startAt": 1779418800000,
+    "assetbundleName": "btn_home_change_egg_collab",
     "endAt": 1781362799000,
-    "assetbundleName": "btn_home_change_egg_collab"
+    "id": 3,
+    "startAt": 1779418800000
   },
   {
-    "id": 4,
-    "startAt": 1790694000000,
+    "assetbundleName": "btn_home_change_5th",
     "endAt": 1796007599000,
-    "assetbundleName": "btn_home_change_5th"
+    "id": 4,
+    "startAt": 1790694000000
   }
 ]

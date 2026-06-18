@@ -1,566 +1,566 @@
 [
   {
+    "exp": 200,
+    "flavorText": " 멤버가 EXP를 200 획득한다. 라이브 등을 통해 획득 가능.",
     "id": 1,
-    "name": "연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": " 멤버가 EXP를 200 획득한다. 라이브 등을 통해 획득 가능."
+    "name": "연습용 스코어(초급)"
   },
   {
+    "exp": 10000,
+    "flavorText": " 멤버가 EXP를 10000 획득한다. 이벤트 등을 통해 획득 가능.",
     "id": 2,
-    "name": "연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": " 멤버가 EXP를 10000 획득한다. 이벤트 등을 통해 획득 가능."
+    "name": "연습용 스코어(중급)"
   },
   {
+    "exp": 50000,
+    "flavorText": " 멤버가 EXP를 50000 획득한다. 이벤트 등을 통해 획득 가능.",
     "id": 3,
-    "name": "연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": " 멤버가 EXP를 50000 획득한다. 이벤트 등을 통해 획득 가능."
+    "name": "연습용 스코어(상급)"
   },
   {
+    "characterId": 1,
+    "exp": 200,
+    "flavorText": "이치카의 멤버가 EXP를 200 획득한다.",
     "id": 10101,
-    "characterId": 1,
-    "name": "이치카의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "이치카의 멤버가 EXP를 200 획득한다."
+    "name": "이치카의 연습용 스코어(초급)"
   },
   {
+    "characterId": 1,
+    "exp": 10000,
+    "flavorText": "이치카의 멤버가 EXP를 10000 획득한다.",
     "id": 10102,
-    "characterId": 1,
-    "name": "이치카의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "이치카의 멤버가 EXP를 10000 획득한다."
+    "name": "이치카의 연습용 스코어(중급)"
   },
   {
+    "characterId": 1,
+    "exp": 50000,
+    "flavorText": "이치카의 멤버가 EXP를 50000 획득한다.",
     "id": 10103,
-    "characterId": 1,
-    "name": "이치카의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "이치카의 멤버가 EXP를 50000 획득한다."
+    "name": "이치카의 연습용 스코어(상급)"
   },
   {
+    "characterId": 2,
+    "exp": 200,
+    "flavorText": "사키의 멤버가 EXP를 200 획득한다.",
     "id": 10201,
-    "characterId": 2,
-    "name": "사키의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "사키의 멤버가 EXP를 200 획득한다."
+    "name": "사키의 연습용 스코어(초급)"
   },
   {
+    "characterId": 2,
+    "exp": 10000,
+    "flavorText": "사키의 멤버가 EXP를 10000 획득한다.",
     "id": 10202,
-    "characterId": 2,
-    "name": "사키의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "사키의 멤버가 EXP를 10000 획득한다."
+    "name": "사키의 연습용 스코어(중급)"
   },
   {
+    "characterId": 2,
+    "exp": 50000,
+    "flavorText": "사키의 멤버가 EXP를 50000 획득한다.",
     "id": 10203,
-    "characterId": 2,
-    "name": "사키의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "사키의 멤버가 EXP를 50000 획득한다."
+    "name": "사키의 연습용 스코어(상급)"
   },
   {
+    "characterId": 3,
+    "exp": 200,
+    "flavorText": "호나미의 멤버가 EXP를 200 획득한다.",
     "id": 10301,
-    "characterId": 3,
-    "name": "호나미의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "호나미의 멤버가 EXP를 200 획득한다."
+    "name": "호나미의 연습용 스코어(초급)"
   },
   {
+    "characterId": 3,
+    "exp": 10000,
+    "flavorText": "호나미의 멤버가 EXP를 10000 획득한다.",
     "id": 10302,
-    "characterId": 3,
-    "name": "호나미의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "호나미의 멤버가 EXP를 10000 획득한다."
+    "name": "호나미의 연습용 스코어(중급)"
   },
   {
+    "characterId": 3,
+    "exp": 50000,
+    "flavorText": "호나미의 멤버가 EXP를 50000 획득한다.",
     "id": 10303,
-    "characterId": 3,
-    "name": "호나미의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "호나미의 멤버가 EXP를 50000 획득한다."
+    "name": "호나미의 연습용 스코어(상급)"
   },
   {
+    "characterId": 4,
+    "exp": 200,
+    "flavorText": "시호의 멤버가 EXP를 200 획득한다.",
     "id": 10401,
-    "characterId": 4,
-    "name": "시호의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "시호의 멤버가 EXP를 200 획득한다."
+    "name": "시호의 연습용 스코어(초급)"
   },
   {
+    "characterId": 4,
+    "exp": 10000,
+    "flavorText": "시호의 멤버가 EXP를 10000 획득한다.",
     "id": 10402,
-    "characterId": 4,
-    "name": "시호의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "시호의 멤버가 EXP를 10000 획득한다."
+    "name": "시호의 연습용 스코어(중급)"
   },
   {
+    "characterId": 4,
+    "exp": 50000,
+    "flavorText": "시호의 멤버가 EXP를 50000 획득한다.",
     "id": 10403,
-    "characterId": 4,
-    "name": "시호의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "시호의 멤버가 EXP를 50000 획득한다."
+    "name": "시호의 연습용 스코어(상급)"
   },
   {
+    "characterId": 5,
+    "exp": 200,
+    "flavorText": "미노리의 멤버가 EXP를 200 획득한다.",
     "id": 10501,
-    "characterId": 5,
-    "name": "미노리의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "미노리의 멤버가 EXP를 200 획득한다."
+    "name": "미노리의 연습용 스코어(초급)"
   },
   {
+    "characterId": 5,
+    "exp": 10000,
+    "flavorText": "미노리의 멤버가 EXP를 10000 획득한다.",
     "id": 10502,
-    "characterId": 5,
-    "name": "미노리의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "미노리의 멤버가 EXP를 10000 획득한다."
+    "name": "미노리의 연습용 스코어(중급)"
   },
   {
+    "characterId": 5,
+    "exp": 50000,
+    "flavorText": "미노리의 멤버가 EXP를 50000 획득한다.",
     "id": 10503,
-    "characterId": 5,
-    "name": "미노리의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "미노리의 멤버가 EXP를 50000 획득한다."
+    "name": "미노리의 연습용 스코어(상급)"
   },
   {
+    "characterId": 6,
+    "exp": 200,
+    "flavorText": "하루카의 멤버가 EXP를 200 획득한다.",
     "id": 10601,
-    "characterId": 6,
-    "name": "하루카의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "하루카의 멤버가 EXP를 200 획득한다."
+    "name": "하루카의 연습용 스코어(초급)"
   },
   {
+    "characterId": 6,
+    "exp": 10000,
+    "flavorText": "하루카의 멤버가 EXP를 10000 획득한다.",
     "id": 10602,
-    "characterId": 6,
-    "name": "하루카의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "하루카의 멤버가 EXP를 10000 획득한다."
+    "name": "하루카의 연습용 스코어(중급)"
   },
   {
+    "characterId": 6,
+    "exp": 50000,
+    "flavorText": "하루카의 멤버가 EXP를 50000 획득한다.",
     "id": 10603,
-    "characterId": 6,
-    "name": "하루카의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "하루카의 멤버가 EXP를 50000 획득한다."
+    "name": "하루카의 연습용 스코어(상급)"
   },
   {
+    "characterId": 7,
+    "exp": 200,
+    "flavorText": "아이리의 멤버가 EXP를 200 획득한다.",
     "id": 10701,
-    "characterId": 7,
-    "name": "아이리의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "아이리의 멤버가 EXP를 200 획득한다."
+    "name": "아이리의 연습용 스코어(초급)"
   },
   {
+    "characterId": 7,
+    "exp": 10000,
+    "flavorText": "아이리의 멤버가 EXP를 10000 획득한다.",
     "id": 10702,
-    "characterId": 7,
-    "name": "아이리의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "아이리의 멤버가 EXP를 10000 획득한다."
+    "name": "아이리의 연습용 스코어(중급)"
   },
   {
+    "characterId": 7,
+    "exp": 50000,
+    "flavorText": "아이리의 멤버가 EXP를 50000 획득한다.",
     "id": 10703,
-    "characterId": 7,
-    "name": "아이리의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "아이리의 멤버가 EXP를 50000 획득한다."
+    "name": "아이리의 연습용 스코어(상급)"
   },
   {
+    "characterId": 8,
+    "exp": 200,
+    "flavorText": "시즈쿠의 멤버가 EXP를 200 획득한다.",
     "id": 10801,
-    "characterId": 8,
-    "name": "시즈쿠의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "시즈쿠의 멤버가 EXP를 200 획득한다."
+    "name": "시즈쿠의 연습용 스코어(초급)"
   },
   {
+    "characterId": 8,
+    "exp": 10000,
+    "flavorText": "시즈쿠의 멤버가 EXP를 10000 획득한다.",
     "id": 10802,
-    "characterId": 8,
-    "name": "시즈쿠의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "시즈쿠의 멤버가 EXP를 10000 획득한다."
+    "name": "시즈쿠의 연습용 스코어(중급)"
   },
   {
+    "characterId": 8,
+    "exp": 50000,
+    "flavorText": "시즈쿠의 멤버가 EXP를 50000 획득한다.",
     "id": 10803,
-    "characterId": 8,
-    "name": "시즈쿠의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "시즈쿠의 멤버가 EXP를 50000 획득한다."
+    "name": "시즈쿠의 연습용 스코어(상급)"
   },
   {
+    "characterId": 9,
+    "exp": 200,
+    "flavorText": "코하네의 멤버가 EXP를 200 획득한다.",
     "id": 10901,
-    "characterId": 9,
-    "name": "코하네의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "코하네의 멤버가 EXP를 200 획득한다."
+    "name": "코하네의 연습용 스코어(초급)"
   },
   {
+    "characterId": 9,
+    "exp": 10000,
+    "flavorText": "코하네의 멤버가 EXP를 10000 획득한다.",
     "id": 10902,
-    "characterId": 9,
-    "name": "코하네의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "코하네의 멤버가 EXP를 10000 획득한다."
+    "name": "코하네의 연습용 스코어(중급)"
   },
   {
+    "characterId": 9,
+    "exp": 50000,
+    "flavorText": "코하네의 멤버가 EXP를 50000 획득한다.",
     "id": 10903,
-    "characterId": 9,
-    "name": "코하네의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "코하네의 멤버가 EXP를 50000 획득한다."
+    "name": "코하네의 연습용 스코어(상급)"
   },
   {
+    "characterId": 10,
+    "exp": 200,
+    "flavorText": "안의 멤버가 EXP를 200 획득한다.",
     "id": 11001,
-    "characterId": 10,
-    "name": "안의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "안의 멤버가 EXP를 200 획득한다."
+    "name": "안의 연습용 스코어(초급)"
   },
   {
+    "characterId": 10,
+    "exp": 10000,
+    "flavorText": "안의 멤버가 EXP를 10000 획득한다.",
     "id": 11002,
-    "characterId": 10,
-    "name": "안의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "안의 멤버가 EXP를 10000 획득한다."
+    "name": "안의 연습용 스코어(중급)"
   },
   {
+    "characterId": 10,
+    "exp": 50000,
+    "flavorText": "안의 멤버가 EXP를 50000 획득한다.",
     "id": 11003,
-    "characterId": 10,
-    "name": "안의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "안의 멤버가 EXP를 50000 획득한다."
+    "name": "안의 연습용 스코어(상급)"
   },
   {
+    "characterId": 11,
+    "exp": 200,
+    "flavorText": "아키토의 멤버가 EXP를 200 획득한다.",
     "id": 11101,
-    "characterId": 11,
-    "name": "아키토의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "아키토의 멤버가 EXP를 200 획득한다."
+    "name": "아키토의 연습용 스코어(초급)"
   },
   {
+    "characterId": 11,
+    "exp": 10000,
+    "flavorText": "아키토의 멤버가 EXP를 10000 획득한다.",
     "id": 11102,
-    "characterId": 11,
-    "name": "아키토의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "아키토의 멤버가 EXP를 10000 획득한다."
+    "name": "아키토의 연습용 스코어(중급)"
   },
   {
+    "characterId": 11,
+    "exp": 50000,
+    "flavorText": "아키토의 멤버가 EXP를 50000 획득한다.",
     "id": 11103,
-    "characterId": 11,
-    "name": "아키토의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "아키토의 멤버가 EXP를 50000 획득한다."
+    "name": "아키토의 연습용 스코어(상급)"
   },
   {
+    "characterId": 12,
+    "exp": 200,
+    "flavorText": "토우야의 멤버가 EXP를 200 획득한다.",
     "id": 11201,
-    "characterId": 12,
-    "name": "토우야의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "토우야의 멤버가 EXP를 200 획득한다."
+    "name": "토우야의 연습용 스코어(초급)"
   },
   {
+    "characterId": 12,
+    "exp": 10000,
+    "flavorText": "토우야의 멤버가 EXP를 10000 획득한다.",
     "id": 11202,
-    "characterId": 12,
-    "name": "토우야의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "토우야의 멤버가 EXP를 10000 획득한다."
+    "name": "토우야의 연습용 스코어(중급)"
   },
   {
+    "characterId": 12,
+    "exp": 50000,
+    "flavorText": "토우야의 멤버가 EXP를 50000 획득한다.",
     "id": 11203,
-    "characterId": 12,
-    "name": "토우야의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "토우야의 멤버가 EXP를 50000 획득한다."
+    "name": "토우야의 연습용 스코어(상급)"
   },
   {
+    "characterId": 13,
+    "exp": 200,
+    "flavorText": "츠카사의 멤버가 EXP를 200 획득한다.",
     "id": 11301,
-    "characterId": 13,
-    "name": "츠카사의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "츠카사의 멤버가 EXP를 200 획득한다."
+    "name": "츠카사의 연습용 스코어(초급)"
   },
   {
+    "characterId": 13,
+    "exp": 10000,
+    "flavorText": "츠카사의 멤버가 EXP를 10000 획득한다.",
     "id": 11302,
-    "characterId": 13,
-    "name": "츠카사의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "츠카사의 멤버가 EXP를 10000 획득한다."
+    "name": "츠카사의 연습용 스코어(중급)"
   },
   {
+    "characterId": 13,
+    "exp": 50000,
+    "flavorText": "츠카사의 멤버가 EXP를 50000 획득한다.",
     "id": 11303,
-    "characterId": 13,
-    "name": "츠카사의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "츠카사의 멤버가 EXP를 50000 획득한다."
+    "name": "츠카사의 연습용 스코어(상급)"
   },
   {
+    "characterId": 14,
+    "exp": 200,
+    "flavorText": "에무의 멤버가 EXP를 200 획득한다.",
     "id": 11401,
-    "characterId": 14,
-    "name": "에무의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "에무의 멤버가 EXP를 200 획득한다."
+    "name": "에무의 연습용 스코어(초급)"
   },
   {
+    "characterId": 14,
+    "exp": 10000,
+    "flavorText": "에무의 멤버가 EXP를 10000 획득한다.",
     "id": 11402,
-    "characterId": 14,
-    "name": "에무의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "에무의 멤버가 EXP를 10000 획득한다."
+    "name": "에무의 연습용 스코어(중급)"
   },
   {
+    "characterId": 14,
+    "exp": 50000,
+    "flavorText": "에무의 멤버가 EXP를 50000 획득한다.",
     "id": 11403,
-    "characterId": 14,
-    "name": "에무의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "에무의 멤버가 EXP를 50000 획득한다."
+    "name": "에무의 연습용 스코어(상급)"
   },
   {
+    "characterId": 15,
+    "exp": 200,
+    "flavorText": "네네의 멤버가 EXP를 200 획득한다.",
     "id": 11501,
-    "characterId": 15,
-    "name": "네네의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "네네의 멤버가 EXP를 200 획득한다."
+    "name": "네네의 연습용 스코어(초급)"
   },
   {
+    "characterId": 15,
+    "exp": 10000,
+    "flavorText": "네네의 멤버가 EXP를 10000 획득한다.",
     "id": 11502,
-    "characterId": 15,
-    "name": "네네의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "네네의 멤버가 EXP를 10000 획득한다."
+    "name": "네네의 연습용 스코어(중급)"
   },
   {
+    "characterId": 15,
+    "exp": 50000,
+    "flavorText": "네네의 멤버가 EXP를 50000 획득한다.",
     "id": 11503,
-    "characterId": 15,
-    "name": "네네의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "네네의 멤버가 EXP를 50000 획득한다."
+    "name": "네네의 연습용 스코어(상급)"
   },
   {
+    "characterId": 16,
+    "exp": 200,
+    "flavorText": "루이의 멤버가 EXP를 200 획득한다.",
     "id": 11601,
-    "characterId": 16,
-    "name": "루이의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "루이의 멤버가 EXP를 200 획득한다."
+    "name": "루이의 연습용 스코어(초급)"
   },
   {
+    "characterId": 16,
+    "exp": 10000,
+    "flavorText": "루이의 멤버가 EXP를 10000 획득한다.",
     "id": 11602,
-    "characterId": 16,
-    "name": "루이의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "루이의 멤버가 EXP를 10000 획득한다."
+    "name": "루이의 연습용 스코어(중급)"
   },
   {
+    "characterId": 16,
+    "exp": 50000,
+    "flavorText": "루이의 멤버가 EXP를 50000 획득한다.",
     "id": 11603,
-    "characterId": 16,
-    "name": "루이의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "루이의 멤버가 EXP를 50000 획득한다."
+    "name": "루이의 연습용 스코어(상급)"
   },
   {
+    "characterId": 17,
+    "exp": 200,
+    "flavorText": "카나데의 멤버가 EXP를 200 획득한다.",
     "id": 11701,
-    "characterId": 17,
-    "name": "카나데의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "카나데의 멤버가 EXP를 200 획득한다."
+    "name": "카나데의 연습용 스코어(초급)"
   },
   {
+    "characterId": 17,
+    "exp": 10000,
+    "flavorText": "카나데의 멤버가 EXP를 10000 획득한다.",
     "id": 11702,
-    "characterId": 17,
-    "name": "카나데의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "카나데의 멤버가 EXP를 10000 획득한다."
+    "name": "카나데의 연습용 스코어(중급)"
   },
   {
+    "characterId": 17,
+    "exp": 50000,
+    "flavorText": "카나데의 멤버가 EXP를 50000 획득한다.",
     "id": 11703,
-    "characterId": 17,
-    "name": "카나데의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "카나데의 멤버가 EXP를 50000 획득한다."
+    "name": "카나데의 연습용 스코어(상급)"
   },
   {
+    "characterId": 18,
+    "exp": 200,
+    "flavorText": "마후유의 멤버가 EXP를 200 획득한다.",
     "id": 11801,
-    "characterId": 18,
-    "name": "마후유의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "마후유의 멤버가 EXP를 200 획득한다."
+    "name": "마후유의 연습용 스코어(초급)"
   },
   {
+    "characterId": 18,
+    "exp": 10000,
+    "flavorText": "마후유의 멤버가 EXP를 10000 획득한다.",
     "id": 11802,
-    "characterId": 18,
-    "name": "마후유의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "마후유의 멤버가 EXP를 10000 획득한다."
+    "name": "마후유의 연습용 스코어(중급)"
   },
   {
+    "characterId": 18,
+    "exp": 50000,
+    "flavorText": "마후유의 멤버가 EXP를 50000 획득한다.",
     "id": 11803,
-    "characterId": 18,
-    "name": "마후유의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "마후유의 멤버가 EXP를 50000 획득한다."
+    "name": "마후유의 연습용 스코어(상급)"
   },
   {
+    "characterId": 19,
+    "exp": 200,
+    "flavorText": "에나의 멤버가 EXP를 200 획득한다.",
     "id": 11901,
-    "characterId": 19,
-    "name": "에나의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "에나의 멤버가 EXP를 200 획득한다."
+    "name": "에나의 연습용 스코어(초급)"
   },
   {
+    "characterId": 19,
+    "exp": 10000,
+    "flavorText": "에나의 멤버가 EXP를 10000 획득한다.",
     "id": 11902,
-    "characterId": 19,
-    "name": "에나의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "에나의 멤버가 EXP를 10000 획득한다."
+    "name": "에나의 연습용 스코어(중급)"
   },
   {
+    "characterId": 19,
+    "exp": 50000,
+    "flavorText": "에나의 멤버가 EXP를 50000 획득한다.",
     "id": 11903,
-    "characterId": 19,
-    "name": "에나의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "에나의 멤버가 EXP를 50000 획득한다."
+    "name": "에나의 연습용 스코어(상급)"
   },
   {
+    "characterId": 20,
+    "exp": 200,
+    "flavorText": "미즈키의 멤버가 EXP를 200 획득한다.",
     "id": 12001,
-    "characterId": 20,
-    "name": "미즈키의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "미즈키의 멤버가 EXP를 200 획득한다."
+    "name": "미즈키의 연습용 스코어(초급)"
   },
   {
+    "characterId": 20,
+    "exp": 10000,
+    "flavorText": "미즈키의 멤버가 EXP를 10000 획득한다.",
     "id": 12002,
-    "characterId": 20,
-    "name": "미즈키의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "미즈키의 멤버가 EXP를 10000 획득한다."
+    "name": "미즈키의 연습용 스코어(중급)"
   },
   {
+    "characterId": 20,
+    "exp": 50000,
+    "flavorText": "미즈키의 멤버가 EXP를 50000 획득한다.",
     "id": 12003,
-    "characterId": 20,
-    "name": "미즈키의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "미즈키의 멤버가 EXP를 50000 획득한다."
+    "name": "미즈키의 연습용 스코어(상급)"
   },
   {
+    "characterId": 21,
+    "exp": 200,
+    "flavorText": "미쿠의 멤버가 EXP를 200 획득한다.",
     "id": 12101,
-    "characterId": 21,
-    "name": "미쿠의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "미쿠의 멤버가 EXP를 200 획득한다."
+    "name": "미쿠의 연습용 스코어(초급)"
   },
   {
+    "characterId": 21,
+    "exp": 10000,
+    "flavorText": "미쿠의 멤버가 EXP를 10000 획득한다.",
     "id": 12102,
-    "characterId": 21,
-    "name": "미쿠의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "미쿠의 멤버가 EXP를 10000 획득한다."
+    "name": "미쿠의 연습용 스코어(중급)"
   },
   {
+    "characterId": 21,
+    "exp": 50000,
+    "flavorText": "미쿠의 멤버가 EXP를 50000 획득한다.",
     "id": 12103,
-    "characterId": 21,
-    "name": "미쿠의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "미쿠의 멤버가 EXP를 50000 획득한다."
+    "name": "미쿠의 연습용 스코어(상급)"
   },
   {
+    "characterId": 22,
+    "exp": 200,
+    "flavorText": "린의 멤버가 EXP를 200 획득한다.",
     "id": 12201,
-    "characterId": 22,
-    "name": "린의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "린의 멤버가 EXP를 200 획득한다."
+    "name": "린의 연습용 스코어(초급)"
   },
   {
+    "characterId": 22,
+    "exp": 10000,
+    "flavorText": "린의 멤버가 EXP를 10000 획득한다.",
     "id": 12202,
-    "characterId": 22,
-    "name": "린의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "린의 멤버가 EXP를 10000 획득한다."
+    "name": "린의 연습용 스코어(중급)"
   },
   {
+    "characterId": 22,
+    "exp": 50000,
+    "flavorText": "린의 멤버가 EXP를 50000 획득한다.",
     "id": 12203,
-    "characterId": 22,
-    "name": "린의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "린의 멤버가 EXP를 50000 획득한다."
+    "name": "린의 연습용 스코어(상급)"
   },
   {
+    "characterId": 23,
+    "exp": 200,
+    "flavorText": "렌의 멤버가 EXP를 200 획득한다.",
     "id": 12301,
-    "characterId": 23,
-    "name": "렌의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "렌의 멤버가 EXP를 200 획득한다."
+    "name": "렌의 연습용 스코어(초급)"
   },
   {
+    "characterId": 23,
+    "exp": 10000,
+    "flavorText": "렌의 멤버가 EXP를 10000 획득한다.",
     "id": 12302,
-    "characterId": 23,
-    "name": "렌의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "렌의 멤버가 EXP를 10000 획득한다."
+    "name": "렌의 연습용 스코어(중급)"
   },
   {
+    "characterId": 23,
+    "exp": 50000,
+    "flavorText": "렌의 멤버가 EXP를 50000 획득한다.",
     "id": 12303,
-    "characterId": 23,
-    "name": "렌의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "렌의 멤버가 EXP를 50000 획득한다."
+    "name": "렌의 연습용 스코어(상급)"
   },
   {
+    "characterId": 24,
+    "exp": 200,
+    "flavorText": "루카의 멤버가 EXP를 200 획득한다.",
     "id": 12401,
-    "characterId": 24,
-    "name": "루카의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "루카의 멤버가 EXP를 200 획득한다."
+    "name": "루카의 연습용 스코어(초급)"
   },
   {
+    "characterId": 24,
+    "exp": 10000,
+    "flavorText": "루카의 멤버가 EXP를 10000 획득한다.",
     "id": 12402,
-    "characterId": 24,
-    "name": "루카의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "루카의 멤버가 EXP를 10000 획득한다."
+    "name": "루카의 연습용 스코어(중급)"
   },
   {
+    "characterId": 24,
+    "exp": 50000,
+    "flavorText": "루카의 멤버가 EXP를 50000 획득한다.",
     "id": 12403,
-    "characterId": 24,
-    "name": "루카의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "루카의 멤버가 EXP를 50000 획득한다."
+    "name": "루카의 연습용 스코어(상급)"
   },
   {
+    "characterId": 25,
+    "exp": 200,
+    "flavorText": "MEIKO의 멤버가 EXP를 200 획득한다.",
     "id": 12501,
-    "characterId": 25,
-    "name": "MEIKO의 연습용 스코어(초급)",
-    "exp": 200,
-    "flavorText": "MEIKO의 멤버가 EXP를 200 획득한다."
+    "name": "MEIKO의 연습용 스코어(초급)"
   },
   {
+    "characterId": 25,
+    "exp": 10000,
+    "flavorText": "MEIKO의 멤버가 EXP를 10000 획득한다.",
     "id": 12502,
-    "characterId": 25,
-    "name": "MEIKO의 연습용 스코어(중급)",
-    "exp": 10000,
-    "flavorText": "MEIKO의 멤버가 EXP를 10000 획득한다."
+    "name": "MEIKO의 연습용 스코어(중급)"
   },
   {
+    "characterId": 25,
+    "exp": 50000,
+    "flavorText": "MEIKO의 멤버가 EXP를 50000 획득한다.",
     "id": 12503,
-    "characterId": 25,
-    "name": "MEIKO의 연습용 스코어(상급)",
-    "exp": 50000,
-    "flavorText": "MEIKO의 멤버가 EXP를 50000 획득한다."
+    "name": "MEIKO의 연습용 스코어(상급)"
   },
   {
-    "id": 12601,
     "characterId": 26,
-    "name": "KAITO의 연습용 스코어(초급)",
     "exp": 200,
-    "flavorText": "KAITO의 멤버가 EXP를 200 획득한다."
+    "flavorText": "KAITO의 멤버가 EXP를 200 획득한다.",
+    "id": 12601,
+    "name": "KAITO의 연습용 스코어(초급)"
   },
   {
-    "id": 12602,
     "characterId": 26,
-    "name": "KAITO의 연습용 스코어(중급)",
     "exp": 10000,
-    "flavorText": "KAITO의 멤버가 EXP를 10000 획득한다."
+    "flavorText": "KAITO의 멤버가 EXP를 10000 획득한다.",
+    "id": 12602,
+    "name": "KAITO의 연습용 스코어(중급)"
   },
   {
-    "id": 12603,
     "characterId": 26,
-    "name": "KAITO의 연습용 스코어(상급)",
     "exp": 50000,
-    "flavorText": "KAITO의 멤버가 EXP를 50000 획득한다."
+    "flavorText": "KAITO의 멤버가 EXP를 50000 획득한다.",
+    "id": 12603,
+    "name": "KAITO의 연습용 스코어(상급)"
   }
 ]

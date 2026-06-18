@@ -1,38 +1,38 @@
 [
   {
+    "characterArchiveVoiceTagType": "live_cutin",
     "id": 1,
-    "seq": 10,
-    "characterArchiveVoiceTagType": "live_cutin",
-    "name": "대화"
+    "name": "대화",
+    "seq": 10
   },
   {
-    "id": 2,
-    "seq": 30,
     "characterArchiveVoiceTagType": "live_result",
-    "name": "결과"
+    "id": 2,
+    "name": "결과",
+    "seq": 30
   },
   {
-    "id": 3,
-    "seq": 40,
     "characterArchiveVoiceTagType": "birthday",
-    "name": "축하"
+    "id": 3,
+    "name": "축하",
+    "seq": 40
   },
   {
-    "id": 4,
-    "seq": 50,
     "characterArchiveVoiceTagType": "season",
-    "name": "시즌 이벤트"
+    "id": 4,
+    "name": "시즌 이벤트",
+    "seq": 50
   },
   {
-    "id": 5,
-    "seq": 60,
     "characterArchiveVoiceTagType": "normal",
-    "name": "일반"
+    "id": 5,
+    "name": "일반",
+    "seq": 60
   },
   {
-    "id": 6,
-    "seq": 20,
     "characterArchiveVoiceTagType": "live_cutin",
-    "name": "인연 대화"
+    "id": 6,
+    "name": "인연 대화",
+    "seq": 20
   }
 ]

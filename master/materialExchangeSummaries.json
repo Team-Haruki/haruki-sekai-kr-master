@@ -1,13 +1,13 @@
 [
   {
-    "Id": 1,
+    "id": 1,
     "seq": 10,
-    "ExchangeCategory": "master_piece",
+    "exchangeCategory": "master_piece",
     "materialExchangeType": "normal",
-    "Name": "마음의 조각",
+    "name": "마음의 조각",
     "assetbundleName": "icon_heartPiece",
-    "StartAt": 1546268400000,
-    "MaterialExchanges": [
+    "startAt": 1546268400000,
+    "materialExchanges": [
       {
         "id": 2,
         "materialExchangeSummaryId": 1,
@@ -397,14 +397,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 2,
+    "id": 2,
     "seq": 30,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "★3 멤버",
+    "name": "★3 멤버",
     "assetbundleName": "icon_memberTicket_star3",
-    "StartAt": 1607320800000,
-    "MaterialExchanges": [
+    "startAt": 1607320800000,
+    "materialExchanges": [
       {
         "id": 17,
         "materialExchangeSummaryId": 2,
@@ -2683,14 +2683,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 3,
+    "id": 3,
     "seq": 20,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "★4 멤버",
+    "name": "★4 멤버",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1632927600000,
-    "MaterialExchanges": [
+    "startAt": 1632927600000,
+    "materialExchanges": [
       {
         "id": 30001,
         "materialExchangeSummaryId": 3,
@@ -7106,14 +7106,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 4,
+    "id": 4,
     "seq": 40,
-    "ExchangeCategory": "vocal_card_ticket",
+    "exchangeCategory": "vocal_card_ticket",
     "materialExchangeType": "normal",
-    "Name": "보컬 카드",
+    "name": "보컬 카드",
     "assetbundleName": "icon_vocalTicket",
-    "StartAt": 1612072800000,
-    "MaterialExchanges": [
+    "startAt": 1612072800000,
+    "materialExchanges": [
       {
         "id": 40001,
         "materialExchangeSummaryId": 4,
@@ -7772,14 +7772,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 5,
+    "id": 5,
     "seq": 30,
-    "ExchangeCategory": "gacha_seal",
+    "exchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "Name": "★2 멤버",
+    "name": "★2 멤버",
     "assetbundleName": "icon_gachaSealTicket",
-    "StartAt": 1675663200000,
-    "MaterialExchanges": [
+    "startAt": 1675663200000,
+    "materialExchanges": [
       {
         "id": 50001,
         "materialExchangeSummaryId": 5,
@@ -11457,14 +11457,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 6,
+    "id": 6,
     "seq": 20,
-    "ExchangeCategory": "gacha_seal",
+    "exchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "Name": "★3 멤버",
+    "name": "★3 멤버",
     "assetbundleName": "icon_gachaSealTicket",
-    "StartAt": 1675663200000,
-    "MaterialExchanges": [
+    "startAt": 1675663200000,
+    "materialExchanges": [
       {
         "id": 60001,
         "materialExchangeSummaryId": 6,
@@ -15046,14 +15046,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 7,
+    "id": 7,
     "seq": 10,
-    "ExchangeCategory": "gacha_seal",
+    "exchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "Name": "★4 멤버",
+    "name": "★4 멤버",
     "assetbundleName": "icon_gachaSealTicket",
-    "StartAt": 1675663200000,
-    "MaterialExchanges": [
+    "startAt": 1675663200000,
+    "materialExchanges": [
       {
         "id": 70001,
         "materialExchangeSummaryId": 7,
@@ -21168,14 +21168,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 8,
+    "id": 8,
     "seq": 100,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "beginner",
-    "Name": "[초보자 한정]\n ★4 멤버",
+    "name": "[초보자 한정]\n ★4 멤버",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1644818400000,
-    "MaterialExchanges": [
+    "startAt": 1644818400000,
+    "materialExchanges": [
       {
         "id": 80001,
         "materialExchangeSummaryId": 8,
@@ -26821,14 +26821,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 10,
+    "id": 10,
     "seq": 20,
-    "ExchangeCategory": "master_crystal",
+    "exchangeCategory": "master_crystal",
     "materialExchangeType": "normal",
-    "Name": "마음의 결정체",
+    "name": "마음의 결정체",
     "assetbundleName": "icon_heartCrystal",
-    "StartAt": 1546268400000,
-    "MaterialExchanges": [
+    "startAt": 1546268400000,
+    "materialExchanges": [
       {
         "id": 100001,
         "materialExchangeSummaryId": 10,
@@ -26852,15 +26852,15 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 11,
+    "id": 11,
     "seq": 200,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "[390만 명 기념]\n★4 멤버",
+    "name": "[390만 명 기념]\n★4 멤버",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1697425200000,
-    "EndAt": 1701356399000,
-    "MaterialExchanges": [
+    "startAt": 1697425200000,
+    "endAt": 1701356399000,
+    "materialExchanges": [
       {
         "id": 110001,
         "materialExchangeSummaryId": 11,
@@ -29829,16 +29829,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 12,
+    "id": 12,
     "seq": 200,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "★4 멤버",
+    "name": "★4 멤버",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1727622000000,
-    "EndAt": 1731423599000,
+    "startAt": 1727622000000,
+    "endAt": 1731423599000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 120001,
         "materialExchangeSummaryId": 12,
@@ -34175,16 +34175,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 13,
+    "id": 13,
     "seq": 10,
-    "ExchangeCategory": "common_ticket",
+    "exchangeCategory": "common_ticket",
     "materialExchangeType": "normal",
-    "Name": "3900's 교환소",
+    "name": "3900's 교환소",
     "assetbundleName": "icon_3900sTicket",
-    "StartAt": 1711767600000,
-    "EndAt": 1715698799000,
+    "startAt": 1711767600000,
+    "endAt": 1715698799000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 130001,
         "materialExchangeSummaryId": 13,
@@ -34512,14 +34512,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 14,
+    "id": 14,
     "seq": 10,
-    "ExchangeCategory": "consume_material",
+    "exchangeCategory": "consume_material",
     "materialExchangeType": "normal",
-    "Name": "마음의 작은 병 교환",
+    "name": "마음의 작은 병 교환",
     "assetbundleName": "icon_smallBottle",
-    "StartAt": 1756465200000,
-    "MaterialExchanges": [
+    "startAt": 1756465200000,
+    "materialExchanges": [
       {
         "id": 140001,
         "materialExchangeSummaryId": 14,
@@ -35070,14 +35070,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 15,
+    "id": 15,
     "seq": 40,
-    "ExchangeCategory": "common_ticket",
+    "exchangeCategory": "common_ticket",
     "materialExchangeType": "normal",
-    "Name": "한정\n뽑기 스티커",
+    "name": "한정\n뽑기 스티커",
     "assetbundleName": "icon_gachaSealTicket_Limited",
-    "StartAt": 1759028400000,
-    "MaterialExchanges": [
+    "startAt": 1759028400000,
+    "materialExchanges": [
       {
         "id": 150001,
         "materialExchangeSummaryId": 15,
@@ -35101,16 +35101,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 17,
+    "id": 17,
     "seq": 1,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 1,
-    "Name": "포춘 \n플라워",
+    "name": "포춘 \n플라워",
     "assetbundleName": "icon_fortuneFlower",
-    "StartAt": 1758985200000,
-    "EndAt": 1763132399000,
-    "MaterialExchanges": [
+    "startAt": 1758985200000,
+    "endAt": 1763132399000,
+    "materialExchanges": [
       {
         "id": 170001,
         "materialExchangeSummaryId": 17,
@@ -35685,16 +35685,16 @@
     ]
   },
   {
-    "Id": 18,
+    "id": 18,
     "seq": 1,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 2,
-    "Name": "꽃잎",
+    "name": "꽃잎",
     "assetbundleName": "icon_fortuneGrass",
-    "StartAt": 1758985200000,
-    "EndAt": 1763132399000,
-    "MaterialExchanges": [
+    "startAt": 1758985200000,
+    "endAt": 1763132399000,
+    "materialExchanges": [
       {
         "id": 180001,
         "materialExchangeSummaryId": 18,
@@ -36132,16 +36132,16 @@
     ]
   },
   {
-    "Id": 19,
+    "id": 19,
     "seq": 1,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 3,
-    "Name": "와일드\n포춘 \n플라워",
+    "name": "와일드\n포춘 \n플라워",
     "assetbundleName": "icon_miracleFortuneFlower",
-    "StartAt": 1758985200000,
-    "EndAt": 1763132399000,
-    "MaterialExchanges": [
+    "startAt": 1758985200000,
+    "endAt": 1763132399000,
+    "materialExchanges": [
       {
         "id": 190001,
         "materialExchangeSummaryId": 19,
@@ -36281,16 +36281,16 @@
     ]
   },
   {
-    "Id": 20,
+    "id": 20,
     "seq": 1,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "기념\n★4 멤버\n티켓",
+    "name": "기념\n★4 멤버\n티켓",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1759028400000,
-    "EndAt": 1764514799000,
+    "startAt": 1759028400000,
+    "endAt": 1764514799000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 200001,
         "materialExchangeSummaryId": 20,
@@ -41929,14 +41929,14 @@
     ]
   },
   {
-    "Id": 21,
+    "id": 21,
     "seq": 3,
-    "ExchangeCategory": "mysekai_material_game_character",
+    "exchangeCategory": "mysekai_material_game_character",
     "materialExchangeType": "normal",
-    "Name": "메모리아",
+    "name": "메모리아",
     "assetbundleName": "icon_memoria",
-    "StartAt": 1760223600000,
-    "MaterialExchanges": [
+    "startAt": 1760223600000,
+    "materialExchanges": [
       {
         "id": 210001,
         "materialExchangeSummaryId": 21,
@@ -43923,16 +43923,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 23,
+    "id": 23,
     "seq": 1,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 4,
-    "Name": "월드 \n피스",
+    "name": "월드 \n피스",
     "assetbundleName": "icon_worldpeace",
-    "StartAt": 1774580400000,
-    "EndAt": 1776826799000,
-    "MaterialExchanges": [
+    "startAt": 1774580400000,
+    "endAt": 1776826799000,
+    "materialExchanges": [
       {
         "id": 230001,
         "materialExchangeSummaryId": 23,
@@ -44260,16 +44260,16 @@
     ]
   },
   {
-    "Id": 24,
+    "id": 24,
     "seq": 2,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 5,
-    "Name": "[700만 명 돌파 기념] \n선물 티켓",
+    "name": "[700만 명 돌파 기념] \n선물 티켓",
     "assetbundleName": "icon_giftTicket",
-    "StartAt": 1774580400000,
-    "EndAt": 1776826799000,
-    "MaterialExchanges": [
+    "startAt": 1774580400000,
+    "endAt": 1776826799000,
+    "materialExchanges": [
       {
         "id": 240001,
         "materialExchangeSummaryId": 24,
@@ -45150,16 +45150,16 @@
     ]
   },
   {
-    "Id": 25,
+    "id": 25,
     "seq": 10,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 6,
-    "Name": "다마고치 피스\n교환소",
+    "name": "다마고치 피스\n교환소",
     "assetbundleName": "icon_gochipiece",
-    "StartAt": 1779418800000,
-    "EndAt": 1781362799000,
-    "MaterialExchanges": [
+    "startAt": 1779418800000,
+    "endAt": 1781362799000,
+    "materialExchanges": [
       {
         "id": 250001,
         "materialExchangeSummaryId": 25,
@@ -45424,15 +45424,15 @@
     ]
   },
   {
-    "Id": 2000,
+    "id": 2000,
     "seq": 2000,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "[1주년 기념]\n★4 멤버",
+    "name": "[1주년 기념]\n★4 멤버",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1684551600000,
-    "EndAt": 1688180399000,
-    "MaterialExchanges": [
+    "startAt": 1684551600000,
+    "endAt": 1688180399000,
+    "materialExchanges": [
       {
         "id": 2000001,
         "materialExchangeSummaryId": 2000,
@@ -47584,15 +47584,15 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 2001,
+    "id": 2001,
     "seq": 2001,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "[2주년 기념]\n★4 멤버",
+    "name": "[2주년 기념]\n★4 멤버",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1716174000000,
-    "EndAt": 1719802799000,
-    "MaterialExchanges": [
+    "startAt": 1716174000000,
+    "endAt": 1719802799000,
+    "materialExchanges": [
       {
         "id": 2001001,
         "materialExchangeSummaryId": 2001,
@@ -51416,15 +51416,15 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 4001,
+    "id": 4001,
     "seq": 2,
-    "ExchangeCategory": "common_ticket",
+    "exchangeCategory": "common_ticket",
     "materialExchangeType": "normal",
-    "Name": "극장판 B",
+    "name": "극장판 B",
     "assetbundleName": "icon_movie_ticket",
-    "StartAt": 1748444400000,
-    "EndAt": 1767193199000,
-    "MaterialExchanges": [
+    "startAt": 1748444400000,
+    "endAt": 1767193199000,
+    "materialExchanges": [
       {
         "id": 4001028,
         "materialExchangeSummaryId": 4001,
@@ -51543,15 +51543,15 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 4002,
+    "id": 4002,
     "seq": 1,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "극장판 A",
+    "name": "극장판 A",
     "assetbundleName": "icon_movie_ticket",
-    "StartAt": 1748444400000,
-    "EndAt": 1767193199000,
-    "MaterialExchanges": [
+    "startAt": 1748444400000,
+    "endAt": 1767193199000,
+    "materialExchanges": [
       {
         "id": 4001001,
         "materialExchangeSummaryId": 4002,
