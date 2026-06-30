@@ -546,7 +546,7 @@
     "seq": 3000026
   },
   {
-    "assetbundleName": "shop_1608",
+    "assetbundleName": "shop_1564",
     "billingShopItemIds": [
       1648,
       1649,
@@ -555,7 +555,7 @@
       1652
     ],
     "id": 1027,
-    "name": "Room Wear 의상",
+    "name": "'Room Wear' 의상",
     "seq": 3000027
   },
   {
@@ -585,7 +585,7 @@
     "seq": 3000029
   },
   {
-    "assetbundleName": "shop_1609",
+    "assetbundleName": "shop_1565",
     "billingShopItemIds": [
       1663,
       1664,

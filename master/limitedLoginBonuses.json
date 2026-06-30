@@ -5440,6 +5440,56 @@
     "startAt": 1779246000000
   },
   {
+    "assetbundleName": "summer_2026",
+    "endAt": 1784746799000,
+    "id": 1120,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1293,
+        "resourceBoxId": 1162,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 2,
+        "id": 1294,
+        "resourceBoxId": 1163,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 3,
+        "id": 1295,
+        "resourceBoxId": 1164,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 4,
+        "id": 1296,
+        "resourceBoxId": 1165,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 5,
+        "id": 1297,
+        "resourceBoxId": 1166,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 6,
+        "id": 1298,
+        "resourceBoxId": 1167,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 7,
+        "id": 1299,
+        "resourceBoxId": 1168,
+        "limitedLoginBonusId": 1120
+      }
+    ],
+    "startAt": 1783134000000
+  },
+  {
     "assetbundleName": "birthday2026_01",
     "endAt": 1786633199000,
     "id": 26001,

@@ -3950,6 +3950,18 @@
     "pronunciation": "제4차 '세카이' 마음 랭킹 칭호"
   },
   {
+    "honorType": "event",
+    "id": 20023,
+    "name": "베스트 크리에이터 ['세카이'의 여름] '26",
+    "pronunciation": "베스트 크리에이터 ['세카이'의 여름] '26"
+  },
+  {
+    "honorType": "event",
+    "id": 20024,
+    "name": "옅게 번진 여름",
+    "pronunciation": "옅게 번진 여름"
+  },
+  {
     "honorType": "achievement",
     "id": 100016,
     "name": "EXP 초과",

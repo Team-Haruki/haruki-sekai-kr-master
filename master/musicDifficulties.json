@@ -1925,6 +1925,41 @@
     "totalNoteCount": 1155
   },
   {
+    "id": 426,
+    "musicId": 86,
+    "musicDifficulty": "easy",
+    "playLevel": 7,
+    "totalNoteCount": 169
+  },
+  {
+    "id": 427,
+    "musicId": 86,
+    "musicDifficulty": "normal",
+    "playLevel": 11,
+    "totalNoteCount": 425
+  },
+  {
+    "id": 428,
+    "musicId": 86,
+    "musicDifficulty": "hard",
+    "playLevel": 16,
+    "totalNoteCount": 565
+  },
+  {
+    "id": 429,
+    "musicId": 86,
+    "musicDifficulty": "expert",
+    "playLevel": 23,
+    "totalNoteCount": 857
+  },
+  {
+    "id": 430,
+    "musicId": 86,
+    "musicDifficulty": "master",
+    "playLevel": 27,
+    "totalNoteCount": 1004
+  },
+  {
     "id": 431,
     "musicId": 87,
     "musicDifficulty": "easy",

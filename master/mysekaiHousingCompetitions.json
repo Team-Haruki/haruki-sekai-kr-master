@@ -42,5 +42,16 @@
     "reviewStartAt": 1777042800000,
     "submitEndAt": 1777993199000,
     "submitStartAt": 1777042800000
+  },
+  {
+    "aggregateAt": 1784473200000,
+    "backNumberAccentColorCode": "#f2a536",
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "description": "2026 여름 '마이세카이' 백경 기념",
+    "id": 102,
+    "name": "['세카이'의 여름] '26",
+    "reviewStartAt": 1783609200000,
+    "submitEndAt": 1784473199000,
+    "submitStartAt": 1783609200000
   }
 ]

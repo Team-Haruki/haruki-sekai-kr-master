@@ -22,5 +22,11 @@
     "endAt": 1796007599000,
     "id": 4,
     "startAt": 1790694000000
+  },
+  {
+    "assetbundleName": "btn_home_change_hezou",
+    "endAt": 1785509999000,
+    "id": 100,
+    "startAt": 1783134000000
   }
 ]

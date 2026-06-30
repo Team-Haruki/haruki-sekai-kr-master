@@ -1666,5 +1666,13 @@
     "materialType": "common",
     "name": " '모르가나 조각상 설계도' 교환권",
     "seq": 4002
+  },
+  {
+    "canUse": false,
+    "flavorText": "파티 배지",
+    "id": 4003,
+    "materialType": "common",
+    "name": "파티 배지",
+    "seq": 4003
   }
 ]
