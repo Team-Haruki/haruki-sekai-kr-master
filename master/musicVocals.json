@@ -30142,6 +30142,27 @@
     "archivePublishedAt": 1765864800000
   },
   {
+    "id": 1129,
+    "musicId": 572,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 1997,
+        "musicId": 572,
+        "musicVocalId": 1129,
+        "characterType": "outside_character",
+        "characterId": 9,
+        "seq": 5720
+      }
+    ],
+    "assetbundleName": "vs_0572_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1787922300000
+  },
+  {
     "id": 1130,
     "musicId": 573,
     "musicVocalType": "original_song",
@@ -30425,6 +30446,27 @@
     "assetbundleName": "vs_0581_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1768370400000
+  },
+  {
+    "id": 1140,
+    "musicId": 583,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 2008,
+        "musicId": 583,
+        "musicVocalId": 1140,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 5830
+      }
+    ],
+    "assetbundleName": "vs_0583_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1786021500000
   },
   {
     "id": 1142,
@@ -41308,6 +41350,59 @@
     "archivePublishedAt": 1783231200000
   },
   {
+    "id": 1664,
+    "musicId": 583,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "세카이 ver.",
+    "characters": [
+      {
+        "id": 3207,
+        "musicId": 583,
+        "musicVocalId": 1664,
+        "characterType": "game_character",
+        "characterId": 10,
+        "seq": 5831
+      },
+      {
+        "id": 3208,
+        "musicId": 583,
+        "musicVocalId": 1664,
+        "characterType": "game_character",
+        "characterId": 24,
+        "seq": 5832
+      },
+      {
+        "id": 3209,
+        "musicId": 583,
+        "musicVocalId": 1664,
+        "characterType": "game_character",
+        "characterId": 9,
+        "seq": 5833
+      },
+      {
+        "id": 3210,
+        "musicId": 583,
+        "musicVocalId": 1664,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 5834
+      },
+      {
+        "id": 3211,
+        "musicId": 583,
+        "musicVocalId": 1664,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 5835
+      }
+    ],
+    "assetbundleName": "se_0583_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1786021500000
+  },
+  {
     "id": 1668,
     "musicId": 632,
     "musicVocalType": "sekai",
@@ -41401,6 +41496,59 @@
     "assetbundleName": "an_0606_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1783144800000
+  },
+  {
+    "id": 1671,
+    "musicId": 572,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "세카이 ver.",
+    "characters": [
+      {
+        "id": 3223,
+        "musicId": 572,
+        "musicVocalId": 1671,
+        "characterType": "game_character",
+        "characterId": 20,
+        "seq": 5721
+      },
+      {
+        "id": 3224,
+        "musicId": 572,
+        "musicVocalId": 1671,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 5722
+      },
+      {
+        "id": 3225,
+        "musicId": 572,
+        "musicVocalId": 1671,
+        "characterType": "game_character",
+        "characterId": 17,
+        "seq": 5723
+      },
+      {
+        "id": 3226,
+        "musicId": 572,
+        "musicVocalId": 1671,
+        "characterType": "game_character",
+        "characterId": 18,
+        "seq": 5724
+      },
+      {
+        "id": 3227,
+        "musicId": 572,
+        "musicVocalId": 1671,
+        "characterType": "game_character",
+        "characterId": 19,
+        "seq": 5725
+      }
+    ],
+    "assetbundleName": "se_0572_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1787922300000
   },
   {
     "id": 1677,
