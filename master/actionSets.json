@@ -13735,22 +13735,6 @@
     "releaseConditionId": 101408
   },
   {
-    "id": 934,
-    "areaId": 9,
-    "actionSetType": "normal",
-    "isNextGrade": false,
-    "scenarioId": "areatalk_ev_wonder_03_006",
-    "scriptId": "as_ev_wonder_03_006",
-    "characterIds": [
-      114,
-      332,
-      128
-    ],
-    "archiveDisplayType": "normal",
-    "archivePublishedAt": 1233284400000,
-    "releaseConditionId": 101508
-  },
-  {
     "id": 935,
     "areaId": 7,
     "actionSetType": "normal",
