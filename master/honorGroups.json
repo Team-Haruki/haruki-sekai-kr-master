@@ -3962,6 +3962,12 @@
     "pronunciation": "옅게 번진 여름"
   },
   {
+    "honorType": "event",
+    "id": 20025,
+    "name": "SUMMER HEADLINER",
+    "pronunciation": "SUMMER HEADLINER"
+  },
+  {
     "honorType": "achievement",
     "id": 100016,
     "name": "EXP 초과",

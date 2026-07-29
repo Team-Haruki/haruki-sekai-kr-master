@@ -1420,5 +1420,248 @@
     "rewardReceiveEndAt": 1777561199000,
     "startAt": 1774580400000,
     "title": "700만 명 돌파 기념세카이에 어서 와 대작전!!"
+  },
+  {
+    "assetbundleName": "friend_invitation_4th_anniv",
+    "closedAt": 1789138799000,
+    "groupId": 2,
+    "id": 1004,
+    "missions": [
+      {
+        "id": 1040,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "초대자 임무",
+        "requirement": 1,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 1,
+            "id": 27,
+            "resourceBoxId": 5
+          },
+          {
+            "count": 2,
+            "countGroupId": 1,
+            "id": 28,
+            "resourceBoxId": 6
+          },
+          {
+            "count": 1,
+            "countGroupId": 1,
+            "id": 29,
+            "resourceBoxId": 7
+          },
+          {
+            "count": 2,
+            "countGroupId": 1,
+            "id": 30,
+            "resourceBoxId": 8
+          }
+        ]
+      },
+      {
+        "id": 1041,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "초대자 임무",
+        "requirement": 2,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 2,
+            "id": 16,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1042,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "초대자 임무",
+        "requirement": 3,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 3,
+            "id": 17,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1043,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "초대자 임무",
+        "requirement": 4,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 4,
+            "id": 18,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1044,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "초대자 임무",
+        "requirement": 5,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 5,
+            "id": 19,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1045,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "초대자 임무",
+        "requirement": 6,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 6,
+            "id": 20,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1046,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "초대자 임무",
+        "requirement": 7,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 7,
+            "id": 21,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1047,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "초대자 임무",
+        "requirement": 8,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 8,
+            "id": 22,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1048,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "초대자 임무",
+        "requirement": 9,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 9,
+            "id": 23,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1049,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "초대자 임무",
+        "requirement": 10,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 10,
+            "id": 24,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1050,
+        "missionCategoryId": 2,
+        "missionType": "guest",
+        "name": "메인 스토리를 건너뛰지 않고 읽자",
+        "requirement": 5,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 11,
+            "id": 25,
+            "resourceBoxId": 3
+          }
+        ]
+      },
+      {
+        "id": 1051,
+        "missionCategoryId": 2,
+        "missionType": "guest",
+        "name": "메인 스토리를 건너뛰지 않고 읽자",
+        "requirement": 10,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 12,
+            "id": 26,
+            "resourceBoxId": 4
+          }
+        ]
+      },
+      {
+        "id": 1052,
+        "missionCategoryId": 2,
+        "missionType": "guest",
+        "name": "메인 스토리를 건너뛰지 않고 읽자",
+        "requirement": 20,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 1,
+            "id": 27,
+            "resourceBoxId": 5
+          },
+          {
+            "count": 2,
+            "countGroupId": 1,
+            "id": 28,
+            "resourceBoxId": 6
+          },
+          {
+            "count": 1,
+            "countGroupId": 1,
+            "id": 29,
+            "resourceBoxId": 7
+          },
+          {
+            "count": 2,
+            "countGroupId": 1,
+            "id": 30,
+            "resourceBoxId": 8
+          }
+        ]
+      }
+    ],
+    "progressEndAt": 1788015599000,
+    "rewardReceiveEndAt": 1788620399000,
+    "startAt": 1786590000000,
+    "title": "세카이에 어서 와 대작전!!"
   }
 ]
