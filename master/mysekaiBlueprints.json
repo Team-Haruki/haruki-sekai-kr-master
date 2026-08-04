@@ -6830,5 +6830,53 @@
     "isEnableSketch": false,
     "isObtainedByConvert": false,
     "mysekaiCraftType": "mysekai_tool"
+  },
+  {
+    "craftTargetId": 90011,
+    "id": 10000001,
+    "isAvailableWithoutPossession": false,
+    "isEnableSketch": false,
+    "isObtainedByConvert": false,
+    "mysekaiCraftType": "mysekai_fixture"
+  },
+  {
+    "craftTargetId": 90012,
+    "id": 10000002,
+    "isAvailableWithoutPossession": false,
+    "isEnableSketch": false,
+    "isObtainedByConvert": false,
+    "mysekaiCraftType": "mysekai_fixture"
+  },
+  {
+    "craftTargetId": 90013,
+    "id": 10000003,
+    "isAvailableWithoutPossession": false,
+    "isEnableSketch": false,
+    "isObtainedByConvert": false,
+    "mysekaiCraftType": "mysekai_fixture"
+  },
+  {
+    "craftTargetId": 90014,
+    "id": 10000004,
+    "isAvailableWithoutPossession": false,
+    "isEnableSketch": false,
+    "isObtainedByConvert": false,
+    "mysekaiCraftType": "mysekai_fixture"
+  },
+  {
+    "craftTargetId": 90015,
+    "id": 10000005,
+    "isAvailableWithoutPossession": false,
+    "isEnableSketch": false,
+    "isObtainedByConvert": false,
+    "mysekaiCraftType": "mysekai_fixture"
+  },
+  {
+    "craftTargetId": 90016,
+    "id": 10000006,
+    "isAvailableWithoutPossession": false,
+    "isEnableSketch": false,
+    "isObtainedByConvert": false,
+    "mysekaiCraftType": "mysekai_fixture"
   }
 ]

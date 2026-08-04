@@ -5936,6 +5936,42 @@
     "pronunciation": "げきじょうばんぷろせかぶるーれいとくてん"
   },
   {
+    "id": 10947,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 커피 메이커",
+    "pronunciation": "ばーすでーけーきほなみ"
+  },
+  {
+    "id": 10948,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 케이크(호나미)",
+    "pronunciation": "ばーすでーばるーんほなみ"
+  },
+  {
+    "id": 10949,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 풍선(호나미)",
+    "pronunciation": "ばーすでーぶーけほなみ"
+  },
+  {
+    "id": 10950,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 부케(호나미)",
+    "pronunciation": "ばーすでーがーらんどほなみ"
+  },
+  {
+    "id": 10951,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 가랜드(호나미)",
+    "pronunciation": "ばーすでーちぇあほなみ"
+  },
+  {
+    "id": 10952,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 의자(호나미)",
+    "pronunciation": "もちづきほなみばーすでーにじゅうご"
+  },
+  {
     "id": 11462,
     "mysekaiFixtureTagType": "none",
     "name": "Mirai 조각상",
@@ -6000,5 +6036,41 @@
     "mysekaiFixtureTagType": "none",
     "name": "천마연（파랑）",
     "pronunciation": "천마연（파랑）"
+  },
+  {
+    "id": 90011,
+    "mysekaiFixtureTagType": "none",
+    "name": "인어의 조개 침대",
+    "pronunciation": "인어의 조개 침대"
+  },
+  {
+    "id": 90012,
+    "mysekaiFixtureTagType": "none",
+    "name": "파도 소리 책상",
+    "pronunciation": "파도 소리 책상"
+  },
+  {
+    "id": 90013,
+    "mysekaiFixtureTagType": "none",
+    "name": "해변 세면대",
+    "pronunciation": "해변 세면대"
+  },
+  {
+    "id": 90014,
+    "mysekaiFixtureTagType": "none",
+    "name": "버스 정류장",
+    "pronunciation": "버스 정류장"
+  },
+  {
+    "id": 90015,
+    "mysekaiFixtureTagType": "none",
+    "name": "버스 정류장 표지판",
+    "pronunciation": "버스 정류장 표지판"
+  },
+  {
+    "id": 90016,
+    "mysekaiFixtureTagType": "none",
+    "name": "버스 정류장 쓰레기통",
+    "pronunciation": "버스 정류장 쓰레기통"
   }
 ]
