@@ -188,5 +188,45 @@
     "name": "커넥트 라이브\n2nd ANNIVERSARY\nSPECIAL STAGE",
     "releasedYear": 2022,
     "seq": 2
+  },
+  {
+    "assetbundleName": "resale_collab_es_collection",
+    "customProfileGachaShopGameCharacters": [
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 11,
+        "id": 159
+      },
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 12,
+        "id": 160
+      },
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 13,
+        "id": 161
+      },
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 16,
+        "id": 162
+      },
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 23,
+        "id": 163
+      },
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 26,
+        "id": 164
+      }
+    ],
+    "customProfileGachaTabParentId": 17,
+    "id": 11,
+    "name": "[재등장] 'Ensemble in SEKAI'\n컬렉션 BOX",
+    "releasedYear": 2025,
+    "seq": 11
   }
 ]

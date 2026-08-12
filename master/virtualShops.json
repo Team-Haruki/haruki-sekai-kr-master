@@ -5877,54 +5877,54 @@
   },
   {
     "id": 308,
-    "name": "「Eコラボ」チケットショップ_物販",
+    "name": "[재등장] 'Ensemble in SEKAI' ",
     "virtualShopDisplayType": "out_of_scope",
     "virtualShopItems": [
       {
         "costJewel": 1000,
         "costVirtualCoin": 3000,
-        "endAt": 1753941599000,
+        "endAt": 1788015599000,
         "id": 497,
         "limitValue": 1,
         "resourceBoxId": 392,
         "seq": 99873,
-        "startAt": 1752040800000,
+        "startAt": 1786590000000,
         "virtualShopId": 308,
         "virtualShopItemType": "costume"
       },
       {
         "costJewel": 1000,
         "costVirtualCoin": 3000,
-        "endAt": 1753941599000,
+        "endAt": 1788015599000,
         "id": 498,
         "limitValue": 1,
         "resourceBoxId": 393,
         "seq": 99874,
-        "startAt": 1752040800000,
+        "startAt": 1786590000000,
         "virtualShopId": 308,
         "virtualShopItemType": "costume"
       },
       {
         "costJewel": 1000,
         "costVirtualCoin": 3000,
-        "endAt": 1753941599000,
+        "endAt": 1788015599000,
         "id": 499,
         "limitValue": 1,
         "resourceBoxId": 394,
         "seq": 99875,
-        "startAt": 1752040800000,
+        "startAt": 1786590000000,
         "virtualShopId": 308,
         "virtualShopItemType": "accessory"
       },
       {
         "costJewel": 1000,
         "costVirtualCoin": 3000,
-        "endAt": 1753941599000,
+        "endAt": 1788015599000,
         "id": 500,
         "limitValue": 1,
         "resourceBoxId": 395,
         "seq": 99872,
-        "startAt": 1752040800000,
+        "startAt": 1786590000000,
         "virtualShopId": 308,
         "virtualShopItemType": "costume"
       }
