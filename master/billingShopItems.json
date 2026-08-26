@@ -8278,6 +8278,7 @@
     "assetbundleName": "shop_1622",
     "resourceBoxId": 1576,
     "startAt": 1777604400000,
+    "endAt": 1780282800000,
     "purchaseOption": "exchange",
     "billingShopTabChildId": 301
   },
@@ -12483,7 +12484,7 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_1622",
+    "assetbundleName": "shop_301100",
     "resourceBoxId": 586,
     "startAt": 1787886000000,
     "endAt": 1788404399000,
