@@ -3240,6 +3240,20 @@
     "startAt": 1781935200000
   },
   {
+    "assetbundleName": "magicalmirai_2026",
+    "endAt": 1788101999000,
+    "id": 220,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 398,
+        "resourceBoxId": 246,
+        "limitedLoginBonusId": 220
+      }
+    ],
+    "startAt": 1787886000000
+  },
+  {
     "assetbundleName": "cbt",
     "endAt": 1649357999000,
     "id": 1016,

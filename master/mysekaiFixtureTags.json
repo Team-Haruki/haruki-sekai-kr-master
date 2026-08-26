@@ -5936,6 +5936,132 @@
     "pronunciation": "げきじょうばんぷろせかぶるーれいとくてん"
   },
   {
+    "id": 10911,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 사키 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーさきのぬいぐるみえす"
+  },
+  {
+    "id": 10912,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 사키 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーさきのぬいぐるみえむ"
+  },
+  {
+    "id": 10913,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 사키 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーさきのぬいぐるみえる"
+  },
+  {
+    "id": 10914,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 하루카 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーはるかのぬいぐるみえす"
+  },
+  {
+    "id": 10915,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 하루카 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーはるかのぬいぐるみえむ"
+  },
+  {
+    "id": 10916,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 하루카 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーはるかのぬいぐるみえる"
+  },
+  {
+    "id": 10917,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 안 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあんのぬいぐるみえす"
+  },
+  {
+    "id": 10918,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 안 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあんのぬいぐるみえむ"
+  },
+  {
+    "id": 10919,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 안 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあんのぬいぐるみえる"
+  },
+  {
+    "id": 10920,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 츠카사 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーつかさのぬいぐるみえす"
+  },
+  {
+    "id": 10921,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 츠카사 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーつかさのぬいぐるみえむ"
+  },
+  {
+    "id": 10922,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 츠카사 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーつかさのぬいぐるみえる"
+  },
+  {
+    "id": 10923,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 마후유 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーまふゆのぬいぐるみえす"
+  },
+  {
+    "id": 10924,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 마후유 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーまふゆのぬいぐるみえむ"
+  },
+  {
+    "id": 10925,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 마후유 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーまふゆのぬいぐるみえる"
+  },
+  {
+    "id": 10926,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 미쿠 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみくのぬいぐるみえす"
+  },
+  {
+    "id": 10927,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 미쿠 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみくのぬいぐるみえむ"
+  },
+  {
+    "id": 10928,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 미쿠 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみくのぬいぐるみえる"
+  },
+  {
+    "id": 10929,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 린 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーりんのぬいぐるみえす"
+  },
+  {
+    "id": 10930,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 린 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーりんのぬいぐるみえむ"
+  },
+  {
+    "id": 10931,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 린 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーりんのぬいぐるみえる"
+  },
+  {
     "id": 10947,
     "mysekaiFixtureTagType": "none",
     "name": "빈티지 스타일 커피 메이커",

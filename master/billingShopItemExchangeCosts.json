@@ -780,6 +780,18 @@
     "resourceType": "paid_jewel"
   },
   {
+    "billingShopItemId": 301090,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 301100,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
     "billingShopItemId": 1260,
     "quantity": 1,
     "resourceId": 1001,

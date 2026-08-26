@@ -909,6 +909,48 @@
     "startAt": 1780153200000
   },
   {
+    "assetbundleName": "5th-anniversary-login-story",
+    "endAt": 1791730799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_5th_anniversary",
+        "episodeNo": 1,
+        "id": 63,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "story_5th_anniversary",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 58,
+        "title": "5주년 로그인 스토리"
+      }
+    ],
+    "id": 58,
+    "startAt": 1790694000000
+  },
+  {
+    "assetbundleName": "5th-anniversary-special_login-message",
+    "endAt": 1793458799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_5th_anniversary_special_message",
+        "episodeNo": 1,
+        "id": 64,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "story_5th_anniversary_special_message",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 59,
+        "title": "5주년 스페셜 메시지 도입 로그인 스토리"
+      }
+    ],
+    "id": 59,
+    "startAt": 1791730800000
+  },
+  {
     "assetbundleName": "collaboration-sanrio-story",
     "endAt": 1771599599000,
     "episodes": [

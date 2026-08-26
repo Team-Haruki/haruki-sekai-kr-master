@@ -213,5 +213,45 @@
     "groupId": 1004,
     "id": 1034,
     "resourceBoxId": 1034
+  },
+  {
+    "groupId": 1005,
+    "id": 1035,
+    "resourceBoxId": 1035
+  },
+  {
+    "groupId": 1005,
+    "id": 1036,
+    "resourceBoxId": 1036
+  },
+  {
+    "groupId": 1005,
+    "id": 1037,
+    "resourceBoxId": 1037
+  },
+  {
+    "groupId": 1005,
+    "id": 1038,
+    "resourceBoxId": 1038
+  },
+  {
+    "groupId": 1005,
+    "id": 1039,
+    "resourceBoxId": 1039
+  },
+  {
+    "groupId": 1005,
+    "id": 1040,
+    "resourceBoxId": 1040
+  },
+  {
+    "groupId": 1005,
+    "id": 1041,
+    "resourceBoxId": 1041
+  },
+  {
+    "groupId": 1005,
+    "id": 1042,
+    "resourceBoxId": 1042
   }
 ]

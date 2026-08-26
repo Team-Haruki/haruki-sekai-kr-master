@@ -640,5 +640,47 @@
     "id": 109,
     "name": "'Dreamscape' 라이브 모자",
     "seq": 1090
+  },
+  {
+    "assetbundleName": "accessory_0113",
+    "id": 113,
+    "name": "솔레이유 플뢰르",
+    "seq": 1130
+  },
+  {
+    "assetbundleName": "accessory_1002",
+    "id": 1002,
+    "name": "하츠네 미쿠 기념일 축하 모자",
+    "seq": 10020
+  },
+  {
+    "assetbundleName": "accessory_1003",
+    "id": 1003,
+    "name": "카가미네 린 기념일 축하 모자",
+    "seq": 10030
+  },
+  {
+    "assetbundleName": "accessory_1004",
+    "id": 1004,
+    "name": "카가미네 렌 기념일 축하 모자",
+    "seq": 10040
+  },
+  {
+    "assetbundleName": "accessory_1005",
+    "id": 1005,
+    "name": "메구리네 루카 기념일 축하 모자",
+    "seq": 10050
+  },
+  {
+    "assetbundleName": "accessory_1006",
+    "id": 1006,
+    "name": "MEIKO 기념일 축하 모자",
+    "seq": 10060
+  },
+  {
+    "assetbundleName": "accessory_1007",
+    "id": 1007,
+    "name": "KAITO 기념일 축하 모자",
+    "seq": 10070
   }
 ]

@@ -586,5 +586,54 @@
     "id": 84,
     "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 84,
     "name": "[리미티드 스타일 vol.2] MEIKO 인형 설계도"
+  },
+  {
+    "gameCharacterId": 2,
+    "groupId": 11,
+    "id": 85,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 85,
+    "name": "[리미티드 스타일 vol.2] 사키 인형 설계도"
+  },
+  {
+    "gameCharacterId": 6,
+    "groupId": 11,
+    "id": 86,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 86,
+    "name": "[리미티드 스타일 vol.2] 하루카 인형 설계도"
+  },
+  {
+    "gameCharacterId": 10,
+    "groupId": 11,
+    "id": 87,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 87,
+    "name": "[리미티드 스타일 vol.2] 안 인형 설계도"
+  },
+  {
+    "gameCharacterId": 13,
+    "groupId": 11,
+    "id": 88,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 88,
+    "name": "[리미티드 스타일 vol.2] 츠카사 인형 설계도"
+  },
+  {
+    "gameCharacterId": 18,
+    "groupId": 11,
+    "id": 89,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 89,
+    "name": "[리미티드 스타일 vol.2] 마후유 인형 설계도"
+  },
+  {
+    "gameCharacterId": 21,
+    "groupId": 11,
+    "id": 90,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 90,
+    "name": "[리미티드 스타일 vol.2] 미쿠 인형 설계도"
+  },
+  {
+    "gameCharacterId": 27,
+    "groupId": 11,
+    "id": 91,
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 91,
+    "name": "[리미티드 스타일 vol.2] 린 인형 설계도"
   }
 ]
