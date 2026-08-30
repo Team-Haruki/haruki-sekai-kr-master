@@ -709312,7 +709312,8 @@
     "seq": 838017,
     "costume3dGroupId": 838003,
     "partType": "head",
-    "colorId": 1
+    "colorId": 1,
+    "assetbundleName": "cos0838_unique_head"
   },
   {
     "id": 838018,
@@ -709328,7 +709329,8 @@
     "partType": "head",
     "colorId": 2,
     "colorName": "어나더1",
-    "howToObtain": "'[절망에 잠기다] 텐마 츠카사' 마스터 랭크 1 달성"
+    "howToObtain": "'[절망에 잠기다] 텐마 츠카사' 마스터 랭크 1 달성",
+    "assetbundleName": "cos0838_unique_head_01"
   },
   {
     "id": 838020,
@@ -709346,7 +709348,8 @@
     "partType": "head",
     "colorId": 3,
     "colorName": "어나더2",
-    "howToObtain": "'[절망에 잠기다] 텐마 츠카사' 마스터 랭크 3 달성"
+    "howToObtain": "'[절망에 잠기다] 텐마 츠카사' 마스터 랭크 3 달성",
+    "assetbundleName": "cos0838_unique_head_02"
   },
   {
     "id": 838022,
@@ -709364,7 +709367,8 @@
     "partType": "head",
     "colorId": 4,
     "colorName": "어나더3",
-    "howToObtain": "'[절망에 잠기다] 텐마 츠카사' 마스터 랭크 5 달성"
+    "howToObtain": "'[절망에 잠기다] 텐마 츠카사' 마스터 랭크 5 달성",
+    "assetbundleName": "cos0838_unique_head_03"
   },
   {
     "id": 838024,

@@ -5544,6 +5544,56 @@
     "startAt": 1787022000000
   },
   {
+    "assetbundleName": "semester_2026",
+    "endAt": 1789325999000,
+    "id": 1122,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1303,
+        "resourceBoxId": 1172,
+        "limitedLoginBonusId": 1122
+      },
+      {
+        "day": 2,
+        "id": 1304,
+        "resourceBoxId": 1173,
+        "limitedLoginBonusId": 1122
+      },
+      {
+        "day": 3,
+        "id": 1305,
+        "resourceBoxId": 1174,
+        "limitedLoginBonusId": 1122
+      },
+      {
+        "day": 4,
+        "id": 1306,
+        "resourceBoxId": 1175,
+        "limitedLoginBonusId": 1122
+      },
+      {
+        "day": 5,
+        "id": 1307,
+        "resourceBoxId": 1176,
+        "limitedLoginBonusId": 1122
+      },
+      {
+        "day": 6,
+        "id": 1308,
+        "resourceBoxId": 1177,
+        "limitedLoginBonusId": 1122
+      },
+      {
+        "day": 7,
+        "id": 1309,
+        "resourceBoxId": 1178,
+        "limitedLoginBonusId": 1122
+      }
+    ],
+    "startAt": 1788490800000
+  },
+  {
     "assetbundleName": "birthday2026_01",
     "endAt": 1786633199000,
     "id": 26001,

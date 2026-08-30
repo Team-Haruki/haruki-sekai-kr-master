@@ -201,6 +201,7 @@
     "isBaseArea": false,
     "name": "교실 세카이",
     "releaseConditionId": 113605,
+    "releaseConditionId2": 113900,
     "startAt": 1753786800000,
     "subName": "역",
     "viewType": "side_view"
@@ -215,6 +216,7 @@
     "isBaseArea": false,
     "name": "스테이지 세카이",
     "releaseConditionId": 112905,
+    "releaseConditionId2": 113900,
     "startAt": 1747825200000,
     "subName": "꽃밭",
     "viewType": "side_view"
@@ -229,6 +231,7 @@
     "isBaseArea": false,
     "name": "스트리트 세카이",
     "releaseConditionId": 111705,
+    "releaseConditionId2": 113900,
     "startAt": 1737457200000,
     "subName": "광장",
     "viewType": "side_view"
@@ -243,6 +246,7 @@
     "isBaseArea": false,
     "name": "원더랜드 세카이",
     "releaseConditionId": 112305,
+    "releaseConditionId2": 113900,
     "startAt": 1742468400000,
     "subName": "항구",
     "viewType": "side_view"
@@ -257,6 +261,7 @@
     "isBaseArea": false,
     "name": "아무도 없는 세카이",
     "releaseConditionId": 111105,
+    "releaseConditionId2": 113900,
     "startAt": 1732100400000,
     "subName": "호수",
     "viewType": "side_view"
