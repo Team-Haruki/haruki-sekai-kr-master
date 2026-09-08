@@ -2873,6 +2873,12 @@
     "pronunciation": "はっぴー　えんじょい　みゅーじっく！"
   },
   {
+    "honorType": "event",
+    "id": 460,
+    "name": "프로젝트 세카이 Championship 2025 Autumn",
+    "pronunciation": "ぷろじぇくとせかいちゃんぴおんしっぷ2024おーたむ"
+  },
+  {
     "backgroundAssetbundleName": "honor_bg_event_foliage",
     "honorType": "event",
     "id": 461,
@@ -3446,7 +3452,7 @@
   {
     "honorType": "event",
     "id": 567,
-    "name": "5th ANNIVERSARY",
+    "name": "Memories of Melody",
     "pronunciation": "ふぃふすあにばーさりー"
   },
   {
@@ -3966,6 +3972,25 @@
     "id": 20025,
     "name": "SUMMER HEADLINER",
     "pronunciation": "SUMMER HEADLINER"
+  },
+  {
+    "backgroundAssetbundleName": "honor_bg_season_ranking5",
+    "honorType": "event",
+    "id": 20026,
+    "name": "제5차 '세카이' 마음 랭킹 칭호",
+    "pronunciation": "제5차 '세카이' 마음 랭킹 칭호"
+  },
+  {
+    "honorType": "event",
+    "id": 20027,
+    "name": "피어난 마음",
+    "pronunciation": "피어난 마음"
+  },
+  {
+    "honorType": "event",
+    "id": 20028,
+    "name": "베스트 크리에이터 나만의 추석 2026",
+    "pronunciation": "베스트 크리에이터 나만의 추석 2026"
   },
   {
     "honorType": "achievement",

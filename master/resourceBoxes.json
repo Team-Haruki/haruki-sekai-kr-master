@@ -185305,6 +185305,13 @@
   },
   {
     "assetbundleName": null,
+    "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
+    "name": null,
+    "id": 103,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
     "resourceBoxPurpose": "mysekai_normal_mission_reward",
     "name": "크리스탈×10개",
     "id": 1,

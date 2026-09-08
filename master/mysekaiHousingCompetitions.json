@@ -53,5 +53,16 @@
     "reviewStartAt": 1783609200000,
     "submitEndAt": 1784473199000,
     "submitStartAt": 1783609200000
+  },
+  {
+    "aggregateAt": 1790521200000,
+    "backNumberAccentColorCode": "#4062a4",
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "description": "2026 테마 [나만의 추석 2026]",
+    "id": 103,
+    "name": "테마 [나만의 추석 2026]",
+    "reviewStartAt": 1789657200000,
+    "submitEndAt": 1790521199000,
+    "submitStartAt": 1789657200000
   }
 ]
