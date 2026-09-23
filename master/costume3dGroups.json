@@ -57815,6 +57815,72 @@
     "archivePublishedAt": 1796007600000
   },
   {
+    "groupId": 20000001,
+    "name": "ノーブル·シルエット",
+    "characterId": 11,
+    "rarity": "normal",
+    "howToObtain": "[2025/12/1～2025/12/31]プレミアムライブミッションより獲得する。",
+    "designer": "えすかるご",
+    "publishedAt": 1796050800000,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1796050800000
+  },
+  {
+    "groupId": 20000003,
+    "name": "ノーブル·シルエット",
+    "characterId": 11,
+    "rarity": "normal",
+    "howToObtain": "[2025/12/1～2025/12/31]プレミアムライブミッションより獲得する。",
+    "designer": "えすかるご",
+    "publishedAt": 1796050800000,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1796050800000
+  },
+  {
+    "groupId": 20000002,
+    "name": "ノーブル·シルエット",
+    "characterId": 11,
+    "rarity": "normal",
+    "howToObtain": "[2025/12/1～2025/12/31]プレミアムライブミッションより獲得する。",
+    "designer": "えすかるご",
+    "publishedAt": 1796050800000,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1796050800000
+  },
+  {
+    "groupId": 20000005,
+    "name": "ノーブル·シルエット",
+    "characterId": 11,
+    "rarity": "normal",
+    "howToObtain": "[2025/12/1～2025/12/31]プレミアムライブミッションより獲得する。",
+    "designer": "えすかるご",
+    "publishedAt": 1796050800000,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1796050800000
+  },
+  {
+    "groupId": 20000004,
+    "name": "ノーブル·シルエット",
+    "characterId": 11,
+    "rarity": "normal",
+    "howToObtain": "[2025/12/1～2025/12/31]プレミアムライブミッションより獲得する。",
+    "designer": "えすかるご",
+    "publishedAt": 1796050800000,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1796050800000
+  },
+  {
+    "groupId": 20000006,
+    "name": "ノーブル·シルエット",
+    "characterId": 11,
+    "rarity": "normal",
+    "howToObtain": "[2025/12/1～2025/12/31]プレミアムライブミッションより獲得する。",
+    "designer": "えすかるご",
+    "publishedAt": 1796050800000,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1796050800000
+  },
+  {
     "groupId": 339005,
     "name": "Nussknacker",
     "characterId": 23,

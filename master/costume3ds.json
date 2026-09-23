@@ -917693,7 +917693,7 @@
   {
     "id": 20000001,
     "seq": 10000001,
-    "costume3dGroupId": 10000001,
+    "costume3dGroupId": 20000001,
     "partType": "head",
     "colorId": 1,
     "assetbundleName": "0900"
@@ -917701,7 +917701,7 @@
   {
     "id": 20000002,
     "seq": 10000002,
-    "costume3dGroupId": 10000001,
+    "costume3dGroupId": 20000002,
     "partType": "body",
     "colorId": 1,
     "assetbundleName": "0900"
@@ -917709,7 +917709,7 @@
   {
     "id": 20000003,
     "seq": 10000003,
-    "costume3dGroupId": 10000001,
+    "costume3dGroupId": 20000003,
     "partType": "head",
     "colorId": 2,
     "assetbundleName": "0900"
@@ -917717,7 +917717,7 @@
   {
     "id": 20000004,
     "seq": 10000004,
-    "costume3dGroupId": 10000001,
+    "costume3dGroupId": 20000004,
     "partType": "body",
     "colorId": 2,
     "assetbundleName": "0900"
@@ -917725,7 +917725,7 @@
   {
     "id": 20000005,
     "seq": 10000005,
-    "costume3dGroupId": 10000001,
+    "costume3dGroupId": 20000005,
     "partType": "head",
     "colorId": 3,
     "assetbundleName": "0900"
@@ -917733,7 +917733,7 @@
   {
     "id": 20000006,
     "seq": 10000006,
-    "costume3dGroupId": 10000001,
+    "costume3dGroupId": 20000006,
     "partType": "body",
     "colorId": 3,
     "assetbundleName": "0900"
