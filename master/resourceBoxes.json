@@ -215959,13 +215959,6 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "称号",
-    "id": 1912,
-    "resourceBoxType": "expand"
-  },
-  {
-    "assetbundleName": null,
-    "resourceBoxPurpose": "mission_reward",
     "name": "5.5周年スタンプミッション",
     "id": 1913,
     "resourceBoxType": "expand"

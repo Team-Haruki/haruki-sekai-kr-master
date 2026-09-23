@@ -3864,12 +3864,6 @@
     "pronunciation": "べすとくりえいたー ふらわーふぇすてぃばる"
   },
   {
-    "honorType": "achievement",
-    "id": 624,
-    "name": "애미시스트",
-    "pronunciation": "あめじすと"
-  },
-  {
     "backgroundAssetbundleName": "honor_bg_event_show",
     "honorType": "event",
     "id": 625,

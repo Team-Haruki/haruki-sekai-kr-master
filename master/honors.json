@@ -130951,21 +130951,6 @@
     ]
   },
   {
-    "id": 7658,
-    "seq": 1088,
-    "groupId": 624,
-    "honorRarity": "highest",
-    "name": "애미시스트",
-    "assetbundleName": "honor_7658",
-    "levels": [
-      {
-        "level": 1,
-        "bonus": 10,
-        "description": "랭크 900 달성하기"
-      }
-    ]
-  },
-  {
     "id": 7659,
     "seq": 162501,
     "groupId": 625,
