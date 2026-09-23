@@ -2385,6 +2385,314 @@
     "seq": 20103
   },
   {
+    "assetbundleName": "vl_archive_thumbnail_20127",
+    "id": 20127,
+    "name": "一歌 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201271,
+        "startAt": 1793458800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201272,
+        "startAt": 1793458800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20127,
+    "seq": 20127
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20128",
+    "id": 20128,
+    "name": "瑞希 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201281,
+        "startAt": 1793458800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201282,
+        "startAt": 1793458800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20128,
+    "seq": 20128
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20129",
+    "id": 20129,
+    "name": "ミク 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201291,
+        "startAt": 1793458800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201292,
+        "startAt": 1793458800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20129,
+    "seq": 20129
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20130",
+    "id": 20130,
+    "name": "えむ 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201301,
+        "startAt": 1796050800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201302,
+        "startAt": 1796050800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20130,
+    "seq": 20130
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20131",
+    "id": 20131,
+    "name": "遥 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201311,
+        "startAt": 1798729200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201312,
+        "startAt": 1798729200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20131,
+    "seq": 20131
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20132",
+    "id": 20132,
+    "name": "穂波 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201321,
+        "startAt": 1798729200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201322,
+        "startAt": 1798729200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20132,
+    "seq": 20132
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20133",
+    "id": 20133,
+    "name": "MEIKO 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201331,
+        "startAt": 1801407600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201332,
+        "startAt": 1801407600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20133,
+    "seq": 20133
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20134",
+    "id": 20134,
+    "name": "彰人 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201341,
+        "startAt": 1801407600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201342,
+        "startAt": 1801407600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20134,
+    "seq": 20134
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20135",
+    "id": 20135,
+    "name": "雫 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201351,
+        "startAt": 1803826800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201352,
+        "startAt": 1803826800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20135,
+    "seq": 20135
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20136",
+    "id": 20136,
+    "name": "リン 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201361,
+        "startAt": 1803826800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201362,
+        "startAt": 1803826800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20136,
+    "seq": 20136
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20137",
+    "id": 20137,
+    "name": "レン 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201371,
+        "startAt": 1803826800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201372,
+        "startAt": 1803826800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20137,
+    "seq": 20137
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20138",
+    "id": 20138,
+    "name": "志歩 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201381,
+        "startAt": 1806505200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201382,
+        "startAt": 1806505200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20138,
+    "seq": 20138
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20139",
+    "id": 20139,
+    "name": "まふゆ 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201391,
+        "startAt": 1806505200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201392,
+        "startAt": 1806505200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20139,
+    "seq": 20139
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20140",
+    "id": 20140,
+    "name": "ルカ 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201401,
+        "startAt": 1806505200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201402,
+        "startAt": 1806505200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20140,
+    "seq": 20140
+  },
+  {
     "assetbundleName": "vl_archive_thumbnail_30008",
     "id": 30008,
     "name": "핼러윈 ",
@@ -3287,6 +3595,50 @@
     "seq": 30048
   },
   {
+    "assetbundleName": "vl_archive_thumbnail_30056",
+    "id": 30056,
+    "name": "ハッピーニューイヤー 2026前編",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300561,
+        "startAt": 1803826800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300562,
+        "startAt": 1803826800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30056,
+    "seq": 30056
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30057",
+    "id": 30057,
+    "name": "ハッピーニューイヤー 2026後編",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300571,
+        "startAt": 1803826800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300572,
+        "startAt": 1803826800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30057,
+    "seq": 30057
+  },
+  {
     "assetbundleName": "vl_archive_thumbnail_40001",
     "id": 40001,
     "name": "웰컴 라이브 버추얼 싱어",
@@ -3442,14 +3794,15 @@
   },
   {
     "id": 50000,
-    "name": "5th Anniversary Special Message（一歌）",
+    "name": "Memories of Melody Special Message（一歌）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500001,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3458,14 +3811,15 @@
   },
   {
     "id": 50001,
-    "name": "5th Anniversary Special Message（咲希）",
+    "name": "Memories of Melody Special Message（咲希）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500011,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3474,14 +3828,15 @@
   },
   {
     "id": 50002,
-    "name": "5th Anniversary Special Message（穂波）",
+    "name": "Memories of Melody Special Message（穂波）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500021,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3490,14 +3845,15 @@
   },
   {
     "id": 50003,
-    "name": "5th Anniversary Special Message（志歩）",
+    "name": "Memories of Melody Special Message（志歩）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500031,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3506,14 +3862,15 @@
   },
   {
     "id": 50004,
-    "name": "5th Anniversary Special Message（みのり）",
+    "name": "Memories of Melody Special Message（みのり）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500041,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3522,14 +3879,15 @@
   },
   {
     "id": 50005,
-    "name": "5th Anniversary Special Message（遥）",
+    "name": "Memories of Melody Special Message（遥）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500051,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3538,14 +3896,15 @@
   },
   {
     "id": 50006,
-    "name": "5th Anniversary Special Message（愛莉）",
+    "name": "Memories of Melody Special Message（愛莉）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500061,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3554,14 +3913,15 @@
   },
   {
     "id": 50007,
-    "name": "5th Anniversary Special Message（雫）",
+    "name": "Memories of Melody Special Message（雫）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500071,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3570,14 +3930,15 @@
   },
   {
     "id": 50008,
-    "name": "5th Anniversary Special Message（こはね）",
+    "name": "Memories of Melody Special Message（こはね）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500081,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3586,14 +3947,15 @@
   },
   {
     "id": 50009,
-    "name": "5th Anniversary Special Message（杏）",
+    "name": "Memories of Melody Special Message（杏）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500091,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3602,14 +3964,15 @@
   },
   {
     "id": 50010,
-    "name": "5th Anniversary Special Message（彰人）",
+    "name": "Memories of Melody Special Message（彰人）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500101,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3618,14 +3981,15 @@
   },
   {
     "id": 50011,
-    "name": "5th Anniversary Special Message（冬弥）",
+    "name": "Memories of Melody Special Message（冬弥）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500111,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3634,14 +3998,15 @@
   },
   {
     "id": 50012,
-    "name": "5th Anniversary Special Message（司）",
+    "name": "Memories of Melody Special Message（司）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500121,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3650,14 +4015,15 @@
   },
   {
     "id": 50013,
-    "name": "5th Anniversary Special Message（えむ）",
+    "name": "Memories of Melody Special Message（えむ）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500131,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3666,14 +4032,15 @@
   },
   {
     "id": 50014,
-    "name": "5th Anniversary Special Message（寧々）",
+    "name": "Memories of Melody Special Message（寧々）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500141,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3682,14 +4049,15 @@
   },
   {
     "id": 50015,
-    "name": "5th Anniversary Special Message（類）",
+    "name": "Memories of Melody Special Message（類）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500151,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3698,14 +4066,15 @@
   },
   {
     "id": 50016,
-    "name": "5th Anniversary Special Message（奏）",
+    "name": "Memories of Melody Special Message（奏）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500161,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3714,14 +4083,15 @@
   },
   {
     "id": 50017,
-    "name": "5th Anniversary Special Message（まふゆ）",
+    "name": "Memories of Melody Special Message（まふゆ）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500171,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3730,14 +4100,15 @@
   },
   {
     "id": 50018,
-    "name": "5th Anniversary Special Message（絵名）",
+    "name": "Memories of Melody Special Message（絵名）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500181,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3746,14 +4117,15 @@
   },
   {
     "id": 50019,
-    "name": "5th Anniversary Special Message（瑞希）",
+    "name": "Memories of Melody Special Message（瑞希）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500191,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3762,14 +4134,15 @@
   },
   {
     "id": 50020,
-    "name": "5th Anniversary Special Message（ミク）",
+    "name": "Memories of Melody Special Message（ミク）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500201,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3778,14 +4151,15 @@
   },
   {
     "id": 50021,
-    "name": "5th Anniversary Special Message（リン）",
+    "name": "Memories of Melody Special Message（リン）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500211,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3794,14 +4168,15 @@
   },
   {
     "id": 50022,
-    "name": "5th Anniversary Special Message（レン）",
+    "name": "Memories of Melody Special Message（レン）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500221,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3810,14 +4185,15 @@
   },
   {
     "id": 50023,
-    "name": "5th Anniversary Special Message（ルカ）",
+    "name": "Memories of Melody Special Message（ルカ）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500231,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3826,14 +4202,15 @@
   },
   {
     "id": 50024,
-    "name": "5th Anniversary Special Message（MEIKO）",
+    "name": "Memories of Melody Special Message（MEIKO）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500241,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",
@@ -3842,14 +4219,15 @@
   },
   {
     "id": 50025,
-    "name": "5th Anniversary Special Message（KAITO）",
+    "name": "Memories of Melody Special Message（KAITO）",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
         "costResourceType": "virtual_live_ticket",
-        "endAt": 1761922799000,
+        "endAt": 1793458799000,
         "id": 500251,
-        "startAt": 1760194800000
+        "resourceId": 25,
+        "startAt": 1791730800000
       }
     ],
     "paidVirtualLiveShopItemPurchaseType": "single",

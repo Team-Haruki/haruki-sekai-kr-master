@@ -1445,11 +1445,115 @@
   },
   {
     "canUse": false,
+    "flavorText": "시호의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "id": 177,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(옐로그린)",
+    "seq": 30004
+  },
+  {
+    "canUse": false,
+    "flavorText": "미노리의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "id": 178,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(애프리콧)",
+    "seq": 30005
+  },
+  {
+    "canUse": false,
     "flavorText": "하루카의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
     "id": 179,
     "materialType": "birthday_party_delivery",
     "name": "축제의 이슬(스트릭트블루)",
     "seq": 30006
+  },
+  {
+    "canUse": false,
+    "flavorText": "아이리의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "id": 180,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(러블리핑크)",
+    "seq": 30007
+  },
+  {
+    "canUse": false,
+    "flavorText": "시즈쿠의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "id": 181,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(오팔그린)",
+    "seq": 30008
+  },
+  {
+    "canUse": false,
+    "flavorText": "코하네의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "id": 182,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(세리스)",
+    "seq": 30009
+  },
+  {
+    "canUse": false,
+    "flavorText": "아키토의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "id": 184,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(졸리코랄)",
+    "seq": 30011
+  },
+  {
+    "canUse": false,
+    "flavorText": "카나데의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "id": 190,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(파리다)",
+    "seq": 30017
+  },
+  {
+    "canUse": false,
+    "flavorText": "마후유의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "id": 191,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(위스테리아)",
+    "seq": 30018
+  },
+  {
+    "canUse": false,
+    "flavorText": "린의 기념일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 기념일 이벤트에서만 이용 가능",
+    "id": 195,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(오렌지)",
+    "seq": 30022
+  },
+  {
+    "canUse": false,
+    "flavorText": "렌의 기념일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 기념일 이벤트에서만 이용 가능",
+    "id": 196,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(옐로)",
+    "seq": 30023
+  },
+  {
+    "canUse": false,
+    "flavorText": "루카의 기념일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 기념일 이벤트에서만 이용 가능",
+    "id": 197,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(핑크)",
+    "seq": 30024
+  },
+  {
+    "canUse": false,
+    "flavorText": "MEIKO의 기념일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 기념일 이벤트에서만 이용 가능",
+    "id": 198,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(레드)",
+    "seq": 30025
+  },
+  {
+    "canUse": false,
+    "flavorText": "KAITO의 기념일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 기념일 이벤트에서만 이용 가능",
+    "id": 199,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(블루)",
+    "seq": 30026
   },
   {
     "canUse": false,
@@ -1549,6 +1653,14 @@
   },
   {
     "canUse": false,
+    "flavorText": "'커넥트 라이브 MORE MORE JUMP! × 원더랜즈×쇼타임 원! 모어! HAPPY TIME'의 공연에서 선보인 악곡의 커넥트 라이브 ver. 보컬로 교환할 수 있다.",
+    "id": 213,
+    "materialType": "auto_exchange_music_vocal_ticket",
+    "name": "'커넥트 라이브 원! 모어! HAPPY TIME' 커넥트 라이브 ver. 보컬 교환 카드",
+    "seq": 20003
+  },
+  {
+    "canUse": false,
     "flavorText": "메모리얼 ★4 멤버 티켓 교환소에서 원하는 ★4 멤버로 교환할 수 있다.",
     "id": 214,
     "materialType": "card_ticket",
@@ -1562,6 +1674,526 @@
     "materialType": "common",
     "name": "메모리얼 선물 티켓",
     "seq": 10625
+  },
+  {
+    "canUse": false,
+    "flavorText": "'행운'의 힘이 약간 깃든 종잇조각. '행운 부적'의 힘을 강화할 수 있다.\n사용 기한: 2027/01/31 11:59",
+    "id": 216,
+    "materialType": "common",
+    "name": "행운 종잇조각",
+    "seq": 10624
+  },
+  {
+    "canUse": false,
+    "flavorText": "'재물 운'의 힘이 약간 깃든 종잇조각. '재물 운 부적'의 힘을 강화할 수 있다.\n사용 기한: 2027/01/31 11:59",
+    "id": 217,
+    "materialType": "common",
+    "name": "재물 운 종잇조각",
+    "seq": 10625
+  },
+  {
+    "canUse": false,
+    "flavorText": "신의 선물 신사에서 대응하는 뽑기 티켓으로 교환할 수 있다.\n교환 기한: 2027/01/11 12:00 ~ 2027/01/31 11:59",
+    "id": 218,
+    "materialType": "common",
+    "name": "행운 부적",
+    "seq": 10626
+  },
+  {
+    "canUse": false,
+    "flavorText": "신의 선물 신사에서 대응하는 뽑기 티켓으로 교환할 수 있다.\n교환 기한: 2027/01/11 12:00 ~ 2027/01/31 11:59",
+    "id": 219,
+    "materialType": "common",
+    "name": "행운 부적(대)",
+    "seq": 10627
+  },
+  {
+    "canUse": false,
+    "flavorText": "신의 선물 신사에서 대응하는 뽑기 티켓으로 교환할 수 있다.\n교환 기한: 2027/01/11 12:00 ~ 2027/01/31 11:59",
+    "id": 220,
+    "materialType": "common",
+    "name": "행운 부적(특)",
+    "seq": 10628
+  },
+  {
+    "canUse": false,
+    "flavorText": "신의 선물 신사에서 대응하는 뽑기 티켓으로 교환할 수 있다.\n교환 기한: 2027/01/11 12:00 ~ 2027/01/31 11:59",
+    "id": 221,
+    "materialType": "common",
+    "name": "행운 부적(극)",
+    "seq": 10629
+  },
+  {
+    "canUse": false,
+    "flavorText": "신의 선물 신사에서 대응하는 뽑기 티켓으로 교환할 수 있다.\n교환 기한: 2027/01/11 12:00 ~ 2027/01/31 11:59",
+    "id": 222,
+    "materialType": "common",
+    "name": "재물 운 부적",
+    "seq": 10630
+  },
+  {
+    "canUse": false,
+    "flavorText": "신의 선물 신사에서 대응하는 뽑기 티켓으로 교환할 수 있다.\n교환 기한: 2027/01/11 12:00 ~ 2027/01/31 11:59",
+    "id": 223,
+    "materialType": "common",
+    "name": "재물 운 부적(대)",
+    "seq": 10631
+  },
+  {
+    "canUse": false,
+    "flavorText": "신의 선물 신사에서 대응하는 뽑기 티켓으로 교환할 수 있다.\n교환 기한: 2027/01/11 12:00 ~ 2027/01/31 11:59",
+    "id": 224,
+    "materialType": "common",
+    "name": "재물 운 부적(특)",
+    "seq": 10632
+  },
+  {
+    "canUse": false,
+    "flavorText": "신의 선물 신사에서 대응하는 뽑기 티켓으로 교환할 수 있다.\n교환 기한: 2027/01/11 12:00 ~ 2027/01/31 11:59",
+    "id": 225,
+    "materialType": "common",
+    "name": "재물 운 부적(극)",
+    "seq": 10633
+  },
+  {
+    "canUse": false,
+    "flavorText": "풍선 교환소에서 각 캐릭터의 풍선으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 226,
+    "materialType": "common",
+    "name": "FAVE 풍선",
+    "seq": 10634
+  },
+  {
+    "canUse": false,
+    "flavorText": "이치카의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 227,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(이치카)",
+    "seq": 10635
+  },
+  {
+    "canUse": false,
+    "flavorText": "이치카의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 228,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(이치카)",
+    "seq": 10636
+  },
+  {
+    "canUse": false,
+    "flavorText": "사키의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 229,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(사키)",
+    "seq": 10637
+  },
+  {
+    "canUse": false,
+    "flavorText": "사키의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 230,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(사키)",
+    "seq": 10638
+  },
+  {
+    "canUse": false,
+    "flavorText": "호나미의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 231,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(호나미)",
+    "seq": 10639
+  },
+  {
+    "canUse": false,
+    "flavorText": "호나미의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 232,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(호나미)",
+    "seq": 10640
+  },
+  {
+    "canUse": false,
+    "flavorText": "시호의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 233,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(시호)",
+    "seq": 10641
+  },
+  {
+    "canUse": false,
+    "flavorText": "시호의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 234,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(시호)",
+    "seq": 10642
+  },
+  {
+    "canUse": false,
+    "flavorText": "미노리의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 235,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(미노리)",
+    "seq": 10643
+  },
+  {
+    "canUse": false,
+    "flavorText": "미노리의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 236,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(미노리)",
+    "seq": 10644
+  },
+  {
+    "canUse": false,
+    "flavorText": "하루카의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 237,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(하루카)",
+    "seq": 10645
+  },
+  {
+    "canUse": false,
+    "flavorText": "하루카의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 238,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(하루카)",
+    "seq": 10646
+  },
+  {
+    "canUse": false,
+    "flavorText": "아이리의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 239,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(아이리)",
+    "seq": 10647
+  },
+  {
+    "canUse": false,
+    "flavorText": "아이리의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 240,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(아이리)",
+    "seq": 10648
+  },
+  {
+    "canUse": false,
+    "flavorText": "시즈쿠의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 241,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(시즈쿠)",
+    "seq": 10649
+  },
+  {
+    "canUse": false,
+    "flavorText": "시즈쿠의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 242,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(시즈쿠)",
+    "seq": 10650
+  },
+  {
+    "canUse": false,
+    "flavorText": "코하네의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 243,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(코하네)",
+    "seq": 10651
+  },
+  {
+    "canUse": false,
+    "flavorText": "코하네의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 244,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(코하네)",
+    "seq": 10652
+  },
+  {
+    "canUse": false,
+    "flavorText": "안의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 245,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(안)",
+    "seq": 10653
+  },
+  {
+    "canUse": false,
+    "flavorText": "안의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 246,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(안)",
+    "seq": 10654
+  },
+  {
+    "canUse": false,
+    "flavorText": "아키토의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 247,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(아키토)",
+    "seq": 10655
+  },
+  {
+    "canUse": false,
+    "flavorText": "아키토의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 248,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(아키토)",
+    "seq": 10656
+  },
+  {
+    "canUse": false,
+    "flavorText": "토우야의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 249,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(토우야)",
+    "seq": 10657
+  },
+  {
+    "canUse": false,
+    "flavorText": "토우야의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 250,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(토우야)",
+    "seq": 10658
+  },
+  {
+    "canUse": false,
+    "flavorText": "츠카사의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 251,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(츠카사)",
+    "seq": 10659
+  },
+  {
+    "canUse": false,
+    "flavorText": "츠카사의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 252,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(츠카사)",
+    "seq": 10660
+  },
+  {
+    "canUse": false,
+    "flavorText": "에무의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 253,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(에무)",
+    "seq": 10661
+  },
+  {
+    "canUse": false,
+    "flavorText": "에무의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 254,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(에무)",
+    "seq": 10662
+  },
+  {
+    "canUse": false,
+    "flavorText": "네네의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 255,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(네네)",
+    "seq": 10663
+  },
+  {
+    "canUse": false,
+    "flavorText": "네네의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 256,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(네네)",
+    "seq": 10664
+  },
+  {
+    "canUse": false,
+    "flavorText": "루이의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 257,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(루이)",
+    "seq": 10665
+  },
+  {
+    "canUse": false,
+    "flavorText": "루이의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 258,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(루이)",
+    "seq": 10666
+  },
+  {
+    "canUse": false,
+    "flavorText": "카나데의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 259,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(카나데)",
+    "seq": 10667
+  },
+  {
+    "canUse": false,
+    "flavorText": "카나데의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 260,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(카나데)",
+    "seq": 10668
+  },
+  {
+    "canUse": false,
+    "flavorText": "마후유의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 261,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(마후유)",
+    "seq": 10669
+  },
+  {
+    "canUse": false,
+    "flavorText": "마후유의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 262,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(마후유)",
+    "seq": 10670
+  },
+  {
+    "canUse": false,
+    "flavorText": "에나의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 263,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(에나)",
+    "seq": 10671
+  },
+  {
+    "canUse": false,
+    "flavorText": "에나의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 264,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(에나)",
+    "seq": 10672
+  },
+  {
+    "canUse": false,
+    "flavorText": "미즈키의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 265,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(미즈키)",
+    "seq": 10673
+  },
+  {
+    "canUse": false,
+    "flavorText": "미즈키의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 266,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(미즈키)",
+    "seq": 10674
+  },
+  {
+    "canUse": false,
+    "flavorText": "미쿠의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 267,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(미쿠)",
+    "seq": 10675
+  },
+  {
+    "canUse": false,
+    "flavorText": "미쿠의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 268,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(미쿠)",
+    "seq": 10676
+  },
+  {
+    "canUse": false,
+    "flavorText": "린의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 269,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(린)",
+    "seq": 10677
+  },
+  {
+    "canUse": false,
+    "flavorText": "린의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 270,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(린)",
+    "seq": 10678
+  },
+  {
+    "canUse": false,
+    "flavorText": "렌의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 271,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(렌)",
+    "seq": 10679
+  },
+  {
+    "canUse": false,
+    "flavorText": "렌의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 272,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(렌)",
+    "seq": 10680
+  },
+  {
+    "canUse": false,
+    "flavorText": "루카의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 273,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(루카)",
+    "seq": 10681
+  },
+  {
+    "canUse": false,
+    "flavorText": "루카의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 274,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(루카)",
+    "seq": 10682
+  },
+  {
+    "canUse": false,
+    "flavorText": "MEIKO의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 275,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(MEIKO)",
+    "seq": 10683
+  },
+  {
+    "canUse": false,
+    "flavorText": "MEIKO의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 276,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(MEIKO)",
+    "seq": 10684
+  },
+  {
+    "canUse": false,
+    "flavorText": "KAITO의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 277,
+    "materialType": "common",
+    "name": "노블 FAVE 풍선(KAITO)",
+    "seq": 10685
+  },
+  {
+    "canUse": false,
+    "flavorText": "KAITO의 풍선 교환소에서 보상으로 교환할 수 있다.\n사용 기한: 2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 278,
+    "materialType": "common",
+    "name": "로열 FAVE 풍선(KAITO)",
+    "seq": 10686
+  },
+  {
+    "canUse": false,
+    "flavorText": "인터뷰에 협조 가능하신 경우, '고객 센터'→’의견 및 감상'을 통해 본문에 '인터뷰 참가 가능'이라고 기재하신 메일을 보내 주시도록 부탁드립니다.\n※메일로 인터뷰와 관련된 상세 내용을 확인하신 후 참가 의사를 철회하실 수도 있습니다.\n※이 메시지와 인터뷰 내용을 SNS에 게재하는 등, 제3자에게 공개하지 말아 주시기 바랍니다.",
+    "id": 279,
+    "materialType": "auto_exchange_music_vocal_ticket",
+    "name": "인터뷰 협조 요청\n(※2월에 실시한 설문 조사에서 협조 가능으로 답변하신 분들 일부에게 발송하였습니다)",
+    "seq": 20004
+  },
+  {
+    "canUse": false,
+    "flavorText": "플래티넘 티켓 교환소에서 원하는 아이템으로 교환할 수 있다.",
+    "id": 281,
+    "materialType": "common",
+    "name": "플래티넘 티켓",
+    "seq": 89
   },
   {
     "canUse": false,
@@ -1645,11 +2277,27 @@
   },
   {
     "canUse": false,
+    "flavorText": "[복귀 환영] ★4 멤버 선택 티켓 교환소에서 원하는 ★4 멤버로 교환할 수 있습니다.",
+    "id": 2002,
+    "materialType": "card_ticket",
+    "name": "[복귀 환영] ★4 멤버 선택 티켓",
+    "seq": 2002
+  },
+  {
+    "canUse": false,
     "flavorText": "可用于升级回响称号",
     "id": 3002,
     "materialType": "common",
     "name": "回响点数",
     "seq": 90
+  },
+  {
+    "canUse": false,
+    "flavorText": "칭호 레벨 업 시 사용할 수 있습니다.",
+    "id": 3006,
+    "materialType": "common",
+    "name": "응원 배지",
+    "seq": 1011
   },
   {
     "canUse": false,

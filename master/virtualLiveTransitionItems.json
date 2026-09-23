@@ -1,184 +1,184 @@
 [
   {
     "assetbundleName": "memory_peace_5th_01",
-    "flavorText": "이치카의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "一歌の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 1,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 이치카)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：一歌）",
     "virtualLiveId": 400
   },
   {
     "assetbundleName": "memory_peace_5th_02",
-    "flavorText": "사키의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "咲希の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 2,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 사키)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：咲希）",
     "virtualLiveId": 401
   },
   {
     "assetbundleName": "memory_peace_5th_03",
-    "flavorText": "호나미의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "穂波の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 3,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 호나미)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：穂波）",
     "virtualLiveId": 402
   },
   {
     "assetbundleName": "memory_peace_5th_04",
-    "flavorText": "시호의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "志歩の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 4,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 시호)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：志歩）",
     "virtualLiveId": 403
   },
   {
     "assetbundleName": "memory_peace_5th_05",
-    "flavorText": "미노리의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "みのりの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 5,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 미노리)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：みのり）",
     "virtualLiveId": 404
   },
   {
     "assetbundleName": "memory_peace_5th_06",
-    "flavorText": "하루카의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "遥の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 6,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 하루카)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：遥）",
     "virtualLiveId": 405
   },
   {
     "assetbundleName": "memory_peace_5th_07",
-    "flavorText": "아이리의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "愛莉の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 7,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 아이리)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：愛莉）",
     "virtualLiveId": 406
   },
   {
     "assetbundleName": "memory_peace_5th_08",
-    "flavorText": "시즈쿠의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "雫の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 8,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 시즈쿠)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：雫）",
     "virtualLiveId": 407
   },
   {
     "assetbundleName": "memory_peace_5th_09",
-    "flavorText": "코하네의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "こはねの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 9,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 코하네)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：こはね）",
     "virtualLiveId": 408
   },
   {
     "assetbundleName": "memory_peace_5th_10",
-    "flavorText": "안의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "杏の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 10,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 안)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：杏）",
     "virtualLiveId": 409
   },
   {
     "assetbundleName": "memory_peace_5th_11",
-    "flavorText": "아키토의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "彰人の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 11,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 아키토)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：彰人）",
     "virtualLiveId": 410
   },
   {
     "assetbundleName": "memory_peace_5th_12",
-    "flavorText": "토우야의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "冬弥の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 12,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 토우야)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：冬弥）",
     "virtualLiveId": 411
   },
   {
     "assetbundleName": "memory_peace_5th_13",
-    "flavorText": "츠카사의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "司の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 13,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 츠카사)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：司）",
     "virtualLiveId": 412
   },
   {
     "assetbundleName": "memory_peace_5th_14",
-    "flavorText": "에무의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "えむの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 14,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 에무)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：えむ）",
     "virtualLiveId": 413
   },
   {
     "assetbundleName": "memory_peace_5th_15",
-    "flavorText": "네네의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "寧々の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 15,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 네네)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：寧々）",
     "virtualLiveId": 414
   },
   {
     "assetbundleName": "memory_peace_5th_16",
-    "flavorText": "루이의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "類の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 16,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 루이)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：類）",
     "virtualLiveId": 415
   },
   {
     "assetbundleName": "memory_peace_5th_17",
-    "flavorText": "카나데의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "奏の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 17,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 카나데)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：奏）",
     "virtualLiveId": 416
   },
   {
     "assetbundleName": "memory_peace_5th_18",
-    "flavorText": "마후유의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "まふゆの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 18,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 마후유)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：まふゆ）",
     "virtualLiveId": 417
   },
   {
     "assetbundleName": "memory_peace_5th_19",
-    "flavorText": "에나의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "絵名の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 19,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 에나)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：絵名）",
     "virtualLiveId": 418
   },
   {
     "assetbundleName": "memory_peace_5th_20",
-    "flavorText": "미즈키의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "瑞希の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 20,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 미즈키)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：瑞希）",
     "virtualLiveId": 419
   },
   {
     "assetbundleName": "memory_peace_5th_21",
-    "flavorText": "미쿠의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "ミクの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 21,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 미쿠)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：ミク）",
     "virtualLiveId": 420
   },
   {
     "assetbundleName": "memory_peace_5th_22",
-    "flavorText": "린의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "リンの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 22,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 린)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：リン）",
     "virtualLiveId": 421
   },
   {
     "assetbundleName": "memory_peace_5th_23",
-    "flavorText": "렌의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "レンの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 23,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 렌)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：レン）",
     "virtualLiveId": 422
   },
   {
     "assetbundleName": "memory_peace_5th_24",
-    "flavorText": "루카의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "ルカの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 24,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: 루카)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：ルカ）",
     "virtualLiveId": 423
   },
   {
     "assetbundleName": "memory_peace_5th_25",
-    "flavorText": "MEIKO의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "MEIKOの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 25,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: MEIKO)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：MEIKO）",
     "virtualLiveId": 424
   },
   {
     "assetbundleName": "memory_peace_5th_26",
-    "flavorText": "KAITO의 '5주년 기념 스페셜 메시지'를 다시 볼 수 있는 아이템입니다.",
+    "flavorText": "KAITOの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
     "id": 26,
-    "name": "메모리얼 레코드(5주년 기념 스페셜 메시지: KAITO)",
+    "name": "メモリアルレコード（Memories of Melody Special Message：KAITO）",
     "virtualLiveId": 425
   }
 ]

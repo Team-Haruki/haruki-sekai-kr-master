@@ -762,6 +762,72 @@
     "resourceType": "paid_jewel"
   },
   {
+    "billingShopItemId": 10187,
+    "quantity": 300,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 10188,
+    "quantity": 1500,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 10189,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 10190,
+    "quantity": 6000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 10191,
+    "quantity": 9000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 300860,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 300870,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 300880,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 300890,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 300900,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 300910,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
     "billingShopItemId": 300990,
     "quantity": 3000,
     "resourceId": 1,
@@ -2557,6 +2623,66 @@
   },
   {
     "billingShopItemId": 1667,
+    "quantity": 1000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 1668,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 1669,
+    "quantity": 1000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 1670,
+    "quantity": 1000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 1671,
+    "quantity": 1000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 1672,
+    "quantity": 1000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 1673,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 1674,
+    "quantity": 1000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 1675,
+    "quantity": 1000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 1676,
+    "quantity": 1000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 1677,
     "quantity": 1000,
     "resourceId": 1,
     "resourceType": "paid_jewel"

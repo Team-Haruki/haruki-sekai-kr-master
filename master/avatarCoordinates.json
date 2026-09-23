@@ -1008,6 +1008,15 @@
     "skinColorCode": "#ffffff"
   },
   {
+    "accessoryAssetbundleName": "fullset_0115",
+    "assetbundleName": "fullset_0115",
+    "costumeAssetbundleName": "fullset_0115",
+    "id": 115,
+    "name": "Voidollなりきり衣装",
+    "seq": 1360,
+    "skinColorCode": "#ffffff"
+  },
+  {
     "accessoryAssetbundleName": "fullset_0116",
     "assetbundleName": "fullset_0116",
     "costumeAssetbundleName": "fullset_0116",
@@ -1077,6 +1086,15 @@
     "id": 1006,
     "name": "캐주얼 후디",
     "seq": 10060,
+    "skinColorCode": "#ffffff"
+  },
+  {
+    "accessoryAssetbundleName": "fullset_2000",
+    "assetbundleName": "fullset_2000",
+    "costumeAssetbundleName": "fullset_2000",
+    "id": 1007,
+    "name": "Stweet Tea Time",
+    "seq": 10070,
     "skinColorCode": "#ffffff"
   }
 ]

@@ -910,7 +910,7 @@
   },
   {
     "assetbundleName": "5th-anniversary-login-story",
-    "endAt": 1791730799000,
+    "endAt": 1791471599000,
     "episodes": [
       {
         "assetbundleName": "story_5th_anniversary",
@@ -927,7 +927,7 @@
       }
     ],
     "id": 58,
-    "startAt": 1790694000000
+    "startAt": 1790434800000
   },
   {
     "assetbundleName": "5th-anniversary-special_login-message",
@@ -940,7 +940,9 @@
         "isAbleSkip": true,
         "isActionSetRefresh": false,
         "releaseConditionId": 1,
-        "rewardResourceBoxIds": [],
+        "rewardResourceBoxIds": [
+          134
+        ],
         "scenarioId": "story_5th_anniversary_special_message",
         "specialStoryEpisodeType": "none",
         "specialStoryId": 59,
@@ -991,6 +993,49 @@
     ],
     "id": 63,
     "startAt": 1771599600000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2026",
+    "endAt": 1806591599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2026",
+        "episodeNo": 1,
+        "id": 69,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2026_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 28,
+        "specialStoryId": 64,
+        "title": "エイプリルフール2026導入ムービー"
+      }
+    ],
+    "id": 64,
+    "startAt": 1806505200000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2026",
+    "endAt": 1806677999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2026",
+        "episodeNo": 1,
+        "id": 70,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1000400,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2026_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 65,
+        "title": "エイプリルフール2026後日談ムービー"
+      }
+    ],
+    "id": 65,
+    "startAt": 1806591600000
   },
   {
     "assetbundleName": "collaboration-es-story",

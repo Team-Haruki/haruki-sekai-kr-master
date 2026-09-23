@@ -372,7 +372,7 @@
   {
     "consumeResourceBoxId": 50002,
     "convertMinutes": 60,
-    "endAt": 1792897199000,
+    "endAt": 1792637999000,
     "externalId": 50002,
     "id": 34,
     "mysekaiConvertItemObtainType": "resource_box",
@@ -380,12 +380,12 @@
     "onceConvertLimit": 1,
     "refreshCycle": "none",
     "requiredConvertFixtureLevel": 1,
-    "startAt": 1790694000000
+    "startAt": 1790434800000
   },
   {
     "consumeResourceBoxId": 50003,
     "convertMinutes": 30,
-    "endAt": 1792897199000,
+    "endAt": 1792637999000,
     "externalId": 50003,
     "id": 35,
     "mysekaiConvertItemObtainType": "resource_box",
@@ -393,7 +393,7 @@
     "onceConvertLimit": 100,
     "refreshCycle": "none",
     "requiredConvertFixtureLevel": 1,
-    "startAt": 1790694000000
+    "startAt": 1790434800000
   },
   {
     "consumeResourceBoxId": 10015,
@@ -493,5 +493,102 @@
     "onceConvertLimit": 100,
     "refreshCycle": "none",
     "requiredConvertFixtureLevel": 1
+  },
+  {
+    "consumeResourceBoxId": 10024,
+    "convertMinutes": 1320,
+    "externalId": 10024,
+    "id": 45,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790607600000
+  },
+  {
+    "consumeResourceBoxId": 10025,
+    "convertMinutes": 1320,
+    "externalId": 10025,
+    "id": 46,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790607600000
+  },
+  {
+    "consumeResourceBoxId": 10025,
+    "convertMinutes": 1320,
+    "externalId": 10026,
+    "id": 47,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790607600000
+  },
+  {
+    "consumeResourceBoxId": 10025,
+    "convertMinutes": 1320,
+    "externalId": 10027,
+    "id": 48,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790607600000
+  },
+  {
+    "consumeResourceBoxId": 10025,
+    "convertMinutes": 1320,
+    "externalId": 10028,
+    "id": 49,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790607600000
+  },
+  {
+    "consumeResourceBoxId": 10025,
+    "convertMinutes": 1320,
+    "externalId": 10029,
+    "id": 50,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790607600000
+  },
+  {
+    "consumeResourceBoxId": 20012,
+    "convertMinutes": 120,
+    "externalId": 20012,
+    "id": 51,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 2,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1
+  },
+  {
+    "consumeResourceBoxId": 50001,
+    "convertLimit": 100,
+    "convertMinutes": 120,
+    "endAt": 1807239599000,
+    "externalId": 50001,
+    "id": 53,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 5,
+    "onceConvertLimit": 20,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1806375600000
   }
 ]

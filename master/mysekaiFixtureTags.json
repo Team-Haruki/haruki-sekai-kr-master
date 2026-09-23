@@ -518,16 +518,46 @@
     "pronunciation": "せかいすてーじ"
   },
   {
-    "id": 89,
-    "mysekaiFixtureTagType": "series",
-    "name": "핼러윈",
-    "pronunciation": "はろうぃん"
-  },
-  {
     "id": 90,
     "mysekaiFixtureTagType": "series",
     "name": "로맨틱 가든",
     "pronunciation": "ろまんてぃっくがーでん"
+  },
+  {
+    "id": 91,
+    "mysekaiFixtureTagType": "series",
+    "name": "빈티지 스타일",
+    "pronunciation": "ゔぃんてーじすたいる"
+  },
+  {
+    "id": 92,
+    "mysekaiFixtureTagType": "series",
+    "name": "따끈따끈 온천",
+    "pronunciation": "ほっこりおんせん"
+  },
+  {
+    "id": 95,
+    "mysekaiFixtureTagType": "series",
+    "name": "코스믹 셔틀",
+    "pronunciation": "こずみっくしゃとる"
+  },
+  {
+    "id": 97,
+    "mysekaiFixtureTagType": "series",
+    "name": "클래시컬 애비뉴",
+    "pronunciation": "くらしかるあべにゅー"
+  },
+  {
+    "id": 98,
+    "mysekaiFixtureTagType": "series",
+    "name": "숲의 릴랙스",
+    "pronunciation": "もりらっくす"
+  },
+  {
+    "id": 99,
+    "mysekaiFixtureTagType": "series",
+    "name": "오므라이스 카페",
+    "pronunciation": "おむらいすきっさ"
   },
   {
     "id": 103,
@@ -3166,7 +3196,7 @@
   {
     "id": 10449,
     "mysekaiFixtureTagType": "none",
-    "name": "달이 보이는 여관 전통 수납장",
+    "name": "달이 보이는 여관 서양식 장롱",
     "pronunciation": "つきがみえるりょかんのようだんす"
   },
   {
@@ -5656,7 +5686,7 @@
   {
     "id": 10864,
     "mysekaiFixtureTagType": "none",
-    "name": "[5주년 기념] 메모리얼 클리어 플레이트",
+    "name": "[Memories of Melodys 기념] 메모리얼 클리어 플레이트",
     "pronunciation": "ごしゅうねんきねんめもりあるくりあぷれーと"
   },
   {
@@ -5802,36 +5832,6 @@
     "mysekaiFixtureTagType": "none",
     "name": "키리타니 하루카 생일 '26",
     "pronunciation": "きりたにはるかばーすでーにじゅうご"
-  },
-  {
-    "id": 10889,
-    "mysekaiFixtureTagType": "none",
-    "name": "핼러윈 호박",
-    "pronunciation": "はろうぃんのかぼちゃ"
-  },
-  {
-    "id": 10890,
-    "mysekaiFixtureTagType": "none",
-    "name": "핼러윈 호박 세트",
-    "pronunciation": "はろうぃんのかぼちゃせっと"
-  },
-  {
-    "id": 10891,
-    "mysekaiFixtureTagType": "none",
-    "name": "핼러윈 고목",
-    "pronunciation": "はろうぃんのかれき"
-  },
-  {
-    "id": 10892,
-    "mysekaiFixtureTagType": "none",
-    "name": "핼러윈 사탕",
-    "pronunciation": "はろうぃんのきゃんでぃ"
-  },
-  {
-    "id": 10893,
-    "mysekaiFixtureTagType": "none",
-    "name": "핼러윈 유령 허수아비",
-    "pronunciation": "はろうぃんのおばけかかし"
   },
   {
     "id": 10894,
@@ -6062,6 +6062,96 @@
     "pronunciation": "りみてっどすたいるぼりゅーむつーりんのぬいぐるみえる"
   },
   {
+    "id": 10932,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 벽지",
+    "pronunciation": "ゔぃんてーじすたいるのかべがみ"
+  },
+  {
+    "id": 10933,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 바닥",
+    "pronunciation": "ゔぃんてーじすたいるのゆか"
+  },
+  {
+    "id": 10934,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 창문",
+    "pronunciation": "ゔぃんてーじすたいるのまど"
+  },
+  {
+    "id": 10935,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 서랍장",
+    "pronunciation": "ゔぃんてーじすたいるのちぇすと"
+  },
+  {
+    "id": 10936,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 거울",
+    "pronunciation": "ゔぃんてーじすたいるのかがみ"
+  },
+  {
+    "id": 10937,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 침대",
+    "pronunciation": "ゔぃんてーじすたいるのべっど"
+  },
+  {
+    "id": 10938,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 테이블",
+    "pronunciation": "ゔぃんてーじすたいるのてーぶる"
+  },
+  {
+    "id": 10939,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 테이블",
+    "pronunciation": "ゔぃんてーじすたいるのそふぁ"
+  },
+  {
+    "id": 10940,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 소파",
+    "pronunciation": "ゔぃんてーじすたいるのほんだな"
+  },
+  {
+    "id": 10941,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 책장",
+    "pronunciation": "ゔぃんてーじすたいるのらんぷ"
+  },
+  {
+    "id": 10942,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 조명",
+    "pronunciation": "ゔぃんてーじすたいるのしぇるふ"
+  },
+  {
+    "id": 10943,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 선반",
+    "pronunciation": "ゔぃんてーじすたいるのぽーるはんがー"
+  },
+  {
+    "id": 10944,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 스탠드 옷걸이",
+    "pronunciation": "ゔぃんてーじすたいるのらぐ"
+  },
+  {
+    "id": 10945,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 러그",
+    "pronunciation": "ゔぃんてーじすたいるのかいが"
+  },
+  {
+    "id": 10946,
+    "mysekaiFixtureTagType": "none",
+    "name": "빈티지 스타일 그림",
+    "pronunciation": "ゔぃんてーじすたいるのこーひーめーかー"
+  },
+  {
     "id": 10947,
     "mysekaiFixtureTagType": "none",
     "name": "빈티지 스타일 커피 메이커",
@@ -6096,6 +6186,1344 @@
     "mysekaiFixtureTagType": "none",
     "name": "생일 의자(호나미)",
     "pronunciation": "もちづきほなみばーすでーにじゅうご"
+  },
+  {
+    "id": 10953,
+    "mysekaiFixtureTagType": "none",
+    "name": "모치즈키 호나미 생일 '26",
+    "pronunciation": "あにばーさりーけーきめいこ"
+  },
+  {
+    "id": 10954,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 케이크(MEIKO)",
+    "pronunciation": "あにばーさりーばるーんめいこ"
+  },
+  {
+    "id": 10955,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 풍선(MEIKO)",
+    "pronunciation": "あにばーさりーぶーけめいこ"
+  },
+  {
+    "id": 10956,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 부케(MEIKO)",
+    "pronunciation": "あにばーさりーがーらんどめいこ"
+  },
+  {
+    "id": 10957,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 가랜드(MEIKO)",
+    "pronunciation": "あにばーさりーちぇあめいこ"
+  },
+  {
+    "id": 10958,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 의자(MEIKO)",
+    "pronunciation": "めいこあにばーさりーにじゅうご"
+  },
+  {
+    "id": 10959,
+    "mysekaiFixtureTagType": "none",
+    "name": "MEIKO 기념일 '26",
+    "pronunciation": "ばーすでーけーきあきと"
+  },
+  {
+    "id": 10960,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 케이크(아키토)",
+    "pronunciation": "ばーすでーばるーんあきと"
+  },
+  {
+    "id": 10961,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 풍선(아키토)",
+    "pronunciation": "ばーすでーぶーけあきと"
+  },
+  {
+    "id": 10962,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 부케(아키토)",
+    "pronunciation": "ばーすでーがーらんどあきと"
+  },
+  {
+    "id": 10963,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 가랜드(아키토)",
+    "pronunciation": "ばーすでーちぇああきと"
+  },
+  {
+    "id": 10964,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 의자(아키토)",
+    "pronunciation": "しののめあきとばーすでーにじゅうご"
+  },
+  {
+    "id": 10965,
+    "mysekaiFixtureTagType": "none",
+    "name": "시노노메 아키토 생일 '26",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしほのぬいぐるみえす"
+  },
+  {
+    "id": 10966,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 시호 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしほのぬいぐるみえむ"
+  },
+  {
+    "id": 10967,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 시호 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしほのぬいぐるみえる"
+  },
+  {
+    "id": 10968,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 시호 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみのりのぬいぐるみえす"
+  },
+  {
+    "id": 10969,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 미노리 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみのりのぬいぐるみえむ"
+  },
+  {
+    "id": 10970,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 미노리 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみのりのぬいぐるみえる"
+  },
+  {
+    "id": 10971,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 미노리 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーとうやのぬいぐるみえす"
+  },
+  {
+    "id": 10972,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 토우야 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーとうやのぬいぐるみえむ"
+  },
+  {
+    "id": 10973,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 토우야 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーとうやのぬいぐるみえる"
+  },
+  {
+    "id": 10974,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 토우야 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーねねのぬいぐるみえす"
+  },
+  {
+    "id": 10975,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 네네 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーねねのぬいぐるみえむ"
+  },
+  {
+    "id": 10976,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 네네 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーねねのぬいぐるみえる"
+  },
+  {
+    "id": 10977,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 네네 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかなでのぬいぐるみえす"
+  },
+  {
+    "id": 10978,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 카나데 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかなでのぬいぐるみえむ"
+  },
+  {
+    "id": 10979,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 카나데 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかなでのぬいぐるみえる"
+  },
+  {
+    "id": 10980,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 카나데 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかいとのぬいぐるみえす"
+  },
+  {
+    "id": 10981,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] KAITO 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかいとのぬいぐるみえむ"
+  },
+  {
+    "id": 10982,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] KAITO 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかいとのぬいぐるみえる"
+  },
+  {
+    "id": 10983,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] KAITO 인형/L",
+    "pronunciation": "ほっこりおんせんのいえ"
+  },
+  {
+    "id": 10984,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 집",
+    "pronunciation": "ほっこりおんせんのろてんぶろ"
+  },
+  {
+    "id": 10985,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 노천탕",
+    "pronunciation": "ほっこりおんせんのあしゆ"
+  },
+  {
+    "id": 10986,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 족욕 탕",
+    "pronunciation": "ほっこりおんせんのおんせんたまご"
+  },
+  {
+    "id": 10987,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 온천 달걀",
+    "pronunciation": "ほっこりおんせんのたるぶろ"
+  },
+  {
+    "id": 10988,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 나무통 욕조",
+    "pronunciation": "ほっこりおんせんのたけ"
+  },
+  {
+    "id": 10989,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 대나무",
+    "pronunciation": "ほっこりおんせんのぱーてーしょん"
+  },
+  {
+    "id": 10990,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 칸막이",
+    "pronunciation": "ほっこりおんせんのあかり"
+  },
+  {
+    "id": 10991,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 등불",
+    "pronunciation": "ほっこりおんせんのふろおけ"
+  },
+  {
+    "id": 10992,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 대야",
+    "pronunciation": "ほっこりおんせんのしきいし"
+  },
+  {
+    "id": 10993,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 돌바닥",
+    "pronunciation": "ほっこりおんせんのきゅうけいいす"
+  },
+  {
+    "id": 10994,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 휴식용 의자",
+    "pronunciation": "ほっこりおんせんのつくえ"
+  },
+  {
+    "id": 10995,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 테이블",
+    "pronunciation": "ほっこりおんせんのふるーつぎゅうにゅう"
+  },
+  {
+    "id": 10996,
+    "mysekaiFixtureTagType": "none",
+    "name": "따끈따끈 온천의 과일 맛 우유",
+    "pronunciation": "ばーすでーけーきしずく"
+  },
+  {
+    "id": 10997,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 케이크 (시즈쿠)",
+    "pronunciation": "ばーすでーばるーんしずく"
+  },
+  {
+    "id": 10998,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 풍선 (시즈쿠)",
+    "pronunciation": "ばーすでーぶーけしずく"
+  },
+  {
+    "id": 10999,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 부케 (시즈쿠)",
+    "pronunciation": "ばーすでーがーらんどしずく"
+  },
+  {
+    "id": 11000,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 가랜드 (시즈쿠)",
+    "pronunciation": "ばーすでーちぇあしずく"
+  },
+  {
+    "id": 11001,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 의자 (시즈쿠)",
+    "pronunciation": "ひのもりしずくばーすでーにじゅうご"
+  },
+  {
+    "id": 11007,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 부케 (린)",
+    "pronunciation": "あにばーさりーけーきりん"
+  },
+  {
+    "id": 11008,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 가랜드 (린)",
+    "pronunciation": "あにばーさりーばるーんりん"
+  },
+  {
+    "id": 11009,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 의자 (린)",
+    "pronunciation": "あにばーさりーぶーけりん"
+  },
+  {
+    "id": 11010,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 케이크 (렌)",
+    "pronunciation": "あにばーさりーがーらんどりん"
+  },
+  {
+    "id": 11011,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 풍선 (렌)",
+    "pronunciation": "あにばーさりーちぇありん"
+  },
+  {
+    "id": 11012,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 부케 (렌)",
+    "pronunciation": "あにばーさりーけーきれん"
+  },
+  {
+    "id": 11013,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 가랜드 (렌)",
+    "pronunciation": "あにばーさりーばるーんれん"
+  },
+  {
+    "id": 11014,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 의자 (렌)",
+    "pronunciation": "あにばーさりーぶーけれん"
+  },
+  {
+    "id": 11015,
+    "mysekaiFixtureTagType": "none",
+    "name": "카가미네 린 기념일 '26",
+    "pronunciation": "あにばーさりーがーらんどれん"
+  },
+  {
+    "id": 11016,
+    "mysekaiFixtureTagType": "none",
+    "name": "카가미네 렌 기념일 '26",
+    "pronunciation": "あにばーさりーちぇあれん"
+  },
+  {
+    "id": 11017,
+    "mysekaiFixtureTagType": "none",
+    "name": "소나무 장식",
+    "pronunciation": "かがみねりんあにばーさりーにじゅうご"
+  },
+  {
+    "id": 11018,
+    "mysekaiFixtureTagType": "none",
+    "name": "카가미모치",
+    "pronunciation": "かがみねれんあにばーさりーにじゅうご"
+  },
+  {
+    "id": 11021,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 호나미 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーほなみのぬいぐるみえす"
+  },
+  {
+    "id": 11022,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 시즈쿠 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーほなみのぬいぐるみえむ"
+  },
+  {
+    "id": 11023,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 시즈쿠 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーほなみのぬいぐるみえる"
+  },
+  {
+    "id": 11024,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 시즈쿠 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしずくのぬいぐるみえす"
+  },
+  {
+    "id": 11025,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 아키토 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしずくのぬいぐるみえむ"
+  },
+  {
+    "id": 11026,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 아키토 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしずくのぬいぐるみえる"
+  },
+  {
+    "id": 11027,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 아키토 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあきとのぬいぐるみえす"
+  },
+  {
+    "id": 11028,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 에무 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあきとのぬいぐるみえむ"
+  },
+  {
+    "id": 11029,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 에무 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあきとのぬいぐるみえる"
+  },
+  {
+    "id": 11030,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 에무 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえむのぬいぐるみえす"
+  },
+  {
+    "id": 11031,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 에나 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえむのぬいぐるみえむ"
+  },
+  {
+    "id": 11032,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 에나 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえむのぬいぐるみえる"
+  },
+  {
+    "id": 11033,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 에나 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえなのぬいぐるみえす"
+  },
+  {
+    "id": 11034,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 렌 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえなのぬいぐるみえむ"
+  },
+  {
+    "id": 11035,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 렌 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえなのぬいぐるみえる"
+  },
+  {
+    "id": 11036,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 렌 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーれんのぬいぐるみえす"
+  },
+  {
+    "id": 11037,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 루카 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーれんのぬいぐるみえむ"
+  },
+  {
+    "id": 11038,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 루카 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーれんのぬいぐるみえる"
+  },
+  {
+    "id": 11039,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.2] 루카 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーるかのぬいぐるみえす"
+  },
+  {
+    "id": 11040,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 집",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーるかのぬいぐるみえむ"
+  },
+  {
+    "id": 11041,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 벽",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーるかのぬいぐるみえる"
+  },
+  {
+    "id": 11042,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 바닥",
+    "pronunciation": "こずみっくしゃとるのいえ"
+  },
+  {
+    "id": 11043,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 창문",
+    "pronunciation": "こずみっくしゃとるのかべ"
+  },
+  {
+    "id": 11044,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 서랍장",
+    "pronunciation": "こずみっくしゃとるのゆか"
+  },
+  {
+    "id": 11045,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 침대",
+    "pronunciation": "こずみっくしゃとるのまど"
+  },
+  {
+    "id": 11046,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 테이블",
+    "pronunciation": "こずみっくしゃとるのちぇすと"
+  },
+  {
+    "id": 11047,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 의자",
+    "pronunciation": "こずみっくしゃとるのべっど"
+  },
+  {
+    "id": 11048,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 로봇",
+    "pronunciation": "こずみっくしゃとるのてーぶる"
+  },
+  {
+    "id": 11049,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 조종석",
+    "pronunciation": "こずみっくしゃとるのいす"
+  },
+  {
+    "id": 11050,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 기둥",
+    "pronunciation": "こずみっくしゃとるのろぼっと"
+  },
+  {
+    "id": 11051,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 모니터",
+    "pronunciation": "こずみっくしゃとるのそうじゅうせき"
+  },
+  {
+    "id": 11052,
+    "mysekaiFixtureTagType": "none",
+    "name": "코스믹 셔틀 식물",
+    "pronunciation": "こずみっくしゃとるのはしら"
+  },
+  {
+    "id": 11053,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 케이크 (시호)",
+    "pronunciation": "こずみっくしゃとるのもにたー"
+  },
+  {
+    "id": 11054,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 풍선 (시호)",
+    "pronunciation": "こずみっくしゃとるのしょくぶつ"
+  },
+  {
+    "id": 11055,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 부케 (시호)",
+    "pronunciation": "ばーすでーけーきしほ"
+  },
+  {
+    "id": 11056,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 가랜드 (시호)",
+    "pronunciation": "ばーすでーばるーんしほ"
+  },
+  {
+    "id": 11057,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 의자 (시호)",
+    "pronunciation": "ばーすでーぶーけしほ"
+  },
+  {
+    "id": 11058,
+    "mysekaiFixtureTagType": "none",
+    "name": "히노모리 시호 생일 '27",
+    "pronunciation": "ばーすでーがーらんどしほ"
+  },
+  {
+    "id": 11059,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 케이크 (마후유)",
+    "pronunciation": "ばーすでーちぇあしほ"
+  },
+  {
+    "id": 11060,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 풍선 (마후유)",
+    "pronunciation": "ひのもりしほばーすでーにじゅうろく"
+  },
+  {
+    "id": 11061,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 부케 (마후유)",
+    "pronunciation": "ばーすでーけーきまふゆ"
+  },
+  {
+    "id": 11062,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 가랜드 (마후유)",
+    "pronunciation": "ばーすでーばるーんまふゆ"
+  },
+  {
+    "id": 11063,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 의자 (마후유)",
+    "pronunciation": "ばーすでーぶーけまふゆ"
+  },
+  {
+    "id": 11064,
+    "mysekaiFixtureTagType": "none",
+    "name": "아사히나 마후유 생일 '27",
+    "pronunciation": "ばーすでーがーらんどまふゆ"
+  },
+  {
+    "id": 11065,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 케이크 (루카)",
+    "pronunciation": "ばーすでーちぇあまふゆ"
+  },
+  {
+    "id": 11066,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 풍선 (루카)",
+    "pronunciation": "あさひなまふゆばーすでーにじゅうろく"
+  },
+  {
+    "id": 11067,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 부케 (루카)",
+    "pronunciation": "あにばーさりーけーきるか"
+  },
+  {
+    "id": 11068,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 가랜드 (루카)",
+    "pronunciation": "あにばーさりーばるーんるか"
+  },
+  {
+    "id": 11069,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 의자 (루카)",
+    "pronunciation": "あにばーさりーぶーけるか"
+  },
+  {
+    "id": 11070,
+    "mysekaiFixtureTagType": "none",
+    "name": "메구리네 루카 기념일 '27",
+    "pronunciation": "あにばーさりーがーらんどるか"
+  },
+  {
+    "id": 11071,
+    "mysekaiFixtureTagType": "none",
+    "name": "헬로키티의 피아노",
+    "pronunciation": "あにばーさりーちぇあるか"
+  },
+  {
+    "id": 11072,
+    "mysekaiFixtureTagType": "none",
+    "name": "폼폼푸린의 낮잠 트리",
+    "pronunciation": "めぐりねるかあにばーさりーにじゅうろく"
+  },
+  {
+    "id": 11079,
+    "mysekaiFixtureTagType": "none",
+    "name": "클래시컬 애비뉴의 카페",
+    "pronunciation": "くらしかるあべにゅーのいえ"
+  },
+  {
+    "id": 11080,
+    "mysekaiFixtureTagType": "none",
+    "name": "클래시컬 애비뉴의 전화박스",
+    "pronunciation": "くらしかるあべにゅーのぶてぃっく"
+  },
+  {
+    "id": 11081,
+    "mysekaiFixtureTagType": "none",
+    "name": "클래시컬 애비뉴의 다리",
+    "pronunciation": "くらしかるあべにゅーのかふぇ"
+  },
+  {
+    "id": 11082,
+    "mysekaiFixtureTagType": "none",
+    "name": "클래시컬 애비뉴의 나무통",
+    "pronunciation": "くらしかるあべにゅーのでんわぼっくす"
+  },
+  {
+    "id": 11083,
+    "mysekaiFixtureTagType": "none",
+    "name": "클래시컬 애비뉴의 카페 테이블",
+    "pronunciation": "くらしかるあべにゅーのはし"
+  },
+  {
+    "id": 11084,
+    "mysekaiFixtureTagType": "none",
+    "name": "클래시컬 애비뉴의 카페 의자",
+    "pronunciation": "くらしかるあべにゅーのたる"
+  },
+  {
+    "id": 11085,
+    "mysekaiFixtureTagType": "none",
+    "name": "클래시컬 애비뉴의 빵",
+    "pronunciation": "くらしかるあべにゅーのかふぇてーぶる"
+  },
+  {
+    "id": 11086,
+    "mysekaiFixtureTagType": "none",
+    "name": "클래시컬 애비뉴의 돌바닥 러그",
+    "pronunciation": "くらしかるあべにゅーのかふぇちぇあ"
+  },
+  {
+    "id": 11087,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 이치카 인형/S",
+    "pronunciation": "くらしかるあべにゅーのぱん"
+  },
+  {
+    "id": 11088,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 이치카 인형/M",
+    "pronunciation": "くらしかるあべにゅーのいしだたみらぐ"
+  },
+  {
+    "id": 11089,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 이치카 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーいちかのぬいぐるみえす"
+  },
+  {
+    "id": 11090,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 하루카 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーいちかのぬいぐるみえむ"
+  },
+  {
+    "id": 11091,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 하루카 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーいちかのぬいぐるみえる"
+  },
+  {
+    "id": 11092,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 하루카 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーはるかのぬいぐるみえす"
+  },
+  {
+    "id": 11093,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 코하네 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーはるかのぬいぐるみえむ"
+  },
+  {
+    "id": 11094,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 코하네 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーはるかのぬいぐるみえる"
+  },
+  {
+    "id": 11095,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 코하네 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーこはねのぬいぐるみえす"
+  },
+  {
+    "id": 11096,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 루이 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーこはねのぬいぐるみえむ"
+  },
+  {
+    "id": 11097,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 루이 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーこはねのぬいぐるみえる"
+  },
+  {
+    "id": 11098,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 루이 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるいのぬいぐるみえす"
+  },
+  {
+    "id": 11099,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 마후유 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるいのぬいぐるみえむ"
+  },
+  {
+    "id": 11100,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 마후유 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるいのぬいぐるみえる"
+  },
+  {
+    "id": 11101,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 마후유 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーまふゆのぬいぐるみえす"
+  },
+  {
+    "id": 11102,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] MEIKO 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーまふゆのぬいぐるみえむ"
+  },
+  {
+    "id": 11103,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] MEIKO 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーまふゆのぬいぐるみえる"
+  },
+  {
+    "id": 11104,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] MEIKO 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーめいこのぬいぐるみえす"
+  },
+  {
+    "id": 11105,
+    "mysekaiFixtureTagType": "none",
+    "name": "숲의 릴랙스 뻐꾸기시계 나무",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーめいこのぬいぐるみえむ"
+  },
+  {
+    "id": 11106,
+    "mysekaiFixtureTagType": "none",
+    "name": "숲의 릴랙스 늑대 쿠션",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーめいこのぬいぐるみえる"
+  },
+  {
+    "id": 11107,
+    "mysekaiFixtureTagType": "none",
+    "name": "숲의 릴랙스 연못 오브제",
+    "pronunciation": "もりらっくすのはとどけいつりー"
+  },
+  {
+    "id": 11108,
+    "mysekaiFixtureTagType": "none",
+    "name": "숲의 릴랙스 통나무 벤치",
+    "pronunciation": "もりらっくすのおおかみくっしょん"
+  },
+  {
+    "id": 11109,
+    "mysekaiFixtureTagType": "none",
+    "name": "숲의 릴랙스 파티클 라이트",
+    "pronunciation": "もりらっくすのいずみのおぶじぇ"
+  },
+  {
+    "id": 11110,
+    "mysekaiFixtureTagType": "none",
+    "name": "오므라이스 카페의 다이닝 테이블",
+    "pronunciation": "もりらっくすのまるたのながいす"
+  },
+  {
+    "id": 11111,
+    "mysekaiFixtureTagType": "none",
+    "name": "오므라이스 카페의 가스레인지",
+    "pronunciation": "もりらっくすのぱーてぃくるらいと"
+  },
+  {
+    "id": 11112,
+    "mysekaiFixtureTagType": "none",
+    "name": "오므라이스 카페의 싱크대",
+    "pronunciation": "おむらいすきっさのだいにんぐてーぶる"
+  },
+  {
+    "id": 11113,
+    "mysekaiFixtureTagType": "none",
+    "name": "오므라이스 카페의 케첩 마요네즈 식기장",
+    "pronunciation": "おむらいすきっさのこんろ"
+  },
+  {
+    "id": 11114,
+    "mysekaiFixtureTagType": "none",
+    "name": "오므라이스 카페의 동그란 의자",
+    "pronunciation": "おむらいすきっさのしんく"
+  },
+  {
+    "id": 11115,
+    "mysekaiFixtureTagType": "none",
+    "name": "오므라이스 카페의 벽",
+    "pronunciation": "おむらいすきっさのけちゃまよしょっきだな"
+  },
+  {
+    "id": 11116,
+    "mysekaiFixtureTagType": "none",
+    "name": "오므라이스 카페의 바닥",
+    "pronunciation": "おむらいすきっさのまるいす"
+  },
+  {
+    "id": 11117,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 케이크 (카나데)",
+    "pronunciation": "おむらいすきっさのかべ"
+  },
+  {
+    "id": 11118,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 풍선 (카나데)",
+    "pronunciation": "おむらいすきっさのゆか"
+  },
+  {
+    "id": 11119,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 부케 (카나데)",
+    "pronunciation": "ばーすでーけーきかなで"
+  },
+  {
+    "id": 11120,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 가랜드 (카나데)",
+    "pronunciation": "ばーすでーばるーんかなで"
+  },
+  {
+    "id": 11121,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 의자 (카나데)",
+    "pronunciation": "ばーすでーぶーけかなで"
+  },
+  {
+    "id": 11122,
+    "mysekaiFixtureTagType": "none",
+    "name": "요이사키 카나데 생일 '27",
+    "pronunciation": "ばーすでーがーらんどかなで"
+  },
+  {
+    "id": 11123,
+    "mysekaiFixtureTagType": "none",
+    "name": "오므라이스 카페의 창문",
+    "pronunciation": "ばーすでーちぇあかなで"
+  },
+  {
+    "id": 11124,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 케이크 (KAITO)",
+    "pronunciation": "よいさきかなでばーすでーにじゅうろく"
+  },
+  {
+    "id": 11125,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 풍선 (KAITO)",
+    "pronunciation": "おむらいすきっさのまど"
+  },
+  {
+    "id": 11126,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 부케 (KAITO)",
+    "pronunciation": "あにばーさりーけーきかいと"
+  },
+  {
+    "id": 11127,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 가랜드 (KAITO)",
+    "pronunciation": "あにばーさりーばるーんかいと"
+  },
+  {
+    "id": 11128,
+    "mysekaiFixtureTagType": "none",
+    "name": "기념일 의자 (KAITO)",
+    "pronunciation": "あにばーさりーぶーけかいと"
+  },
+  {
+    "id": 11129,
+    "mysekaiFixtureTagType": "none",
+    "name": "KAITO 기념일 '27",
+    "pronunciation": "あにばーさりーがーらんどかいと"
+  },
+  {
+    "id": 11130,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 케이크 (코하네)",
+    "pronunciation": "あにばーさりーちぇあかいと"
+  },
+  {
+    "id": 11131,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 풍선 (코하네)",
+    "pronunciation": "かいとあにばーさりーにじゅうろく"
+  },
+  {
+    "id": 11132,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 부케 (코하네)",
+    "pronunciation": "ばーすでーけーきこはね"
+  },
+  {
+    "id": 11133,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 가랜드 (코하네)",
+    "pronunciation": "ばーすでーばるーんこはね"
+  },
+  {
+    "id": 11134,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 의자 (코하네)",
+    "pronunciation": "ばーすでーぶーけこはね"
+  },
+  {
+    "id": 11135,
+    "mysekaiFixtureTagType": "none",
+    "name": "아즈사와 코하네 생일 '27",
+    "pronunciation": "ばーすでーがーらんどこはね"
+  },
+  {
+    "id": 11136,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 케이크 (아이리)",
+    "pronunciation": "ばーすでーちぇあこはね"
+  },
+  {
+    "id": 11137,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 풍선 (아이리)",
+    "pronunciation": "あずさわこはねばーすでーにじゅうろく"
+  },
+  {
+    "id": 11138,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 부케 (아이리)",
+    "pronunciation": "ばーすでーけーきあいり"
+  },
+  {
+    "id": 11139,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 가랜드 (아이리)",
+    "pronunciation": "ばーすでーばるーんあいり"
+  },
+  {
+    "id": 11140,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 의자 (아이리)",
+    "pronunciation": "ばーすでーぶーけあいり"
+  },
+  {
+    "id": 11141,
+    "mysekaiFixtureTagType": "none",
+    "name": "모모이 아이리 생일 '27",
+    "pronunciation": "ばーすでーがーらんどあいり"
+  },
+  {
+    "id": 11142,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 사키 인형/S",
+    "pronunciation": "ばーすでーちぇああいり"
+  },
+  {
+    "id": 11143,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 사키 인형/M",
+    "pronunciation": "ももいあいりばーすでーにじゅうろく"
+  },
+  {
+    "id": 11144,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 사키 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーさきのぬいぐるみえす"
+  },
+  {
+    "id": 11145,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 아이리 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーさきのぬいぐるみえむ"
+  },
+  {
+    "id": 11146,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 아이리 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーさきのぬいぐるみえる"
+  },
+  {
+    "id": 11147,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 아이리 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあいりのぬいぐるみえす"
+  },
+  {
+    "id": 11148,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 아키토 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあいりのぬいぐるみえむ"
+  },
+  {
+    "id": 11149,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 아키토 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあいりのぬいぐるみえる"
+  },
+  {
+    "id": 11150,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 아키토 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあきとのぬいぐるみえす"
+  },
+  {
+    "id": 11151,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 네네 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあきとのぬいぐるみえむ"
+  },
+  {
+    "id": 11152,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 네네 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあきとのぬいぐるみえる"
+  },
+  {
+    "id": 11153,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 네네 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーねねのぬいぐるみえす"
+  },
+  {
+    "id": 11154,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 미즈키 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーねねのぬいぐるみえむ"
+  },
+  {
+    "id": 11155,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 미즈키 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーねねのぬいぐるみえる"
+  },
+  {
+    "id": 11156,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 미즈키 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみずきのぬいぐるみえす"
+  },
+  {
+    "id": 11157,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 미쿠 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみずきのぬいぐるみえむ"
+  },
+  {
+    "id": 11158,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 미쿠 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみずきのぬいぐるみえる"
+  },
+  {
+    "id": 11159,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 미쿠 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみくのぬいぐるみえす"
+  },
+  {
+    "id": 11160,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 루카 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみくのぬいぐるみえむ"
+  },
+  {
+    "id": 11161,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 루카 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみくのぬいぐるみえる"
+  },
+  {
+    "id": 11162,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 루카 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるかのぬいぐるみえす"
+  },
+  {
+    "id": 11163,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 호나미 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるかのぬいぐるみえむ"
+  },
+  {
+    "id": 11164,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 호나미 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるかのぬいぐるみえる"
+  },
+  {
+    "id": 11165,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 호나미 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーほなみのぬいぐるみえす"
+  },
+  {
+    "id": 11166,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 시즈쿠 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーほなみのぬいぐるみえむ"
+  },
+  {
+    "id": 11167,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 시즈쿠 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーほなみのぬいぐるみえる"
+  },
+  {
+    "id": 11168,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 시즈쿠 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしずくのぬいぐるみえす"
+  },
+  {
+    "id": 11169,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 안 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしずくのぬいぐるみえむ"
+  },
+  {
+    "id": 11170,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 안 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしずくのぬいぐるみえる"
+  },
+  {
+    "id": 11171,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 안 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあんのぬいぐるみえす"
+  },
+  {
+    "id": 11172,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 츠카사 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあんのぬいぐるみえむ"
+  },
+  {
+    "id": 11173,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 츠카사 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあんのぬいぐるみえる"
+  },
+  {
+    "id": 11174,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 츠카사 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーつかさのぬいぐるみえす"
+  },
+  {
+    "id": 11175,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 에나 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーつかさのぬいぐるみえむ"
+  },
+  {
+    "id": 11176,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 에나 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーつかさのぬいぐるみえる"
+  },
+  {
+    "id": 11177,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] 에나 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえなのぬいぐるみえす"
+  },
+  {
+    "id": 11178,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] KAITO 인형/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえなのぬいぐるみえむ"
+  },
+  {
+    "id": 11179,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] KAITO 인형/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえなのぬいぐるみえる"
+  },
+  {
+    "id": 11180,
+    "mysekaiFixtureTagType": "none",
+    "name": "[리미티드 스타일 vol.3] KAITO 인형/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかいとのぬいぐるみえす"
+  },
+  {
+    "id": 11181,
+    "mysekaiFixtureTagType": "none",
+    "name": "이치카의 다이아몬드 오브제/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかいとのぬいぐるみえむ"
+  },
+  {
+    "id": 11182,
+    "mysekaiFixtureTagType": "none",
+    "name": "이치카의 다이아몬드 오브제/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかいとのぬいぐるみえる"
+  },
+  {
+    "id": 11261,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 부케 (미노리)",
+    "pronunciation": "ばーすでーけーきみのり"
+  },
+  {
+    "id": 11262,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 가랜드 (미노리)",
+    "pronunciation": "ばーすでーばるーんみのり"
+  },
+  {
+    "id": 11263,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 의자 (미노리)",
+    "pronunciation": "ばーすでーぶーけみのり"
+  },
+  {
+    "id": 11264,
+    "mysekaiFixtureTagType": "none",
+    "name": "하나사토 미노리 생일 '27",
+    "pronunciation": "ばーすでーがーらんどみのり"
+  },
+  {
+    "id": 11265,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 케이크 (에나)",
+    "pronunciation": "ばーすでーちぇあみのり"
+  },
+  {
+    "id": 11266,
+    "mysekaiFixtureTagType": "none",
+    "name": "생일 풍선 (에나)",
+    "pronunciation": "はなさとみのりばーすでーにじゅうろく"
   },
   {
     "id": 11462,

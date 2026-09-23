@@ -5,6 +5,7 @@
     "endAt": 1654801199000,
     "id": 2,
     "keyMissionId": 14,
+    "name": "50만 명 돌파 기념 기간 한정 미션",
     "startAt": 1654052400000
   },
   {
@@ -13,6 +14,7 @@
     "endAt": 1657565999000,
     "id": 3,
     "keyMissionId": 20,
+    "name": "100만 명 돌파 기념 기간 한정 미션",
     "startAt": 1656817200000
   },
   {
@@ -21,6 +23,7 @@
     "endAt": 1662638399000,
     "id": 4,
     "keyMissionId": 26,
+    "name": "하츠네 미쿠 기념일 한정 미션",
     "startAt": 1661839200000
   },
   {
@@ -29,6 +32,7 @@
     "endAt": 1665316799000,
     "id": 5,
     "keyMissionId": 32,
+    "name": "200만 명 돌파 기념 기간 한정 미션",
     "startAt": 1664506800000
   },
   {
@@ -37,6 +41,7 @@
     "endAt": 1668427199000,
     "id": 6,
     "keyMissionId": 38,
+    "name": "MEIKO 기념일 한정 미션",
     "startAt": 1667541600000
   },
   {
@@ -45,6 +50,7 @@
     "endAt": 1669809599000,
     "id": 7,
     "keyMissionId": 44,
+    "name": " 하프 애니버서리의 기간 한정 미션을",
     "startAt": 1668913200000
   },
   {
@@ -53,6 +59,7 @@
     "endAt": 1672919999000,
     "id": 8,
     "keyMissionId": 50,
+    "name": "카가미네 린과 카가미네 렌의 기념일 한정 미션",
     "startAt": 1672034400000
   },
   {
@@ -61,6 +68,7 @@
     "endAt": 1674971999000,
     "id": 9,
     "keyMissionId": 56,
+    "name": "라이브 카니발 한정 미션",
     "startAt": 1674194400000
   },
   {
@@ -69,6 +77,7 @@
     "endAt": 1675857599000,
     "id": 10,
     "keyMissionId": 62,
+    "name": "메구리네 루카 기념일 한정 미션",
     "startAt": 1674972000000
   },
   {
@@ -77,6 +86,7 @@
     "endAt": 1677412799000,
     "id": 11,
     "keyMissionId": 68,
+    "name": "KAITO 기념일 한정 미션",
     "startAt": 1676527200000
   },
   {
@@ -85,6 +95,7 @@
     "endAt": 1689163199000,
     "id": 12,
     "keyMissionId": 74,
+    "name": "라이브 카니발 한정 미션",
     "startAt": 1688007600000
   },
   {
@@ -93,6 +104,7 @@
     "endAt": 1720666799000,
     "id": 13,
     "keyMissionId": 80,
+    "name": "라이브 카니발 한정 미션 2024",
     "startAt": 1719716400000
   },
   {
@@ -101,6 +113,7 @@
     "endAt": 1748487599000,
     "id": 14,
     "keyMissionId": 86,
+    "name": "라이브 카니발 한정 미션 2025",
     "startAt": 1747710000000
   },
   {
@@ -109,6 +122,7 @@
     "endAt": 1752289199000,
     "id": 15,
     "keyMissionId": 92,
+    "name": "라이브 카니발 한정 미션",
     "startAt": 1751252400000
   },
   {
@@ -118,6 +132,7 @@
     "iconAssetbundleName": "limitmission_chuyin",
     "id": 16,
     "keyMissionId": 98,
+    "name": "하츠네 미쿠 기념일 한정 미션",
     "startAt": 1756447200000
   },
   {
@@ -127,6 +142,7 @@
     "iconAssetbundleName": "limitmission_meiko",
     "id": 17,
     "keyMissionId": 104,
+    "name": "MEIKO 기념일 한정 미션",
     "startAt": 1762149600000
   },
   {
@@ -136,6 +152,7 @@
     "iconAssetbundleName": "limitmission_kagamine",
     "id": 18,
     "keyMissionId": 111,
+    "name": "카가미네 린과 카가미네 렌의 기념일 한정 미션",
     "startAt": 1766642400000
   },
   {
@@ -145,6 +162,7 @@
     "iconAssetbundleName": "limitmission_luka",
     "id": 19,
     "keyMissionId": 117,
+    "name": "메구리네 루카 기념일 한정 미션",
     "startAt": 1769580000000
   },
   {
@@ -153,6 +171,7 @@
     "endAt": 1769515199000,
     "id": 20,
     "keyMissionId": 124,
+    "name": "maimai DX | CHUNITHM 컬래버레이션 한정 미션",
     "startAt": 1768834800000
   },
   {
@@ -162,6 +181,7 @@
     "iconAssetbundleName": "limitmission_kaito",
     "id": 21,
     "keyMissionId": 130,
+    "name": "KAITO 기념일 한정 미션",
     "startAt": 1771135200000
   },
   {
@@ -170,6 +190,7 @@
     "endAt": 1773802799000,
     "id": 22,
     "keyMissionId": 136,
+    "name": "라이브 카니발 한정 미션",
     "startAt": 1772938800000
   },
   {
@@ -178,6 +199,7 @@
     "endAt": 1783954799000,
     "id": 23,
     "keyMissionId": 142,
+    "name": "라이브 카니발 한정 미션",
     "startAt": 1783134000000
   },
   {
@@ -187,6 +209,48 @@
     "iconAssetbundleName": "limitmission_chuyin",
     "id": 24,
     "keyMissionId": 148,
+    "name": "하츠네 미쿠 기념일 한정 미션",
     "startAt": 1787983200000
+  },
+  {
+    "assetbundleName": "limitmission_miku_25",
+    "distributionEndAt": 1814972399000,
+    "endAt": 1813751999000,
+    "iconAssetbundleName": "limitmission_chuyin",
+    "id": 1116,
+    "keyMissionId": 1005,
+    "name": "하츠네 미쿠 기념일 한정 미션",
+    "startAt": 1810360800000
+  },
+  {
+    "assetbundleName": "limitmission_miku_25",
+    "distributionEndAt": 1814972399000,
+    "endAt": 1813751999000,
+    "iconAssetbundleName": "limitmission_meiko",
+    "id": 1117,
+    "keyMissionId": 1011,
+    "name": "MEIKO 기념일 한정 미션",
+    "startAt": 1810360800000
+  },
+  {
+    "assetbundleName": "limitmission_miku_25",
+    "barIcon": "LimitMissionNegi",
+    "distributionEndAt": 1814972399000,
+    "endAt": 1813751999000,
+    "iconAssetbundleName": "limitmission_kagamine",
+    "id": 1118,
+    "keyMissionId": 1018,
+    "name": "카가미네 린과 카가미네 렌의 기념일 한정 미션",
+    "startAt": 1810360800000
+  },
+  {
+    "assetbundleName": "limitmission_miku_25",
+    "barIcon": "LimitMissionNegi1",
+    "distributionEndAt": 1814972399000,
+    "endAt": 1813751999000,
+    "id": 1122,
+    "keyMissionId": 1024,
+    "name": "라이브 카니발 한정 미션",
+    "startAt": 1810360800000
   }
 ]

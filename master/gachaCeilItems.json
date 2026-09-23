@@ -939,7 +939,7 @@
     "assetbundleName": "ceil_item",
     "convertStartAt": 1703905200000,
     "id": 127,
-    "name": "[1.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "name": "[1.Memories of Melody 기념] 컬러풀 페스티벌 뽑기 스티커",
     "gachaId": 265,
     "convertResourceBoxId": 2
   },
@@ -1563,7 +1563,7 @@
     "assetbundleName": "ceil_item",
     "convertStartAt": 1735527600000,
     "id": 239,
-    "name": "[2.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "name": "[2.Memories of Melody 기념] 컬러풀 페스티벌 뽑기 스티커",
     "gachaId": 414,
     "convertResourceBoxId": 2
   },
@@ -2395,7 +2395,7 @@
     "assetbundleName": "ceil_item",
     "convertStartAt": 1767063600000,
     "id": 377,
-    "name": "[3.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "name": "[3.Memories of Melody 기념] 컬러풀 페스티벌 뽑기 스티커",
     "gachaId": 622,
     "convertResourceBoxId": 2
   },
@@ -3115,7 +3115,7 @@
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1794279600000,
     "id": 475,
-    "name": "5주년 기념 뽑기 스티커",
+    "name": "Memories of Melody 기념 뽑기 스티커",
     "gachaId": 838,
     "convertResourceBoxId": 2
   },
@@ -3157,6 +3157,70 @@
     "id": 480,
     "name": "[모치즈키 호나미] HAPPY BIRTHDAY 뽑기 스티커",
     "gachaId": 847,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1796871600000,
+    "id": 481,
+    "name": "Hues of the Self 뽑기 스티커",
+    "gachaId": 850,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1796623200000,
+    "id": 482,
+    "name": "[MEIKO] HAPPY ANNIVERSARY 뽑기 스티커",
+    "gachaId": 851,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1797228000000,
+    "id": 483,
+    "name": "[시노노메 아키토] HAPPY BIRTHDAY 뽑기 스티커",
+    "gachaId": 856,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1797735600000,
+    "id": 484,
+    "name": "Get my bright wings 뽑기 스티커",
+    "gachaId": 858,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1797822000000,
+    "id": 485,
+    "name": "[재등장] 음악이 울리는 길목에서 뽑기 스티커",
+    "gachaId": 859,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1797822000000,
+    "id": 486,
+    "name": "[재등장] Eternal Bout 뽑기 스티커",
+    "gachaId": 860,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1798599600000,
+    "id": 487,
+    "name": "Good to go! 뽑기 스티커",
+    "gachaId": 861,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1799031600000,
+    "id": 488,
+    "name": "[재등장] 죄의 회고록 뽑기 스티커",
+    "gachaId": 862,
     "convertResourceBoxId": 2
   },
   {

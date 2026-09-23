@@ -2203,7 +2203,7 @@
   },
   {
     "assetbundleName": "5th_anniversary_countdown_01",
-    "endAt": 1790521199000,
+    "endAt": 1790261999000,
     "id": 134,
     "limitedLoginBonusDetails": [
       {
@@ -2213,11 +2213,11 @@
         "limitedLoginBonusId": 134
       }
     ],
-    "startAt": 1790478000000
+    "startAt": 1790218800000
   },
   {
     "assetbundleName": "5th_anniversary_countdown_02",
-    "endAt": 1790607599000,
+    "endAt": 1790348399000,
     "id": 135,
     "limitedLoginBonusDetails": [
       {
@@ -2227,11 +2227,11 @@
         "limitedLoginBonusId": 135
       }
     ],
-    "startAt": 1790521200000
+    "startAt": 1790262000000
   },
   {
     "assetbundleName": "5th_anniversary_countdown_03",
-    "endAt": 1790693999000,
+    "endAt": 1790434799000,
     "id": 136,
     "limitedLoginBonusDetails": [
       {
@@ -2241,12 +2241,12 @@
         "limitedLoginBonusId": 136
       }
     ],
-    "startAt": 1790607600000
+    "startAt": 1790348400000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_01",
     "assetbundleName": "5th_praise_login_01_03",
-    "endAt": 1790794799000,
+    "endAt": 1790535599000,
     "id": 137,
     "limitedLoginBonusDetails": [
       {
@@ -2256,12 +2256,12 @@
         "limitedLoginBonusId": 137
       }
     ],
-    "startAt": 1790694000000
+    "startAt": 1790434800000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_01",
     "assetbundleName": "5th_praise_login_01_02",
-    "endAt": 1790794799000,
+    "endAt": 1790535599000,
     "id": 138,
     "limitedLoginBonusDetails": [
       {
@@ -2271,12 +2271,12 @@
         "limitedLoginBonusId": 138
       }
     ],
-    "startAt": 1790694000000
+    "startAt": 1790434800000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_01",
     "assetbundleName": "5th_praise_login_01_01",
-    "endAt": 1790794799000,
+    "endAt": 1790535599000,
     "id": 139,
     "limitedLoginBonusDetails": [
       {
@@ -2286,12 +2286,12 @@
         "limitedLoginBonusId": 139
       }
     ],
-    "startAt": 1790694000000
+    "startAt": 1790434800000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_01",
     "assetbundleName": "5th_praise_login_01_00",
-    "endAt": 1790794799000,
+    "endAt": 1790535599000,
     "id": 140,
     "limitedLoginBonusDetails": [
       {
@@ -2301,12 +2301,12 @@
         "limitedLoginBonusId": 140
       }
     ],
-    "startAt": 1790694000000
+    "startAt": 1790434800000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_02",
     "assetbundleName": "5th_praise_login_02_03",
-    "endAt": 1790881199000,
+    "endAt": 1790621999000,
     "id": 141,
     "limitedLoginBonusDetails": [
       {
@@ -2316,12 +2316,12 @@
         "limitedLoginBonusId": 141
       }
     ],
-    "startAt": 1790794800000
+    "startAt": 1790535600000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_02",
     "assetbundleName": "5th_praise_login_02_02",
-    "endAt": 1790881199000,
+    "endAt": 1790621999000,
     "id": 142,
     "limitedLoginBonusDetails": [
       {
@@ -2331,12 +2331,12 @@
         "limitedLoginBonusId": 142
       }
     ],
-    "startAt": 1790794800000
+    "startAt": 1790535600000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_02",
     "assetbundleName": "5th_praise_login_02_01",
-    "endAt": 1790881199000,
+    "endAt": 1790621999000,
     "id": 143,
     "limitedLoginBonusDetails": [
       {
@@ -2346,12 +2346,12 @@
         "limitedLoginBonusId": 143
       }
     ],
-    "startAt": 1790794800000
+    "startAt": 1790535600000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_02",
     "assetbundleName": "5th_praise_login_02_00",
-    "endAt": 1790881199000,
+    "endAt": 1790621999000,
     "id": 144,
     "limitedLoginBonusDetails": [
       {
@@ -2361,12 +2361,12 @@
         "limitedLoginBonusId": 144
       }
     ],
-    "startAt": 1790794800000
+    "startAt": 1790535600000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_03",
     "assetbundleName": "5th_praise_login_03_03",
-    "endAt": 1790967599000,
+    "endAt": 1790708399000,
     "id": 145,
     "limitedLoginBonusDetails": [
       {
@@ -2376,12 +2376,12 @@
         "limitedLoginBonusId": 145
       }
     ],
-    "startAt": 1790881200000
+    "startAt": 1790622000000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_03",
     "assetbundleName": "5th_praise_login_03_02",
-    "endAt": 1790967599000,
+    "endAt": 1790708399000,
     "id": 146,
     "limitedLoginBonusDetails": [
       {
@@ -2391,12 +2391,12 @@
         "limitedLoginBonusId": 146
       }
     ],
-    "startAt": 1790881200000
+    "startAt": 1790622000000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_03",
     "assetbundleName": "5th_praise_login_03_01",
-    "endAt": 1790967599000,
+    "endAt": 1790708399000,
     "id": 147,
     "limitedLoginBonusDetails": [
       {
@@ -2406,12 +2406,12 @@
         "limitedLoginBonusId": 147
       }
     ],
-    "startAt": 1790881200000
+    "startAt": 1790622000000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_03",
     "assetbundleName": "5th_praise_login_03_00",
-    "endAt": 1790967599000,
+    "endAt": 1790708399000,
     "id": 148,
     "limitedLoginBonusDetails": [
       {
@@ -2421,12 +2421,12 @@
         "limitedLoginBonusId": 148
       }
     ],
-    "startAt": 1790881200000
+    "startAt": 1790622000000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_04",
     "assetbundleName": "5th_praise_login_04_03",
-    "endAt": 1791053999000,
+    "endAt": 1790794799000,
     "id": 149,
     "limitedLoginBonusDetails": [
       {
@@ -2436,12 +2436,12 @@
         "limitedLoginBonusId": 149
       }
     ],
-    "startAt": 1790967600000
+    "startAt": 1790708400000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_04",
     "assetbundleName": "5th_praise_login_04_02",
-    "endAt": 1791053999000,
+    "endAt": 1790794799000,
     "id": 150,
     "limitedLoginBonusDetails": [
       {
@@ -2451,12 +2451,12 @@
         "limitedLoginBonusId": 150
       }
     ],
-    "startAt": 1790967600000
+    "startAt": 1790708400000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_04",
     "assetbundleName": "5th_praise_login_04_01",
-    "endAt": 1791053999000,
+    "endAt": 1790794799000,
     "id": 151,
     "limitedLoginBonusDetails": [
       {
@@ -2466,12 +2466,12 @@
         "limitedLoginBonusId": 151
       }
     ],
-    "startAt": 1790967600000
+    "startAt": 1790708400000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_04",
     "assetbundleName": "5th_praise_login_04_00",
-    "endAt": 1791053999000,
+    "endAt": 1790794799000,
     "id": 152,
     "limitedLoginBonusDetails": [
       {
@@ -2481,12 +2481,12 @@
         "limitedLoginBonusId": 152
       }
     ],
-    "startAt": 1790967600000
+    "startAt": 1790708400000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_05",
     "assetbundleName": "5th_praise_login_05_03",
-    "endAt": 1791140399000,
+    "endAt": 1790881199000,
     "id": 153,
     "limitedLoginBonusDetails": [
       {
@@ -2496,12 +2496,12 @@
         "limitedLoginBonusId": 153
       }
     ],
-    "startAt": 1791054000000
+    "startAt": 1790794800000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_05",
     "assetbundleName": "5th_praise_login_05_02",
-    "endAt": 1791140399000,
+    "endAt": 1790881199000,
     "id": 154,
     "limitedLoginBonusDetails": [
       {
@@ -2511,12 +2511,12 @@
         "limitedLoginBonusId": 154
       }
     ],
-    "startAt": 1791054000000
+    "startAt": 1790794800000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_05",
     "assetbundleName": "5th_praise_login_05_01",
-    "endAt": 1791140399000,
+    "endAt": 1790881199000,
     "id": 155,
     "limitedLoginBonusDetails": [
       {
@@ -2526,12 +2526,12 @@
         "limitedLoginBonusId": 155
       }
     ],
-    "startAt": 1791054000000
+    "startAt": 1790794800000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_05",
     "assetbundleName": "5th_praise_login_05_00",
-    "endAt": 1791140399000,
+    "endAt": 1790881199000,
     "id": 156,
     "limitedLoginBonusDetails": [
       {
@@ -2541,12 +2541,12 @@
         "limitedLoginBonusId": 156
       }
     ],
-    "startAt": 1791054000000
+    "startAt": 1790794800000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_06",
     "assetbundleName": "5th_praise_login_06_03",
-    "endAt": 1791226799000,
+    "endAt": 1790967599000,
     "id": 157,
     "limitedLoginBonusDetails": [
       {
@@ -2556,12 +2556,12 @@
         "limitedLoginBonusId": 157
       }
     ],
-    "startAt": 1791140400000
+    "startAt": 1790881200000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_06",
     "assetbundleName": "5th_praise_login_06_02",
-    "endAt": 1791226799000,
+    "endAt": 1790967599000,
     "id": 158,
     "limitedLoginBonusDetails": [
       {
@@ -2571,12 +2571,12 @@
         "limitedLoginBonusId": 158
       }
     ],
-    "startAt": 1791140400000
+    "startAt": 1790881200000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_06",
     "assetbundleName": "5th_praise_login_06_01",
-    "endAt": 1791226799000,
+    "endAt": 1790967599000,
     "id": 159,
     "limitedLoginBonusDetails": [
       {
@@ -2586,12 +2586,12 @@
         "limitedLoginBonusId": 159
       }
     ],
-    "startAt": 1791140400000
+    "startAt": 1790881200000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_06",
     "assetbundleName": "5th_praise_login_06_00",
-    "endAt": 1791226799000,
+    "endAt": 1790967599000,
     "id": 160,
     "limitedLoginBonusDetails": [
       {
@@ -2601,12 +2601,12 @@
         "limitedLoginBonusId": 160
       }
     ],
-    "startAt": 1791140400000
+    "startAt": 1790881200000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_07",
     "assetbundleName": "5th_praise_login_07_03",
-    "endAt": 1791313199000,
+    "endAt": 1791053999000,
     "id": 161,
     "limitedLoginBonusDetails": [
       {
@@ -2616,12 +2616,12 @@
         "limitedLoginBonusId": 161
       }
     ],
-    "startAt": 1791226800000
+    "startAt": 1790967600000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_07",
     "assetbundleName": "5th_praise_login_07_02",
-    "endAt": 1791313199000,
+    "endAt": 1791053999000,
     "id": 162,
     "limitedLoginBonusDetails": [
       {
@@ -2631,12 +2631,12 @@
         "limitedLoginBonusId": 162
       }
     ],
-    "startAt": 1791226800000
+    "startAt": 1790967600000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_07",
     "assetbundleName": "5th_praise_login_07_01",
-    "endAt": 1791313199000,
+    "endAt": 1791053999000,
     "id": 163,
     "limitedLoginBonusDetails": [
       {
@@ -2646,12 +2646,12 @@
         "limitedLoginBonusId": 163
       }
     ],
-    "startAt": 1791226800000
+    "startAt": 1790967600000
   },
   {
     "additionalAssetbundleName": "add_5th_praise_login_07",
     "assetbundleName": "5th_praise_login_07_00",
-    "endAt": 1791313199000,
+    "endAt": 1791053999000,
     "id": 164,
     "limitedLoginBonusDetails": [
       {
@@ -2661,11 +2661,11 @@
         "limitedLoginBonusId": 164
       }
     ],
-    "startAt": 1791226800000
+    "startAt": 1790967600000
   },
   {
     "assetbundleName": "5th_anniversary",
-    "endAt": 1791745199000,
+    "endAt": 1791485999000,
     "id": 165,
     "limitedLoginBonusDetails": [
       {
@@ -2711,441 +2711,7 @@
         "limitedLoginBonusId": 165
       }
     ],
-    "startAt": 1790694000000
-  },
-  {
-    "assetbundleName": "championship_2025",
-    "endAt": 1792335599000,
-    "id": 166,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 315,
-        "resourceBoxId": 208,
-        "limitedLoginBonusId": 166
-      }
-    ],
-    "startAt": 1792249200000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_01",
-    "assetbundleName": "5th_praise_login_01_03",
-    "endAt": 1791399599000,
-    "id": 167,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 316,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 167
-      }
-    ],
-    "startAt": 1791313200000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_01",
-    "assetbundleName": "5th_praise_login_01_02",
-    "endAt": 1791399599000,
-    "id": 168,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 317,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 168
-      }
-    ],
-    "startAt": 1791313200000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_01",
-    "assetbundleName": "5th_praise_login_01_01",
-    "endAt": 1791399599000,
-    "id": 169,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 318,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 169
-      }
-    ],
-    "startAt": 1791313200000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_01",
-    "assetbundleName": "5th_praise_login_01_00",
-    "endAt": 1791399599000,
-    "id": 170,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 319,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 170
-      }
-    ],
-    "startAt": 1791313200000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_02",
-    "assetbundleName": "5th_praise_login_02_03",
-    "endAt": 1791485999000,
-    "id": 171,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 320,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 171
-      }
-    ],
-    "startAt": 1791399600000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_02",
-    "assetbundleName": "5th_praise_login_02_02",
-    "endAt": 1791485999000,
-    "id": 172,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 321,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 172
-      }
-    ],
-    "startAt": 1791399600000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_02",
-    "assetbundleName": "5th_praise_login_02_01",
-    "endAt": 1791485999000,
-    "id": 173,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 322,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 173
-      }
-    ],
-    "startAt": 1791399600000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_02",
-    "assetbundleName": "5th_praise_login_02_00",
-    "endAt": 1791485999000,
-    "id": 174,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 323,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 174
-      }
-    ],
-    "startAt": 1791399600000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_03",
-    "assetbundleName": "5th_praise_login_03_03",
-    "endAt": 1791572399000,
-    "id": 175,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 324,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 175
-      }
-    ],
-    "startAt": 1791486000000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_03",
-    "assetbundleName": "5th_praise_login_03_02",
-    "endAt": 1791572399000,
-    "id": 176,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 325,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 176
-      }
-    ],
-    "startAt": 1791486000000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_03",
-    "assetbundleName": "5th_praise_login_03_01",
-    "endAt": 1791572399000,
-    "id": 177,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 326,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 177
-      }
-    ],
-    "startAt": 1791486000000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_03",
-    "assetbundleName": "5th_praise_login_03_00",
-    "endAt": 1791572399000,
-    "id": 178,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 327,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 178
-      }
-    ],
-    "startAt": 1791486000000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_04",
-    "assetbundleName": "5th_praise_login_04_03",
-    "endAt": 1791658799000,
-    "id": 179,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 328,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 179
-      }
-    ],
-    "startAt": 1791572400000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_04",
-    "assetbundleName": "5th_praise_login_04_02",
-    "endAt": 1791658799000,
-    "id": 180,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 329,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 180
-      }
-    ],
-    "startAt": 1791572400000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_04",
-    "assetbundleName": "5th_praise_login_04_01",
-    "endAt": 1791658799000,
-    "id": 181,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 330,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 181
-      }
-    ],
-    "startAt": 1791572400000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_04",
-    "assetbundleName": "5th_praise_login_04_00",
-    "endAt": 1791658799000,
-    "id": 182,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 331,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 182
-      }
-    ],
-    "startAt": 1791572400000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_05",
-    "assetbundleName": "5th_praise_login_05_03",
-    "endAt": 1791745199000,
-    "id": 183,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 332,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 183
-      }
-    ],
-    "startAt": 1791658800000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_05",
-    "assetbundleName": "5th_praise_login_05_02",
-    "endAt": 1791745199000,
-    "id": 184,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 333,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 184
-      }
-    ],
-    "startAt": 1791658800000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_05",
-    "assetbundleName": "5th_praise_login_05_01",
-    "endAt": 1791745199000,
-    "id": 185,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 334,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 185
-      }
-    ],
-    "startAt": 1791658800000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_05",
-    "assetbundleName": "5th_praise_login_05_00",
-    "endAt": 1791745199000,
-    "id": 186,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 335,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 186
-      }
-    ],
-    "startAt": 1791658800000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_06",
-    "assetbundleName": "5th_praise_login_06_03",
-    "endAt": 1791831599000,
-    "id": 187,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 336,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 187
-      }
-    ],
-    "startAt": 1791745200000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_06",
-    "assetbundleName": "5th_praise_login_06_02",
-    "endAt": 1791831599000,
-    "id": 188,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 337,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 188
-      }
-    ],
-    "startAt": 1791745200000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_06",
-    "assetbundleName": "5th_praise_login_06_01",
-    "endAt": 1791831599000,
-    "id": 189,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 338,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 189
-      }
-    ],
-    "startAt": 1791745200000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_06",
-    "assetbundleName": "5th_praise_login_06_00",
-    "endAt": 1791831599000,
-    "id": 190,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 339,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 190
-      }
-    ],
-    "startAt": 1791745200000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_07",
-    "assetbundleName": "5th_praise_login_07_03",
-    "endAt": 1791917999000,
-    "id": 191,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 340,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 191
-      }
-    ],
-    "startAt": 1791831600000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_07",
-    "assetbundleName": "5th_praise_login_07_02",
-    "endAt": 1791917999000,
-    "id": 192,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 341,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 192
-      }
-    ],
-    "startAt": 1791831600000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_07",
-    "assetbundleName": "5th_praise_login_07_01",
-    "endAt": 1791917999000,
-    "id": 193,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 342,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 193
-      }
-    ],
-    "startAt": 1791831600000
-  },
-  {
-    "additionalAssetbundleName": "add_5th_praise_login_07",
-    "assetbundleName": "5th_praise_login_07_00",
-    "endAt": 1791917999000,
-    "id": 194,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 343,
-        "resourceBoxId": 209,
-        "limitedLoginBonusId": 194
-      }
-    ],
-    "startAt": 1791831600000
+    "startAt": 1790434800000
   },
   {
     "assetbundleName": "sanrio_collab_2026",
@@ -5594,6 +5160,20 @@
     "startAt": 1788490800000
   },
   {
+    "assetbundleName": "hangeul_2026",
+    "endAt": 1791557999000,
+    "id": 1123,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1310,
+        "resourceBoxId": 1056,
+        "limitedLoginBonusId": 1123
+      }
+    ],
+    "startAt": 1791471600000
+  },
+  {
     "assetbundleName": "birthday2026_01",
     "endAt": 1786633199000,
     "id": 26001,
@@ -5622,7 +5202,7 @@
     "startAt": 1778252400000
   },
   {
-    "assetbundleName": "birthday2026_03",
+    "assetbundleName": "birthday2027_03",
     "endAt": 1793285999000,
     "id": 26003,
     "limitedLoginBonusDetails": [
@@ -5664,7 +5244,7 @@
     "startAt": 1776092400000
   },
   {
-    "assetbundleName": "birthday2026_06",
+    "assetbundleName": "birthday2027_06",
     "endAt": 1791385199000,
     "id": 26006,
     "limitedLoginBonusDetails": [

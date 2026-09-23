@@ -315,7 +315,7 @@
     "areaType": "spirit_world",
     "assetbundleName": "area25",
     "displayTimelineType": "next_grade",
-    "endAt": 4102412399000,
+    "endAt": 1790089200000,
     "groupId": 200,
     "id": 25,
     "isBaseArea": true,
@@ -350,6 +350,21 @@
     "releaseConditionId": 117902,
     "releaseConditionId2": 117903,
     "startAt": 1790593200000,
+    "viewType": "side_view"
+  },
+  {
+    "additionalAreaType": "april_fool",
+    "areaType": "spirit_world",
+    "assetbundleName": "area28",
+    "displayTimelineType": "next_grade",
+    "endAt": 1782917999000,
+    "groupId": 310,
+    "id": 28,
+    "isBaseArea": true,
+    "name": "이상한 마을 세카이?",
+    "releaseConditionId": 1,
+    "startAt": 1806505200000,
+    "subName": "마을",
     "viewType": "side_view"
   }
 ]

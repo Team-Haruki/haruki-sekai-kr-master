@@ -821,6 +821,30 @@
     "seq": 703
   },
   {
+    "description": "시호의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_4",
+    "id": 70,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop104",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "시호의 셀러브레이션 플라워",
+    "pronunciation": "しほのせれぶれーしょんふらわー",
+    "seq": 704
+  },
+  {
+    "description": "미노리의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_5",
+    "id": 71,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop105",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "미노리의 셀러브레이션 플라워",
+    "pronunciation": "みのりのせれぶれーしょんふらわー",
+    "seq": 705
+  },
+  {
     "description": "하루카의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
     "iconAssetbundleName": "item_birthday_flower_6",
     "id": 72,
@@ -831,6 +855,138 @@
     "name": "하루카의 셀러브레이션 플라워",
     "pronunciation": "はるかのせれぶれーしょんふらわー",
     "seq": 706
+  },
+  {
+    "description": "아이리의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_7",
+    "id": 73,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop107",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "아이리의 셀러브레이션 플라워",
+    "pronunciation": "あいりのせれぶれーしょんふらわー",
+    "seq": 707
+  },
+  {
+    "description": "시즈쿠의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_8",
+    "id": 74,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop108",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "시즈쿠의 셀러브레이션 플라워",
+    "pronunciation": "しずくのせれぶれーしょんふらわー",
+    "seq": 708
+  },
+  {
+    "description": "코하네의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_9",
+    "id": 75,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop109",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "코하네의 셀러브레이션 플라워",
+    "pronunciation": "こはねのせれぶれーしょんふらわー",
+    "seq": 709
+  },
+  {
+    "description": "아키토의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_11",
+    "id": 77,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop111",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "아키토의 셀러브레이션 플라워",
+    "pronunciation": "あきとのせれぶれーしょんふらわー",
+    "seq": 711
+  },
+  {
+    "description": "카나데의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_17",
+    "id": 83,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop117",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "카나데의 셀러브레이션 플라워",
+    "pronunciation": "かなでのせれぶれーしょんふらわー",
+    "seq": 717
+  },
+  {
+    "description": "마후유의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_18",
+    "id": 84,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop118",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "마후유의 셀러브레이션 플라워",
+    "pronunciation": "まふゆのせれぶれーしょんふらわー",
+    "seq": 718
+  },
+  {
+    "description": "린의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_22",
+    "id": 88,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop133",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "린의 셀러브레이션 플라워",
+    "pronunciation": "りんのせれぶれーしょんふらわー",
+    "seq": 722
+  },
+  {
+    "description": "렌의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_23",
+    "id": 89,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop139",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "렌의 셀러브레이션 플라워",
+    "pronunciation": "れんのせれぶれーしょんふらわー",
+    "seq": 723
+  },
+  {
+    "description": "루카의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_24",
+    "id": 90,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop142",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "루카의 셀러브레이션 플라워",
+    "pronunciation": "るかのせれぶれーしょんふらわー",
+    "seq": 724
+  },
+  {
+    "description": "MEIKO의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_25",
+    "id": 91,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop149",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "MEIKO의 셀러브레이션 플라워",
+    "pronunciation": "めいこのせれぶれーしょんふらわー",
+    "seq": 725
+  },
+  {
+    "description": "KAITO의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "iconAssetbundleName": "item_birthday_flower_26",
+    "id": 92,
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop155",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "birthday_party",
+    "mysekaiSiteIds": [],
+    "name": "KAITO의 셀러브레이션 플라워",
+    "pronunciation": "かいとのせれぶれーしょんふらわー",
+    "seq": 726
   },
   {
     "description": "마이세카이에서 지내면서 생긴 마음이 파편으로 결정화된 것.\n세카이의 날에 떨어져 있을 때가 있다.",
@@ -848,6 +1004,24 @@
     ],
     "name": "세카이의 파편",
     "pronunciation": "せかいびっつ",
+    "seq": 508
+  },
+  {
+    "description": "우주를 떠도는 무언가의 구성 요소.\n날씨가 우주인 날에 떨어져 있을 때가 있다.",
+    "iconAssetbundleName": "item_junk_15",
+    "id": 94,
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "mysekaiMaterialType": "junk",
+    "mysekaiPhenomenaGroupId": 13,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ],
+    "name": "스페이스 컴포넌트",
+    "pronunciation": "すぺーすこんぽーねんと",
     "seq": 508
   }
 ]
