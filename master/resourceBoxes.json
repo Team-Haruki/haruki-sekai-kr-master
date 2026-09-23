@@ -248328,6 +248328,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "shop_item",
     "name": null,
+    "id": 99840,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
     "id": 99841,
     "resourceBoxType": "expand"
   },
