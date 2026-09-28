@@ -6406,5 +6406,45 @@
     "id": 824,
     "musicId": 662,
     "seq": 5
+  },
+  {
+    "dancePriority": 1,
+    "defaultMusicType": "sekai",
+    "gameCharacterUnitId": 21,
+    "id": 891,
+    "musicId": 729,
+    "seq": 1
+  },
+  {
+    "dancePriority": 2,
+    "defaultMusicType": "sekai",
+    "gameCharacterUnitId": 8,
+    "id": 892,
+    "musicId": 729,
+    "seq": 2
+  },
+  {
+    "dancePriority": 3,
+    "defaultMusicType": "sekai",
+    "gameCharacterUnitId": 7,
+    "id": 893,
+    "musicId": 729,
+    "seq": 3
+  },
+  {
+    "dancePriority": 4,
+    "defaultMusicType": "sekai",
+    "gameCharacterUnitId": 5,
+    "id": 894,
+    "musicId": 729,
+    "seq": 4
+  },
+  {
+    "dancePriority": 5,
+    "defaultMusicType": "sekai",
+    "gameCharacterUnitId": 6,
+    "id": 895,
+    "musicId": 729,
+    "seq": 5
   }
 ]
