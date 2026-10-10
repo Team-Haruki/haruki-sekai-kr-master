@@ -4356,6 +4356,12 @@
     "pronunciation": "베스트 크리에이터 나만의 추석 2026"
   },
   {
+    "honorType": "event",
+    "id": 20029,
+    "name": "베스트 크리에이터 '세카이'의 가을 2026",
+    "pronunciation": "베스트 크리에이터 '세카이'의 가을 2026"
+  },
+  {
     "frameName": "honor_bg_supportv2_1",
     "honorType": "limitevent_v2",
     "id": 30026,

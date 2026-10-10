@@ -459044,7 +459044,7 @@
     "resourceQuantity": 1,
     "resourceId": 6833,
     "resourceBoxPurpose": "birthday_party_delivery_total_reward",
-    "resourceLevel": 1,
+    "resourceLevel": 3,
     "resourceType": "honor"
   },
   {
@@ -847816,6 +847816,22 @@
     "resourceType": "boost_item"
   },
   {
+    "resourceBoxId": 10091,
+    "resourceQuantity": 1000,
+    "resourceId": null,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 10091,
+    "resourceQuantity": 30,
+    "resourceId": 28,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
     "resourceBoxId": 9999999,
     "resourceQuantity": 1,
     "resourceId": 1,
@@ -1102707,6 +1102723,14 @@
     "resourceBoxId": 103,
     "resourceQuantity": 1,
     "resourceId": 20063,
+    "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 104,
+    "resourceQuantity": 1,
+    "resourceId": 20064,
     "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
     "resourceLevel": 1,
     "resourceType": "honor"

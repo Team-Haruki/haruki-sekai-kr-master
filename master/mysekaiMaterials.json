@@ -809,7 +809,7 @@
     "seq": 507
   },
   {
-    "description": "호나미의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "description": "호나미의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2026년 생일 이벤트에서만 이용 가능",
     "iconAssetbundleName": "item_birthday_flower_3",
     "id": 69,
     "modelAssetbundleName": "mdl_site_birthday_flowerdrop103",
@@ -845,7 +845,7 @@
     "seq": 705
   },
   {
-    "description": "하루카의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "description": "하루카의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2026년 생일 이벤트에서만 이용 가능",
     "iconAssetbundleName": "item_birthday_flower_6",
     "id": 72,
     "modelAssetbundleName": "mdl_site_birthday_flowerdrop106",
@@ -869,7 +869,7 @@
     "seq": 707
   },
   {
-    "description": "시즈쿠의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "description": "시즈쿠의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2026년 생일 이벤트에서만 이용 가능",
     "iconAssetbundleName": "item_birthday_flower_8",
     "id": 74,
     "modelAssetbundleName": "mdl_site_birthday_flowerdrop108",
@@ -893,7 +893,7 @@
     "seq": 709
   },
   {
-    "description": "아키토의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "description": "아키토의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2026년 생일 이벤트에서만 이용 가능",
     "iconAssetbundleName": "item_birthday_flower_11",
     "id": 77,
     "modelAssetbundleName": "mdl_site_birthday_flowerdrop111",
@@ -929,7 +929,7 @@
     "seq": 718
   },
   {
-    "description": "린의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "description": "린의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2026년 생일 이벤트에서만 이용 가능",
     "iconAssetbundleName": "item_birthday_flower_22",
     "id": 88,
     "modelAssetbundleName": "mdl_site_birthday_flowerdrop133",
@@ -941,7 +941,7 @@
     "seq": 722
   },
   {
-    "description": "렌의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "description": "렌의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2026년 생일 이벤트에서만 이용 가능",
     "iconAssetbundleName": "item_birthday_flower_23",
     "id": 89,
     "modelAssetbundleName": "mdl_site_birthday_flowerdrop139",
@@ -965,7 +965,7 @@
     "seq": 724
   },
   {
-    "description": "MEIKO의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "description": "MEIKO의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2026년 생일 이벤트에서만 이용 가능",
     "iconAssetbundleName": "item_birthday_flower_25",
     "id": 91,
     "modelAssetbundleName": "mdl_site_birthday_flowerdrop149",
