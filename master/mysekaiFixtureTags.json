@@ -518,6 +518,12 @@
     "pronunciation": "せかいすてーじ"
   },
   {
+    "id": 89,
+    "mysekaiFixtureTagType": "series",
+    "name": "핼러윈",
+    "pronunciation": "はろうぃん"
+  },
+  {
     "id": 90,
     "mysekaiFixtureTagType": "series",
     "name": "로맨틱 가든",
@@ -5832,6 +5838,36 @@
     "mysekaiFixtureTagType": "none",
     "name": "키리타니 하루카 생일 '26",
     "pronunciation": "きりたにはるかばーすでーにじゅうご"
+  },
+  {
+    "id": 10889,
+    "mysekaiFixtureTagType": "none",
+    "name": "핼러윈 호박",
+    "pronunciation": "はろうぃんのかぼちゃ"
+  },
+  {
+    "id": 10890,
+    "mysekaiFixtureTagType": "none",
+    "name": "핼러윈 호박 세트",
+    "pronunciation": "はろうぃんのかぼちゃせっと"
+  },
+  {
+    "id": 10891,
+    "mysekaiFixtureTagType": "none",
+    "name": "핼러윈 고목",
+    "pronunciation": "はろうぃんのかれき"
+  },
+  {
+    "id": 10892,
+    "mysekaiFixtureTagType": "none",
+    "name": "핼러윈 사탕",
+    "pronunciation": "はろうぃんのきゃんでぃ"
+  },
+  {
+    "id": 10893,
+    "mysekaiFixtureTagType": "none",
+    "name": "핼러윈 유령 허수아비",
+    "pronunciation": "はろうぃんのおばけかかし"
   },
   {
     "id": 10894,

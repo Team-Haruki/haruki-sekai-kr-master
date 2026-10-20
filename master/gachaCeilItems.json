@@ -939,7 +939,7 @@
     "assetbundleName": "ceil_item",
     "convertStartAt": 1703905200000,
     "id": 127,
-    "name": "[1.Memories of Melody 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "name": "[1.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
     "gachaId": 265,
     "convertResourceBoxId": 2
   },
@@ -1563,7 +1563,7 @@
     "assetbundleName": "ceil_item",
     "convertStartAt": 1735527600000,
     "id": 239,
-    "name": "[2.Memories of Melody 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "name": "[2.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
     "gachaId": 414,
     "convertResourceBoxId": 2
   },
@@ -2395,7 +2395,7 @@
     "assetbundleName": "ceil_item",
     "convertStartAt": 1767063600000,
     "id": 377,
-    "name": "[3.Memories of Melody 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "name": "[3.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
     "gachaId": 622,
     "convertResourceBoxId": 2
   },
@@ -3221,6 +3221,86 @@
     "id": 488,
     "name": "[재등장] 죄의 회고록 뽑기 스티커",
     "gachaId": 862,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1799463600000,
+    "id": 489,
+    "name": "상망하며 별을 좇다 뽑기 스티커",
+    "gachaId": 864,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1799301600000,
+    "id": 490,
+    "name": "[히노모리 시즈쿠] HAPPY BIRTHDAY 뽑기 스티커",
+    "gachaId": 866,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1800414000000,
+    "id": 491,
+    "name": "Human×Tech 뽑기 스티커",
+    "gachaId": 868,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1800414000000,
+    "id": 492,
+    "name": "[재등장] That flower, once more 뽑기 스티커",
+    "gachaId": 869,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1800414000000,
+    "id": 493,
+    "name": "[재등장] Play with dogs 뽑기 스티커",
+    "gachaId": 870,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1801278000000,
+    "id": 494,
+    "name": "The Light We Found 뽑기 스티커",
+    "gachaId": 872,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1801116000000,
+    "id": 495,
+    "name": "[카가미네 린] HAPPY ANNIVERSARY 뽑기 스티커",
+    "gachaId": 873,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1801116000000,
+    "id": 496,
+    "name": "[카가미네 렌] HAPPY ANNIVERSARY 뽑기 스티커",
+    "gachaId": 875,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1802152800000,
+    "id": 498,
+    "name": "[히노모리 시호] HAPPY BIRTHDAY 뽑기 스티커",
+    "gachaId": 884,
+    "convertResourceBoxId": 2
+  },
+  {
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1802228400000,
+    "id": 499,
+    "name": "2027 새해맞이 뽑기 스티커",
+    "gachaId": 886,
     "convertResourceBoxId": 2
   },
   {

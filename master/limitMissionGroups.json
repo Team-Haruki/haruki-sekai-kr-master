@@ -203,54 +203,14 @@
     "startAt": 1783134000000
   },
   {
-    "assetbundleName": "limitmission_miku_25",
-    "distributionEndAt": 1789916399000,
-    "endAt": 1788695999000,
-    "iconAssetbundleName": "limitmission_chuyin",
-    "id": 24,
-    "keyMissionId": 148,
-    "name": "하츠네 미쿠 기념일 한정 미션",
-    "startAt": 1787983200000
-  },
-  {
-    "assetbundleName": "limitmission_miku_25",
-    "distributionEndAt": 1814972399000,
-    "endAt": 1813751999000,
-    "iconAssetbundleName": "limitmission_chuyin",
-    "id": 1116,
-    "keyMissionId": 1005,
-    "name": "하츠네 미쿠 기념일 한정 미션",
-    "startAt": 1810360800000
-  },
-  {
-    "assetbundleName": "limitmission_miku_25",
-    "distributionEndAt": 1814972399000,
-    "endAt": 1813751999000,
+    "assetbundleName": "limitmission_meiko",
+    "barIcon": "LimitMissionMeiko",
+    "distributionEndAt": 1795705199000,
+    "endAt": 1794398399000,
     "iconAssetbundleName": "limitmission_meiko",
-    "id": 1117,
-    "keyMissionId": 1011,
+    "id": 25,
+    "keyMissionId": 154,
     "name": "MEIKO 기념일 한정 미션",
-    "startAt": 1810360800000
-  },
-  {
-    "assetbundleName": "limitmission_miku_25",
-    "barIcon": "LimitMissionNegi",
-    "distributionEndAt": 1814972399000,
-    "endAt": 1813751999000,
-    "iconAssetbundleName": "limitmission_kagamine",
-    "id": 1118,
-    "keyMissionId": 1018,
-    "name": "카가미네 린과 카가미네 렌의 기념일 한정 미션",
-    "startAt": 1810360800000
-  },
-  {
-    "assetbundleName": "limitmission_miku_25",
-    "barIcon": "LimitMissionNegi1",
-    "distributionEndAt": 1814972399000,
-    "endAt": 1813751999000,
-    "id": 1122,
-    "keyMissionId": 1024,
-    "name": "라이브 카니발 한정 미션",
-    "startAt": 1810360800000
+    "startAt": 1793685600000
   }
 ]

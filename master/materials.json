@@ -1517,6 +1517,14 @@
   },
   {
     "canUse": false,
+    "flavorText": "에나의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "id": 192,
+    "materialType": "birthday_party_delivery",
+    "name": "축제의 이슬(카멜)",
+    "seq": 30019
+  },
+  {
+    "canUse": false,
     "flavorText": "린의 기념일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 기념일 이벤트에서만 이용 가능",
     "id": 195,
     "materialType": "birthday_party_delivery",

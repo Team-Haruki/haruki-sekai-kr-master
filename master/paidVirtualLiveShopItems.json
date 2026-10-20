@@ -2385,9 +2385,515 @@
     "seq": 20103
   },
   {
+    "assetbundleName": "vl_archive_thumbnail_20104",
+    "id": 20104,
+    "name": "에무 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201041,
+        "startAt": 1764514800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201042,
+        "startAt": 1764514800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20104,
+    "seq": 20104
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20105",
+    "id": 20105,
+    "name": "하루카 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201051,
+        "startAt": 1767193200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201052,
+        "startAt": 1767193200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20105,
+    "seq": 20105
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20106",
+    "id": 20106,
+    "name": "호나미 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201061,
+        "startAt": 1767193200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201062,
+        "startAt": 1767193200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20106,
+    "seq": 20106
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20107",
+    "id": 20107,
+    "name": "MEIKO 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201071,
+        "startAt": 1769871600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201072,
+        "startAt": 1769871600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20107,
+    "seq": 20107
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20108",
+    "id": 20108,
+    "name": "아키토 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201081,
+        "startAt": 1769871600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201082,
+        "startAt": 1769871600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20108,
+    "seq": 20108
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20109",
+    "id": 20109,
+    "name": "시즈쿠 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201091,
+        "startAt": 1772290800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201092,
+        "startAt": 1772290800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20109,
+    "seq": 20109
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20110",
+    "id": 20110,
+    "name": "린 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201101,
+        "startAt": 1772290800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201102,
+        "startAt": 1772290800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20110,
+    "seq": 20110
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20111",
+    "id": 20111,
+    "name": "렌 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201111,
+        "startAt": 1772290800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201112,
+        "startAt": 1772290800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20111,
+    "seq": 20111
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20112",
+    "id": 20112,
+    "name": "시호 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201121,
+        "startAt": 1774969200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201122,
+        "startAt": 1774969200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20112,
+    "seq": 20112
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20113",
+    "id": 20113,
+    "name": "마후유 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201131,
+        "startAt": 1774969200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201132,
+        "startAt": 1774969200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20113,
+    "seq": 20113
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20114",
+    "id": 20114,
+    "name": "루카 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201141,
+        "startAt": 1774969200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201142,
+        "startAt": 1774969200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20114,
+    "seq": 20114
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20115",
+    "id": 20115,
+    "name": "카나데 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201151,
+        "startAt": 1777561200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201152,
+        "startAt": 1777561200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20115,
+    "seq": 20115
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20116",
+    "id": 20116,
+    "name": "KAITO 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201161,
+        "startAt": 1777561200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201162,
+        "startAt": 1777561200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20116,
+    "seq": 20116
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20117",
+    "id": 20117,
+    "name": "코하네 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201171,
+        "startAt": 1748703600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201172,
+        "startAt": 1748703600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20117,
+    "seq": 20117
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20118",
+    "id": 20118,
+    "name": "아이리 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201181,
+        "startAt": 1748703600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201182,
+        "startAt": 1748703600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20118,
+    "seq": 20118
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20119",
+    "id": 20119,
+    "name": "미노리 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201191,
+        "startAt": 1751295600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201192,
+        "startAt": 1751295600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20119,
+    "seq": 20119
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20120",
+    "id": 20120,
+    "name": "에나 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201201,
+        "startAt": 1751295600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201202,
+        "startAt": 1751295600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20120,
+    "seq": 20120
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20121",
+    "id": 20121,
+    "name": "사키 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201211,
+        "startAt": 1753974000000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201212,
+        "startAt": 1753974000000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20121,
+    "seq": 20121
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20122",
+    "id": 20122,
+    "name": "츠카사 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201221,
+        "startAt": 1753974000000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201222,
+        "startAt": 1753974000000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20122,
+    "seq": 20122
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20123",
+    "id": 20123,
+    "name": "토우야 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201231,
+        "startAt": 1753974000000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201232,
+        "startAt": 1753974000000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20123,
+    "seq": 20123
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20124",
+    "id": 20124,
+    "name": "루이 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201241,
+        "startAt": 1756652400000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201242,
+        "startAt": 1756652400000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20124,
+    "seq": 20124
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20125",
+    "id": 20125,
+    "name": "네네 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201251,
+        "startAt": 1759244400000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201252,
+        "startAt": 1759244400000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20125,
+    "seq": 20125
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20126",
+    "id": 20126,
+    "name": "안 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201261,
+        "startAt": 1759244400000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201262,
+        "startAt": 1759244400000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20126,
+    "seq": 20126
+  },
+  {
     "assetbundleName": "vl_archive_thumbnail_20127",
     "id": 20127,
-    "name": "一歌 2025",
+    "name": "이치카 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2409,7 +2915,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20128",
     "id": 20128,
-    "name": "瑞希 2025",
+    "name": "미즈키 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2431,7 +2937,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20129",
     "id": 20129,
-    "name": "ミク 2025",
+    "name": "미쿠 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2453,7 +2959,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20130",
     "id": 20130,
-    "name": "えむ 2025",
+    "name": "에무 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2475,7 +2981,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20131",
     "id": 20131,
-    "name": "遥 2025",
+    "name": "하루카 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2497,7 +3003,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20132",
     "id": 20132,
-    "name": "穂波 2025",
+    "name": "호나미 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2519,7 +3025,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20133",
     "id": 20133,
-    "name": "MEIKO 2025",
+    "name": "MEIKO 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2541,7 +3047,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20134",
     "id": 20134,
-    "name": "彰人 2025",
+    "name": "아키토 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2563,7 +3069,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20135",
     "id": 20135,
-    "name": "雫 2025",
+    "name": "시즈쿠 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2585,7 +3091,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20136",
     "id": 20136,
-    "name": "リン 2025",
+    "name": "린 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2607,7 +3113,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20137",
     "id": 20137,
-    "name": "レン 2025",
+    "name": "렌 2026",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2629,7 +3135,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20138",
     "id": 20138,
-    "name": "志歩 2026",
+    "name": "시호 2027",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2651,7 +3157,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20139",
     "id": 20139,
-    "name": "まふゆ 2026",
+    "name": "마후유 2027",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -2673,7 +3179,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_20140",
     "id": 20140,
-    "name": "ルカ 2026",
+    "name": "루카 2027",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -3595,9 +4101,163 @@
     "seq": 30048
   },
   {
+    "assetbundleName": "vl_archive_thumbnail_30049",
+    "id": 30049,
+    "name": "핼러윈 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300491,
+        "startAt": 1767193200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300492,
+        "startAt": 1767193200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30049,
+    "seq": 30049
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30050",
+    "id": 30050,
+    "name": "크리스마스 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300501,
+        "startAt": 1772290800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300502,
+        "startAt": 1772290800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30050,
+    "seq": 30050
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30051",
+    "id": 30051,
+    "name": "카운트다운 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300511,
+        "startAt": 1772290800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300512,
+        "startAt": 1772290800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30051,
+    "seq": 30051
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30052",
+    "id": 30052,
+    "name": "해피 뉴 이어 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300521,
+        "startAt": 1772290800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300522,
+        "startAt": 1772290800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30052,
+    "seq": 30052
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30053",
+    "id": 30053,
+    "name": "밸런타인 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300531,
+        "startAt": 1777561200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300532,
+        "startAt": 1777561200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30053,
+    "seq": 30053
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30054",
+    "id": 30054,
+    "name": "화이트데이 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300541,
+        "startAt": 1748703600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300542,
+        "startAt": 1748703600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30054,
+    "seq": 30054
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30055",
+    "id": 30055,
+    "name": "칠석 2026",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300551,
+        "startAt": 1759244400000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300552,
+        "startAt": 1759244400000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30055,
+    "seq": 30055
+  },
+  {
     "assetbundleName": "vl_archive_thumbnail_30056",
     "id": 30056,
-    "name": "ハッピーニューイヤー 2026前編",
+    "name": "해피 뉴 이어 2027 전편",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -3619,7 +4279,7 @@
   {
     "assetbundleName": "vl_archive_thumbnail_30057",
     "id": 30057,
-    "name": "ハッピーニューイヤー 2026後編",
+    "name": "해피 뉴 이어 2027 후편",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 300,
@@ -3794,7 +4454,7 @@
   },
   {
     "id": 50000,
-    "name": "Memories of Melody Special Message（一歌）",
+    "name": "Memories of Melody Special Message (이치카)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3811,7 +4471,7 @@
   },
   {
     "id": 50001,
-    "name": "Memories of Melody Special Message（咲希）",
+    "name": "Memories of Melody Special Message (사키)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3828,7 +4488,7 @@
   },
   {
     "id": 50002,
-    "name": "Memories of Melody Special Message（穂波）",
+    "name": "Memories of Melody Special Message (호나미)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3845,7 +4505,7 @@
   },
   {
     "id": 50003,
-    "name": "Memories of Melody Special Message（志歩）",
+    "name": "Memories of Melody Special Message (시호)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3862,7 +4522,7 @@
   },
   {
     "id": 50004,
-    "name": "Memories of Melody Special Message（みのり）",
+    "name": "Memories of Melody Special Message (미노리)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3879,7 +4539,7 @@
   },
   {
     "id": 50005,
-    "name": "Memories of Melody Special Message（遥）",
+    "name": "Memories of Melody Special Message (하루카)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3896,7 +4556,7 @@
   },
   {
     "id": 50006,
-    "name": "Memories of Melody Special Message（愛莉）",
+    "name": "Memories of Melody Special Message (아이리)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3913,7 +4573,7 @@
   },
   {
     "id": 50007,
-    "name": "Memories of Melody Special Message（雫）",
+    "name": "Memories of Melody Special Message (시즈쿠)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3930,7 +4590,7 @@
   },
   {
     "id": 50008,
-    "name": "Memories of Melody Special Message（こはね）",
+    "name": "Memories of Melody Special Message (코하네)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3947,7 +4607,7 @@
   },
   {
     "id": 50009,
-    "name": "Memories of Melody Special Message（杏）",
+    "name": "Memories of Melody Special Message (안)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3964,7 +4624,7 @@
   },
   {
     "id": 50010,
-    "name": "Memories of Melody Special Message（彰人）",
+    "name": "Memories of Melody Special Message (아키토)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3981,7 +4641,7 @@
   },
   {
     "id": 50011,
-    "name": "Memories of Melody Special Message（冬弥）",
+    "name": "Memories of Melody Special Message (토우야)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -3998,7 +4658,7 @@
   },
   {
     "id": 50012,
-    "name": "Memories of Melody Special Message（司）",
+    "name": "Memories of Melody Special Message (츠카사)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4015,7 +4675,7 @@
   },
   {
     "id": 50013,
-    "name": "Memories of Melody Special Message（えむ）",
+    "name": "Memories of Melody Special Message (에무)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4032,7 +4692,7 @@
   },
   {
     "id": 50014,
-    "name": "Memories of Melody Special Message（寧々）",
+    "name": "Memories of Melody Special Message (네네)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4049,7 +4709,7 @@
   },
   {
     "id": 50015,
-    "name": "Memories of Melody Special Message（類）",
+    "name": "Memories of Melody Special Message (루이)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4066,7 +4726,7 @@
   },
   {
     "id": 50016,
-    "name": "Memories of Melody Special Message（奏）",
+    "name": "Memories of Melody Special Message (카나데)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4083,7 +4743,7 @@
   },
   {
     "id": 50017,
-    "name": "Memories of Melody Special Message（まふゆ）",
+    "name": "Memories of Melody Special Message (마후유)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4100,7 +4760,7 @@
   },
   {
     "id": 50018,
-    "name": "Memories of Melody Special Message（絵名）",
+    "name": "Memories of Melody Special Message (에나)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4117,7 +4777,7 @@
   },
   {
     "id": 50019,
-    "name": "Memories of Melody Special Message（瑞希）",
+    "name": "Memories of Melody Special Message (미즈키)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4134,7 +4794,7 @@
   },
   {
     "id": 50020,
-    "name": "Memories of Melody Special Message（ミク）",
+    "name": "Memories of Melody Special Message (미쿠)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4151,7 +4811,7 @@
   },
   {
     "id": 50021,
-    "name": "Memories of Melody Special Message（リン）",
+    "name": "Memories of Melody Special Message (린)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4168,7 +4828,7 @@
   },
   {
     "id": 50022,
-    "name": "Memories of Melody Special Message（レン）",
+    "name": "Memories of Melody Special Message (렌)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4185,7 +4845,7 @@
   },
   {
     "id": 50023,
-    "name": "Memories of Melody Special Message（ルカ）",
+    "name": "Memories of Melody Special Message (루카)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4202,7 +4862,7 @@
   },
   {
     "id": 50024,
-    "name": "Memories of Melody Special Message（MEIKO）",
+    "name": "Memories of Melody Special Message (MEIKO)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
@@ -4219,7 +4879,7 @@
   },
   {
     "id": 50025,
-    "name": "Memories of Melody Special Message（KAITO）",
+    "name": "Memories of Melody Special Message (KAITO)",
     "paidVirtualLiveShopCosts": [
       {
         "costResourceQuantity": 1,
