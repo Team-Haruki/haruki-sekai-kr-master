@@ -2728,6 +2728,20 @@
     "startAt": 1793372400000
   },
   {
+    "assetbundleName": "akuno_collab_revival_2025",
+    "endAt": 1796482799000,
+    "id": 199,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 348,
+        "resourceBoxId": 94,
+        "limitedLoginBonusId": 199
+      }
+    ],
+    "startAt": 1795143600000
+  },
+  {
     "assetbundleName": "sanrio_collab_2026",
     "endAt": 1771599599000,
     "id": 205,
@@ -5186,6 +5200,60 @@
       }
     ],
     "startAt": 1791471600000
+  },
+  {
+    "assetbundleName": "1111_2026",
+    "endAt": 1794409200000,
+    "id": 1124,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1311,
+        "resourceBoxId": 1179,
+        "limitedLoginBonusId": 1124
+      }
+    ],
+    "startAt": 1794322800000
+  },
+  {
+    "assetbundleName": "4-5th_pre_anniversary",
+    "endAt": 1795100399000,
+    "id": 1125,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1312,
+        "resourceBoxId": 1180,
+        "limitedLoginBonusId": 1125
+      },
+      {
+        "day": 2,
+        "id": 1313,
+        "resourceBoxId": 1180,
+        "limitedLoginBonusId": 1125
+      },
+      {
+        "day": 3,
+        "id": 1314,
+        "resourceBoxId": 1180,
+        "limitedLoginBonusId": 1125
+      }
+    ],
+    "startAt": 1794841200000
+  },
+  {
+    "assetbundleName": "4-5th_anniversary",
+    "endAt": 1796669999000,
+    "id": 1126,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1315,
+        "resourceBoxId": 1181,
+        "limitedLoginBonusId": 1126
+      }
+    ],
+    "startAt": 1795100400000
   },
   {
     "assetbundleName": "birthday2026_01",
