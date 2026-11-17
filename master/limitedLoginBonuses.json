@@ -5251,6 +5251,42 @@
         "id": 1315,
         "resourceBoxId": 1181,
         "limitedLoginBonusId": 1126
+      },
+      {
+        "day": 2,
+        "id": 1316,
+        "resourceBoxId": 1181,
+        "limitedLoginBonusId": 1126
+      },
+      {
+        "day": 3,
+        "id": 1317,
+        "resourceBoxId": 1181,
+        "limitedLoginBonusId": 1126
+      },
+      {
+        "day": 4,
+        "id": 1318,
+        "resourceBoxId": 1181,
+        "limitedLoginBonusId": 1126
+      },
+      {
+        "day": 5,
+        "id": 1319,
+        "resourceBoxId": 1181,
+        "limitedLoginBonusId": 1126
+      },
+      {
+        "day": 6,
+        "id": 1320,
+        "resourceBoxId": 1181,
+        "limitedLoginBonusId": 1126
+      },
+      {
+        "day": 7,
+        "id": 1321,
+        "resourceBoxId": 1182,
+        "limitedLoginBonusId": 1126
       }
     ],
     "startAt": 1795100400000

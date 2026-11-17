@@ -153,14 +153,14 @@
     "areaType": "spirit_world",
     "assetbundleName": "area14",
     "displayTimelineType": "next_grade",
-    "endAt": 1701658799000,
+    "endAt": 1796482799000,
     "groupId": 130,
     "id": 14,
     "isBaseArea": true,
     "label": "협업 중!",
     "name": "악의 대죄 시리즈 세카이",
     "releaseConditionId": 1,
-    "startAt": 1700449200000,
+    "startAt": 1795143600000,
     "viewType": "side_view"
   },
   {

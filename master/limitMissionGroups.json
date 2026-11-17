@@ -205,12 +205,21 @@
   {
     "assetbundleName": "limitmission_meiko",
     "barIcon": "LimitMissionMeiko",
-    "distributionEndAt": 1795705199000,
+    "distributionEndAt": 1795100399000,
     "endAt": 1794398399000,
     "iconAssetbundleName": "limitmission_meiko",
     "id": 25,
     "keyMissionId": 154,
     "name": "MEIKO 기념일 한정 미션",
     "startAt": 1793685600000
+  },
+  {
+    "assetbundleName": "limitmission_gachaticket",
+    "distributionEndAt": 1797361199000,
+    "endAt": 1796669999000,
+    "id": 26,
+    "keyMissionId": 160,
+    "name": "[4.5주년 기념] 기간 한정 미션",
+    "startAt": 1795100400000
   }
 ]

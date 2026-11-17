@@ -950,5 +950,13 @@
     "name": "감 응원봉",
     "pronunciation": "かり",
     "seq": 1001
+  },
+  {
+    "assetbundleName": "penlight_1003",
+    "defaultPenlightColorId": 1,
+    "id": 1002,
+    "name": "꼬마 마왕의 응원봉",
+    "pronunciation": "かり",
+    "seq": 1002
   }
 ]

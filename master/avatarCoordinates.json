@@ -1096,5 +1096,14 @@
     "name": "Stweet Tea Time",
     "seq": 10070,
     "skinColorCode": "#ffffff"
+  },
+  {
+    "accessoryAssetbundleName": "fullset_1016",
+    "assetbundleName": "fullset_1016",
+    "costumeAssetbundleName": "fullset_1016",
+    "id": 1008,
+    "name": "꼬마 마왕의 무대복",
+    "seq": 10080,
+    "skinColorCode": "#ffffff"
   }
 ]

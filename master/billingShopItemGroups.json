@@ -224,6 +224,20 @@
     "seq": 300590
   },
   {
+    "assetbundleName": "shop_400010",
+    "billingShopItemIds": [
+      400010,
+      400011,
+      400012,
+      400013
+    ],
+    "billingShopItemType": "mysekai_blueprint",
+    "id": 54,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 2,
+    "name": "[컬러풀 페스티벌 스타일] 인형",
+    "seq": 400010
+  },
+  {
     "assetbundleName": "shop_40014",
     "billingShopItemIds": [
       1281,
