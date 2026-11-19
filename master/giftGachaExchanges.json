@@ -724,5 +724,53 @@
     "id": 121,
     "resourceBoxId": 37,
     "seq": 26
+  },
+  {
+    "gachaId": 900,
+    "id": 122,
+    "resourceBoxId": 1,
+    "seq": 1
+  },
+  {
+    "gachaId": 900,
+    "id": 123,
+    "resourceBoxId": 16,
+    "seq": 2
+  },
+  {
+    "gachaId": 900,
+    "id": 124,
+    "resourceBoxId": 17,
+    "seq": 3
+  },
+  {
+    "gachaId": 900,
+    "id": 125,
+    "resourceBoxId": 2,
+    "seq": 4
+  },
+  {
+    "gachaId": 900,
+    "id": 126,
+    "resourceBoxId": 3,
+    "seq": 5
+  },
+  {
+    "gachaId": 900,
+    "id": 127,
+    "resourceBoxId": 5,
+    "seq": 6
+  },
+  {
+    "gachaId": 900,
+    "id": 128,
+    "resourceBoxId": 6,
+    "seq": 7
+  },
+  {
+    "gachaId": 900,
+    "id": 129,
+    "resourceBoxId": 7,
+    "seq": 8
   }
 ]
